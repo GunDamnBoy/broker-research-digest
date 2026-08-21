@@ -1,1 +1,170 @@
-{"days": []}
+{
+ "days": [
+  {
+   "date": "2026-08-23",
+   "week": "2026-W34",
+   "range": [
+    "2026-08-17",
+    "2026-08-23"
+   ],
+   "reports": 7,
+   "brokers": {
+    "Citi": 2,
+    "Goldman Sachs": 3,
+    "Nomura": 2
+   },
+   "tags": [
+    "中國",
+    "中東",
+    "出口配額",
+    "前瞻指引",
+    "原油",
+    "外人直接投資",
+    "央行溝通",
+    "戰略石油儲備",
+    "投資級信用",
+    "指數納入資格",
+    "日本銀行",
+    "期中選舉",
+    "柴油裂解價差",
+    "泰國",
+    "泰國投資委員會",
+    "煉油產能",
+    "石油庫存",
+    "私募債",
+    "美國",
+    "美國公債",
+    "聯準會",
+    "資料中心",
+    "通膨",
+    "電動車",
+    "馬來西亞",
+    "點陣圖"
+   ],
+   "items": [
+    {
+     "slug": "2026-08-20-nomura-asia-insights",
+     "broker": "Nomura",
+     "title": "Asia Insights",
+     "date": "2026-08-20",
+     "pages": 10,
+     "tags": [
+      "泰國",
+      "馬來西亞",
+      "外人直接投資",
+      "資料中心",
+      "電動車",
+      "泰國投資委員會"
+     ],
+     "chars": 3749,
+     "headline": "核准數字是真的，但它對成長的意義被高估了"
+    },
+    {
+     "slug": "2026-08-20-goldman-sachs-oil-analyst",
+     "broker": "Goldman Sachs",
+     "title": "Oil Analyst_ Running Hard or Hardly Running_ Effect of Refinery Outages on Runs and Margins",
+     "date": "2026-08-20",
+     "pages": 13,
+     "tags": [
+      "中東",
+      "美國",
+      "原油",
+      "柴油裂解價差",
+      "煉油產能",
+      "出口配額"
+     ],
+     "chars": 3919,
+     "headline": "全球煉廠開工量年減近 700 萬桶／日，成品油裂解價差卻黏在歷史高檔"
+    },
+    {
+     "slug": "2026-08-20-goldman-sachs-global-credit-trader",
+     "broker": "Goldman Sachs",
+     "title": "Global Credit Trader_ IG Private Placements—No Longer Niche",
+     "date": "2026-08-20",
+     "pages": 54,
+     "tags": [
+      "美國",
+      "投資級信用",
+      "私募債",
+      "資料中心",
+      "指數納入資格"
+     ],
+     "chars": 4948,
+     "headline": "高盛信用策略團隊（Amanda Lynam、Spencer Rogers、Sar…"
+    },
+    {
+     "slug": "2026-08-20-citi-global-economic-outlook-strategy",
+     "broker": "Citi",
+     "title": "Global Economic Outlook & Strategy",
+     "date": "2026-08-20",
+     "pages": 26,
+     "tags": [
+      "美國",
+      "中東",
+      "原油",
+      "通膨",
+      "聯準會",
+      "日本銀行"
+     ],
+     "chars": 5631,
+     "headline": "烏雲很多，但雨還沒真的下下來"
+    },
+    {
+     "slug": "2026-08-19-nomura-economic-insights",
+     "broker": "Nomura",
+     "title": "Economic Insights",
+     "date": "2026-08-19",
+     "pages": 7,
+     "tags": [
+      "美國",
+      "美國公債",
+      "聯準會",
+      "通膨",
+      "期中選舉"
+     ],
+     "chars": 2762,
+     "headline": "聯準會不會動，而選舉行事曆讓「不動」更好交代"
+    },
+    {
+     "slug": "2026-08-19-goldman-sachs-top-of-mind",
+     "broker": "Goldman Sachs",
+     "title": "Top of Mind_ Assessing a less transparent Fed",
+     "date": "2026-08-19",
+     "pages": 26,
+     "tags": [
+      "美國",
+      "美國公債",
+      "前瞻指引",
+      "央行溝通",
+      "點陣圖",
+      "聯準會"
+     ],
+     "chars": 6118,
+     "headline": "新任聯準會主席 Kevin Warsh 正把 Fed 帶進一個「少說話」的年代：…"
+    },
+    {
+     "slug": "2026-08-19-citi-oil-monitor",
+     "broker": "Citi",
+     "title": "Oil Monitor",
+     "date": "2026-08-19",
+     "pages": 32,
+     "tags": [
+      "中東",
+      "中國",
+      "原油",
+      "柴油裂解價差",
+      "石油庫存",
+      "戰略石油儲備"
+     ],
+     "chars": 4405,
+     "headline": "把看得見的去化速度直線外推，油庫幾時見底"
+    }
+   ],
+   "file": "data/2026-08-23.json"
+  }
+ ],
+ "title": "外資報告週摘",
+ "updated": "2026-08-21T22:47:30+00:00",
+ "updatedLabel": "8/22 06:47",
+ "count": 1
+}
