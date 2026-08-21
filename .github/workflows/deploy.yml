@@ -1,0 +1,50 @@
+name: Deploy to GitHub Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+
+      # **只把站台要用到的東西挑進去，不是整個 repo。**
+      # 沿用每日五圖 2026-08-20 的白名單：`path: .` 會把 README 與任何
+      # 之後放進來的東西一起發到公開網站上，而網站看起來一切正常。
+      - name: 準備要部署的檔案
+        run: |
+          mkdir -p _site
+          cp index.html _site/
+          cp -R data _site/
+          cp -R charts _site/
+          du -sh _site
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: 取驗證程式
+        uses: actions/checkout@v5
+        with:
+          repository: GunDamnBoy/kb-core
+          path: kb-core
+
+      # **部署完不等於讀者看得到。**
+      - name: 驗證線上那份就是剛上傳的那份
+        run: |
+          python3 kb-core/tools/verify_live.py \
+            "${{ steps.deployment.outputs.page_url }}" data/index.json

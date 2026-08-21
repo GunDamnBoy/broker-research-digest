@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+# 原文與抽取文字**永不進這個 repo**。這幾行是第二道網，不是那道界線本身——
+# 界線是結構性的：那些檔案住在 ~/broker-research/ 底下，不在這個 repo 裡面。
+# 靠 .gitignore 擋的東西，會在有人 `git add -f` 的那天進來。
+inbox/
+extracted/
+_parts/
+_tags/
+_to_delete/

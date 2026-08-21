@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>外資報告週摘</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#14161A; --muted:#6B7076; --faint:#9BA0A6; --rule:#DCD9D5;
+  --bg:#FAF9F7; --card:#FFFFFF; --accent:#8C2F24; --navy:#1F4E79;
+  --chip:#F0EDE8; --max:1080px;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font-family:'Noto Sans TC','PingFang TC','Microsoft JhengHei',sans-serif;
+  -webkit-font-smoothing:antialiased;line-height:1.75}
+a{color:inherit}
+.wrap{max-width:var(--max);margin:0 auto;padding:0 20px}
+
+header{border-bottom:1px solid var(--rule);background:var(--card);
+  position:sticky;top:0;z-index:20}
+.hd{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;padding:16px 0 12px}
+.hd h1{margin:0;font-size:20px;font-weight:700;letter-spacing:.02em}
+.hd .up{color:var(--faint);font-size:12px}
+.hd .sp{flex:1}
+#q{border:1px solid var(--rule);border-radius:20px;padding:7px 14px;font:inherit;
+  font-size:14px;width:230px;background:var(--bg);color:inherit}
+#q:focus{outline:none;border-color:var(--accent)}
+
+.filters{padding:0 0 12px;display:flex;flex-direction:column;gap:7px}
+.frow{display:flex;gap:6px;align-items:flex-start}
+.flab{flex:0 0 46px;font-size:12px;color:var(--faint);padding-top:5px}
+.chips{display:flex;gap:6px;flex-wrap:wrap;flex:1}
+.chip{border:1px solid var(--rule);background:var(--chip);border-radius:14px;
+  padding:3px 10px;font-size:12.5px;cursor:pointer;user-select:none;
+  white-space:nowrap;transition:.12s}
+.chip:hover{border-color:var(--muted)}
+.chip.on{background:var(--accent);border-color:var(--accent);color:#fff}
+.chip .n{color:var(--faint);font-size:11px;margin-left:4px}
+.chip.on .n{color:#ffffffaa}
+.more{color:var(--navy);font-size:12.5px;cursor:pointer;padding:3px 4px}
+
+main{padding:22px 0 70px}
+.count{color:var(--muted);font-size:13px;margin:0 0 14px}
+.count b{color:var(--ink)}
+.clear{color:var(--navy);cursor:pointer;margin-left:10px;font-size:12.5px}
+
+.card{background:var(--card);border:1px solid var(--rule);border-radius:8px;
+  padding:16px 18px;margin-bottom:12px;cursor:pointer;transition:.12s}
+.card:hover{border-color:var(--muted);transform:translateY(-1px)}
+.meta{font-size:12px;color:var(--faint);display:flex;gap:9px;flex-wrap:wrap;
+  align-items:center;margin-bottom:5px}
+.bk{color:var(--accent);font-weight:700;letter-spacing:.02em}
+.card h3{margin:0 0 6px;font-size:16.5px;font-weight:500;line-height:1.5}
+.hl{color:var(--muted);font-size:14px;margin:0 0 10px}
+.tg{display:flex;gap:5px;flex-wrap:wrap}
+.tg span{background:var(--chip);border-radius:11px;padding:1.5px 9px;
+  font-size:11.5px;color:var(--muted)}
+
+.week-sep{margin:26px 0 12px;padding-bottom:6px;border-bottom:1px solid var(--rule);
+  display:flex;align-items:baseline;gap:10px}
+.week-sep h2{margin:0;font-size:14px;font-weight:700;letter-spacing:.04em}
+.week-sep .r{color:var(--faint);font-size:12px}
+.week-sep .cx{color:var(--navy);font-size:12.5px;cursor:pointer;margin-left:auto}
+
+.empty{color:var(--muted);padding:40px 0;text-align:center}
+.empty b{color:var(--ink)}
+
+/* ── 內頁 ── */
+.back{color:var(--navy);cursor:pointer;font-size:13.5px;display:inline-block;
+  margin-bottom:16px}
+article{background:var(--card);border:1px solid var(--rule);border-radius:8px;
+  padding:28px 32px}
+article h1{margin:0 0 8px;font-size:23px;line-height:1.45;font-weight:700}
+article .sub{color:var(--faint);font-size:12.5px;margin-bottom:14px;
+  display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.body h2{font-size:18px;margin:30px 0 8px;padding-top:16px;
+  border-top:1px solid var(--rule);font-weight:700}
+.body h3{font-size:15.5px;margin:22px 0 6px;color:var(--accent);font-weight:700}
+.body h4{font-size:14.5px;margin:18px 0 4px;font-weight:700}
+.body p{margin:0 0 13px;font-size:15.5px}
+.body ul,.body ol{margin:0 0 13px;padding-left:22px;font-size:15.5px}
+.body li{margin:4px 0}
+figure{margin:20px 0;text-align:center}
+figure img{max-width:100%;height:auto;border:1px solid var(--rule);border-radius:4px}
+figcaption{color:var(--faint);font-size:11.5px;margin-top:7px;text-align:left}
+details{margin-top:8px;font-size:12.5px;color:var(--muted)}
+details summary{cursor:pointer;color:var(--navy)}
+details ul{margin:6px 0 0;padding-left:20px;font-size:12px}
+details li{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
+  word-break:break-word;margin:3px 0;color:var(--faint)}
+.qt{width:100%;border-collapse:collapse;font-size:13px;margin:10px 0 0}
+.qt th,.qt td{border-bottom:1px solid var(--rule);padding:8px 9px;
+  text-align:left;vertical-align:top}
+.qt th{color:var(--faint);font-size:11px;font-weight:500;letter-spacing:.05em;
+  border-bottom-width:2px}
+.qt td.th{white-space:nowrap;color:var(--muted);font-size:12px}
+.qt td.pg{text-align:right;color:var(--faint);font-size:12px}
+.scroll{overflow-x:auto}
+code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.88em;
+  background:var(--chip);padding:1px 5px;border-radius:3px}
+.nav{display:flex;justify-content:space-between;gap:12px;margin-top:20px;
+  font-size:13.5px;color:var(--navy)}
+.nav span{cursor:pointer}
+
+footer{border-top:1px solid var(--rule);margin-top:50px;padding:20px 0 40px;
+  color:var(--faint);font-size:12px;line-height:1.9}
+footer b{color:var(--muted)}
+@media (max-width:640px){
+  .wrap{padding:0 14px}
+  article{padding:20px 16px}
+  #q{width:100%}
+  .flab{flex-basis:38px}
+}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <div class="hd">
+    <h1>外資報告週摘</h1>
+    <span class="up" id="up"></span>
+    <span class="sp"></span>
+    <input id="q" type="search" placeholder="搜尋標題、標籤、一句話…" autocomplete="off">
+  </div>
+  <div class="filters" id="filters"></div>
+</div></header>
+
+<main class="wrap" id="main"><p class="empty">載入中…</p></main>
+
+<footer><div class="wrap">
+  每份報告的<b>精華與交叉觀察由 Claude 依報告內文整理</b>，非券商原文；
+  <b>分析師原句逐字引用</b>並在發布前經機械比對；
+  <b>圖表依報告內文明確寫出的數字重製</b>，不是原圖翻拍，每個數字的出處都列在圖下。
+  原始報告不在此站，也不進版本控制。
+</div></footer>
+
+<script>
+"use strict";
+const S = { idx:null, weeks:{}, tags:new Set(), brokers:new Set(),
+            week:null, q:"", tagsMore:false };
+
+/* ── 極小的 Markdown 轉譯 ────────────────────────────────
+   只支援精華實際會用到的東西：標題、粗體、清單、段落。
+   不引外部函式庫，因為這一份的輸入是我們自己產的、形狀已知，
+   而**引一個什麼都支援的轉譯器，就要連它支援的 HTML 一起收下**。 */
+/* `title` 是檔名去副檔名 —— macOS 的檔名放不了冒號，券商就用 `_` 代替。
+   **這一層只改顯示，不回寫資料。** 冒號是猜的，猜錯了要能一眼看出是排版問題；
+   寫回 JSON 就變成無法分辨的既成事實。 */
+const pretty = t => String(t??"").replace(/_\s+/g, "：").trim();
+const esc = s => String(s??"").replace(/[&<>"]/g, c =>
+  ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+// 行內版：`watch` 與 `notes` 是一行一條的字串，但**它們一樣是我們寫的 Markdown**。
+// 只跑 esc() 的結果是讀者看到滿畫面的星號與反引號，而那看起來像資料壞掉。
+const mdi = t => esc(t)
+  .replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>")
+  .replace(/`(.+?)`/g,"<code>$1</code>");
+function md(src){
+  const out=[]; let list=null;
+  const inline = mdi;
+  for(const raw of String(src||"").split("\n")){
+    const line = raw.trim();
+    if(!line){ if(list){out.push(`</${list}>`);list=null;} continue; }
+    const h = line.match(/^(#{1,6})\s+(.*)$/);
+    if(h){ if(list){out.push(`</${list}>`);list=null;}
+      const lv = Math.min(6, h[1].length+1);
+      out.push(`<h${lv}>${inline(h[2])}</h${lv}>`); continue; }
+    const ul = line.match(/^[-*]\s+(.*)$/);
+    const ol = line.match(/^\d+[.)]\s+(.*)$/);
+    if(ul||ol){ const want = ul?"ul":"ol";
+      if(list && list!==want){out.push(`</${list}>`);list=null;}
+      if(!list){out.push(`<${want}>`);list=want;}
+      out.push(`<li>${inline((ul||ol)[1])}</li>`); continue; }
+    if(list){out.push(`</${list}>`);list=null;}
+    out.push(`<p>${inline(line)}</p>`);
+  }
+  if(list) out.push(`</${list}>`);
+  return out.join("");
+}
+
+/* ── 資料 ── */
+async function boot(){
+  try{
+    const r = await fetch("data/index.json", {cache:"no-store"});
+    if(!r.ok) throw new Error("HTTP "+r.status);
+    S.idx = await r.json();
+  }catch(e){
+    document.getElementById("main").innerHTML =
+      `<p class="empty"><b>索引載不進來</b><br>${esc(e.message)}</p>`;
+    return;
+  }
+  document.getElementById("up").textContent = "更新於 " + (S.idx.updatedLabel||"");
+  for(const d of S.idx.days||[]){
+    for(const it of d.items||[]){
+      (it.tags||[]).forEach(t=>S.tags.add(t));
+      if(it.broker) S.brokers.add(it.broker);
+    }
+  }
+  window.addEventListener("hashchange", route);
+  document.getElementById("q").addEventListener("input", e=>{
+    S.q = e.target.value.trim(); if(!location.hash.startsWith("#/r/")) render();
+  });
+  route();
+}
+
+const sel = { tag:new Set(), broker:new Set() };
+
+function tagCounts(){
+  const c={};
+  for(const d of S.idx.days||[]) for(const it of d.items||[])
+    for(const t of it.tags||[]) c[t]=(c[t]||0)+1;
+  return c;
+}
+
+function drawFilters(visible){
+  // 內頁把篩選列收起來 —— 那時它用不到，卻把內容擠到摺線以下。
+  if(visible === false){ document.getElementById("filters").innerHTML = ""; return; }
+  const c = tagCounts();
+  const all = Object.keys(c).sort((a,b)=> c[b]-c[a] || a.localeCompare(b,"zh-Hant"));
+  // 手機上 18 個標籤要疊六列，把第一張卡片推到摺線以下。
+  const N = window.innerWidth < 640 ? 10 : 18;
+  const show = S.tagsMore ? all : all.slice(0, N);
+  const chip = (t,on,n) =>
+    `<span class="chip${on?" on":""}" data-t="${esc(t)}">${esc(t)}`+
+    (n?`<span class="n">${n}</span>`:``)+`</span>`;
+  let h = `<div class="frow"><div class="flab">標籤</div><div class="chips">`
+    + show.map(t=>chip(t, sel.tag.has(t), c[t])).join("")
+    + (all.length>N ? `<span class="more" id="more">${S.tagsMore?"收合":"還有 "+(all.length-N)+" 個"}</span>` : "")
+    + `</div></div>`;
+  const bs = [...S.brokers].sort();
+  h += `<div class="frow"><div class="flab">券商</div><div class="chips" id="bk">`
+    + bs.map(b=>`<span class="chip${sel.broker.has(b)?" on":""}" data-b="${esc(b)}">${esc(b)}</span>`).join("")
+    + `</div></div>`;
+  const f = document.getElementById("filters");
+  f.innerHTML = h;
+  f.querySelectorAll("[data-t]").forEach(el=>el.onclick=()=>{
+    const t=el.dataset.t; sel.tag.has(t)?sel.tag.delete(t):sel.tag.add(t); render();
+  });
+  f.querySelectorAll("[data-b]").forEach(el=>el.onclick=()=>{
+    const b=el.dataset.b; sel.broker.has(b)?sel.broker.delete(b):sel.broker.add(b); render();
+  });
+  const m=document.getElementById("more");
+  if(m) m.onclick=()=>{ S.tagsMore=!S.tagsMore; drawFilters(); };
+}
+
+function matches(it){
+  // 標籤取交集（縮小），券商取聯集（並列）—— 兩個問題的形狀不同：
+  // 「又要 A 又要 B」是縮小，「這幾家都算」是並列。
+  for(const t of sel.tag) if(!(it.tags||[]).includes(t)) return false;
+  if(sel.broker.size && !sel.broker.has(it.broker)) return false;
+  if(S.q){
+    const hay = [pretty(it.title),it.broker,it.headline,...(it.tags||[])].join(" ").toLowerCase();
+    if(!hay.includes(S.q.toLowerCase())) return false;
+  }
+  return true;
+}
+
+function card(d,it){
+  return `<div class="card" data-go="${esc(d.date)}|${esc(it.slug)}">
+    <div class="meta"><span class="bk">${esc(it.broker||"")}</span>
+      <span>${esc(it.date||"")}</span><span>${it.pages||"?"} 頁</span>
+      <span>${(it.chars||0).toLocaleString()} 字</span></div>
+    <h3>${esc(pretty(it.title))}</h3>
+    ${it.headline?`<p class="hl">${esc(it.headline)}</p>`:""}
+    <div class="tg">${(it.tags||[]).map(t=>`<span>${esc(t)}</span>`).join("")}</div>
+  </div>`;
+}
+
+function render(){
+  drawFilters();
+  const days = S.idx.days||[];
+  let n=0, h="";
+  for(const d of days){
+    const hits = (d.items||[]).filter(matches);
+    if(!hits.length) continue;
+    n += hits.length;
+    h += `<div class="week-sep"><h2>${esc(d.week||d.date)}</h2>
+      <span class="r">${esc((d.range||[])[0]||"")} ～ ${esc((d.range||[])[1]||"")}</span>
+      <span class="cx" data-cx="${esc(d.date)}">本週交叉觀察 →</span></div>`;
+    h += hits.map(it=>card(d,it)).join("");
+  }
+  const filt = sel.tag.size||sel.broker.size||S.q;
+  const head = `<p class="count">共 <b>${n}</b> 份報告`
+    + (filt?`（已篩選）<span class="clear" id="clr">清除條件</span>`:"")+`</p>`;
+  const m = document.getElementById("main");
+  m.innerHTML = head + (n? h : `<p class="empty"><b>沒有符合的報告</b><br>放寬條件試試</p>`);
+  const c=document.getElementById("clr");
+  if(c) c.onclick=()=>{ sel.tag.clear(); sel.broker.clear();
+    S.q=""; document.getElementById("q").value=""; render(); };
+  m.querySelectorAll("[data-go]").forEach(el=>el.onclick=()=>{
+    const [dt,slug]=el.dataset.go.split("|"); location.hash = `#/r/${dt}/${slug}`;
+  });
+  m.querySelectorAll("[data-cx]").forEach(el=>el.onclick=()=>{
+    location.hash = `#/w/${el.dataset.cx}`;
+  });
+}
+
+async function week(date){
+  if(S.weeks[date]) return S.weeks[date];
+  const r = await fetch(`data/${date}.json`, {cache:"no-store"});
+  if(!r.ok) throw new Error(`data/${date}.json → HTTP ${r.status}`);
+  return (S.weeks[date] = await r.json());
+}
+
+function chartHTML(w,c){
+  if(!c || !c.png) return "";
+  const g = (c.grounding||[]).map(x=>`<li>${esc(x)}</li>`).join("");
+  return `<figure>
+    <img src="charts/${esc(w)}/${esc(c.png)}" alt="${esc(c.title||"")}" loading="lazy">
+    <figcaption>${g?`<details><summary>圖裡每個數字的出處（${(c.grounding||[]).length} 條原文片段）</summary><ul>${g}</ul></details>`
+      :`來源：${esc(c.source||"")}　·　依報告內文數字重製，非原圖翻拍`}
+    </figcaption></figure>`;
+}
+
+async function showReport(date, slug){
+  drawFilters(false);
+  const m=document.getElementById("main");
+  m.innerHTML = `<p class="empty">載入中…</p>`;
+  let d;
+  try{ d = await week(date); }
+  catch(e){ m.innerHTML=`<p class="empty"><b>這一期載不進來</b><br>${esc(e.message)}</p>`; return; }
+  const list = d.reports||[];
+  const i = list.findIndex(r=>r.slug===slug);
+  if(i<0){ m.innerHTML=`<p class="empty"><b>找不到這份報告</b></p>`; return; }
+  const r = list[i];
+  const prev = list[i-1], next = list[i+1];
+  m.innerHTML = `<span class="back" id="bk">← 回列表</span>
+   <article>
+    <div class="sub"><span class="bk">${esc(r.broker||"")}</span>
+      <span>${esc(r.date||"")}</span><span>${r.pages||"?"} 頁</span>
+      <span>${(r.summary_chars||0).toLocaleString()} 字</span>
+      <span>${esc(d.week||"")}</span></div>
+    <h1>${esc(pretty(r.title))}</h1>
+    <div class="tg">${(r.tags||[]).map(t=>`<span>${esc(t)}</span>`).join("")}</div>
+    <div class="body">${md(r.summary)}</div>
+    ${(r.charts||[]).map(c=>chartHTML(d.week,c)).join("")}
+    ${(r.stances||[]).length?`<h2 style="font-size:16px;margin-top:28px">分析師原句</h2>
+      <div class="scroll"><table class="qt">
+      <tr><th>主題</th><th>原句</th><th>中譯</th><th>頁</th></tr>
+      ${r.stances.map(s=>`<tr><td class="th">${esc(s.theme||"")}</td>
+        <td>${esc(s.quote||"")}</td><td>${esc(s.quote_zh||"")}</td>
+        <td class="pg">${s.page??""}</td></tr>`).join("")}
+      </table></div>`:""}
+    <div class="nav">
+      <span>${prev?`<a href="#/r/${date}/${prev.slug}">← ${esc(prev.broker)}｜${esc(pretty(prev.title)).slice(0,26)}</a>`:""}</span>
+      <span>${next?`<a href="#/r/${date}/${next.slug}">${esc(next.broker)}｜${esc(pretty(next.title)).slice(0,26)} →</a>`:""}</span>
+    </div>
+   </article>`;
+  document.getElementById("bk").onclick=()=>{ location.hash=""; };
+  window.scrollTo(0,0);
+}
+
+async function showWeek(date){
+  drawFilters(false);
+  const m=document.getElementById("main");
+  m.innerHTML = `<p class="empty">載入中…</p>`;
+  let d;
+  try{ d = await week(date); }
+  catch(e){ m.innerHTML=`<p class="empty"><b>這一期載不進來</b><br>${esc(e.message)}</p>`; return; }
+  m.innerHTML = `<span class="back" id="bk">← 回列表</span>
+   <article>
+    <div class="sub"><span>${esc((d.range||[])[0]||"")} ～ ${esc((d.range||[])[1]||"")}</span>
+      <span>${d.reports_count||0} 份</span>
+      <span>${Object.entries(d.brokers||{}).map(([k,v])=>esc(k)+" "+v).join("、")}</span></div>
+    <h1>${esc(d.week||"")}　交叉觀察</h1>
+    <div class="body">${md(d.crosscut||"本週無。")}</div>
+    ${(d.watch||[]).length?`<h2 style="font-size:16px">接下來看什麼</h2>
+      <div class="body"><ol>${d.watch.map(x=>`<li>${mdi(x)}</li>`).join("")}</ol></div>`:""}
+    ${(d.notes||[]).length?`<h2 style="font-size:16px">本期附註</h2>
+      <div class="body"><ul>${d.notes.map(x=>`<li>${mdi(x)}</li>`).join("")}</ul></div>`:""}
+   </article>`;
+  document.getElementById("bk").onclick=()=>{ location.hash=""; };
+  window.scrollTo(0,0);
+}
+
+function route(){
+  const h = location.hash||"";
+  let m2 = h.match(/^#\/r\/([^/]+)\/(.+)$/);
+  if(m2) return showReport(m2[1], decodeURIComponent(m2[2]));
+  m2 = h.match(/^#\/w\/([^/]+)$/);
+  if(m2) return showWeek(m2[1]);
+  m2 = h.match(/^#\/t\/(.+)$/);
+  if(m2){ sel.tag.clear(); sel.tag.add(decodeURIComponent(m2[1])); }
+  render();
+}
+
+boot();
+</script>
+</body>
+</html>
