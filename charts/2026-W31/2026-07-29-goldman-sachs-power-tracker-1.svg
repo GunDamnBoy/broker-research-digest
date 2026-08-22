@@ -31,26 +31,26 @@ z
    <g id="patch_2">
     <path d="M 46.44 292.824 
 L 572.76 292.824 
-L 572.76 70.56 
-L 46.44 70.56 
+L 572.76 63.504 
+L 46.44 63.504 
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
     <path d="M 70.363636 292.824 
 L 270.654545 292.824 
-L 270.654545 81.144 
-L 70.363636 81.144 
+L 270.654545 95.134345 
+L 70.363636 95.134345 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p38f1083c0e)" style="fill: #d70c18"/>
    </g>
    <g id="patch_4">
     <path d="M 348.545455 292.824 
 L 548.836364 292.824 
-L 548.836364 158.118545 
-L 348.545455 158.118545 
+L 548.836364 167.021492 
+L 348.545455 167.021492 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p38f1083c0e)" style="fill: #d70c18"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -545,7 +545,7 @@ z
      <g id="line2d_4"/>
      <g id="text_4">
       <!-- 20 -->
-      <g style="fill: #6b7076" transform="translate(32.95 248.296628) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(32.95 251.476252) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-32" d="M 282 0 
 L 3232 0 
@@ -572,7 +572,7 @@ z
      <g id="line2d_5"/>
      <g id="text_5">
       <!-- 40 -->
-      <g style="fill: #6b7076" transform="translate(32.95 200.187537) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(32.95 206.546785) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-34" d="M 2176 0 
 L 2726 0 
@@ -606,7 +606,7 @@ z
      <g id="line2d_6"/>
      <g id="text_6">
       <!-- 60 -->
-      <g style="fill: #6b7076" transform="translate(32.95 152.078446) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(32.95 161.617317) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-36" d="M 1926 -83 
 C 2656 -83 3277 531 3277 1440 
@@ -636,7 +636,7 @@ z
      <g id="line2d_7"/>
      <g id="text_7">
       <!-- 80 -->
-      <g style="fill: #6b7076" transform="translate(32.95 103.969355) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(32.95 116.68785) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-38" d="M 1792 -83 
 C 2669 -83 3258 448 3258 1126 
@@ -669,9 +669,36 @@ z
       </g>
      </g>
     </g>
-    <g id="text_8">
+    <g id="ytick_6">
+     <g id="line2d_8"/>
+     <g id="text_8">
+      <!-- 100 -->
+      <g style="fill: #6b7076" transform="translate(27.955 71.758383) scale(0.09 -0.09)">
+       <defs>
+        <path id="NotoSansCJKtc-Regular-31" d="M 563 0 
+L 3136 0 
+L 3136 486 
+L 2195 486 
+L 2195 4691 
+L 1747 4691 
+C 1491 4544 1190 4435 774 4358 
+L 774 3987 
+L 1613 3987 
+L 1613 486 
+L 563 486 
+L 563 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#NotoSansCJKtc-Regular-31"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-30" transform="translate(55.499985 0)"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-30" transform="translate(110.999969 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_9">
      <!-- 年增率（%） -->
-     <g style="fill: #6b7076" transform="translate(26.888437 208.336219) rotate(-90) scale(0.09 -0.09)">
+     <g style="fill: #6b7076" transform="translate(21.893437 204.808219) rotate(-90) scale(0.09 -0.09)">
       <defs>
        <path id="NotoSansCJKtc-Regular-5e74" d="M 307 1427 
 L 307 966 
@@ -899,10 +926,10 @@ z
      </g>
     </g>
    </g>
-   <g id="line2d_8">
+   <g id="line2d_9">
     <path d="M 46.44 292.824 
 L 572.76 292.824 
-" clip-path="url(#p590cffd353)" style="fill: none; stroke: #c9c5c0; stroke-width: 0.9; stroke-linecap: square"/>
+" clip-path="url(#p38f1083c0e)" style="fill: none; stroke: #c9c5c0; stroke-width: 0.9; stroke-linecap: square"/>
    </g>
    <g id="patch_5">
     <path d="M 46.44 292.824 
@@ -910,9 +937,9 @@ L 572.76 292.824
 " style="fill: none; stroke: #c9c5c0; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
   </g>
-  <g id="text_9">
+  <g id="text_10">
    <!-- 資料中心的增量正在往德州倒 -->
-   <g style="fill: #14161a" transform="translate(46.44 30.974547) scale(0.145 -0.145)">
+   <g style="fill: #14161a" transform="translate(46.44 27.446547) scale(0.145 -0.145)">
     <defs>
      <path id="NotoSansCJKtc-Bold-8cc7" d="M 1837 1952 
 L 4621 1952 
@@ -1608,9 +1635,9 @@ z
     <use xlink:href="#NotoSansCJKtc-Bold-5012" transform="translate(1199.999817 0)"/>
    </g>
   </g>
-  <g id="text_10">
+  <g id="text_11">
    <!-- 高盛預測的 2027 年第 4 季資料中心容量年增率 -->
-   <g style="fill: #6b7076" transform="translate(46.44 54.528975) scale(0.1 -0.1)">
+   <g style="fill: #6b7076" transform="translate(46.44 46.414575) scale(0.1 -0.1)">
     <defs>
      <path id="NotoSansCJKtc-Regular-9ad8" d="M 1830 3578 
 L 4602 3578 
@@ -2386,7 +2413,7 @@ z
     <use xlink:href="#NotoSansCJKtc-Regular-7387" transform="translate(1967.099655 0)"/>
    </g>
   </g>
-  <g id="text_11">
+  <g id="text_12">
    <!-- Exhibit 2） -->
    <g style="fill: #9ba0a6" transform="translate(46.44 346.7339) scale(0.08 -0.08)">
     <defs>
@@ -2493,7 +2520,7 @@ z
     <use xlink:href="#NotoSansCJKtc-Regular-ff09" transform="translate(401.799911 0)"/>
    </g>
   </g>
-  <g id="text_12">
+  <g id="text_13">
    <!-- Goldman Sachs, Power Tracker: PJM and ERCOT: Record Demand vs Price Divergence, 2026-07-29（數字見第 2 頁重點條列，對應  -->
    <g style="fill: #9ba0a6" transform="translate(46.44 338.0992) scale(0.08 -0.08)">
     <defs>
@@ -3663,8 +3690,8 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p590cffd353">
-   <rect x="46.44" y="70.56" width="526.32" height="222.264"/>
+  <clipPath id="p38f1083c0e">
+   <rect x="46.44" y="63.504" width="526.32" height="229.32"/>
   </clipPath>
  </defs>
 </svg>

@@ -31,58 +31,58 @@ z
    <g id="patch_2">
     <path d="M 46.44 292.824 
 L 572.76 292.824 
-L 572.76 70.56 
-L 46.44 70.56 
+L 572.76 63.504 
+L 46.44 63.504 
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
     <path d="M 70.363636 292.824 
 L 130.590973 292.824 
-L 130.590973 276.400552 
-L 70.363636 276.400552 
+L 130.590973 277.48601 
+L 70.363636 277.48601 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p38f1083c0e)" style="fill: #d70c18"/>
    </g>
    <g id="patch_4">
     <path d="M 154.012715 292.824 
 L 214.240051 292.824 
-L 214.240051 232.60469 
-L 154.012715 232.60469 
+L 214.240051 236.584702 
+L 154.012715 236.584702 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p38f1083c0e)" style="fill: #d70c18"/>
    </g>
    <g id="patch_5">
     <path d="M 237.661793 292.824 
 L 297.889129 292.824 
-L 297.889129 223.480552 
-L 237.661793 223.480552 
+L 297.889129 228.063596 
+L 237.661793 228.063596 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p38f1083c0e)" style="fill: #d70c18"/>
    </g>
    <g id="patch_6">
     <path d="M 321.310871 292.824 
 L 381.538207 292.824 
-L 381.538207 194.28331 
-L 321.310871 194.28331 
+L 381.538207 200.796057 
+L 321.310871 200.796057 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p38f1083c0e)" style="fill: #d70c18"/>
    </g>
    <g id="patch_7">
     <path d="M 404.959949 292.824 
 L 465.187285 292.824 
-L 465.187285 97.567448 
-L 404.959949 97.567448 
+L 465.187285 110.472335 
+L 404.959949 110.472335 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p38f1083c0e)" style="fill: #d70c18"/>
    </g>
    <g id="patch_8">
     <path d="M 488.609027 292.824 
 L 548.836364 292.824 
-L 548.836364 81.144 
-L 488.609027 81.144 
+L 548.836364 95.134345 
+L 488.609027 95.134345 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p38f1083c0e)" style="fill: #d70c18"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -944,7 +944,7 @@ z
      <g id="line2d_8"/>
      <g id="text_8">
       <!-- 20 -->
-      <g style="fill: #6b7076" transform="translate(32.95 259.909167) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(32.95 262.321295) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-32" d="M 282 0 
 L 3232 0 
@@ -971,7 +971,7 @@ z
      <g id="line2d_9"/>
      <g id="text_9">
       <!-- 40 -->
-      <g style="fill: #6b7076" transform="translate(32.95 223.412615) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(32.95 228.236872) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-34" d="M 2176 0 
 L 2726 0 
@@ -1005,7 +1005,7 @@ z
      <g id="line2d_10"/>
      <g id="text_10">
       <!-- 60 -->
-      <g style="fill: #6b7076" transform="translate(32.95 186.916064) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(32.95 194.152449) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-36" d="M 1926 -83 
 C 2656 -83 3277 531 3277 1440 
@@ -1035,7 +1035,7 @@ z
      <g id="line2d_11"/>
      <g id="text_11">
       <!-- 80 -->
-      <g style="fill: #6b7076" transform="translate(32.95 150.419512) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(32.95 160.068026) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-38" d="M 1792 -83 
 C 2669 -83 3258 448 3258 1126 
@@ -1072,7 +1072,7 @@ z
      <g id="line2d_12"/>
      <g id="text_12">
       <!-- 100 -->
-      <g style="fill: #6b7076" transform="translate(27.955 113.92296) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(27.955 125.983602) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-31" d="M 563 0 
 L 3136 0 
@@ -1099,7 +1099,7 @@ z
      <g id="line2d_13"/>
      <g id="text_13">
       <!-- 120 -->
-      <g style="fill: #6b7076" transform="translate(27.955 77.426408) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(27.955 91.899179) scale(0.09 -0.09)">
        <use xlink:href="#NotoSansCJKtc-Regular-31"/>
        <use xlink:href="#NotoSansCJKtc-Regular-32" transform="translate(55.499985 0)"/>
        <use xlink:href="#NotoSansCJKtc-Regular-30" transform="translate(110.999969 0)"/>
@@ -1108,7 +1108,7 @@ z
     </g>
     <g id="text_14">
      <!-- 年增率（%） -->
-     <g style="fill: #6b7076" transform="translate(21.893437 208.336219) rotate(-90) scale(0.09 -0.09)">
+     <g style="fill: #6b7076" transform="translate(21.893437 204.808219) rotate(-90) scale(0.09 -0.09)">
       <defs>
        <path id="NotoSansCJKtc-Regular-5e74" d="M 307 1427 
 L 307 966 
@@ -1357,7 +1357,7 @@ z
    <g id="line2d_14">
     <path d="M 46.44 292.824 
 L 572.76 292.824 
-" clip-path="url(#p590cffd353)" style="fill: none; stroke: #c9c5c0; stroke-width: 0.9; stroke-linecap: square"/>
+" clip-path="url(#p38f1083c0e)" style="fill: none; stroke: #c9c5c0; stroke-width: 0.9; stroke-linecap: square"/>
    </g>
    <g id="patch_9">
     <path d="M 46.44 292.824 
@@ -1367,7 +1367,7 @@ L 572.76 292.824
   </g>
   <g id="text_15">
    <!-- 成熟市場內部已經分岔：維吉尼亞 +9%，德州 +107%，俄亥俄 +116% -->
-   <g style="fill: #14161a" transform="translate(46.44 30.974547) scale(0.145 -0.145)">
+   <g style="fill: #14161a" transform="translate(46.44 27.446547) scale(0.145 -0.145)">
     <defs>
      <path id="NotoSansCJKtc-Bold-6210" d="M 3290 5427 
 C 3290 5114 3302 4794 3315 4480 
@@ -2490,7 +2490,7 @@ z
   </g>
   <g id="text_16">
    <!-- 州別資料中心專案宣布件數年增率，2026 年 8 月 -->
-   <g style="fill: #6b7076" transform="translate(46.44 54.528975) scale(0.1 -0.1)">
+   <g style="fill: #6b7076" transform="translate(46.44 46.414575) scale(0.1 -0.1)">
     <defs>
      <path id="NotoSansCJKtc-Regular-5225" d="M 3795 4608 
 L 3795 1056 
@@ -4375,8 +4375,8 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p590cffd353">
-   <rect x="46.44" y="70.56" width="526.32" height="222.264"/>
+  <clipPath id="p38f1083c0e">
+   <rect x="46.44" y="63.504" width="526.32" height="229.32"/>
   </clipPath>
  </defs>
 </svg>

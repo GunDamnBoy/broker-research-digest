@@ -31,42 +31,42 @@ z
    <g id="patch_2">
     <path d="M 46.44 292.824 
 L 572.76 292.824 
-L 572.76 70.56 
-L 46.44 70.56 
+L 572.76 63.504 
+L 46.44 63.504 
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
     <path d="M 70.363636 292.824 
 L 162.971261 292.824 
-L 162.971261 81.144 
-L 70.363636 81.144 
+L 162.971261 95.134345 
+L 70.363636 95.134345 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p38f1083c0e)" style="fill: #d70c18"/>
    </g>
    <g id="patch_4">
     <path d="M 198.985337 292.824 
 L 291.592962 292.824 
-L 291.592962 128.184 
-L 198.985337 128.184 
+L 291.592962 139.065379 
+L 198.985337 139.065379 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p38f1083c0e)" style="fill: #d70c18"/>
    </g>
    <g id="patch_5">
     <path d="M 327.607038 292.824 
 L 420.214663 292.824 
-L 420.214663 198.744 
-L 327.607038 198.744 
+L 420.214663 204.961931 
+L 327.607038 204.961931 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p38f1083c0e)" style="fill: #d70c18"/>
    </g>
    <g id="patch_6">
     <path d="M 456.228739 292.824 
 L 548.836364 292.824 
-L 548.836364 175.224 
-L 456.228739 175.224 
+L 548.836364 182.996414 
+L 456.228739 182.996414 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p38f1083c0e)" style="fill: #d70c18"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -581,7 +581,7 @@ z
      <g id="line2d_6"/>
      <g id="text_6">
       <!-- 2 -->
-      <g style="fill: #6b7076" transform="translate(37.945 249.365719) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(37.945 252.474684) scale(0.09 -0.09)">
        <use xlink:href="#NotoSansCJKtc-Regular-32"/>
       </g>
      </g>
@@ -590,7 +590,7 @@ z
      <g id="line2d_7"/>
      <g id="text_7">
       <!-- 4 -->
-      <g style="fill: #6b7076" transform="translate(37.945 202.325719) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(37.945 208.54365) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-34" d="M 2176 0 
 L 2726 0 
@@ -623,7 +623,7 @@ z
      <g id="line2d_8"/>
      <g id="text_8">
       <!-- 6 -->
-      <g style="fill: #6b7076" transform="translate(37.945 155.285719) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(37.945 164.612615) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-36" d="M 1926 -83 
 C 2656 -83 3277 531 3277 1440 
@@ -652,7 +652,7 @@ z
      <g id="line2d_9"/>
      <g id="text_9">
       <!-- 8 -->
-      <g style="fill: #6b7076" transform="translate(37.945 108.245719) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(37.945 120.681581) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-38" d="M 1792 -83 
 C 2669 -83 3258 448 3258 1126 
@@ -684,9 +684,19 @@ z
       </g>
      </g>
     </g>
-    <g id="text_10">
+    <g id="ytick_6">
+     <g id="line2d_10"/>
+     <g id="text_10">
+      <!-- 10 -->
+      <g style="fill: #6b7076" transform="translate(32.95 76.750546) scale(0.09 -0.09)">
+       <use xlink:href="#NotoSansCJKtc-Regular-31"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-30" transform="translate(55.499985 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_11">
      <!-- 倍 -->
-     <g style="fill: #6b7076" transform="translate(31.883437 186.192) rotate(-90) scale(0.09 -0.09)">
+     <g style="fill: #6b7076" transform="translate(26.888437 182.664) rotate(-90) scale(0.09 -0.09)">
       <defs>
        <path id="NotoSansCJKtc-Regular-500d" d="M 2688 4032 
 C 2867 3680 3027 3213 3078 2912 
@@ -746,10 +756,10 @@ z
      </g>
     </g>
    </g>
-   <g id="line2d_10">
+   <g id="line2d_11">
     <path d="M 46.44 292.824 
 L 572.76 292.824 
-" clip-path="url(#p590cffd353)" style="fill: none; stroke: #c9c5c0; stroke-width: 0.9; stroke-linecap: square"/>
+" clip-path="url(#p38f1083c0e)" style="fill: none; stroke: #c9c5c0; stroke-width: 0.9; stroke-linecap: square"/>
    </g>
    <g id="patch_7">
     <path d="M 46.44 292.824 
@@ -757,9 +767,9 @@ L 572.76 292.824
 " style="fill: none; stroke: #c9c5c0; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
   </g>
-  <g id="text_11">
+  <g id="text_12">
    <!-- 這一批 IPO 的估值只略高於長期中位數，離 1999 與 2021 還很遠 -->
-   <g style="fill: #14161a" transform="translate(46.44 30.974547) scale(0.145 -0.145)">
+   <g style="fill: #14161a" transform="translate(46.44 27.446547) scale(0.145 -0.145)">
     <defs>
      <path id="NotoSansCJKtc-Bold-9019" d="M 2477 3053 
 L 2477 2515 
@@ -2106,9 +2116,9 @@ z
     <use xlink:href="#NotoSansCJKtc-Bold-9060" transform="translate(2784.899521 0)"/>
    </g>
   </g>
-  <g id="text_12">
+  <g id="text_13">
    <!-- 美國 IPO 中位數的 EV/銷售額倍數 -->
-   <g style="fill: #6b7076" transform="translate(46.44 54.549287) scale(0.1 -0.1)">
+   <g style="fill: #6b7076" transform="translate(46.44 46.434888) scale(0.1 -0.1)">
     <defs>
      <path id="NotoSansCJKtc-Regular-7f8e" d="M 3232 800 
 C 4122 442 5280 -134 5843 -538 
@@ -2569,7 +2579,7 @@ z
     <use xlink:href="#NotoSansCJKtc-Regular-6578" transform="translate(1389.599762 0)"/>
    </g>
   </g>
-  <g id="text_13">
+  <g id="text_14">
    <!-- Goldman Sachs《Top of Mind: IPO surge: a red flag for markets?》2026-07-22，第 5 頁 -->
    <g style="fill: #9ba0a6" transform="translate(46.44 346.5664) scale(0.08 -0.08)">
     <defs>
@@ -3276,8 +3286,8 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p590cffd353">
-   <rect x="46.44" y="70.56" width="526.32" height="222.264"/>
+  <clipPath id="p38f1083c0e">
+   <rect x="46.44" y="63.504" width="526.32" height="229.32"/>
   </clipPath>
  </defs>
 </svg>

@@ -31,26 +31,26 @@ z
    <g id="patch_2">
     <path d="M 46.44 292.824 
 L 572.76 292.824 
-L 572.76 70.56 
-L 46.44 70.56 
+L 572.76 63.504 
+L 46.44 63.504 
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
     <path d="M 70.363636 292.824 
 L 270.654545 292.824 
-L 270.654545 169.187894 
-L 70.363636 169.187894 
+L 270.654545 177.359246 
+L 70.363636 177.359246 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p38f1083c0e)" style="fill: #d70c18"/>
    </g>
    <g id="patch_4">
     <path d="M 348.545455 292.824 
 L 548.836364 292.824 
-L 548.836364 81.144 
-L 348.545455 81.144 
+L 548.836364 95.134345 
+L 348.545455 95.134345 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p38f1083c0e)" style="fill: #d70c18"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -669,7 +669,7 @@ z
      <g id="line2d_4"/>
      <g id="text_4">
       <!-- 0.05 -->
-      <g style="fill: #6b7076" transform="translate(25.453281 249.57386) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(25.453281 252.669069) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-35" d="M 1677 -83 
 C 2464 -83 3213 499 3213 1523 
@@ -701,7 +701,7 @@ z
      <g id="line2d_5"/>
      <g id="text_5">
       <!-- 0.10 -->
-      <g style="fill: #6b7076" transform="translate(25.453281 202.742002) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(25.453281 208.93242) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-31" d="M 563 0 
 L 3136 0 
@@ -729,7 +729,7 @@ z
      <g id="line2d_6"/>
      <g id="text_6">
       <!-- 0.15 -->
-      <g style="fill: #6b7076" transform="translate(25.453281 155.910144) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(25.453281 165.195771) scale(0.09 -0.09)">
        <use xlink:href="#NotoSansCJKtc-Regular-30"/>
        <use xlink:href="#NotoSansCJKtc-Regular-2e" transform="translate(55.499985 0)"/>
        <use xlink:href="#NotoSansCJKtc-Regular-31" transform="translate(83.299973 0)"/>
@@ -741,7 +741,7 @@ z
      <g id="line2d_7"/>
      <g id="text_7">
       <!-- 0.20 -->
-      <g style="fill: #6b7076" transform="translate(25.453281 109.078285) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(25.453281 121.459121) scale(0.09 -0.09)">
        <use xlink:href="#NotoSansCJKtc-Regular-30"/>
        <use xlink:href="#NotoSansCJKtc-Regular-2e" transform="translate(55.499985 0)"/>
        <use xlink:href="#NotoSansCJKtc-Regular-32" transform="translate(83.299973 0)"/>
@@ -749,9 +749,21 @@ z
       </g>
      </g>
     </g>
-    <g id="text_8">
+    <g id="ytick_6">
+     <g id="line2d_8"/>
+     <g id="text_8">
+      <!-- 0.25 -->
+      <g style="fill: #6b7076" transform="translate(25.453281 77.722472) scale(0.09 -0.09)">
+       <use xlink:href="#NotoSansCJKtc-Regular-30"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-2e" transform="translate(55.499985 0)"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-32" transform="translate(83.299973 0)"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-35" transform="translate(138.799957 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_9">
      <!-- ％（月增） -->
-     <g style="fill: #6b7076" transform="translate(19.391719 204.192) rotate(-90) scale(0.09 -0.09)">
+     <g style="fill: #6b7076" transform="translate(19.391719 200.664) rotate(-90) scale(0.09 -0.09)">
       <defs>
        <path id="NotoSansCJKtc-Regular-ff05" d="M 1568 1901 
 C 2208 1901 2637 2445 2637 3392 
@@ -874,10 +886,10 @@ z
      </g>
     </g>
    </g>
-   <g id="line2d_8">
+   <g id="line2d_9">
     <path d="M 46.44 292.824 
 L 572.76 292.824 
-" clip-path="url(#p590cffd353)" style="fill: none; stroke: #c9c5c0; stroke-width: 0.9; stroke-linecap: square"/>
+" clip-path="url(#p38f1083c0e)" style="fill: none; stroke: #c9c5c0; stroke-width: 0.9; stroke-linecap: square"/>
    </g>
    <g id="patch_5">
     <path d="M 46.44 292.824 
@@ -885,9 +897,9 @@ L 572.76 292.824
 " style="fill: none; stroke: #c9c5c0; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
   </g>
-  <g id="text_9">
+  <g id="text_10">
    <!-- 核心 PCE 月增率：6 月實際值與 7 月野村預估 -->
-   <g style="fill: #14161a" transform="translate(46.44 30.974547) scale(0.145 -0.145)">
+   <g style="fill: #14161a" transform="translate(46.44 27.446547) scale(0.145 -0.145)">
     <defs>
      <path id="NotoSansCJKtc-Bold-6838" d="M 5370 2387 
 C 4845 1370 3642 486 2131 64 
@@ -1812,9 +1824,9 @@ z
     <use xlink:href="#NotoSansCJKtc-Bold-4f30" transform="translate(1925.299698 0)"/>
    </g>
   </g>
-  <g id="text_10">
+  <g id="text_11">
    <!-- 近期 Fedspeak 視月增 0.1%–0.2% 為朝 2% 目標前進的進展 -->
-   <g style="fill: #6b7076" transform="translate(46.44 55.0196) scale(0.1 -0.1)">
+   <g style="fill: #6b7076" transform="translate(46.44 46.9052) scale(0.1 -0.1)">
     <defs>
      <path id="NotoSansCJKtc-Regular-8fd1" d="M 550 5152 
 C 851 4838 1222 4397 1408 4122 
@@ -2697,7 +2709,7 @@ z
     <use xlink:href="#NotoSansCJKtc-Regular-5c55" transform="translate(2545.699554 0)"/>
    </g>
   </g>
-  <g id="text_11">
+  <g id="text_12">
    <!-- Nomura, Economic Insights, 2026-08-19 -->
    <g style="fill: #9ba0a6" transform="translate(46.44 338.452) scale(0.08 -0.08)">
     <defs>
@@ -2937,7 +2949,7 @@ z
     <use xlink:href="#NotoSansCJKtc-Regular-39" transform="translate(1791.399612 0)"/>
    </g>
   </g>
-  <g id="text_12">
+  <g id="text_13">
    <!-- 依報告內文數字重製 -->
    <g style="fill: #9ba0a6" transform="translate(500.76 338.6195) scale(0.08 -0.08)">
     <defs>
@@ -3483,8 +3495,8 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p590cffd353">
-   <rect x="46.44" y="70.56" width="526.32" height="222.264"/>
+  <clipPath id="p38f1083c0e">
+   <rect x="46.44" y="63.504" width="526.32" height="229.32"/>
   </clipPath>
  </defs>
 </svg>

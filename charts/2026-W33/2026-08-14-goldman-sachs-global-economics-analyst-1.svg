@@ -31,42 +31,42 @@ z
    <g id="patch_2">
     <path d="M 46.44 292.824 
 L 572.76 292.824 
-L 572.76 70.56 
-L 46.44 70.56 
+L 572.76 63.504 
+L 46.44 63.504 
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
     <path d="M 70.363636 292.824 
 L 162.971261 292.824 
-L 162.971261 81.144 
-L 70.363636 81.144 
+L 162.971261 95.134345 
+L 70.363636 95.134345 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p38f1083c0e)" style="fill: #d70c18"/>
    </g>
    <g id="patch_4">
     <path d="M 198.985337 292.824 
 L 291.592962 292.824 
-L 291.592962 144.648 
-L 198.985337 144.648 
+L 291.592962 154.441241 
+L 198.985337 154.441241 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p38f1083c0e)" style="fill: #d70c18"/>
    </g>
    <g id="patch_5">
     <path d="M 327.607038 292.824 
 L 420.214663 292.824 
-L 420.214663 165.816 
-L 327.607038 165.816 
+L 420.214663 174.210207 
+L 327.607038 174.210207 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p38f1083c0e)" style="fill: #d70c18"/>
    </g>
    <g id="patch_6">
     <path d="M 456.228739 292.824 
 L 548.836364 292.824 
-L 548.836364 208.152 
-L 456.228739 208.152 
+L 548.836364 213.748138 
+L 456.228739 213.748138 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p38f1083c0e)" style="fill: #d70c18"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -1194,7 +1194,7 @@ z
      <g id="line2d_6"/>
      <g id="text_6">
       <!-- 20 -->
-      <g style="fill: #6b7076" transform="translate(32.95 254.069719) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(32.95 256.867788) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-32" d="M 282 0 
 L 3232 0 
@@ -1221,7 +1221,7 @@ z
      <g id="line2d_7"/>
      <g id="text_7">
       <!-- 40 -->
-      <g style="fill: #6b7076" transform="translate(32.95 211.733719) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(32.95 217.329857) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-34" d="M 2176 0 
 L 2726 0 
@@ -1255,7 +1255,7 @@ z
      <g id="line2d_8"/>
      <g id="text_8">
       <!-- 60 -->
-      <g style="fill: #6b7076" transform="translate(32.95 169.397719) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(32.95 177.791926) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-36" d="M 1926 -83 
 C 2656 -83 3277 531 3277 1440 
@@ -1285,7 +1285,7 @@ z
      <g id="line2d_9"/>
      <g id="text_9">
       <!-- 80 -->
-      <g style="fill: #6b7076" transform="translate(32.95 127.061719) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(32.95 138.253995) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-38" d="M 1792 -83 
 C 2669 -83 3258 448 3258 1126 
@@ -1322,7 +1322,7 @@ z
      <g id="line2d_10"/>
      <g id="text_10">
       <!-- 100 -->
-      <g style="fill: #6b7076" transform="translate(27.955 84.725719) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(27.955 98.716064) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-31" d="M 563 0 
 L 3136 0 
@@ -1347,7 +1347,7 @@ z
     </g>
     <g id="text_11">
      <!-- GS FCI 緊縮幅度（基點） -->
-     <g style="fill: #6b7076" transform="translate(21.893437 232.164422) rotate(-90) scale(0.09 -0.09)">
+     <g style="fill: #6b7076" transform="translate(21.893437 228.636422) rotate(-90) scale(0.09 -0.09)">
       <defs>
        <path id="NotoSansCJKtc-Regular-47" d="M 2490 -83 
 C 3117 -83 3635 147 3936 461 
@@ -1945,7 +1945,7 @@ z
    <g id="line2d_11">
     <path d="M 46.44 292.824 
 L 572.76 292.824 
-" clip-path="url(#p590cffd353)" style="fill: none; stroke: #c9c5c0; stroke-width: 0.9; stroke-linecap: square"/>
+" clip-path="url(#p38f1083c0e)" style="fill: none; stroke: #c9c5c0; stroke-width: 0.9; stroke-linecap: square"/>
    </g>
    <g id="patch_7">
     <path d="M 46.44 292.824 
@@ -1955,7 +1955,7 @@ L 572.76 292.824
   </g>
   <g id="text_12">
    <!-- 央行愈常給市場驚奇，同一記政策驚奇就愈傳不出去 -->
-   <g style="fill: #14161a" transform="translate(46.44 30.974547) scale(0.145 -0.145)">
+   <g style="fill: #14161a" transform="translate(46.44 27.446547) scale(0.145 -0.145)">
     <defs>
      <path id="NotoSansCJKtc-Bold-592e" d="M 3309 1088 
 C 4032 595 5043 -122 5517 -563 
@@ -3039,7 +3039,7 @@ z
   </g>
   <g id="text_13">
    <!-- 100 個基點的鷹派政策驚奇所引發的金融條件緊縮幅度，依該央行在歷史會議日驚奇分布中的位置區分 -->
-   <g style="fill: #6b7076" transform="translate(46.44 54.528975) scale(0.1 -0.1)">
+   <g style="fill: #6b7076" transform="translate(46.44 46.414575) scale(0.1 -0.1)">
     <defs>
      <path id="NotoSansCJKtc-Regular-500b" d="M 3533 2195 
 L 4614 2195 
@@ -5350,8 +5350,8 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p590cffd353">
-   <rect x="46.44" y="70.56" width="526.32" height="222.264"/>
+  <clipPath id="p38f1083c0e">
+   <rect x="46.44" y="63.504" width="526.32" height="229.32"/>
   </clipPath>
  </defs>
 </svg>

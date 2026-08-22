@@ -29,43 +29,43 @@ z
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path d="M 46.44 292.824 
-L 572.76 292.824 
-L 572.76 70.56 
-L 46.44 70.56 
+    <path d="M 46.44 280.476 
+L 572.76 280.476 
+L 572.76 63.504 
+L 46.44 63.504 
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
-    <path d="M 70.363636 292.824 
-L 197.018182 292.824 
-L 197.018182 165.816 
-L 70.363636 165.816 
+    <path d="M 70.363636 280.476 
+L 197.018182 280.476 
+L 197.018182 168.249103 
+L 70.363636 168.249103 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p0b8780645e)" style="fill: #d70c18"/>
    </g>
    <g id="patch_4">
-    <path d="M 246.272727 292.824 
-L 372.927273 292.824 
-L 372.927273 165.816 
-L 246.272727 165.816 
+    <path d="M 246.272727 280.476 
+L 372.927273 280.476 
+L 372.927273 168.249103 
+L 246.272727 168.249103 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p0b8780645e)" style="fill: #d70c18"/>
    </g>
    <g id="patch_5">
-    <path d="M 422.181818 292.824 
-L 548.836364 292.824 
-L 548.836364 81.144 
-L 422.181818 81.144 
+    <path d="M 422.181818 280.476 
+L 548.836364 280.476 
+L 548.836364 93.431172 
+L 422.181818 93.431172 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p0b8780645e)" style="fill: #d70c18"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
      <g id="line2d_1"/>
      <g id="text_1">
-      <!-- 淨移民每年多 10 萬人（增至 35 萬人） -->
-      <g style="fill: #6b7076" transform="translate(56.667784 303.487437) scale(0.09 -0.09)">
+      <!-- 淨移民每年多 10 萬人（增至 35 萬人 -->
+      <g style="fill: #6b7076" transform="translate(61.167784 291.139438) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-6de8" d="M 5312 5350 
 C 4550 5133 3168 4960 2003 4864 
@@ -683,15 +683,6 @@ L 173 538
 C 493 224 941 -83 1677 -83 
 z
 " transform="scale(0.015625)"/>
-        <path id="NotoSansCJKtc-Regular-ff09" d="M 1952 2432 
-C 1952 3680 1446 4698 678 5478 
-L 294 5280 
-C 1030 4518 1485 3571 1485 2432 
-C 1485 1293 1030 346 294 -416 
-L 678 -614 
-C 1446 166 1952 1184 1952 2432 
-z
-" transform="scale(0.015625)"/>
        </defs>
        <use xlink:href="#NotoSansCJKtc-Regular-6de8"/>
        <use xlink:href="#NotoSansCJKtc-Regular-79fb" transform="translate(99.999985 0)"/>
@@ -714,7 +705,21 @@ z
        <use xlink:href="#NotoSansCJKtc-Regular-20" transform="translate(1389.199753 0)"/>
        <use xlink:href="#NotoSansCJKtc-Regular-842c" transform="translate(1411.599747 0)"/>
        <use xlink:href="#NotoSansCJKtc-Regular-4eba" transform="translate(1511.599731 0)"/>
-       <use xlink:href="#NotoSansCJKtc-Regular-ff09" transform="translate(1611.599716 0)"/>
+      </g>
+      <!-- ） -->
+      <g style="fill: #6b7076" transform="translate(129.190909 301.797125) scale(0.09 -0.09)">
+       <defs>
+        <path id="NotoSansCJKtc-Regular-ff09" d="M 1952 2432 
+C 1952 3680 1446 4698 678 5478 
+L 294 5280 
+C 1030 4518 1485 3571 1485 2432 
+C 1485 1293 1030 346 294 -416 
+L 678 -614 
+C 1446 166 1952 1184 1952 2432 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#NotoSansCJKtc-Regular-ff09"/>
       </g>
      </g>
     </g>
@@ -722,7 +727,7 @@ z
      <g id="line2d_2"/>
      <g id="text_2">
       <!-- 參與率向瑞典看齊 -->
-      <g style="fill: #6b7076" transform="translate(273.6 303.487437) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(273.6 291.139438) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-53c3" d="M 3379 2502 
 C 2906 2138 2054 1798 1363 1613 
@@ -1250,7 +1255,7 @@ z
      <g id="line2d_3"/>
      <g id="text_3">
       <!-- 止住平均工時下滑 -->
-      <g style="fill: #6b7076" transform="translate(449.509091 303.487437) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(449.509091 291.139438) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-6b62" d="M 1203 3962 
 L 1203 282 
@@ -1571,7 +1576,7 @@ z
      <g id="line2d_4"/>
      <g id="text_4">
       <!-- 0.0 -->
-      <g style="fill: #6b7076" transform="translate(30.448281 296.405719) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(30.448281 284.057719) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-2e" d="M 890 -83 
 C 1120 -83 1312 96 1312 358 
@@ -1591,7 +1596,7 @@ z
      <g id="line2d_5"/>
      <g id="text_5">
       <!-- 0.5 -->
-      <g style="fill: #6b7076" transform="translate(30.448281 254.069719) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(30.448281 246.648753) scale(0.09 -0.09)">
        <use xlink:href="#NotoSansCJKtc-Regular-30"/>
        <use xlink:href="#NotoSansCJKtc-Regular-2e" transform="translate(55.499985 0)"/>
        <use xlink:href="#NotoSansCJKtc-Regular-35" transform="translate(83.299973 0)"/>
@@ -1602,7 +1607,7 @@ z
      <g id="line2d_6"/>
      <g id="text_6">
       <!-- 1.0 -->
-      <g style="fill: #6b7076" transform="translate(30.448281 211.733719) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(30.448281 209.239788) scale(0.09 -0.09)">
        <use xlink:href="#NotoSansCJKtc-Regular-31"/>
        <use xlink:href="#NotoSansCJKtc-Regular-2e" transform="translate(55.499985 0)"/>
        <use xlink:href="#NotoSansCJKtc-Regular-30" transform="translate(83.299973 0)"/>
@@ -1613,7 +1618,7 @@ z
      <g id="line2d_7"/>
      <g id="text_7">
       <!-- 1.5 -->
-      <g style="fill: #6b7076" transform="translate(30.448281 169.397719) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(30.448281 171.830822) scale(0.09 -0.09)">
        <use xlink:href="#NotoSansCJKtc-Regular-31"/>
        <use xlink:href="#NotoSansCJKtc-Regular-2e" transform="translate(55.499985 0)"/>
        <use xlink:href="#NotoSansCJKtc-Regular-35" transform="translate(83.299973 0)"/>
@@ -1624,7 +1629,7 @@ z
      <g id="line2d_8"/>
      <g id="text_8">
       <!-- 2.0 -->
-      <g style="fill: #6b7076" transform="translate(30.448281 127.061719) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(30.448281 134.421857) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-32" d="M 282 0 
 L 3232 0 
@@ -1652,7 +1657,7 @@ z
      <g id="line2d_9"/>
      <g id="text_9">
       <!-- 2.5 -->
-      <g style="fill: #6b7076" transform="translate(30.448281 84.725719) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(30.448281 97.012891) scale(0.09 -0.09)">
        <use xlink:href="#NotoSansCJKtc-Regular-32"/>
        <use xlink:href="#NotoSansCJKtc-Regular-2e" transform="translate(55.499985 0)"/>
        <use xlink:href="#NotoSansCJKtc-Regular-35" transform="translate(83.299973 0)"/>
@@ -1661,7 +1666,7 @@ z
     </g>
     <g id="text_10">
      <!-- 相對中央推計的勞動供給增幅（%） -->
-     <g style="fill: #6b7076" transform="translate(24.386719 253.336219) rotate(-90) scale(0.09 -0.09)">
+     <g style="fill: #6b7076" transform="translate(24.386719 243.634219) rotate(-90) scale(0.09 -0.09)">
       <defs>
        <path id="NotoSansCJKtc-Regular-76f8" d="M 3494 3034 
 L 5440 3034 
@@ -2448,19 +2453,19 @@ z
     </g>
    </g>
    <g id="line2d_10">
-    <path d="M 46.44 292.824 
-L 572.76 292.824 
-" clip-path="url(#p590cffd353)" style="fill: none; stroke: #c9c5c0; stroke-width: 0.9; stroke-linecap: square"/>
+    <path d="M 46.44 280.476 
+L 572.76 280.476 
+" clip-path="url(#p0b8780645e)" style="fill: none; stroke: #c9c5c0; stroke-width: 0.9; stroke-linecap: square"/>
    </g>
    <g id="patch_6">
-    <path d="M 46.44 292.824 
-L 572.76 292.824 
+    <path d="M 46.44 280.476 
+L 572.76 280.476 
 " style="fill: none; stroke: #c9c5c0; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
   </g>
   <g id="text_11">
    <!-- 要擋住德國勞動供給萎縮，任何一根槓桿單獨拉都不夠 -->
-   <g style="fill: #14161a" transform="translate(46.44 30.974547) scale(0.145 -0.145)">
+   <g style="fill: #14161a" transform="translate(46.44 27.446547) scale(0.145 -0.145)">
     <defs>
      <path id="NotoSansCJKtc-Bold-8981" d="M 3923 1165 
 C 3763 979 3565 819 3341 691 
@@ -3962,7 +3967,7 @@ z
   </g>
   <g id="text_12">
    <!-- 三根政策槓桿到 2035 年各自可增加的勞動供給，相對於高盛的中央推計 -->
-   <g style="fill: #6b7076" transform="translate(46.44 54.528975) scale(0.1 -0.1)">
+   <g style="fill: #6b7076" transform="translate(46.44 46.414575) scale(0.1 -0.1)">
     <defs>
      <path id="NotoSansCJKtc-Regular-4e09" d="M 787 4755 
 L 787 4269 
@@ -6422,8 +6427,8 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p590cffd353">
-   <rect x="46.44" y="70.56" width="526.32" height="222.264"/>
+  <clipPath id="p0b8780645e">
+   <rect x="46.44" y="63.504" width="526.32" height="216.972"/>
   </clipPath>
  </defs>
 </svg>

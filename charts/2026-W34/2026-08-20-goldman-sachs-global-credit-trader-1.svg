@@ -31,26 +31,26 @@ z
    <g id="patch_2">
     <path d="M 46.44 292.824 
 L 572.76 292.824 
-L 572.76 70.56 
-L 46.44 70.56 
+L 572.76 63.504 
+L 46.44 63.504 
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
     <path d="M 70.363636 292.824 
 L 270.654545 292.824 
-L 270.654545 277.704 
-L 70.363636 277.704 
+L 270.654545 278.70331 
+L 70.363636 278.70331 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p38f1083c0e)" style="fill: #d70c18"/>
    </g>
    <g id="patch_4">
     <path d="M 348.545455 292.824 
 L 548.836364 292.824 
-L 548.836364 81.144 
-L 348.545455 81.144 
+L 548.836364 95.134345 
+L 348.545455 95.134345 
 z
-" clip-path="url(#p590cffd353)" style="fill: #d70c18"/>
+" clip-path="url(#p38f1083c0e)" style="fill: #d70c18"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -291,37 +291,8 @@ z
     <g id="ytick_2">
      <g id="line2d_4"/>
      <g id="text_4">
-      <!-- 5 -->
-      <g style="fill: #6b7076" transform="translate(37.945 271.205719) scale(0.09 -0.09)">
-       <defs>
-        <path id="NotoSansCJKtc-Regular-35" d="M 1677 -83 
-C 2464 -83 3213 499 3213 1523 
-C 3213 2560 2573 3021 1798 3021 
-C 1517 3021 1306 2950 1094 2835 
-L 1216 4192 
-L 2982 4192 
-L 2982 4691 
-L 704 4691 
-L 550 2502 
-L 864 2304 
-C 1133 2483 1331 2579 1645 2579 
-C 2234 2579 2618 2182 2618 1510 
-C 2618 826 2176 403 1619 403 
-C 1075 403 730 653 467 922 
-L 173 538 
-C 493 224 941 -83 1677 -83 
-z
-" transform="scale(0.015625)"/>
-       </defs>
-       <use xlink:href="#NotoSansCJKtc-Regular-35"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_3">
-     <g id="line2d_5"/>
-     <g id="text_5">
       <!-- 10 -->
-      <g style="fill: #6b7076" transform="translate(32.95 246.005719) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(32.95 249.336753) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-31" d="M 563 0 
 L 3136 0 
@@ -343,41 +314,21 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_4">
-     <g id="line2d_6"/>
-     <g id="text_6">
-      <!-- 15 -->
-      <g style="fill: #6b7076" transform="translate(32.95 220.805719) scale(0.09 -0.09)">
-       <use xlink:href="#NotoSansCJKtc-Regular-31"/>
-       <use xlink:href="#NotoSansCJKtc-Regular-35" transform="translate(55.499985 0)"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_5">
-     <g id="line2d_7"/>
-     <g id="text_7">
+    <g id="ytick_3">
+     <g id="line2d_5"/>
+     <g id="text_5">
       <!-- 20 -->
-      <g style="fill: #6b7076" transform="translate(32.95 195.605719) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(32.95 202.267788) scale(0.09 -0.09)">
        <use xlink:href="#NotoSansCJKtc-Regular-32"/>
        <use xlink:href="#NotoSansCJKtc-Regular-30" transform="translate(55.499985 0)"/>
       </g>
      </g>
     </g>
-    <g id="ytick_6">
-     <g id="line2d_8"/>
-     <g id="text_8">
-      <!-- 25 -->
-      <g style="fill: #6b7076" transform="translate(32.95 170.405719) scale(0.09 -0.09)">
-       <use xlink:href="#NotoSansCJKtc-Regular-32"/>
-       <use xlink:href="#NotoSansCJKtc-Regular-35" transform="translate(55.499985 0)"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_7">
-     <g id="line2d_9"/>
-     <g id="text_9">
+    <g id="ytick_4">
+     <g id="line2d_6"/>
+     <g id="text_6">
       <!-- 30 -->
-      <g style="fill: #6b7076" transform="translate(32.95 145.205719) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(32.95 155.198822) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-33" d="M 1683 -83 
 C 2522 -83 3194 416 3194 1254 
@@ -404,29 +355,19 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_8">
-     <g id="line2d_10"/>
-     <g id="text_10">
-      <!-- 35 -->
-      <g style="fill: #6b7076" transform="translate(32.95 120.005719) scale(0.09 -0.09)">
-       <use xlink:href="#NotoSansCJKtc-Regular-33"/>
-       <use xlink:href="#NotoSansCJKtc-Regular-35" transform="translate(55.499985 0)"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_9">
-     <g id="line2d_11"/>
-     <g id="text_11">
+    <g id="ytick_5">
+     <g id="line2d_7"/>
+     <g id="text_7">
       <!-- 40 -->
-      <g style="fill: #6b7076" transform="translate(32.95 94.805719) scale(0.09 -0.09)">
+      <g style="fill: #6b7076" transform="translate(32.95 108.129857) scale(0.09 -0.09)">
        <use xlink:href="#NotoSansCJKtc-Regular-34"/>
        <use xlink:href="#NotoSansCJKtc-Regular-30" transform="translate(55.499985 0)"/>
       </g>
      </g>
     </g>
-    <g id="text_12">
+    <g id="text_8">
      <!-- % -->
-     <g style="fill: #6b7076" transform="translate(26.888437 185.836219) rotate(-90) scale(0.09 -0.09)">
+     <g style="fill: #6b7076" transform="translate(26.888437 182.308219) rotate(-90) scale(0.09 -0.09)">
       <defs>
        <path id="NotoSansCJKtc-Regular-25" d="M 1312 1818 
 C 1958 1818 2381 2362 2381 3309 
@@ -464,10 +405,10 @@ z
      </g>
     </g>
    </g>
-   <g id="line2d_12">
+   <g id="line2d_8">
     <path d="M 46.44 292.824 
 L 572.76 292.824 
-" clip-path="url(#p590cffd353)" style="fill: none; stroke: #c9c5c0; stroke-width: 0.9; stroke-linecap: square"/>
+" clip-path="url(#p38f1083c0e)" style="fill: none; stroke: #c9c5c0; stroke-width: 0.9; stroke-linecap: square"/>
    </g>
    <g id="patch_5">
     <path d="M 46.44 292.824 
@@ -475,9 +416,9 @@ L 572.76 292.824
 " style="fill: none; stroke: #c9c5c0; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
   </g>
-  <g id="text_13">
+  <g id="text_9">
    <!-- AI 相關占美元 IG 私募發行的比重：兩年內從 3% 到 42% -->
-   <g style="fill: #14161a" transform="translate(46.44 30.974547) scale(0.145 -0.145)">
+   <g style="fill: #14161a" transform="translate(46.44 27.446547) scale(0.145 -0.145)">
     <defs>
      <path id="NotoSansCJKtc-Bold-41" d="M -26 0 
 L 934 0 
@@ -1548,9 +1489,9 @@ z
     <use xlink:href="#NotoSansCJKtc-Bold-25" transform="translate(2411.299591 0)"/>
    </g>
   </g>
-  <g id="text_14">
+  <g id="text_10">
    <!-- 美元 IG 非金融私募發行中 AI 相關的占比 -->
-   <g style="fill: #6b7076" transform="translate(46.44 54.528975) scale(0.1 -0.1)">
+   <g style="fill: #6b7076" transform="translate(46.44 46.414575) scale(0.1 -0.1)">
     <defs>
      <path id="NotoSansCJKtc-Regular-7f8e" d="M 3232 800 
 C 4122 442 5280 -134 5843 -538 
@@ -2418,7 +2359,7 @@ z
     <use xlink:href="#NotoSansCJKtc-Regular-6bd4" transform="translate(1677.899719 0)"/>
    </g>
   </g>
-  <g id="text_15">
+  <g id="text_11">
    <!-- Goldman Sachs, Global Credit Trader: IG Private Placements—No Longer Niche, 2026-08-20 -->
    <g style="fill: #9ba0a6" transform="translate(46.44 346.5664) scale(0.08 -0.08)">
     <defs>
@@ -2948,8 +2889,8 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p590cffd353">
-   <rect x="46.44" y="70.56" width="526.32" height="222.264"/>
+  <clipPath id="p38f1083c0e">
+   <rect x="46.44" y="63.504" width="526.32" height="229.32"/>
   </clipPath>
  </defs>
 </svg>
