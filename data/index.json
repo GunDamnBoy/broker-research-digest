@@ -161,10 +161,48 @@
     }
    ],
    "file": "data/2026-08-23.json"
+  },
+  {
+   "date": "2026-06-28",
+   "week": "2026-W26",
+   "range": [
+    "2026-06-22",
+    "2026-06-28"
+   ],
+   "reports": 1,
+   "brokers": {
+    "Goldman Sachs": 1
+   },
+   "tags": [
+    "人工智慧",
+    "勞動市場",
+    "生產力",
+    "美國",
+    "美股"
+   ],
+   "items": [
+    {
+     "slug": "2026-06-25-goldman-sachs-top-of-mind",
+     "broker": "Goldman Sachs",
+     "title": "Top of Mind_ An AI job apocalypse_",
+     "date": "2026-06-25",
+     "pages": 26,
+     "tags": [
+      "美國",
+      "人工智慧",
+      "勞動市場",
+      "生產力",
+      "美股"
+     ],
+     "chars": 4100,
+     "headline": "AI 的就業衝擊已經量得出來，卻小到不值得定價；高盛要你相信的是它會先變大、再被新創造的工作吸收回去"
+    }
+   ],
+   "file": "data/2026-06-28.json"
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-08-21T22:47:30+00:00",
- "updatedLabel": "8/22 06:47",
- "count": 1
+ "updated": "2026-08-22T01:21:53+00:00",
+ "updatedLabel": "8/22 09:21",
+ "count": 2
 }
