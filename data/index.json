@@ -163,6 +163,46 @@
    "file": "data/2026-08-23.json"
   },
   {
+   "date": "2026-07-26",
+   "week": "2026-W30",
+   "range": [
+    "2026-07-20",
+    "2026-07-26"
+   ],
+   "reports": 1,
+   "brokers": {
+    "Goldman Sachs": 1
+   },
+   "tags": [
+    "人工智慧",
+    "投資級信用",
+    "指數納入資格",
+    "美國",
+    "美股",
+    "首次公開發行"
+   ],
+   "items": [
+    {
+     "slug": "2026-07-22-goldman-sachs-top-of-mind",
+     "broker": "Goldman Sachs",
+     "title": "Top of Mind_ IPO surge_ a red flag for markets_",
+     "date": "2026-07-22",
+     "pages": 24,
+     "tags": [
+      "美國",
+      "美股",
+      "首次公開發行",
+      "人工智慧",
+      "投資級信用",
+      "指數納入資格"
+     ],
+     "chars": 4494,
+     "headline": "IPO 金額破紀錄是幾筆超大案堆出來的，不是週期見頂的警訊"
+    }
+   ],
+   "file": "data/2026-07-26.json"
+  },
+  {
    "date": "2026-06-28",
    "week": "2026-W26",
    "range": [
@@ -202,7 +242,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-08-22T01:21:53+00:00",
+ "updated": "2026-08-22T01:21:59+00:00",
  "updatedLabel": "8/22 09:21",
- "count": 2
+ "count": 3
 }
