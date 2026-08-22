@@ -163,6 +163,46 @@
    "file": "data/2026-08-23.json"
   },
   {
+   "date": "2026-08-02",
+   "week": "2026-W31",
+   "range": [
+    "2026-07-27",
+    "2026-08-02"
+   ],
+   "reports": 1,
+   "brokers": {
+    "Goldman Sachs": 1
+   },
+   "tags": [
+    "天然氣",
+    "德州",
+    "美國",
+    "聯邦能源管理委員會",
+    "資料中心",
+    "電力"
+   ],
+   "items": [
+    {
+     "slug": "2026-07-29-goldman-sachs-power-tracker",
+     "broker": "Goldman Sachs",
+     "title": "Power Tracker_ PJM and ERCOT_ Record Demand vs Price Divergence",
+     "date": "2026-07-29",
+     "pages": 20,
+     "tags": [
+      "美國",
+      "德州",
+      "電力",
+      "資料中心",
+      "天然氣",
+      "聯邦能源管理委員會"
+     ],
+     "chars": 3641,
+     "headline": "破紀錄的用電需求兩邊都有，破紀錄的電價只有 PJM——差別不在需求，在誰把供給蓋出來了"
+    }
+   ],
+   "file": "data/2026-08-02.json"
+  },
+  {
    "date": "2026-07-26",
    "week": "2026-W30",
    "range": [
@@ -242,7 +282,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-08-22T01:21:59+00:00",
- "updatedLabel": "8/22 09:21",
- "count": 3
+ "updated": "2026-08-22T01:22:06+00:00",
+ "updatedLabel": "8/22 09:22",
+ "count": 4
 }
