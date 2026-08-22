@@ -163,6 +163,44 @@
    "file": "data/2026-08-23.json"
   },
   {
+   "date": "2026-08-16",
+   "week": "2026-W33",
+   "range": [
+    "2026-08-10",
+    "2026-08-16"
+   ],
+   "reports": 1,
+   "brokers": {
+    "Goldman Sachs": 1
+   },
+   "tags": [
+    "前瞻指引",
+    "央行溝通",
+    "美國",
+    "聯準會",
+    "點陣圖"
+   ],
+   "items": [
+    {
+     "slug": "2026-08-14-goldman-sachs-global-economics-analyst",
+     "broker": "Goldman Sachs",
+     "title": "Global Economics Analyst_ What Has the World Learned About Central Bank Communication_",
+     "date": "2026-08-14",
+     "pages": 14,
+     "tags": [
+      "美國",
+      "聯準會",
+      "央行溝通",
+      "前瞻指引",
+      "點陣圖"
+     ],
+     "chars": 4520,
+     "headline": "聯準會不是話講太多，而是全球最透明的那一個；華許真要往回收，代價會落在政策傳導上"
+    }
+   ],
+   "file": "data/2026-08-16.json"
+  },
+  {
    "date": "2026-08-02",
    "week": "2026-W31",
    "range": [
@@ -282,7 +320,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-08-22T01:22:06+00:00",
+ "updated": "2026-08-22T01:22:12+00:00",
  "updatedLabel": "8/22 09:22",
- "count": 4
+ "count": 5
 }
