@@ -7,20 +7,33 @@
     "2026-08-17",
     "2026-08-23"
    ],
-   "reports": 7,
+   "reports": 14,
    "brokers": {
     "Citi": 2,
-    "Goldman Sachs": 3,
+    "Goldman Sachs": 10,
     "Nomura": 2
    },
    "tags": [
     "中國",
+    "中小企業融資",
     "中東",
+    "亞股",
+    "人口老化",
+    "人工智慧",
+    "共同基金",
     "出口配額",
     "前瞻指引",
+    "創投",
+    "勞動市場",
+    "印度",
+    "印度央行",
     "原油",
+    "台灣",
     "外人直接投資",
     "央行溝通",
+    "建材",
+    "德國",
+    "德州",
     "戰略石油儲備",
     "投資級信用",
     "指數納入資格",
@@ -30,18 +43,115 @@
     "泰國",
     "泰國投資委員會",
     "煉油產能",
+    "生產力",
     "石油庫存",
     "私募債",
+    "移民",
     "美國",
     "美國公債",
+    "美股",
     "聯準會",
     "資料中心",
+    "軟體",
     "通膨",
+    "避險基金",
+    "金融科技",
+    "金融股",
+    "銀行股",
+    "電力",
     "電動車",
+    "非住宅營建",
+    "韓國",
+    "領先指標",
     "馬來西亞",
     "點陣圖"
    ],
    "items": [
+    {
+     "slug": "2026-08-22-goldman-sachs-asia-pacific-weekly-kickstart",
+     "broker": "Goldman Sachs",
+     "title": "Asia-Pacific Weekly Kickstart_ MXAPJ rose another 1% as HK_China Offshore rebounded and Asian FX strengthened despite resumed...",
+     "date": "2026-08-22",
+     "pages": 35,
+     "tags": [
+      "韓國",
+      "台灣",
+      "亞股",
+      "避險基金",
+      "共同基金",
+      "指數納入資格"
+     ],
+     "chars": 5570,
+     "headline": "這一波亞股不是外資買出來的：主動部位還在減，而高盛把最大的加碼押在被賣最凶的韓國與台灣"
+    },
+    {
+     "slug": "2026-08-21-goldman-sachs-us-weekly-kickstart",
+     "broker": "Goldman Sachs",
+     "title": "US Weekly Kickstart_ Hedge funds and mutual funds differ on AI but converge on Financials",
+     "date": "2026-08-21",
+     "pages": 23,
+     "tags": [
+      "美股",
+      "美國",
+      "人工智慧",
+      "避險基金",
+      "共同基金",
+      "金融股"
+     ],
+     "chars": 3875,
+     "headline": "今年的報酬不是最擁擠的部位貢獻的：兩類法人在 AI 上分歧，卻同時押進金融股"
+    },
+    {
+     "slug": "2026-08-21-goldman-sachs-americas-technology",
+     "broker": "Goldman Sachs",
+     "title": "Americas Technology_ Takeaways From Our 3rd Annual Silicon Valley AI Field Trip",
+     "date": "2026-08-21",
+     "pages": 41,
+     "tags": [
+      "美股",
+      "人工智慧",
+      "軟體",
+      "資料中心",
+      "生產力",
+      "創投"
+     ],
+     "chars": 4944,
+     "headline": "AI 的下一段成長卡在企業願不願意把責任交出去，不在模型還能變多強"
+    },
+    {
+     "slug": "2026-08-21-goldman-sachs-americas-engineering-construction",
+     "broker": "Goldman Sachs",
+     "title": "Americas Engineering & Construction_ GS Data Center Construction Spending Tracker_ Texas leads, new markets emerge",
+     "date": "2026-08-21",
+     "pages": 17,
+     "tags": [
+      "美國",
+      "德州",
+      "美股",
+      "資料中心",
+      "非住宅營建",
+      "電力"
+     ],
+     "chars": 4414,
+     "headline": "全國資料中心支出加速是真的，但誰吃得到已經由州別決定，不再由總量決定"
+    },
+    {
+     "slug": "2026-08-21-goldman-sachs-americas-construction",
+     "broker": "Goldman Sachs",
+     "title": "Americas Construction_ Building Products_ Non-Residential Construction_ Data Centers and Institutional Projects Support Growt...",
+     "date": "2026-08-21",
+     "pages": 10,
+     "tags": [
+      "美國",
+      "美股",
+      "資料中心",
+      "非住宅營建",
+      "建材",
+      "領先指標"
+     ],
+     "chars": 2706,
+     "headline": "非住宅營建的成長只剩資料中心與機構型專案，其餘垂直市場整片是負的"
+    },
     {
      "slug": "2026-08-20-nomura-asia-insights",
      "broker": "Nomura",
@@ -75,6 +185,23 @@
      ],
      "chars": 3919,
      "headline": "全球煉廠開工量年減近 700 萬桶／日，成品油裂解價差卻黏在歷史高檔"
+    },
+    {
+     "slug": "2026-08-20-goldman-sachs-india-financials",
+     "broker": "Goldman Sachs",
+     "title": "India Financials_ What Could Drive the Return of Private Banks_",
+     "date": "2026-08-20",
+     "pages": 60,
+     "tags": [
+      "印度",
+      "銀行股",
+      "印度央行",
+      "中小企業融資",
+      "生產力",
+      "金融科技"
+     ],
+     "chars": 4980,
+     "headline": "私人銀行的折價不會靠總體環境回來，只會靠自己把 45 個基點的獲利做出來"
     },
     {
      "slug": "2026-08-20-goldman-sachs-global-credit-trader",
@@ -158,6 +285,22 @@
      ],
      "chars": 4405,
      "headline": "把看得見的去化速度直線外推，油庫幾時見底"
+    },
+    {
+     "slug": "2026-08-18-goldman-sachs-european-economics-analyst",
+     "broker": "Goldman Sachs",
+     "title": "European Economics Analyst_ Germany—A Cyclically Loose but Structurally Tighter Labour Market",
+     "date": "2026-08-18",
+     "pages": 12,
+     "tags": [
+      "德國",
+      "勞動市場",
+      "人口老化",
+      "移民",
+      "生產力"
+     ],
+     "chars": 3902,
+     "headline": "德國的裁員潮不會推高失業率——因為勞動力本身正在消失，代價改記在潛在成長上"
     }
    ],
    "file": "data/2026-08-23.json"
@@ -320,7 +463,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-08-22T01:22:12+00:00",
- "updatedLabel": "8/22 09:22",
+ "updated": "2026-08-22T01:59:47+00:00",
+ "updatedLabel": "8/22 09:59",
  "count": 5
 }
