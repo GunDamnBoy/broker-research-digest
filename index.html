@@ -99,6 +99,25 @@ details li{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
 .qt td.th{white-space:nowrap;color:var(--muted);font-size:12px}
 .qt td.pg{text-align:right;color:var(--faint);font-size:12px}
 .scroll{overflow-x:auto}
+.nav-t{font-size:13.5px;color:var(--muted);cursor:pointer;padding:2px 0;
+  border-bottom:2px solid transparent}
+.nav-t.on{color:var(--ink);font-weight:700;border-bottom-color:var(--accent)}
+.th-grp{margin:22px 0 10px;padding-bottom:5px;border-bottom:1px solid var(--rule);
+  display:flex;align-items:baseline;gap:9px}
+.th-grp h2{margin:0;font-size:14px;font-weight:700;letter-spacing:.03em}
+.th-grp .n{color:var(--faint);font-size:12px}
+.st{background:var(--card);border:1px solid var(--rule);border-left:3px solid var(--accent);
+  border-radius:6px;padding:12px 15px;margin-bottom:9px}
+.st .m{font-size:11.5px;color:var(--faint);display:flex;gap:8px;flex-wrap:wrap;
+  align-items:center;margin-bottom:6px}
+.st .m .bk{color:var(--accent);font-weight:700}
+.st .m a{color:var(--navy)}
+.st .en{font-size:13.5px;line-height:1.6;color:var(--muted);font-style:italic}
+.st .zh{font-size:14.5px;line-height:1.7;margin-top:5px}
+.st .vd{margin-top:7px;font-size:12.5px;color:var(--navy)}
+.badge{border-radius:10px;padding:1px 8px;font-size:11px;background:var(--chip);
+  color:var(--muted)}
+.badge.due{background:#F5E6E4;color:var(--accent)}
 code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.88em;
   background:var(--chip);padding:1px 5px;border-radius:3px}
 .nav{display:flex;justify-content:space-between;gap:12px;margin-top:20px;
@@ -121,6 +140,8 @@ footer b{color:var(--muted)}
   <div class="hd">
     <h1>外資報告週摘</h1>
     <span class="up" id="up"></span>
+    <span class="nav-t" id="tab-list">報告</span>
+    <span class="nav-t" id="tab-wall">原句牆</span>
     <span class="sp"></span>
     <input id="q" type="search" placeholder="搜尋標題、標籤、一句話…" autocomplete="off">
   </div>
@@ -148,7 +169,8 @@ const S = { idx:null, weeks:{}, tags:new Set(), brokers:new Set(),
 /* `title` 是檔名去副檔名 —— macOS 的檔名放不了冒號，券商就用 `_` 代替。
    **這一層只改顯示，不回寫資料。** 冒號是猜的，猜錯了要能一眼看出是排版問題；
    寫回 JSON 就變成無法分辨的既成事實。 */
-const pretty = t => String(t??"").replace(/_\s+/g, "：").trim();
+const pretty = t => String(t??"").replace(/_\s+/g, "：").trim()
+  .replace(/_+$/, "？");   // 結尾的 `_` 是被檔名替換掉的問號
 const esc = s => String(s??"").replace(/[&<>"]/g, c =>
   ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 // 行內版：`watch` 與 `notes` 是一行一條的字串，但**它們一樣是我們寫的 Markdown**。
@@ -199,8 +221,12 @@ async function boot(){
   }
   window.addEventListener("hashchange", route);
   document.getElementById("q").addEventListener("input", e=>{
-    S.q = e.target.value.trim(); if(!location.hash.startsWith("#/r/")) render();
+    S.q = e.target.value.trim();
+    if(location.hash.startsWith("#/wall")) showWall();
+    else if(!location.hash.startsWith("#/r/") && !location.hash.startsWith("#/w/")) render();
   });
+  document.getElementById("tab-list").onclick = ()=>{ location.hash=""; };
+  document.getElementById("tab-wall").onclick = ()=>{ location.hash="#/wall"; };
   route();
 }
 
@@ -296,6 +322,76 @@ function render(){
   });
 }
 
+let WALL = null;
+async function wall(){
+  if(WALL) return WALL;
+  const r = await fetch("data/stances.json", {cache:"no-store"});
+  if(!r.ok) throw new Error(`data/stances.json → HTTP ${r.status}`);
+  return (WALL = await r.json());
+}
+
+function stanceCard(it, today){
+  const overdue = it.status === "觀察中" && it.due && it.due < today;
+  const bd = overdue ? `<span class="badge due">已到期待判　${esc(it.due)}</span>`
+                     : `<span class="badge">${esc(it.status)}</span>`;
+  return `<div class="st">
+    <div class="m"><span class="bk">${esc(it.broker||"")}</span>
+      <span>${esc(it.date||"")}</span>
+      <a href="#/r/${esc(weekEnd(it.week))}/${esc(it.slug)}">${esc(pretty(it.title)).slice(0,40)}</a>
+      <span>第 ${it.page??"?"} 頁</span>${bd}</div>
+    <div class="en">${esc(it.quote||"")}</div>
+    <div class="zh">${esc(it.quote_zh||"")}</div>
+    ${it.verdict?`<div class="vd">判決（${esc(it.verdictDate||"")}）：${mdi(it.verdict)}</div>`:""}
+  </div>`;
+}
+
+// 週次 → 該週週日，用來組回單篇的連結（`data/<週日>.json` 是發布的檔名）
+function weekEnd(w){
+  const m = String(w||"").match(/^(\d{4})-W(\d{2})$/);
+  if(!m) return "";
+  const y=+m[1], n=+m[2];
+  const jan4 = new Date(Date.UTC(y,0,4));
+  const mon = new Date(jan4); mon.setUTCDate(jan4.getUTCDate()-((jan4.getUTCDay()+6)%7)+(n-1)*7);
+  const sun = new Date(mon); sun.setUTCDate(mon.getUTCDate()+6);
+  return sun.toISOString().slice(0,10);
+}
+
+async function showWall(){
+  drawFilters(false);
+  const m = document.getElementById("main");
+  m.innerHTML = `<p class="empty">載入中…</p>`;
+  let d;
+  try{ d = await wall(); }
+  catch(e){ m.innerHTML=`<p class="empty"><b>原句牆載不進來</b><br>${esc(e.message)}<br>
+    <sub>還沒有 data/stances.json 的話，下一輪組檔就會產生。</sub></p>`; return; }
+  const today = new Date().toISOString().slice(0,10);
+  let items = d.items||[];
+  if(S.q){
+    const k=S.q.toLowerCase();
+    items = items.filter(i=>[i.quote,i.quote_zh,i.broker,i.theme,i.title,...(i.tags||[])]
+      .join(" ").toLowerCase().includes(k));
+  }
+  const by = {};
+  for(const i of items) (by[i.theme||"（未分組）"] ||= []).push(i);
+  const themes = Object.keys(by).sort((a,b)=> by[b].length-by[a].length);
+  const overdue = items.filter(i=>i.status==="觀察中" && i.due && i.due<today).length;
+  let h = `<p class="count">共 <b>${items.length}</b> 筆分析師原句　·　${themes.length} 個主題`
+    + (overdue?`　·　<b style="color:var(--accent)">${overdue} 筆已到期待判</b>`:"")
+    + (S.q?`<span class="clear" id="clr">清除搜尋</span>`:"") + `</p>`;
+  h += `<p style="color:var(--muted);font-size:13px;margin:-6px 0 18px">
+    <b>這一頁是這個庫唯一可以被驗證的一層</b> —— 精華與圖是我們做的，只有這些句子是分析師說的。
+    每一筆到期後要回頭判它應驗了沒。</p>`;
+  for(const t of themes){
+    h += `<div class="th-grp"><h2>${esc(t)}</h2><span class="n">${by[t].length} 筆</span></div>`;
+    h += by[t].sort((a,b)=>(b.date||"").localeCompare(a.date||""))
+              .map(i=>stanceCard(i,today)).join("");
+  }
+  m.innerHTML = h;
+  const c=document.getElementById("clr");
+  if(c) c.onclick=()=>{ S.q=""; document.getElementById("q").value=""; showWall(); };
+  window.scrollTo(0,0);
+}
+
 async function week(date){
   if(S.weeks[date]) return S.weeks[date];
   const r = await fetch(`data/${date}.json`, {cache:"no-store"});
@@ -374,8 +470,16 @@ async function showWeek(date){
   window.scrollTo(0,0);
 }
 
+function tabs(which){
+  for(const [id,on] of [["tab-list",which==="list"],["tab-wall",which==="wall"]]){
+    const el=document.getElementById(id); if(el) el.classList.toggle("on", on);
+  }
+}
+
 function route(){
   const h = location.hash||"";
+  if(h.startsWith("#/wall")){ tabs("wall"); return showWall(); }
+  tabs("list");
   let m2 = h.match(/^#\/r\/([^/]+)\/(.+)$/);
   if(m2) return showReport(m2[1], decodeURIComponent(m2[2]));
   m2 = h.match(/^#\/w\/([^/]+)$/);
