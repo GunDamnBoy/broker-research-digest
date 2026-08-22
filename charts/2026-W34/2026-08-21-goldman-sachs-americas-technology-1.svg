@@ -2999,8 +2999,8 @@ z
    </g>
   </g>
   <g id="text_14">
-   <!-- MSCI 經常性訂閱營收、Moody's Analytics ARR、Thomson Reuters Big 3 有機營收的年增率，2026 年第一 -->
-   <g style="fill: #6b7076" transform="translate(46.44 46.934888) scale(0.1 -0.1)">
+   <!-- MSCI 經常性訂閱營收、Moody's Analytics ARR、Thomson Reuters Big 3 有機營收的年增率，2026 -->
+   <g style="fill: #6b7076" transform="translate(46.44 46.925512) scale(0.1 -0.1)">
     <defs>
      <path id="NotoSansCJKtc-Regular-3001" d="M 3693 1504 
 L 4128 1869 
@@ -3138,14 +3138,10 @@ z
     <use xlink:href="#NotoSansCJKtc-Regular-30" transform="translate(4252.299225 0)"/>
     <use xlink:href="#NotoSansCJKtc-Regular-32" transform="translate(4307.79921 0)"/>
     <use xlink:href="#NotoSansCJKtc-Regular-36" transform="translate(4363.299194 0)"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-20" transform="translate(4418.799179 0)"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-5e74" transform="translate(4441.199173 0)"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-7b2c" transform="translate(4541.199158 0)"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-4e00" transform="translate(4641.199142 0)"/>
    </g>
   </g>
   <g id="text_15">
-   <!-- 季對第二季 -->
+   <!-- 年第一季對第二季 -->
    <g style="fill: #6b7076" transform="translate(46.44 59.115375) scale(0.1 -0.1)">
     <defs>
      <path id="NotoSansCJKtc-Regular-5c0d" d="M 3667 2554 
@@ -3228,21 +3224,72 @@ L 2605 3546
 z
 " transform="scale(0.015625)"/>
     </defs>
-    <use xlink:href="#NotoSansCJKtc-Regular-5b63"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-5c0d" transform="translate(99.999985 0)"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-7b2c" transform="translate(199.999969 0)"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-4e8c" transform="translate(299.999954 0)"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-5b63" transform="translate(399.999939 0)"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-5e74"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-7b2c" transform="translate(99.999985 0)"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-4e00" transform="translate(199.999969 0)"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-5b63" transform="translate(299.999954 0)"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-5c0d" transform="translate(399.999939 0)"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-7b2c" transform="translate(499.999924 0)"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-4e8c" transform="translate(599.999908 0)"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-5b63" transform="translate(699.999893 0)"/>
    </g>
   </g>
   <g id="text_16">
-   <!-- ） -->
+   <!-- 頁） -->
    <g style="fill: #9ba0a6" transform="translate(46.44 346.7339) scale(0.08 -0.08)">
-    <use xlink:href="#NotoSansCJKtc-Regular-ff09"/>
+    <defs>
+     <path id="NotoSansCJKtc-Regular-9801" d="M 1632 2682 
+L 4864 2682 
+L 4864 2099 
+L 1632 2099 
+L 1632 2682 
+z
+M 1632 1728 
+L 4864 1728 
+L 4864 1133 
+L 1632 1133 
+L 1632 1728 
+z
+M 1632 3635 
+L 4864 3635 
+L 4864 3053 
+L 1632 3053 
+L 1632 3635 
+z
+M 3674 326 
+C 4422 70 5184 -269 5638 -518 
+L 6093 -192 
+C 5594 64 4768 397 4019 640 
+L 3674 326 
+z
+M 2298 672 
+C 1856 378 986 45 294 -141 
+C 403 -237 550 -410 627 -512 
+C 1312 -314 2182 26 2739 365 
+L 2298 672 
+z
+M 518 5043 
+L 518 4602 
+L 2918 4602 
+C 2880 4410 2835 4198 2784 4019 
+L 1133 4019 
+L 1133 749 
+L 5376 749 
+L 5376 4019 
+L 3283 4019 
+L 3469 4602 
+L 5862 4602 
+L 5862 5043 
+L 518 5043 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#NotoSansCJKtc-Regular-9801"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-ff09" transform="translate(99.999985 0)"/>
    </g>
   </g>
   <g id="text_17">
-   <!-- Goldman Sachs, Americas Technology: Takeaways From Our 3rd Annual Silicon Valley AI Field Trip, 2026-08-21（第 31–32 頁 -->
+   <!-- Goldman Sachs, Americas Technology: Takeaways From Our 3rd Annual Silicon Valley AI Field Trip, 2026-08-21（第 31–32 -->
    <g style="fill: #9ba0a6" transform="translate(46.44 338.0992) scale(0.08 -0.08)">
     <defs>
      <path id="NotoSansCJKtc-Regular-47" d="M 2490 -83 
@@ -3400,51 +3447,6 @@ L 294 1997
 L 294 1600 
 z
 " transform="scale(0.015625)"/>
-     <path id="NotoSansCJKtc-Regular-9801" d="M 1632 2682 
-L 4864 2682 
-L 4864 2099 
-L 1632 2099 
-L 1632 2682 
-z
-M 1632 1728 
-L 4864 1728 
-L 4864 1133 
-L 1632 1133 
-L 1632 1728 
-z
-M 1632 3635 
-L 4864 3635 
-L 4864 3053 
-L 1632 3053 
-L 1632 3635 
-z
-M 3674 326 
-C 4422 70 5184 -269 5638 -518 
-L 6093 -192 
-C 5594 64 4768 397 4019 640 
-L 3674 326 
-z
-M 2298 672 
-C 1856 378 986 45 294 -141 
-C 403 -237 550 -410 627 -512 
-C 1312 -314 2182 26 2739 365 
-L 2298 672 
-z
-M 518 5043 
-L 518 4602 
-L 2918 4602 
-C 2880 4410 2835 4198 2784 4019 
-L 1133 4019 
-L 1133 749 
-L 5376 749 
-L 5376 4019 
-L 3283 4019 
-L 3469 4602 
-L 5862 4602 
-L 5862 5043 
-L 518 5043 
-z
-" transform="scale(0.015625)"/>
     </defs>
     <use xlink:href="#NotoSansCJKtc-Regular-47"/>
     <use xlink:href="#NotoSansCJKtc-Regular-6f" transform="translate(68.899994 0)"/>
@@ -3560,8 +3562,6 @@ z
     <use xlink:href="#NotoSansCJKtc-Regular-2013" transform="translate(5447.698853 0)"/>
     <use xlink:href="#NotoSansCJKtc-Regular-33" transform="translate(5501.298843 0)"/>
     <use xlink:href="#NotoSansCJKtc-Regular-32" transform="translate(5556.798828 0)"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-20" transform="translate(5612.298813 0)"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-9801" transform="translate(5634.698807 0)"/>
    </g>
   </g>
  </g>

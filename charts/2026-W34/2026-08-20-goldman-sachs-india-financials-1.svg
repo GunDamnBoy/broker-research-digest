@@ -4287,9 +4287,70 @@ z
    </g>
   </g>
   <g id="text_17">
-   <!-- 槓桿見第 3 頁） -->
+   <!-- 頁；三項槓桿見第 3 頁） -->
    <g style="fill: #9ba0a6" transform="translate(46.44 346.7339) scale(0.08 -0.08)">
     <defs>
+     <path id="NotoSansCJKtc-Regular-9801" d="M 1632 2682 
+L 4864 2682 
+L 4864 2099 
+L 1632 2099 
+L 1632 2682 
+z
+M 1632 1728 
+L 4864 1728 
+L 4864 1133 
+L 1632 1133 
+L 1632 1728 
+z
+M 1632 3635 
+L 4864 3635 
+L 4864 3053 
+L 1632 3053 
+L 1632 3635 
+z
+M 3674 326 
+C 4422 70 5184 -269 5638 -518 
+L 6093 -192 
+C 5594 64 4768 397 4019 640 
+L 3674 326 
+z
+M 2298 672 
+C 1856 378 986 45 294 -141 
+C 403 -237 550 -410 627 -512 
+C 1312 -314 2182 26 2739 365 
+L 2298 672 
+z
+M 518 5043 
+L 518 4602 
+L 2918 4602 
+C 2880 4410 2835 4198 2784 4019 
+L 1133 4019 
+L 1133 749 
+L 5376 749 
+L 5376 4019 
+L 3283 4019 
+L 3469 4602 
+L 5862 4602 
+L 5862 5043 
+L 518 5043 
+z
+" transform="scale(0.015625)"/>
+     <path id="NotoSansCJKtc-Regular-ff1b" d="M 3200 3482 
+C 3456 3482 3686 3667 3686 3962 
+C 3686 4256 3456 4442 3200 4442 
+C 2944 4442 2714 4256 2714 3962 
+C 2714 3667 2944 3482 3200 3482 
+z
+M 2682 -659 
+C 3366 -397 3789 141 3789 883 
+C 3789 1363 3590 1664 3238 1664 
+C 2982 1664 2752 1504 2752 1203 
+C 2752 896 2970 742 3232 742 
+L 3347 755 
+C 3328 256 3053 -83 2534 -320 
+L 2682 -659 
+z
+" transform="scale(0.015625)"/>
      <path id="NotoSansCJKtc-Regular-898b" d="M 1651 3661 
 L 4749 3661 
 L 4749 3002 
@@ -4400,65 +4461,24 @@ L 4666 4531
 L 4384 4301 
 z
 " transform="scale(0.015625)"/>
-     <path id="NotoSansCJKtc-Regular-9801" d="M 1632 2682 
-L 4864 2682 
-L 4864 2099 
-L 1632 2099 
-L 1632 2682 
-z
-M 1632 1728 
-L 4864 1728 
-L 4864 1133 
-L 1632 1133 
-L 1632 1728 
-z
-M 1632 3635 
-L 4864 3635 
-L 4864 3053 
-L 1632 3053 
-L 1632 3635 
-z
-M 3674 326 
-C 4422 70 5184 -269 5638 -518 
-L 6093 -192 
-C 5594 64 4768 397 4019 640 
-L 3674 326 
-z
-M 2298 672 
-C 1856 378 986 45 294 -141 
-C 403 -237 550 -410 627 -512 
-C 1312 -314 2182 26 2739 365 
-L 2298 672 
-z
-M 518 5043 
-L 518 4602 
-L 2918 4602 
-C 2880 4410 2835 4198 2784 4019 
-L 1133 4019 
-L 1133 749 
-L 5376 749 
-L 5376 4019 
-L 3283 4019 
-L 3469 4602 
-L 5862 4602 
-L 5862 5043 
-L 518 5043 
-z
-" transform="scale(0.015625)"/>
     </defs>
-    <use xlink:href="#NotoSansCJKtc-Regular-69d3"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-687f" transform="translate(99.999985 0)"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-898b" transform="translate(199.999969 0)"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-7b2c" transform="translate(299.999954 0)"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-20" transform="translate(399.999939 0)"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-33" transform="translate(422.399933 0)"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-20" transform="translate(477.899918 0)"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-9801" transform="translate(500.299911 0)"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-ff09" transform="translate(600.299896 0)"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-9801"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-ff1b" transform="translate(99.999985 0)"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-4e09" transform="translate(199.999969 0)"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-9805" transform="translate(299.999954 0)"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-69d3" transform="translate(399.999939 0)"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-687f" transform="translate(499.999924 0)"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-898b" transform="translate(599.999908 0)"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-7b2c" transform="translate(699.999893 0)"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-20" transform="translate(799.999878 0)"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-33" transform="translate(822.399872 0)"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-20" transform="translate(877.899857 0)"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-9801" transform="translate(900.29985 0)"/>
+    <use xlink:href="#NotoSansCJKtc-Regular-ff09" transform="translate(1000.299835 0)"/>
    </g>
   </g>
   <g id="text_18">
-   <!-- Goldman Sachs, India Financials: What Could Drive the Return of Private Banks?, 2026-08-20（侵蝕幅度見第 9、25 頁；三項 -->
+   <!-- Goldman Sachs, India Financials: What Could Drive the Return of Private Banks?, 2026-08-20（侵蝕幅度見第 9、25 -->
    <g style="fill: #9ba0a6" transform="translate(46.44 338.2667) scale(0.08 -0.08)">
     <defs>
      <path id="NotoSansCJKtc-Regular-47" d="M 2490 -83 
@@ -5035,22 +5055,6 @@ L 173 538
 C 493 224 941 -83 1677 -83 
 z
 " transform="scale(0.015625)"/>
-     <path id="NotoSansCJKtc-Regular-ff1b" d="M 3200 3482 
-C 3456 3482 3686 3667 3686 3962 
-C 3686 4256 3456 4442 3200 4442 
-C 2944 4442 2714 4256 2714 3962 
-C 2714 3667 2944 3482 3200 3482 
-z
-M 2682 -659 
-C 3366 -397 3789 141 3789 883 
-C 3789 1363 3590 1664 3238 1664 
-C 2982 1664 2752 1504 2752 1203 
-C 2752 896 2970 742 3232 742 
-L 3347 755 
-C 3328 256 3053 -83 2534 -320 
-L 2682 -659 
-z
-" transform="scale(0.015625)"/>
     </defs>
     <use xlink:href="#NotoSansCJKtc-Regular-47"/>
     <use xlink:href="#NotoSansCJKtc-Regular-6f" transform="translate(68.899994 0)"/>
@@ -5154,11 +5158,6 @@ z
     <use xlink:href="#NotoSansCJKtc-Regular-3001" transform="translate(5042.898972 0)"/>
     <use xlink:href="#NotoSansCJKtc-Regular-32" transform="translate(5142.898956 0)"/>
     <use xlink:href="#NotoSansCJKtc-Regular-35" transform="translate(5198.398941 0)"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-20" transform="translate(5253.898926 0)"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-9801" transform="translate(5276.29892 0)"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-ff1b" transform="translate(5376.298904 0)"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-4e09" transform="translate(5476.298889 0)"/>
-    <use xlink:href="#NotoSansCJKtc-Regular-9805" transform="translate(5576.298874 0)"/>
    </g>
   </g>
  </g>
