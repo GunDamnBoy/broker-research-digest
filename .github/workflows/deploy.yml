@@ -31,19 +31,33 @@ jobs:
           cp -R charts _site/
           du -sh _site
 
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
-      - id: deployment
-        uses: actions/deploy-pages@v4
-
+      # **checkout 移到上傳之前**，因為下面那道守衛要在上傳前跑。
+      # 它落在工作目錄的 `kb-core/`，而上面的白名單只挑 index.html／data／charts，
+      # 所以它不會被發布出去 —— 那張白名單現在多擔了一個責任。
       - name: 取驗證程式
         uses: actions/checkout@v5
         with:
           repository: GunDamnBoy/kb-core
           path: kb-core
 
-      # **部署完不等於讀者看得到。**
+      # **內容守衛，跑在上傳之前。**
+      # 2026-08-23：`data/index.json` 帶著舊的檔名標題上線，而下面那道
+      # `verify_live` 是**綠的而且它是對的** —— 線上與剛上傳的完全一致，
+      # 投遞沒問題，內容有問題。一個只驗投遞的守衛，對內容錯誤永遠是綠的。
+      #
+      # 這一道走整棵樹找「同時有 slug 與 title 的物件」，不列鍵名 ——
+      # 那次漏掉的成因正是一張鍵名對照表：報告在 `days[].items[]`，
+      # 比表裡假設的深兩層，於是它一列都沒被檢查到。
+      - name: 驗證要發出去的資料本身
+        run: python3 kb-core/tools/verify_site_data.py _site
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4
+
+      # **部署完不等於讀者看得到。** 這一道問的是投遞，不是內容（見上）。
       - name: 驗證線上那份就是剛上傳的那份
         run: |
           python3 kb-core/tools/verify_live.py \
