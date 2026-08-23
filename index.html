@@ -54,6 +54,17 @@ main{padding:22px 0 70px}
   align-items:center;margin-bottom:5px}
 .bk{color:var(--accent);font-weight:700;letter-spacing:.02em}
 .card h3{margin:0 0 6px;font-size:16.5px;font-weight:500;line-height:1.5}
+/* 標題沒取到真實值時掛的記號。**它該顯眼，因為它代表資料層有一份沒認出來** —— 
+   一個安靜的檔名標題看起來就是一個好標題，那正是要避免的。 */
+.warn-src{font-size:12px;font-weight:600;color:#b45309;white-space:nowrap}
+/* 失敗要看得見。**兩者都曾經是「輸出看起來完全正常」的失效** —— 
+   圖沒畫出來時網站顯示成沒安排圖，篇幅出界只印在沒人看的 stdout。 */
+.chart-miss{border:1px dashed #d97706;background:#fffbeb;border-radius:8px;
+  padding:12px 14px;margin:18px 0;font-size:13px;line-height:1.6}
+.chart-miss b{color:#b45309}
+.chart-miss code{display:block;margin-top:6px;font-size:12px;color:#7c2d12;
+  white-space:pre-wrap;word-break:break-word}
+.band-out{color:#b45309;font-weight:600}
 .hl{color:var(--muted);font-size:14px;margin:0 0 10px}
 .tg{display:flex;gap:5px;flex-wrap:wrap}
 .tg span{background:var(--chip);border-radius:11px;padding:1.5px 9px;
@@ -166,11 +177,14 @@ const S = { idx:null, weeks:{}, tags:new Set(), brokers:new Set(),
    只支援精華實際會用到的東西：標題、粗體、清單、段落。
    不引外部函式庫，因為這一份的輸入是我們自己產的、形狀已知，
    而**引一個什麼都支援的轉譯器，就要連它支援的 HTML 一起收下**。 */
-/* `title` 是檔名去副檔名 —— macOS 的檔名放不了冒號，券商就用 `_` 代替。
-   **這一層只改顯示，不回寫資料。** 冒號是猜的，猜錯了要能一眼看出是排版問題；
-   寫回 JSON 就變成無法分辨的既成事實。 */
-const pretty = t => String(t??"").replace(/_\s+/g, "：").trim()
-  .replace(/_+$/, "？");   // 結尾的 `_` 是被檔名替換掉的問號
+/* 2026-08-23 之前，`title` 是檔名去副檔名，這裡靠 `_` → `：` 猜回冒號。
+   那個猜測現在退休了：標題由 `title.py` 從 PDF 中繼資料或第一頁取出真實標題，
+   `title_source` 記著它從哪裡來。**這一層不再改任何字。**
+
+   留一個空殼而不是全部拿掉，是因為舊的 `data/*.json` 若有漏網的還會帶 `_`；
+   它把那種情況原樣顯示出來 —— **看得見的舊資料，比被修飾過的舊資料好。**
+   `title_source === "filename"` 的那幾筆會另外掛一個記號（見 card()）。 */
+const pretty = t => String(t??"").trim();
 const esc = s => String(s??"").replace(/[&<>"]/g, c =>
   ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 // 行內版：`watch` 與 `notes` 是一行一條的字串，但**它們一樣是我們寫的 Markdown**。
@@ -287,7 +301,10 @@ function card(d,it){
     <div class="meta"><span class="bk">${esc(it.broker||"")}</span>
       <span>${esc(it.date||"")}</span><span>${it.pages||"?"} 頁</span>
       <span>${(it.chars||0).toLocaleString()} 字</span></div>
-    <h3>${esc(pretty(it.title))}</h3>
+    <h3>${esc(pretty(it.title))}${it.title_source==="filename"
+      ? ` <span class="warn-src" title="這一份沒有取到真實標題，顯示的是檔名">（檔名）</span>`
+      : (it.title_source && it.title_confident===false
+      ? ` <span class="warn-src" title="標題取到了，但來源自己被截斷，尾巴可能缺一段">（可能不完整）</span>` : "")}</h3>
     ${it.headline?`<p class="hl">${esc(it.headline)}</p>`:""}
     <div class="tg">${(it.tags||[]).map(t=>`<span>${esc(t)}</span>`).join("")}</div>
   </div>`;
@@ -399,8 +416,31 @@ async function week(date){
   return (S.weeks[date] = await r.json());
 }
 
+/* 篇幅出界原本只印到 assemble.py 的 stdout。**沒有人盯 stdout** ——
+   於是過短或過長的精華跟剛好的一起發布，外觀完全沒有差別。
+   `tier_band` 一直在資料裡，只是沒有任何東西讀它。 */
+const outOfBand = r => {
+  const b = r.tier_band, n = r.summary_chars;
+  if(!Array.isArray(b) || b.length!==2 || typeof n!=="number") return 0;
+  return n < b[0] ? -1 : (n > b[1] ? 1 : 0);
+};
+const bandCls  = r => outOfBand(r) ? ` class="band-out"` : "";
+const bandNote = r => { const o = outOfBand(r), b = r.tier_band;
+  return o < 0 ? `（不足，目標 ${b[0].toLocaleString()}–${b[1].toLocaleString()}）`
+       : o > 0 ? `（超出，目標 ${b[0].toLocaleString()}–${b[1].toLocaleString()}）` : ""; };
+
 function chartHTML(w,c){
-  if(!c || !c.png) return "";
+  if(!c) return "";
+  /* **沒有 png 時不能回空字串。** assemble.py 會把渲染失敗寫進 `render_error`，
+     `render.py` 的 .md 版本會印出來，而這裡原本直接 return "" ——
+     於是「這張圖畫不出來」在網站上跟「這份報告本來就沒安排圖」長得一模一樣，
+     而 `render_error` 完全沒有出口。撰寫者永遠不會知道他的圖沒上線。 */
+  if(!c.png) return `<figure class="chart-miss">
+    <b>這張圖沒有渲染出來</b>
+    <div>${esc(c.title||"（沒有標題）")}</div>
+    ${c.render_error?`<code>${esc(String(c.render_error).slice(0,240))}</code>`
+      :`<code>沒有 png、也沒有 render_error —— 組檔那一層連失敗都沒記下來</code>`}
+    </figure>`;
   const g = (c.grounding||[]).map(x=>`<li>${esc(x)}</li>`).join("");
   return `<figure>
     <img src="charts/${esc(w)}/${esc(c.png)}" alt="${esc(c.title||"")}" loading="lazy">
@@ -424,8 +464,9 @@ async function showReport(date, slug){
   m.innerHTML = `<span class="back" id="bk">← 回列表</span>
    <article>
     <div class="sub"><span class="bk">${esc(r.broker||"")}</span>
+      ${r.product?`<span>${esc(r.product)}${r.issue?` #${esc(r.issue)}`:""}</span>`:""}
       <span>${esc(r.date||"")}</span><span>${r.pages||"?"} 頁</span>
-      <span>${(r.summary_chars||0).toLocaleString()} 字</span>
+      <span${bandCls(r)}>${(r.summary_chars||0).toLocaleString()} 字${bandNote(r)}</span>
       <span>${esc(d.week||"")}</span></div>
     <h1>${esc(pretty(r.title))}</h1>
     <div class="tg">${(r.tags||[]).map(t=>`<span>${esc(t)}</span>`).join("")}</div>

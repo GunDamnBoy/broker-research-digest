@@ -33,7 +33,7 @@
    "slug": "2026-07-29-goldman-sachs-power-tracker",
    "broker": "Goldman Sachs",
    "product": "Power Tracker",
-   "title": "Power Tracker_ PJM and ERCOT_ Record Demand vs Price Divergence",
+   "title": "Power Tracker: PJM and ERCOT: Record Demand vs Price Divergence",
    "date": "2026-07-29",
    "pages": 20,
    "issue": null,
@@ -110,7 +110,9 @@
      "svg": "2026-07-29-goldman-sachs-power-tracker-1.svg",
      "bytes": 83472
     }
-   ]
+   ],
+   "title_source": "pdf_meta",
+   "title_confident": true
   }
  ],
  "crosscut": "**本期只收錄一份報告，因此沒有交叉觀察。**\n\n分歧要兩家對同一件事給出不同答案才寫得出來。這一期是補收先前累積的報告，不是那一週真的只有一份研究出版 —— **「沒有分歧」與「只有一個聲音」是兩件事**，這裡是後者。",

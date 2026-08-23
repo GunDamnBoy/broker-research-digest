@@ -30,7 +30,7 @@
    "slug": "2026-08-14-goldman-sachs-global-economics-analyst",
    "broker": "Goldman Sachs",
    "product": "Global Economics Analyst",
-   "title": "Global Economics Analyst_ What Has the World Learned About Central Bank Communication_",
+   "title": "Global Economics Analyst: What Has the World Learned About Central Bank Communication?",
    "date": "2026-08-14",
    "pages": 14,
    "issue": null,
@@ -104,7 +104,9 @@
      "svg": "2026-08-14-goldman-sachs-global-economics-analyst-1.svg",
      "bytes": 125512
     }
-   ]
+   ],
+   "title_source": "pdf_meta",
+   "title_confident": true
   }
  ],
  "crosscut": "**本期只收錄一份報告，因此沒有交叉觀察。**\n\n分歧要兩家對同一件事給出不同答案才寫得出來。這一期是補收先前累積的報告，不是那一週真的只有一份研究出版 —— **「沒有分歧」與「只有一個聲音」是兩件事**，這裡是後者。",

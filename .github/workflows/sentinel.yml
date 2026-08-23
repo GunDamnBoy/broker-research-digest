@@ -1,0 +1,36 @@
+# 哨兵：問「這個站還活著嗎」，跑在 GitHub 而不是 Mac 上。
+#
+# 實作在 kb-core 的 reusable workflow，四個資料 repo 共用一份 ——
+# 四份各自演化的哨兵，遲早會變成四種不同的判準。
+#
+# **這一套是週頻的，所以 cron 與門檻都跟另外三套不同。**
+# 門檻不再寫死在檢查裡：`System.cadence_hours` 宣告 168 小時，
+# 哨兵取它的 1.5 倍（252 小時 ≈ 10.5 天）。
+#
+# 日頻那三套排在每天 07:20 UTC。這一套排**週二 03:00 UTC（11:00 台北）**：
+# 產出在週日 23:00 台北（週日 15:00 UTC），所以哨兵在產出後約 36 小時問話 ——
+# 早到足以在你週一還記得的時候叫，晚到不會撞上 GitHub 的排程延遲
+# （2026-08-20 那次延了五小時）。
+#
+# **一週只問一次是刻意的。** 每天問一次的話，一週會有六天說「資料是舊的」，
+# 而那六次全都是對的、也全都不需要任何人做任何事 ——
+# **一個每天都響而且每天都該被忽略的警報，會把該響的那次一起帶走。**
+name: sentinel
+
+on:
+  schedule:
+    - cron: "0 3 * * 2"
+  workflow_dispatch:
+
+jobs:
+  sentinel:
+    uses: GunDamnBoy/kb-core/.github/workflows/sentinel-reusable.yml@main
+    with:
+      system_id: broker-research-digest
+    # **caller 一定要給權限。** 被呼叫的 workflow 在自己那份裡宣告的 permissions
+    # 是上限的「請求」，實際能拿到多少由 caller 決定 —— chart 那支就是漏了這一段，
+    # 從建立到隔天一次都沒成功過（唯一那次 startup_failure），
+    # 而**沒有心跳的樣子跟「哨兵判綠」在遠端看起來都是「沒有紅字」**。
+    permissions:
+      contents: write
+      issues: write

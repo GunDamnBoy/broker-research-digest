@@ -281,7 +281,7 @@
    "slug": "2026-08-22-goldman-sachs-asia-pacific-weekly-kickstart",
    "broker": "Goldman Sachs",
    "product": "Asia-Pacific Weekly Kickstart",
-   "title": "Asia-Pacific Weekly Kickstart_ MXAPJ rose another 1% as HK_China Offshore rebounded and Asian FX strengthened despite resumed...",
+   "title": "Asia-Pacific Weekly Kickstart: MXAPJ rose another 1% as HK/China Offshore rebounded and Asian FX strengthened despite resumed foreign selling; tech exports remained resilient amid higher oil prices",
    "date": "2026-08-22",
    "pages": 35,
    "issue": null,
@@ -398,13 +398,15 @@
      "svg": "2026-08-22-goldman-sachs-asia-pacific-weekly-kickstart-1.svg",
      "bytes": 140099
     }
-   ]
+   ],
+   "title_source": "page_one",
+   "title_confident": true
   },
   {
    "slug": "2026-08-21-nomura-1317180",
    "broker": "Nomura",
    "product": "1317180",
-   "title": "1317180",
+   "title": "Japan Economic Weekly: We need to keep a close eye on the flow of information ahead of September MPM",
    "date": "2026-08-21",
    "pages": 22,
    "issue": null,
@@ -494,13 +496,15 @@
      "svg": "2026-08-21-nomura-1317180-1.svg",
      "bytes": 131209
     }
-   ]
+   ],
+   "title_source": "page_one",
+   "title_confident": true
   },
   {
    "slug": "2026-08-21-nomura-1317175",
    "broker": "Nomura",
    "product": "1317175",
-   "title": "1317175",
+   "title": "Matsuzawa's View: Macro Strategy Weekly: Implications of the Failed 'Bessent Put'",
    "date": "2026-08-21",
    "pages": 16,
    "issue": null,
@@ -579,13 +583,15 @@
      "svg": "2026-08-21-nomura-1317175-1.svg",
      "bytes": 100041
     }
-   ]
+   ],
+   "title_source": "page_one",
+   "title_confident": true
   },
   {
    "slug": "2026-08-21-goldman-sachs-us-weekly-kickstart",
    "broker": "Goldman Sachs",
    "product": "US Weekly Kickstart",
-   "title": "US Weekly Kickstart_ Hedge funds and mutual funds differ on AI but converge on Financials",
+   "title": "US Weekly Kickstart: Hedge funds and mutual funds differ on AI but converge on Financials",
    "date": "2026-08-21",
    "pages": 23,
    "issue": null,
@@ -666,13 +672,15 @@
      "svg": "2026-08-21-goldman-sachs-us-weekly-kickstart-1.svg",
      "bytes": 127477
     }
-   ]
+   ],
+   "title_source": "pdf_meta",
+   "title_confident": true
   },
   {
    "slug": "2026-08-21-goldman-sachs-americas-technology",
    "broker": "Goldman Sachs",
    "product": "Americas Technology",
-   "title": "Americas Technology_ Takeaways From Our 3rd Annual Silicon Valley AI Field Trip",
+   "title": "Americas Technology: Takeaways From Our 3rd Annual Silicon Valley AI Field Trip",
    "date": "2026-08-21",
    "pages": 41,
    "issue": null,
@@ -755,13 +763,15 @@
      "svg": "2026-08-21-goldman-sachs-americas-technology-1.svg",
      "bytes": 125943
     }
-   ]
+   ],
+   "title_source": "pdf_meta",
+   "title_confident": true
   },
   {
    "slug": "2026-08-21-goldman-sachs-americas-engineering-construction",
    "broker": "Goldman Sachs",
    "product": "Americas Engineering & Construction",
-   "title": "Americas Engineering & Construction_ GS Data Center Construction Spending Tracker_ Texas leads, new markets emerge",
+   "title": "Americas Engineering & Construction: GS Data Center Construction Spending Tracker: Texas leads, new markets emerge",
    "date": "2026-08-21",
    "pages": 17,
    "issue": null,
@@ -855,13 +865,15 @@
      "svg": "2026-08-21-goldman-sachs-americas-engineering-construction-1.svg",
      "bytes": 127859
     }
-   ]
+   ],
+   "title_source": "pdf_meta",
+   "title_confident": true
   },
   {
    "slug": "2026-08-21-goldman-sachs-americas-construction",
    "broker": "Goldman Sachs",
    "product": "Americas Construction",
-   "title": "Americas Construction_ Building Products_ Non-Residential Construction_ Data Centers and Institutional Projects Support Growt...",
+   "title": "Americas Construction: Building Products: Non-Residential Construction: Data Centers and Institutional Projects Support Growth in DMI while Billings Deteriorate",
    "date": "2026-08-21",
    "pages": 10,
    "issue": null,
@@ -934,13 +946,15 @@
      "svg": "2026-08-21-goldman-sachs-americas-construction-1.svg",
      "bytes": 110408
     }
-   ]
+   ],
+   "title_source": "page_one",
+   "title_confident": true
   },
   {
    "slug": "2026-08-21-citi-us-rates-weekly-can-secretary-bessent-and-chair-warsh-save-t",
    "broker": "Citi",
    "product": "US Rates Weekly Can Secretary Bessent and Chair Warsh save the curve?",
-   "title": "US Rates Weekly Can Secretary Bessent and Chair Warsh save the curve?",
+   "title": "US Rates Weekly: Can Secretary Bessent and Chair Warsh save the curve?",
    "date": "2026-08-21",
    "pages": 37,
    "issue": null,
@@ -1043,13 +1057,15 @@
      "svg": "2026-08-21-citi-us-rates-weekly-can-secretary-bessent-and-chair-warsh-save-t-1.svg",
      "bytes": 107997
     }
-   ]
+   ],
+   "title_source": "pdf_meta",
+   "title_confident": true
   },
   {
    "slug": "2026-08-21-citi-us-economics-weekly",
    "broker": "Citi",
    "product": "US Economics Weekly",
-   "title": "US Economics Weekly",
+   "title": "US Economics Weekly: The resilient narrative of US resilience",
    "date": "2026-08-21",
    "pages": 22,
    "issue": null,
@@ -1149,13 +1165,15 @@
      "svg": "2026-08-21-citi-us-economics-weekly-1.svg",
      "bytes": 137172
     }
-   ]
+   ],
+   "title_source": "pdf_meta",
+   "title_confident": true
   },
   {
    "slug": "2026-08-21-citi-global-asset-allocation",
    "broker": "Citi",
    "product": "Global Asset Allocation",
-   "title": "Global Asset Allocation",
+   "title": "Global Asset Allocation: House Views August 2026 – Bessent And The Back End",
    "date": "2026-08-21",
    "pages": 33,
    "issue": null,
@@ -1239,13 +1257,15 @@
      "svg": "2026-08-21-citi-global-asset-allocation-1.svg",
      "bytes": 139943
     }
-   ]
+   ],
+   "title_source": "pdf_meta",
+   "title_confident": true
   },
   {
    "slug": "2026-08-20-nomura-asia-insights",
    "broker": "Nomura",
    "product": "Asia Insights",
-   "title": "Asia Insights",
+   "title": "Asia Insights: Thailand: The high concentration of FDI inflows into data centers",
    "date": "2026-08-20",
    "pages": 10,
    "issue": null,
@@ -1319,13 +1339,15 @@
      "svg": "2026-08-20-nomura-asia-insights-1.svg",
      "bytes": 111340
     }
-   ]
+   ],
+   "title_source": "page_one",
+   "title_confident": true
   },
   {
    "slug": "2026-08-20-goldman-sachs-oil-analyst",
    "broker": "Goldman Sachs",
    "product": "Oil Analyst",
-   "title": "Oil Analyst_ Running Hard or Hardly Running_ Effect of Refinery Outages on Runs and Margins",
+   "title": "Oil Analyst: Running Hard or Hardly Running: Effect of Refinery Outages on Runs and Margins",
    "date": "2026-08-20",
    "pages": 13,
    "issue": null,
@@ -1400,13 +1422,15 @@
      "svg": "2026-08-20-goldman-sachs-oil-analyst-1.svg",
      "bytes": 72535
     }
-   ]
+   ],
+   "title_source": "pdf_meta",
+   "title_confident": true
   },
   {
    "slug": "2026-08-20-goldman-sachs-india-financials",
    "broker": "Goldman Sachs",
    "product": "India Financials",
-   "title": "India Financials_ What Could Drive the Return of Private Banks_",
+   "title": "India Financials: What Could Drive the Return of Private Banks?",
    "date": "2026-08-20",
    "pages": 60,
    "issue": null,
@@ -1481,13 +1505,15 @@
      "svg": "2026-08-20-goldman-sachs-india-financials-1.svg",
      "bytes": 123581
     }
-   ]
+   ],
+   "title_source": "pdf_meta",
+   "title_confident": true
   },
   {
    "slug": "2026-08-20-goldman-sachs-global-credit-trader",
    "broker": "Goldman Sachs",
    "product": "Global Credit Trader",
-   "title": "Global Credit Trader_ IG Private Placements—No Longer Niche",
+   "title": "Global Credit Trader: IG Private Placements—No Longer Niche",
    "date": "2026-08-20",
    "pages": 54,
    "issue": null,
@@ -1562,13 +1588,15 @@
      "svg": "2026-08-20-goldman-sachs-global-credit-trader-1.svg",
      "bytes": 74964
     }
-   ]
+   ],
+   "title_source": "pdf_meta",
+   "title_confident": true
   },
   {
    "slug": "2026-08-20-citi-global-economic-outlook-strategy",
    "broker": "Citi",
    "product": "Global Economic Outlook & Strategy",
-   "title": "Global Economic Outlook & Strategy",
+   "title": "Global Economic Outlook & Strategy: Global Resilience—Many Storm Clouds, but Still Little Rain",
    "date": "2026-08-20",
    "pages": 26,
    "issue": null,
@@ -1720,13 +1748,15 @@
      "svg": "2026-08-20-citi-global-economic-outlook-strategy-1.svg",
      "bytes": 100286
     }
-   ]
+   ],
+   "title_source": "pdf_meta",
+   "title_confident": true
   },
   {
    "slug": "2026-08-20-citi-foreign-exchange-forecasts-august-2026",
    "broker": "Citi",
    "product": "Foreign Exchange Forecasts August 2026",
-   "title": "Foreign Exchange Forecasts August 2026",
+   "title": "Foreign Exchange Forecasts: August 2026",
    "date": "2026-08-20",
    "pages": 30,
    "issue": null,
@@ -1818,13 +1848,15 @@
      "svg": "2026-08-20-citi-foreign-exchange-forecasts-august-2026-1.svg",
      "bytes": 114677
     }
-   ]
+   ],
+   "title_source": "pdf_meta",
+   "title_confident": true
   },
   {
    "slug": "2026-08-19-nomura-economic-insights",
    "broker": "Nomura",
    "product": "Economic Insights",
-   "title": "Economic Insights",
+   "title": "Economic Insights: US – Election timing favors Fed patience",
    "date": "2026-08-19",
    "pages": 7,
    "issue": null,
@@ -1900,13 +1932,15 @@
      "svg": "2026-08-19-nomura-economic-insights-1.svg",
      "bytes": 84390
     }
-   ]
+   ],
+   "title_source": "page_one",
+   "title_confident": true
   },
   {
    "slug": "2026-08-19-nomura-1316685",
    "broker": "Nomura",
    "product": "1316685",
-   "title": "1316685",
+   "title": "Asia Insights: Indonesia: BI stays on hold and signals policy continuity",
    "date": "2026-08-19",
    "pages": 8,
    "issue": null,
@@ -1984,13 +2018,15 @@
      "svg": "2026-08-19-nomura-1316685-1.svg",
      "bytes": 106211
     }
-   ]
+   ],
+   "title_source": "page_one",
+   "title_confident": true
   },
   {
    "slug": "2026-08-19-nomura-1316582",
    "broker": "Nomura",
    "product": "1316582",
-   "title": "1316582",
+   "title": "Special Report: Chipnomics: Introducing Nomura's Chip Shortage Index",
    "date": "2026-08-19",
    "pages": 20,
    "issue": null,
@@ -2076,13 +2112,15 @@
      "svg": "2026-08-19-nomura-1316582-1.svg",
      "bytes": 138891
     }
-   ]
+   ],
+   "title_source": "page_one",
+   "title_confident": true
   },
   {
    "slug": "2026-08-19-goldman-sachs-top-of-mind",
    "broker": "Goldman Sachs",
    "product": "Top of Mind",
-   "title": "Top of Mind_ Assessing a less transparent Fed",
+   "title": "Top of Mind: Assessing a less transparent Fed",
    "date": "2026-08-19",
    "pages": 26,
    "issue": "151",
@@ -2158,13 +2196,15 @@
      "svg": "2026-08-19-goldman-sachs-top-of-mind-1.svg",
      "bytes": 109462
     }
-   ]
+   ],
+   "title_source": "pdf_meta",
+   "title_confident": true
   },
   {
    "slug": "2026-08-19-citi-oil-monitor",
    "broker": "Citi",
    "product": "Oil Monitor",
-   "title": "Oil Monitor",
+   "title": "Oil Monitor: At visible draw rates, when do we \"run out\" of oil stockpiles?",
    "date": "2026-08-19",
    "pages": 32,
    "issue": null,
@@ -2269,13 +2309,15 @@
      "svg": "2026-08-19-citi-oil-monitor-1.svg",
      "bytes": 105590
     }
-   ]
+   ],
+   "title_source": "pdf_meta",
+   "title_confident": true
   },
   {
    "slug": "2026-08-18-nomura-1316506",
    "broker": "Nomura",
    "product": "1316506",
-   "title": "1316506",
+   "title": "Richard Koo: How will Japan and US address the risks of inflation and falling behind the curve?",
    "date": "2026-08-18",
    "pages": 13,
    "issue": null,
@@ -2356,13 +2398,15 @@
      "svg": "2026-08-18-nomura-1316506-1.svg",
      "bytes": 118967
     }
-   ]
+   ],
+   "title_source": "page_one",
+   "title_confident": true
   },
   {
    "slug": "2026-08-18-goldman-sachs-european-economics-analyst",
    "broker": "Goldman Sachs",
    "product": "European Economics Analyst",
-   "title": "European Economics Analyst_ Germany—A Cyclically Loose but Structurally Tighter Labour Market",
+   "title": "European Economics Analyst: Germany—A Cyclically Loose but Structurally Tighter Labour Market",
    "date": "2026-08-18",
    "pages": 12,
    "issue": null,
@@ -2433,7 +2477,9 @@
      "svg": "2026-08-18-goldman-sachs-european-economics-analyst-1.svg",
      "bytes": 142690
     }
-   ]
+   ],
+   "title_source": "pdf_meta",
+   "title_confident": true
   }
  ],
  "crosscut": "**這一期真正的新東西是 AI 資本支出那條線 —— 四份報告從四個不同的層面在量同一件事，而且它們彼此補齊、不是分歧。** 高盛的 Americas Construction 量的是體量（商業營建 +13.8%，但**把資料中心扣掉之後是 −16.2%**）；Americas E&C 量的是分布（宣布件數年增率德州 107%、俄亥俄 116%，而維吉尼亞只有 9% —— **集中度與成長率已經分家**）；Power Tracker（W31）量的是它撞到的電網天花板；Global Credit Trader 量的是錢從哪來（AI 相關占美元投資級私募發行兩年內從 3% 到 42%）。四份合起來，是一條從需求、選址、電力到融資的完整鏈。\n\n**分歧在鏈的末端。** Americas Technology 是這一期唯一一份走進現場的：矽谷業者講的是 100 倍 token 消費、季增 5 倍，而三家可比的上市公司訂閱指標一季只加速 0.4 到 1 個百分點。它明講「**token 份額不等於營收利潤份額**」、企業代理人卡在究責而不是能力。**前面四份量的是投進去多少，這一份量的是流出來多少，而兩個數字的量級差很遠。** 這是本期最值得記下來的一組落差——它不是誰對誰錯，是同一個故事的兩端還沒有接上。\n\n**聯準會那組分歧還在，而且沒有前進。** 野村維持按兵不動（通膨動能消退加上選舉行事曆），花旗把 27 家主要央行裡的 17 家政策利率預測上修（油價衝擊逼出的緊縮轉向）；**兩家看的是同一組資料、給出相反的方向**，市場定價站在花旗那一側（十月升息一碼機率約 55%）。高盛的 Top of Mind 與 Global Economics Analyst（W33）都在談聯準會，但問的是**透不透明**、不是升不升息 —— 它們與上面兩家正交而非對立。**三家都在談聯準會，只有兩家在談同一個問題。**\n\n**石油那組不是分歧，是彼此補齊。** 花旗算庫存去化到什麼時候見底（OECD 約 2027 年底降到 70 天覆蓋），高盛算煉廠開工率為何與 margin 背離（全球約 1,000 萬桶／日產能離線）。方向一致、切面不同。\n\n**兩份週報講了同一個形狀的事：主動資金的部位跟賣方建議相反。** 美國那份是「最擁擠的部位今年最差」——集中放空籃子 +38%，而避險基金 VIP 籃子只有 +12%；亞太那份是主動型基金對台灣減碼 530 個基點（全表最極端），而高盛自己給台灣加碼、權重 26%。**兩份都沒有主張自己會贏，它們陳述的是同一件事：擁擠度本身正在變成報酬的來源。**\n\n---\n\n**（2026-08-23 補收 9 份之後新增的分歧）**\n\n**長端殖利率怎麼才會穩下來 —— 花旗與野村給了相反的答案，而且兩邊都把話講死了。** 花旗 US Rates Weekly 在財政部調高長端買回之後做多 20 年期公債，理由是「**我們幾乎看不到證據顯示更緊的聯準會政策會傳導成更低、更穩定的長端殖利率**」，並直說鷹派聯準會比較可能扯這筆交易的後腿。野村的松澤在同一週寫的是反面：「**債市當前的不穩定，要等到華許領導下的聯準會真的升息，才會平息**」。同一個問題（誰能把長端接住），一邊說靠財政部、鷹派會壞事，一邊說非升息不可、財政部那條路已經走不通。**這是本期最乾淨的一組分歧 —— 兩邊都可以被同一組事件證偽。**\n\n**同一個事件（財政部把買回加倍），三種讀法。** 花旗 US Rates 讀成「財政部已經替 30 年債畫出一條隱形天花板」，據此進場；花旗自己的 US Economics Weekly 讀成徵兆而不是解方 ——「**這個未被預期的宣布，確實透露出對近期殖利率上行的某種不適**」；野村松澤讀成失敗案例，標題直接寫 Bessent put 失敗證明的是「診斷錯了」。**花旗兩份之間是溫差，花旗與野村之間是方向相反。**\n\n**聯準會下一步：野村在替升息鋪路，花旗在數鴿派證據。** 辜朝明（野村綜研，文中註明為個人觀點）認為華許「**可能打算把過去 42 天發生的事，當成說服川普總統需要升息的證據**」，甚至可能改用量化緊縮把長端推高；花旗 US Economics Weekly 則說「**對照會後收到的更疲弱就業與更進一步放緩的通膨資料，七月 FOMC 會議紀要讀起來已經過時**」。**這一組要小心讀：辜朝明那份掛的是個人觀點，不等於野村證券研究部的立場**，所以它與前面那組「野村維持按兵不動」不是同一個發言人。\n\n**日圓貶值的歸因，兩家指向不同的東西。** 花旗說「**今年日圓貶值的主因，是國內外投資人因日本股價歷史性上漲而做的賣日圓避險**」——那是流量問題；野村松澤說「**以供需手段壓抑公債殖利率所造成的扭曲，往往會以日圓貶值壓力的形式浮現**」——那是政策問題。**同一個貶值，一個歸因於股市避險部位、一個歸因於殖利率壓抑，處方因此完全不同。**\n\n**日銀九月則是難得的一致，沒有分歧可寫。** 野村 Japan Economic Weekly 給九月升息 85%（市場定價約 80%），花旗此前也預期九月升息一碼。**兩家對「會不會升」看法相同，分歧只在升完之後升到哪裡** —— 那還不到可以寫成分歧的程度。",
