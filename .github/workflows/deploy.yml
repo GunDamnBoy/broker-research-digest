@@ -51,6 +51,14 @@ jobs:
       - name: 驗證要發出去的資料本身
         run: python3 kb-core/tools/verify_site_data.py _site
 
+      # **索引與日檔說的是不是同一件事。**
+      # 清單頁讀 `data/index.json` 的複本、單篇頁讀 `data/<日期>.json`，
+      # 兩邊漂開時**兩頁各自都正常、但說的不是同一件事**，沒有人會發現。
+      # 2026-08-23 外資報告週摘就是這樣：首頁一整面舊標題、單篇頁全對，
+      # 而 verify_live 是綠的而且它是對的（線上就是剛上傳的那份）。
+      - name: 驗證索引與日檔一致
+        run: python3 kb-core/tools/verify_site_index.py _site
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
