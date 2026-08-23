@@ -84,7 +84,7 @@
     {
      "slug": "2026-08-22-goldman-sachs-asia-pacific-weekly-kickstart",
      "broker": "Goldman Sachs",
-     "title": "Asia-Pacific Weekly Kickstart_ MXAPJ rose another 1% as HK_China Offshore rebounded and Asian FX strengthened despite resumed...",
+     "title": "Asia-Pacific Weekly Kickstart: MXAPJ rose another 1% as HK/China Offshore rebounded and Asian FX strengthened despite resumed foreign selling; tech exports remained resilient amid higher oil prices",
      "date": "2026-08-22",
      "pages": 35,
      "tags": [
@@ -96,12 +96,14 @@
       "指數納入資格"
      ],
      "chars": 5570,
-     "headline": "這一波亞股不是外資買出來的：主動部位還在減，而高盛把最大的加碼押在被賣最凶的韓國與台灣"
+     "headline": "這一波亞股不是外資買出來的：主動部位還在減，而高盛把最大的加碼押在被賣最凶的韓國與台灣",
+     "title_source": "page_one",
+     "title_confident": true
     },
     {
      "slug": "2026-08-21-nomura-1317180",
      "broker": "Nomura",
-     "title": "1317180",
+     "title": "Japan Economic Weekly: We need to keep a close eye on the flow of information ahead of September MPM",
      "date": "2026-08-21",
      "pages": 22,
      "tags": [
@@ -113,12 +115,14 @@
       "半導體"
      ],
      "chars": 3977,
-     "headline": "九月升息的數據理由已經齊備，剩下的變數全在政治行事曆上"
+     "headline": "九月升息的數據理由已經齊備，剩下的變數全在政治行事曆上",
+     "title_source": "page_one",
+     "title_confident": true
     },
     {
      "slug": "2026-08-21-nomura-1317175",
      "broker": "Nomura",
-     "title": "1317175",
+     "title": "Matsuzawa's View: Macro Strategy Weekly: Implications of the Failed 'Bessent Put'",
      "date": "2026-08-21",
      "pages": 16,
      "tags": [
@@ -130,12 +134,14 @@
       "人工智慧"
      ],
      "chars": 3944,
-     "headline": "Bessent put 失敗證明的不是火力不夠，而是診斷錯了；日本若照抄，換來的會是另一次貨幣危機"
+     "headline": "Bessent put 失敗證明的不是火力不夠，而是診斷錯了；日本若照抄，換來的會是另一次貨幣危機",
+     "title_source": "page_one",
+     "title_confident": true
     },
     {
      "slug": "2026-08-21-goldman-sachs-us-weekly-kickstart",
      "broker": "Goldman Sachs",
-     "title": "US Weekly Kickstart_ Hedge funds and mutual funds differ on AI but converge on Financials",
+     "title": "US Weekly Kickstart: Hedge funds and mutual funds differ on AI but converge on Financials",
      "date": "2026-08-21",
      "pages": 23,
      "tags": [
@@ -147,12 +153,14 @@
       "金融股"
      ],
      "chars": 3875,
-     "headline": "今年的報酬不是最擁擠的部位貢獻的：兩類法人在 AI 上分歧，卻同時押進金融股"
+     "headline": "今年的報酬不是最擁擠的部位貢獻的：兩類法人在 AI 上分歧，卻同時押進金融股",
+     "title_source": "pdf_meta",
+     "title_confident": true
     },
     {
      "slug": "2026-08-21-goldman-sachs-americas-technology",
      "broker": "Goldman Sachs",
-     "title": "Americas Technology_ Takeaways From Our 3rd Annual Silicon Valley AI Field Trip",
+     "title": "Americas Technology: Takeaways From Our 3rd Annual Silicon Valley AI Field Trip",
      "date": "2026-08-21",
      "pages": 41,
      "tags": [
@@ -164,12 +172,14 @@
       "創投"
      ],
      "chars": 4944,
-     "headline": "AI 的下一段成長卡在企業願不願意把責任交出去，不在模型還能變多強"
+     "headline": "AI 的下一段成長卡在企業願不願意把責任交出去，不在模型還能變多強",
+     "title_source": "pdf_meta",
+     "title_confident": true
     },
     {
      "slug": "2026-08-21-goldman-sachs-americas-engineering-construction",
      "broker": "Goldman Sachs",
-     "title": "Americas Engineering & Construction_ GS Data Center Construction Spending Tracker_ Texas leads, new markets emerge",
+     "title": "Americas Engineering & Construction: GS Data Center Construction Spending Tracker: Texas leads, new markets emerge",
      "date": "2026-08-21",
      "pages": 17,
      "tags": [
@@ -181,12 +191,14 @@
       "電力"
      ],
      "chars": 4414,
-     "headline": "全國資料中心支出加速是真的，但誰吃得到已經由州別決定，不再由總量決定"
+     "headline": "全國資料中心支出加速是真的，但誰吃得到已經由州別決定，不再由總量決定",
+     "title_source": "pdf_meta",
+     "title_confident": true
     },
     {
      "slug": "2026-08-21-goldman-sachs-americas-construction",
      "broker": "Goldman Sachs",
-     "title": "Americas Construction_ Building Products_ Non-Residential Construction_ Data Centers and Institutional Projects Support Growt...",
+     "title": "Americas Construction: Building Products: Non-Residential Construction: Data Centers and Institutional Projects Support Growth in DMI while Billings Deteriorate",
      "date": "2026-08-21",
      "pages": 10,
      "tags": [
@@ -198,12 +210,14 @@
       "領先指標"
      ],
      "chars": 2706,
-     "headline": "非住宅營建的成長只剩資料中心與機構型專案，其餘垂直市場整片是負的"
+     "headline": "非住宅營建的成長只剩資料中心與機構型專案，其餘垂直市場整片是負的",
+     "title_source": "page_one",
+     "title_confident": true
     },
     {
      "slug": "2026-08-21-citi-us-rates-weekly-can-secretary-bessent-and-chair-warsh-save-t",
      "broker": "Citi",
-     "title": "US Rates Weekly Can Secretary Bessent and Chair Warsh save the curve?",
+     "title": "US Rates Weekly: Can Secretary Bessent and Chair Warsh save the curve?",
      "date": "2026-08-21",
      "pages": 37,
      "tags": [
@@ -215,12 +229,14 @@
       "期限溢酬"
      ],
      "chars": 4854,
-     "headline": "財政部已經替 30 年債畫出一條隱形天花板，長端失錨的說法被高估了"
+     "headline": "財政部已經替 30 年債畫出一條隱形天花板，長端失錨的說法被高估了",
+     "title_source": "pdf_meta",
+     "title_confident": true
     },
     {
      "slug": "2026-08-21-citi-us-economics-weekly",
      "broker": "Citi",
-     "title": "US Economics Weekly",
+     "title": "US Economics Weekly: The resilient narrative of US resilience",
      "date": "2026-08-21",
      "pages": 22,
      "tags": [
@@ -232,12 +248,14 @@
       "美國財政部"
      ],
      "chars": 3648,
-     "headline": "長端殖利率的這一波上升，在總體基本面裡找不到對應的憑據"
+     "headline": "長端殖利率的這一波上升，在總體基本面裡找不到對應的憑據",
+     "title_source": "pdf_meta",
+     "title_confident": true
     },
     {
      "slug": "2026-08-21-citi-global-asset-allocation",
      "broker": "Citi",
-     "title": "Global Asset Allocation",
+     "title": "Global Asset Allocation: House Views August 2026 – Bessent And The Back End",
      "date": "2026-08-21",
      "pages": 33,
      "tags": [
@@ -249,12 +267,14 @@
       "人工智慧"
      ],
      "chars": 4758,
-     "headline": "美國財政部把長端接住之後，該空的不再是美債，而是投資級信用債"
+     "headline": "美國財政部把長端接住之後，該空的不再是美債，而是投資級信用債",
+     "title_source": "pdf_meta",
+     "title_confident": true
     },
     {
      "slug": "2026-08-20-nomura-asia-insights",
      "broker": "Nomura",
-     "title": "Asia Insights",
+     "title": "Asia Insights: Thailand: The high concentration of FDI inflows into data centers",
      "date": "2026-08-20",
      "pages": 10,
      "tags": [
@@ -266,12 +286,14 @@
       "泰國投資委員會"
      ],
      "chars": 3749,
-     "headline": "核准數字是真的，但它對成長的意義被高估了"
+     "headline": "核准數字是真的，但它對成長的意義被高估了",
+     "title_source": "page_one",
+     "title_confident": true
     },
     {
      "slug": "2026-08-20-goldman-sachs-oil-analyst",
      "broker": "Goldman Sachs",
-     "title": "Oil Analyst_ Running Hard or Hardly Running_ Effect of Refinery Outages on Runs and Margins",
+     "title": "Oil Analyst: Running Hard or Hardly Running: Effect of Refinery Outages on Runs and Margins",
      "date": "2026-08-20",
      "pages": 13,
      "tags": [
@@ -283,12 +305,14 @@
       "出口配額"
      ],
      "chars": 3919,
-     "headline": "全球煉廠開工量年減近 700 萬桶／日，成品油裂解價差卻黏在歷史高檔"
+     "headline": "全球煉廠開工量年減近 700 萬桶／日，成品油裂解價差卻黏在歷史高檔",
+     "title_source": "pdf_meta",
+     "title_confident": true
     },
     {
      "slug": "2026-08-20-goldman-sachs-india-financials",
      "broker": "Goldman Sachs",
-     "title": "India Financials_ What Could Drive the Return of Private Banks_",
+     "title": "India Financials: What Could Drive the Return of Private Banks?",
      "date": "2026-08-20",
      "pages": 60,
      "tags": [
@@ -300,12 +324,14 @@
       "金融科技"
      ],
      "chars": 4980,
-     "headline": "私人銀行的折價不會靠總體環境回來，只會靠自己把 45 個基點的獲利做出來"
+     "headline": "私人銀行的折價不會靠總體環境回來，只會靠自己把 45 個基點的獲利做出來",
+     "title_source": "pdf_meta",
+     "title_confident": true
     },
     {
      "slug": "2026-08-20-goldman-sachs-global-credit-trader",
      "broker": "Goldman Sachs",
-     "title": "Global Credit Trader_ IG Private Placements—No Longer Niche",
+     "title": "Global Credit Trader: IG Private Placements—No Longer Niche",
      "date": "2026-08-20",
      "pages": 54,
      "tags": [
@@ -316,12 +342,14 @@
       "指數納入資格"
      ],
      "chars": 4948,
-     "headline": "高盛信用策略團隊（Amanda Lynam、Spencer Rogers、Sar…"
+     "headline": "高盛信用策略團隊（Amanda Lynam、Spencer Rogers、Sar…",
+     "title_source": "pdf_meta",
+     "title_confident": true
     },
     {
      "slug": "2026-08-20-citi-global-economic-outlook-strategy",
      "broker": "Citi",
-     "title": "Global Economic Outlook & Strategy",
+     "title": "Global Economic Outlook & Strategy: Global Resilience—Many Storm Clouds, but Still Little Rain",
      "date": "2026-08-20",
      "pages": 26,
      "tags": [
@@ -333,12 +361,14 @@
       "日本銀行"
      ],
      "chars": 5631,
-     "headline": "烏雲很多，但雨還沒真的下下來"
+     "headline": "烏雲很多，但雨還沒真的下下來",
+     "title_source": "pdf_meta",
+     "title_confident": true
     },
     {
      "slug": "2026-08-20-citi-foreign-exchange-forecasts-august-2026",
      "broker": "Citi",
-     "title": "Foreign Exchange Forecasts August 2026",
+     "title": "Foreign Exchange Forecasts: August 2026",
      "date": "2026-08-20",
      "pages": 30,
      "tags": [
@@ -350,12 +380,14 @@
       "期中選舉"
      ],
      "chars": 3922,
-     "headline": "美元的下跌是有到期日的：花旗把三個月的歐元兌美元拉到 1.1750，一年後那一格仍然留著 1.14"
+     "headline": "美元的下跌是有到期日的：花旗把三個月的歐元兌美元拉到 1.1750，一年後那一格仍然留著 1.14",
+     "title_source": "pdf_meta",
+     "title_confident": true
     },
     {
      "slug": "2026-08-19-nomura-economic-insights",
      "broker": "Nomura",
-     "title": "Economic Insights",
+     "title": "Economic Insights: US – Election timing favors Fed patience",
      "date": "2026-08-19",
      "pages": 7,
      "tags": [
@@ -366,12 +398,14 @@
       "期中選舉"
      ],
      "chars": 2762,
-     "headline": "聯準會不會動，而選舉行事曆讓「不動」更好交代"
+     "headline": "聯準會不會動，而選舉行事曆讓「不動」更好交代",
+     "title_source": "page_one",
+     "title_confident": true
     },
     {
      "slug": "2026-08-19-nomura-1316685",
      "broker": "Nomura",
-     "title": "1316685",
+     "title": "Asia Insights: Indonesia: BI stays on hold and signals policy continuity",
      "date": "2026-08-19",
      "pages": 8,
      "tags": [
@@ -383,12 +417,14 @@
       "外人直接投資"
      ],
      "chars": 2716,
-     "headline": "換了行長，政策聲明幾乎一個字沒改 —— 而野村說正是這份延續性讓第四季非升息不可"
+     "headline": "換了行長，政策聲明幾乎一個字沒改 —— 而野村說正是這份延續性讓第四季非升息不可",
+     "title_source": "page_one",
+     "title_confident": true
     },
     {
      "slug": "2026-08-19-nomura-1316582",
      "broker": "Nomura",
-     "title": "1316582",
+     "title": "Special Report: Chipnomics: Introducing Nomura's Chip Shortage Index",
      "date": "2026-08-19",
      "pages": 20,
      "tags": [
@@ -399,12 +435,14 @@
       "人工智慧"
      ],
      "chars": 3914,
-     "headline": "這一輪晶片荒卡住的是晶圓分配，不是物流，所以它會比 2021 年那次撐得更久"
+     "headline": "這一輪晶片荒卡住的是晶圓分配，不是物流，所以它會比 2021 年那次撐得更久",
+     "title_source": "page_one",
+     "title_confident": true
     },
     {
      "slug": "2026-08-19-goldman-sachs-top-of-mind",
      "broker": "Goldman Sachs",
-     "title": "Top of Mind_ Assessing a less transparent Fed",
+     "title": "Top of Mind: Assessing a less transparent Fed",
      "date": "2026-08-19",
      "pages": 26,
      "tags": [
@@ -416,12 +454,14 @@
       "聯準會"
      ],
      "chars": 6118,
-     "headline": "新任聯準會主席 Kevin Warsh 正把 Fed 帶進一個「少說話」的年代：…"
+     "headline": "新任聯準會主席 Kevin Warsh 正把 Fed 帶進一個「少說話」的年代：…",
+     "title_source": "pdf_meta",
+     "title_confident": true
     },
     {
      "slug": "2026-08-19-citi-oil-monitor",
      "broker": "Citi",
-     "title": "Oil Monitor",
+     "title": "Oil Monitor: At visible draw rates, when do we \"run out\" of oil stockpiles?",
      "date": "2026-08-19",
      "pages": 32,
      "tags": [
@@ -433,12 +473,14 @@
       "戰略石油儲備"
      ],
      "chars": 4405,
-     "headline": "把看得見的去化速度直線外推，油庫幾時見底"
+     "headline": "把看得見的去化速度直線外推，油庫幾時見底",
+     "title_source": "pdf_meta",
+     "title_confident": true
     },
     {
      "slug": "2026-08-18-nomura-1316506",
      "broker": "Nomura",
-     "title": "1316506",
+     "title": "Richard Koo: How will Japan and US address the risks of inflation and falling behind the curve?",
      "date": "2026-08-18",
      "pages": 13,
      "tags": [
@@ -450,12 +492,14 @@
       "資料中心"
      ],
      "chars": 4494,
-     "headline": "聯準會這兩次按兵不動不是猶豫，是 Warsh 在替升息蒐集證據"
+     "headline": "聯準會這兩次按兵不動不是猶豫，是 Warsh 在替升息蒐集證據",
+     "title_source": "page_one",
+     "title_confident": true
     },
     {
      "slug": "2026-08-18-goldman-sachs-european-economics-analyst",
      "broker": "Goldman Sachs",
-     "title": "European Economics Analyst_ Germany—A Cyclically Loose but Structurally Tighter Labour Market",
+     "title": "European Economics Analyst: Germany—A Cyclically Loose but Structurally Tighter Labour Market",
      "date": "2026-08-18",
      "pages": 12,
      "tags": [
@@ -466,7 +510,9 @@
       "生產力"
      ],
      "chars": 3902,
-     "headline": "德國的裁員潮不會推高失業率——因為勞動力本身正在消失，代價改記在潛在成長上"
+     "headline": "德國的裁員潮不會推高失業率——因為勞動力本身正在消失，代價改記在潛在成長上",
+     "title_source": "pdf_meta",
+     "title_confident": true
     }
    ],
    "file": "data/2026-08-23.json"
@@ -493,7 +539,7 @@
     {
      "slug": "2026-08-14-goldman-sachs-global-economics-analyst",
      "broker": "Goldman Sachs",
-     "title": "Global Economics Analyst_ What Has the World Learned About Central Bank Communication_",
+     "title": "Global Economics Analyst: What Has the World Learned About Central Bank Communication?",
      "date": "2026-08-14",
      "pages": 14,
      "tags": [
@@ -504,7 +550,9 @@
       "點陣圖"
      ],
      "chars": 4520,
-     "headline": "聯準會不是話講太多，而是全球最透明的那一個；華許真要往回收，代價會落在政策傳導上"
+     "headline": "聯準會不是話講太多，而是全球最透明的那一個；華許真要往回收，代價會落在政策傳導上",
+     "title_source": "pdf_meta",
+     "title_confident": true
     }
    ],
    "file": "data/2026-08-16.json"
@@ -532,7 +580,7 @@
     {
      "slug": "2026-07-29-goldman-sachs-power-tracker",
      "broker": "Goldman Sachs",
-     "title": "Power Tracker_ PJM and ERCOT_ Record Demand vs Price Divergence",
+     "title": "Power Tracker: PJM and ERCOT: Record Demand vs Price Divergence",
      "date": "2026-07-29",
      "pages": 20,
      "tags": [
@@ -544,7 +592,9 @@
       "聯邦能源管理委員會"
      ],
      "chars": 3641,
-     "headline": "破紀錄的用電需求兩邊都有，破紀錄的電價只有 PJM——差別不在需求，在誰把供給蓋出來了"
+     "headline": "破紀錄的用電需求兩邊都有，破紀錄的電價只有 PJM——差別不在需求，在誰把供給蓋出來了",
+     "title_source": "pdf_meta",
+     "title_confident": true
     }
    ],
    "file": "data/2026-08-02.json"
@@ -572,7 +622,7 @@
     {
      "slug": "2026-07-22-goldman-sachs-top-of-mind",
      "broker": "Goldman Sachs",
-     "title": "Top of Mind_ IPO surge_ a red flag for markets_",
+     "title": "Top of Mind: IPO surge: a red flag for markets?",
      "date": "2026-07-22",
      "pages": 24,
      "tags": [
@@ -584,7 +634,9 @@
       "指數納入資格"
      ],
      "chars": 4494,
-     "headline": "IPO 金額破紀錄是幾筆超大案堆出來的，不是週期見頂的警訊"
+     "headline": "IPO 金額破紀錄是幾筆超大案堆出來的，不是週期見頂的警訊",
+     "title_source": "pdf_meta",
+     "title_confident": true
     }
    ],
    "file": "data/2026-07-26.json"
@@ -611,7 +663,7 @@
     {
      "slug": "2026-06-25-goldman-sachs-top-of-mind",
      "broker": "Goldman Sachs",
-     "title": "Top of Mind_ An AI job apocalypse_",
+     "title": "Top of Mind: An AI job apocalypse?",
      "date": "2026-06-25",
      "pages": 26,
      "tags": [
@@ -622,7 +674,9 @@
       "美股"
      ],
      "chars": 4100,
-     "headline": "AI 的就業衝擊已經量得出來，卻小到不值得定價；高盛要你相信的是它會先變大、再被新創造的工作吸收回去"
+     "headline": "AI 的就業衝擊已經量得出來，卻小到不值得定價；高盛要你相信的是它會先變大、再被新創造的工作吸收回去",
+     "title_source": "pdf_meta",
+     "title_confident": true
     }
    ],
    "file": "data/2026-06-28.json"
