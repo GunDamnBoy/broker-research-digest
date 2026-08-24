@@ -1,6 +1,88 @@
 {
  "days": [
   {
+   "date": "2026-08-30",
+   "week": "2026-W35",
+   "range": [
+    "2026-08-24",
+    "2026-08-30"
+   ],
+   "reports": 3,
+   "brokers": {
+    "Citi": 1,
+    "Goldman Sachs": 2
+   },
+   "tags": [
+    "中國",
+    "供應鏈",
+    "墨西哥",
+    "巴西",
+    "拉丁美洲",
+    "美國",
+    "聖嬰現象",
+    "貨櫃航運",
+    "通膨",
+    "運輸股",
+    "關稅",
+    "阿根廷",
+    "零售股",
+    "電子商務"
+   ],
+   "items": [
+    {
+     "slug": "2026-08-24-goldman-sachs-us-tariff-impact-tracker",
+     "broker": "Goldman Sachs",
+     "title": "US Tariff Impact Tracker: Indicated Imports into LA Positive on YOY Basis Over Next Two Weeks",
+     "date": "2026-08-24",
+     "pages": 18,
+     "tags": [
+      "關稅",
+      "美國",
+      "中國",
+      "貨櫃航運",
+      "運輸股",
+      "供應鏈"
+     ],
+     "chars": 3814,
+     "headline": "進到洛杉磯港的櫃量還在年增，先軟下來的是它後面那一段西岸卡車"
+    },
+    {
+     "slug": "2026-08-24-goldman-sachs-americas-retail",
+     "broker": "Goldman Sachs",
+     "title": "Americas Retail: Takeaways from IR: management; 2Q26 mid-earnings summary",
+     "date": "2026-08-24",
+     "pages": 12,
+     "tags": [
+      "美國",
+      "零售股",
+      "關稅",
+      "通膨",
+      "電子商務"
+     ],
+     "chars": 3899,
+     "headline": "關稅退款撐起了這一季的零售獲利，而拿到錢的公司多半選擇立刻把它花掉"
+    },
+    {
+     "slug": "2026-08-24-citi-latin-america-economics-strategy-daily",
+     "broker": "Citi",
+     "title": "Latin America Economics & Strategy Daily: Tight Election, Mexico CPI, ARS Defense, Colombia's Receivables, Peru El Niño",
+     "date": "2026-08-24",
+     "pages": 20,
+     "tags": [
+      "拉丁美洲",
+      "巴西",
+      "墨西哥",
+      "阿根廷",
+      "通膨",
+      "聖嬰現象"
+     ],
+     "chars": 3795,
+     "headline": "拉美這一輪的物價穩定是買來的：帳單記在財政與流動性上，不記在通膨數字裡"
+    }
+   ],
+   "file": "data/2026-08-30.json"
+  },
+  {
    "date": "2026-08-23",
    "week": "2026-W34",
    "range": [
@@ -677,7 +759,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-08-24T16:01:50+00:00",
+ "updated": "2026-08-24T16:01:57+00:00",
  "updatedLabel": "8/25 00:01",
- "count": 5
+ "count": 6
 }
