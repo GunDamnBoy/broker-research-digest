@@ -7,10 +7,10 @@
     "2026-08-17",
     "2026-08-23"
    ],
-   "reports": 23,
+   "reports": 25,
    "brokers": {
     "Citi": 6,
-    "Goldman Sachs": 10,
+    "Goldman Sachs": 12,
     "Nomura": 7
    },
    "tags": [
@@ -35,6 +35,8 @@
     "台灣",
     "外人直接投資",
     "央行溝通",
+    "家庭債務",
+    "巴西",
     "建材",
     "德國",
     "德州",
@@ -48,6 +50,7 @@
     "期限溢酬",
     "柴油裂解價差",
     "歐洲央行",
+    "歐盟",
     "殖利率曲線",
     "泰國",
     "泰國投資委員會",
@@ -71,8 +74,11 @@
     "金融科技",
     "金融股",
     "銀行股",
+    "關稅",
+    "零售股",
     "電力",
     "電動車",
+    "電子商務",
     "非住宅營建",
     "韓國",
     "領先指標",
@@ -81,6 +87,40 @@
     "點陣圖"
    ],
    "items": [
+    {
+     "slug": "2026-08-23-goldman-sachs-brazil-retail",
+     "broker": "Goldman Sachs",
+     "title": "Brazil Retail: Bridging the Spending Gap & What We Learnt from 2Q26 Results",
+     "date": "2026-08-23",
+     "pages": 19,
+     "tags": [
+      "巴西",
+      "零售股",
+      "家庭債務",
+      "電子商務",
+      "通膨",
+      "勞動市場"
+     ],
+     "chars": 4022,
+     "headline": "巴西零售的需求缺口不是景氣循環，而是家庭現金流先被利息與新品類拿走了"
+    },
+    {
+     "slug": "2026-08-23-goldman-sachs-asia-economics-analyst-chinas-broad-based-export-strength-to",
+     "broker": "Goldman Sachs",
+     "title": "Asia Economics Analyst China's Broad-Based Export Strength to Persist Despite Limited AI Boost",
+     "date": "2026-08-23",
+     "pages": 19,
+     "tags": [
+      "中國",
+      "人工智慧",
+      "半導體",
+      "關稅",
+      "歐盟",
+      "黃金"
+     ],
+     "chars": 3701,
+     "headline": "AI 把中國的出口價格推高了，卻沒有推高出口數量；真正的引擎仍是非 AI 的機電與「新三樣」"
+    },
     {
      "slug": "2026-08-22-goldman-sachs-asia-pacific-weekly-kickstart",
      "broker": "Goldman Sachs",
@@ -96,9 +136,7 @@
       "指數納入資格"
      ],
      "chars": 5570,
-     "headline": "這一波亞股不是外資買出來的：主動部位還在減，而高盛把最大的加碼押在被賣最凶的韓國與台灣",
-     "title_source": "page_one",
-     "title_confident": true
+     "headline": "這一波亞股不是外資買出來的：主動部位還在減，而高盛把最大的加碼押在被賣最凶的韓國與台灣"
     },
     {
      "slug": "2026-08-21-nomura-1317180",
@@ -115,9 +153,7 @@
       "半導體"
      ],
      "chars": 3977,
-     "headline": "九月升息的數據理由已經齊備，剩下的變數全在政治行事曆上",
-     "title_source": "page_one",
-     "title_confident": true
+     "headline": "九月升息的數據理由已經齊備，剩下的變數全在政治行事曆上"
     },
     {
      "slug": "2026-08-21-nomura-1317175",
@@ -134,9 +170,7 @@
       "人工智慧"
      ],
      "chars": 3944,
-     "headline": "Bessent put 失敗證明的不是火力不夠，而是診斷錯了；日本若照抄，換來的會是另一次貨幣危機",
-     "title_source": "page_one",
-     "title_confident": true
+     "headline": "Bessent put 失敗證明的不是火力不夠，而是診斷錯了；日本若照抄，換來的會是另一次貨幣危機"
     },
     {
      "slug": "2026-08-21-goldman-sachs-us-weekly-kickstart",
@@ -153,9 +187,7 @@
       "金融股"
      ],
      "chars": 3875,
-     "headline": "今年的報酬不是最擁擠的部位貢獻的：兩類法人在 AI 上分歧，卻同時押進金融股",
-     "title_source": "pdf_meta",
-     "title_confident": true
+     "headline": "今年的報酬不是最擁擠的部位貢獻的：兩類法人在 AI 上分歧，卻同時押進金融股"
     },
     {
      "slug": "2026-08-21-goldman-sachs-americas-technology",
@@ -172,9 +204,7 @@
       "創投"
      ],
      "chars": 4944,
-     "headline": "AI 的下一段成長卡在企業願不願意把責任交出去，不在模型還能變多強",
-     "title_source": "pdf_meta",
-     "title_confident": true
+     "headline": "AI 的下一段成長卡在企業願不願意把責任交出去，不在模型還能變多強"
     },
     {
      "slug": "2026-08-21-goldman-sachs-americas-engineering-construction",
@@ -191,9 +221,7 @@
       "電力"
      ],
      "chars": 4414,
-     "headline": "全國資料中心支出加速是真的，但誰吃得到已經由州別決定，不再由總量決定",
-     "title_source": "pdf_meta",
-     "title_confident": true
+     "headline": "全國資料中心支出加速是真的，但誰吃得到已經由州別決定，不再由總量決定"
     },
     {
      "slug": "2026-08-21-goldman-sachs-americas-construction",
@@ -210,9 +238,7 @@
       "領先指標"
      ],
      "chars": 2706,
-     "headline": "非住宅營建的成長只剩資料中心與機構型專案，其餘垂直市場整片是負的",
-     "title_source": "page_one",
-     "title_confident": true
+     "headline": "非住宅營建的成長只剩資料中心與機構型專案，其餘垂直市場整片是負的"
     },
     {
      "slug": "2026-08-21-citi-us-rates-weekly-can-secretary-bessent-and-chair-warsh-save-t",
@@ -229,9 +255,7 @@
       "期限溢酬"
      ],
      "chars": 4854,
-     "headline": "財政部已經替 30 年債畫出一條隱形天花板，長端失錨的說法被高估了",
-     "title_source": "pdf_meta",
-     "title_confident": true
+     "headline": "財政部已經替 30 年債畫出一條隱形天花板，長端失錨的說法被高估了"
     },
     {
      "slug": "2026-08-21-citi-us-economics-weekly",
@@ -248,9 +272,7 @@
       "美國財政部"
      ],
      "chars": 3648,
-     "headline": "長端殖利率的這一波上升，在總體基本面裡找不到對應的憑據",
-     "title_source": "pdf_meta",
-     "title_confident": true
+     "headline": "長端殖利率的這一波上升，在總體基本面裡找不到對應的憑據"
     },
     {
      "slug": "2026-08-21-citi-global-asset-allocation",
@@ -267,9 +289,7 @@
       "人工智慧"
      ],
      "chars": 4758,
-     "headline": "美國財政部把長端接住之後，該空的不再是美債，而是投資級信用債",
-     "title_source": "pdf_meta",
-     "title_confident": true
+     "headline": "美國財政部把長端接住之後，該空的不再是美債，而是投資級信用債"
     },
     {
      "slug": "2026-08-20-nomura-asia-insights",
@@ -286,9 +306,7 @@
       "泰國投資委員會"
      ],
      "chars": 3749,
-     "headline": "核准數字是真的，但它對成長的意義被高估了",
-     "title_source": "page_one",
-     "title_confident": true
+     "headline": "核准數字是真的，但它對成長的意義被高估了"
     },
     {
      "slug": "2026-08-20-goldman-sachs-oil-analyst",
@@ -305,9 +323,7 @@
       "出口配額"
      ],
      "chars": 3919,
-     "headline": "全球煉廠開工量年減近 700 萬桶／日，成品油裂解價差卻黏在歷史高檔",
-     "title_source": "pdf_meta",
-     "title_confident": true
+     "headline": "全球煉廠開工量年減近 700 萬桶／日，成品油裂解價差卻黏在歷史高檔"
     },
     {
      "slug": "2026-08-20-goldman-sachs-india-financials",
@@ -324,9 +340,7 @@
       "金融科技"
      ],
      "chars": 4980,
-     "headline": "私人銀行的折價不會靠總體環境回來，只會靠自己把 45 個基點的獲利做出來",
-     "title_source": "pdf_meta",
-     "title_confident": true
+     "headline": "私人銀行的折價不會靠總體環境回來，只會靠自己把 45 個基點的獲利做出來"
     },
     {
      "slug": "2026-08-20-goldman-sachs-global-credit-trader",
@@ -342,9 +356,7 @@
       "指數納入資格"
      ],
      "chars": 4948,
-     "headline": "高盛信用策略團隊（Amanda Lynam、Spencer Rogers、Sar…",
-     "title_source": "pdf_meta",
-     "title_confident": true
+     "headline": "高盛信用策略團隊（Amanda Lynam、Spencer Rogers、Sar…"
     },
     {
      "slug": "2026-08-20-citi-global-economic-outlook-strategy",
@@ -361,9 +373,7 @@
       "日本銀行"
      ],
      "chars": 5631,
-     "headline": "烏雲很多，但雨還沒真的下下來",
-     "title_source": "pdf_meta",
-     "title_confident": true
+     "headline": "烏雲很多，但雨還沒真的下下來"
     },
     {
      "slug": "2026-08-20-citi-foreign-exchange-forecasts-august-2026",
@@ -380,9 +390,7 @@
       "期中選舉"
      ],
      "chars": 3922,
-     "headline": "美元的下跌是有到期日的：花旗把三個月的歐元兌美元拉到 1.1750，一年後那一格仍然留著 1.14",
-     "title_source": "pdf_meta",
-     "title_confident": true
+     "headline": "美元的下跌是有到期日的：花旗把三個月的歐元兌美元拉到 1.1750，一年後那一格仍然留著 1.14"
     },
     {
      "slug": "2026-08-19-nomura-economic-insights",
@@ -398,9 +406,7 @@
       "期中選舉"
      ],
      "chars": 2762,
-     "headline": "聯準會不會動，而選舉行事曆讓「不動」更好交代",
-     "title_source": "page_one",
-     "title_confident": true
+     "headline": "聯準會不會動，而選舉行事曆讓「不動」更好交代"
     },
     {
      "slug": "2026-08-19-nomura-1316685",
@@ -417,9 +423,7 @@
       "外人直接投資"
      ],
      "chars": 2716,
-     "headline": "換了行長，政策聲明幾乎一個字沒改 —— 而野村說正是這份延續性讓第四季非升息不可",
-     "title_source": "page_one",
-     "title_confident": true
+     "headline": "換了行長，政策聲明幾乎一個字沒改 —— 而野村說正是這份延續性讓第四季非升息不可"
     },
     {
      "slug": "2026-08-19-nomura-1316582",
@@ -435,9 +439,7 @@
       "人工智慧"
      ],
      "chars": 3914,
-     "headline": "這一輪晶片荒卡住的是晶圓分配，不是物流，所以它會比 2021 年那次撐得更久",
-     "title_source": "page_one",
-     "title_confident": true
+     "headline": "這一輪晶片荒卡住的是晶圓分配，不是物流，所以它會比 2021 年那次撐得更久"
     },
     {
      "slug": "2026-08-19-goldman-sachs-top-of-mind",
@@ -454,9 +456,7 @@
       "聯準會"
      ],
      "chars": 6118,
-     "headline": "新任聯準會主席 Kevin Warsh 正把 Fed 帶進一個「少說話」的年代：…",
-     "title_source": "pdf_meta",
-     "title_confident": true
+     "headline": "新任聯準會主席 Kevin Warsh 正把 Fed 帶進一個「少說話」的年代：…"
     },
     {
      "slug": "2026-08-19-citi-oil-monitor",
@@ -473,9 +473,7 @@
       "戰略石油儲備"
      ],
      "chars": 4405,
-     "headline": "把看得見的去化速度直線外推，油庫幾時見底",
-     "title_source": "pdf_meta",
-     "title_confident": true
+     "headline": "把看得見的去化速度直線外推，油庫幾時見底"
     },
     {
      "slug": "2026-08-18-nomura-1316506",
@@ -492,9 +490,7 @@
       "資料中心"
      ],
      "chars": 4494,
-     "headline": "聯準會這兩次按兵不動不是猶豫，是 Warsh 在替升息蒐集證據",
-     "title_source": "page_one",
-     "title_confident": true
+     "headline": "聯準會這兩次按兵不動不是猶豫，是 Warsh 在替升息蒐集證據"
     },
     {
      "slug": "2026-08-18-goldman-sachs-european-economics-analyst",
@@ -510,9 +506,7 @@
       "生產力"
      ],
      "chars": 3902,
-     "headline": "德國的裁員潮不會推高失業率——因為勞動力本身正在消失，代價改記在潛在成長上",
-     "title_source": "pdf_meta",
-     "title_confident": true
+     "headline": "德國的裁員潮不會推高失業率——因為勞動力本身正在消失，代價改記在潛在成長上"
     }
    ],
    "file": "data/2026-08-23.json"
@@ -683,7 +677,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-08-22T17:37:53+00:00",
- "updatedLabel": "8/23 01:37",
+ "updated": "2026-08-24T16:01:50+00:00",
+ "updatedLabel": "8/25 00:01",
  "count": 5
 }

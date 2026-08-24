@@ -4,10 +4,10 @@
   "2026-08-17",
   "2026-08-23"
  ],
- "reports_count": 23,
+ "reports_count": 25,
  "brokers": {
   "Citi": 6,
-  "Goldman Sachs": 10,
+  "Goldman Sachs": 12,
   "Nomura": 7
  },
  "tags": {
@@ -36,6 +36,23 @@
    "2026-08-21-citi-us-rates-weekly-can-secretary-bessent-and-chair-warsh-save-t",
    "2026-08-21-nomura-1317175"
   ],
+  "通膨": [
+   "2026-08-18-nomura-1316506",
+   "2026-08-19-nomura-economic-insights",
+   "2026-08-20-citi-foreign-exchange-forecasts-august-2026",
+   "2026-08-20-citi-global-economic-outlook-strategy",
+   "2026-08-21-citi-us-economics-weekly",
+   "2026-08-21-nomura-1317180",
+   "2026-08-23-goldman-sachs-brazil-retail"
+  ],
+  "人工智慧": [
+   "2026-08-19-nomura-1316582",
+   "2026-08-21-citi-global-asset-allocation",
+   "2026-08-21-goldman-sachs-americas-technology",
+   "2026-08-21-goldman-sachs-us-weekly-kickstart",
+   "2026-08-21-nomura-1317175",
+   "2026-08-23-goldman-sachs-asia-economics-analyst-chinas-broad-based-export-strength-to"
+  ],
   "資料中心": [
    "2026-08-18-nomura-1316506",
    "2026-08-20-goldman-sachs-global-credit-trader",
@@ -43,21 +60,6 @@
    "2026-08-21-goldman-sachs-americas-construction",
    "2026-08-21-goldman-sachs-americas-engineering-construction",
    "2026-08-21-goldman-sachs-americas-technology"
-  ],
-  "通膨": [
-   "2026-08-18-nomura-1316506",
-   "2026-08-19-nomura-economic-insights",
-   "2026-08-20-citi-foreign-exchange-forecasts-august-2026",
-   "2026-08-20-citi-global-economic-outlook-strategy",
-   "2026-08-21-citi-us-economics-weekly",
-   "2026-08-21-nomura-1317180"
-  ],
-  "人工智慧": [
-   "2026-08-19-nomura-1316582",
-   "2026-08-21-citi-global-asset-allocation",
-   "2026-08-21-goldman-sachs-americas-technology",
-   "2026-08-21-goldman-sachs-us-weekly-kickstart",
-   "2026-08-21-nomura-1317175"
   ],
   "美國公債": [
    "2026-08-19-goldman-sachs-top-of-mind",
@@ -95,6 +97,16 @@
    "2026-08-20-citi-global-economic-outlook-strategy",
    "2026-08-20-goldman-sachs-oil-analyst"
   ],
+  "勞動市場": [
+   "2026-08-18-goldman-sachs-european-economics-analyst",
+   "2026-08-21-citi-us-economics-weekly",
+   "2026-08-23-goldman-sachs-brazil-retail"
+  ],
+  "半導體": [
+   "2026-08-19-nomura-1316582",
+   "2026-08-21-nomura-1317180",
+   "2026-08-23-goldman-sachs-asia-economics-analyst-chinas-broad-based-export-strength-to"
+  ],
   "央行溝通": [
    "2026-08-18-nomura-1316506",
    "2026-08-19-goldman-sachs-top-of-mind",
@@ -105,17 +117,13 @@
    "2026-08-20-goldman-sachs-india-financials",
    "2026-08-21-goldman-sachs-americas-technology"
   ],
+  "中國": [
+   "2026-08-19-citi-oil-monitor",
+   "2026-08-23-goldman-sachs-asia-economics-analyst-chinas-broad-based-export-strength-to"
+  ],
   "共同基金": [
    "2026-08-21-goldman-sachs-us-weekly-kickstart",
    "2026-08-22-goldman-sachs-asia-pacific-weekly-kickstart"
-  ],
-  "勞動市場": [
-   "2026-08-18-goldman-sachs-european-economics-analyst",
-   "2026-08-21-citi-us-economics-weekly"
-  ],
-  "半導體": [
-   "2026-08-19-nomura-1316582",
-   "2026-08-21-nomura-1317180"
   ],
   "台灣": [
    "2026-08-19-nomura-1316582",
@@ -161,8 +169,9 @@
    "2026-08-19-nomura-1316582",
    "2026-08-22-goldman-sachs-asia-pacific-weekly-kickstart"
   ],
-  "中國": [
-   "2026-08-19-citi-oil-monitor"
+  "黃金": [
+   "2026-08-21-citi-global-asset-allocation",
+   "2026-08-23-goldman-sachs-asia-economics-analyst-chinas-broad-based-export-strength-to"
   ],
   "中小企業融資": [
    "2026-08-20-goldman-sachs-india-financials"
@@ -197,6 +206,12 @@
   "印度央行": [
    "2026-08-20-goldman-sachs-india-financials"
   ],
+  "家庭債務": [
+   "2026-08-23-goldman-sachs-brazil-retail"
+  ],
+  "巴西": [
+   "2026-08-23-goldman-sachs-brazil-retail"
+  ],
   "建材": [
    "2026-08-21-goldman-sachs-americas-construction"
   ],
@@ -214,6 +229,9 @@
   ],
   "歐洲央行": [
    "2026-08-20-citi-foreign-exchange-forecasts-august-2026"
+  ],
+  "歐盟": [
+   "2026-08-23-goldman-sachs-asia-economics-analyst-chinas-broad-based-export-strength-to"
   ],
   "殖利率曲線": [
    "2026-08-21-citi-us-rates-weekly-can-secretary-bessent-and-chair-warsh-save-t"
@@ -257,11 +275,20 @@
   "銀行股": [
    "2026-08-20-goldman-sachs-india-financials"
   ],
+  "關稅": [
+   "2026-08-23-goldman-sachs-asia-economics-analyst-chinas-broad-based-export-strength-to"
+  ],
+  "零售股": [
+   "2026-08-23-goldman-sachs-brazil-retail"
+  ],
   "電力": [
    "2026-08-21-goldman-sachs-americas-engineering-construction"
   ],
   "電動車": [
    "2026-08-20-nomura-asia-insights"
+  ],
+  "電子商務": [
+   "2026-08-23-goldman-sachs-brazil-retail"
   ],
   "領先指標": [
    "2026-08-21-goldman-sachs-americas-construction"
@@ -269,19 +296,219 @@
   "馬來西亞": [
    "2026-08-20-nomura-asia-insights"
   ],
-  "黃金": [
-   "2026-08-21-citi-global-asset-allocation"
-  ],
   "點陣圖": [
    "2026-08-19-goldman-sachs-top-of-mind"
   ]
  },
  "reports": [
   {
+   "slug": "2026-08-23-goldman-sachs-brazil-retail",
+   "broker": "Goldman Sachs",
+   "product": "Brazil Retail",
+   "title": "Brazil Retail: Bridging the Spending Gap & What We Learnt from 2Q26 Results",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-08-23",
+   "pages": 19,
+   "issue": null,
+   "tier_target": 4000,
+   "tier_band": [
+    3500,
+    4500
+   ],
+   "summary": "# 巴西零售的需求缺口不是景氣循環，而是家庭現金流先被利息與新品類拿走了\n\n## 主張是什麼\n\n這份報告要處理一個看起來自相矛盾的現象：失業率創歷史新低、財政移轉持續擴張，但從量販、服飾到耐久財，2Q26 法說會上各類零售商講的都是需求疲弱與消費者謹慎。高盛開宗明義寫下這個落差，然後主張它不是循環性的雜訊，而是四條結構性管線同時在把錢從零售櫃台前抽走：勞動市場的強度被統計高估、財政移轉被債務利息吃掉、高利率把消費切成 K 型、以及錢包被博弈與藥品這些新品類重新分配。它的結論不是看空巴西消費總量，而是主張「總體指標」與「零售商營收」之間的傳導係數已經變了。所以這份報告一邊描述惡化，一邊維持六檔 Buy 評等，而它挑的全是不需要靠總體修復也能走的標的。\n\n## 這不是零售的個案：2Q26 法說會的橫斷面\n\n報告先用 2Q26 的法說會語言把這件事釘住。量販端 ASAI 的結果延續前幾季，同店成長疲弱、消費者持續降級消費；服飾與美妝端 LREN 與 CEAB 都對下半年的消費環境與跨境電商稅負調降表達疑慮，前者更直接下修 2026 年財測，NATU 指出市場出現輕微的降級消費、下半年幾乎沒有再漲價的空間，CEAB 預期會是高度價格敏感的環境，VULC 則認為 2027 年充滿不確定性。耐久財端 BHIA 與 MGLU 都用「複雜」形容環境。藥局端相對好：RADL 承認整體背景困難，但主張高利率對小型業者更折磨，最終反而有利它擴大市占；PGMN 也強調藥品市場較具防禦性。真正讓這個判斷有份量的是零售以外的橫斷面：ITUB 示警家庭與企業負債同步上升、SELIC 路徑受美國利率牽動；購物中心業者 ALLOS、中價位建商 EZTEC、設施採購商 GGPS、餐飲 ARCO、木板 DXCO 與電信 TIM 全部把總體環境形容為挑戰或波動。同一個訊號在六個不相干的產業同時出現，比任何單一零售商的同店數字更難用個別的執行問題解釋掉。\n\n## 憑什麼（一）：失業率創新低，是因為有人退出了勞動市場\n\n第一個被拆解的是勞動市場。表面數字很漂亮：失業率 Jun-26 為 5.4%、2025 全年 5.2%，總實質薪資 2025 年增 +5.9%。但報告指出 headline 高估了底層強度，因為勞動參與率明顯下滑，仍比疫情前低約 1.5 個百分點，而且下滑集中在低教育程度族群，也就是邊際消費傾向最高的那一群。動能上也在退坡：平均實質薪資年增從過去十二個月的 +4.4% 掉到近三個月的 +2.8%，總實質薪資年增從 1Q26 的 +7.1% 一路降到 Jun-26 的 +3.6%；實質薪資總額成長 LTM +6.0%、近三個月 +5.0%。就業創造仍為正，但邊際在放緩。勞動市場給零售的推力是遞減的，而失業率這個指標剛好把遞減藏了起來。\n\n## 憑什麼（二）：財政移轉進了帳戶，又被利息扣走\n\n這是全篇最有力的一節。過去四年政府在低所得補助 Bolsa Família 的年度支出是 2018–21 年水準的 5 倍，但同一段時間家庭槓桿與利率同步走高，平均家庭債務服務比已升到 1Q26 的月收入 27.1%（2025 年 26.9%），處於歷史高位。信用品質同步惡化：90 天以上逾放比 1Q26 為 7.1%、六月達 7.6%；違約消費者人數到 Jul-26 增至約 8,400 萬人，年增 7%；低所得族群的信用卡逾放比更達 13.2%。消費信貸利率 Jun-26 來到 64.0% 的年化利率，SELIC 停在 14.3%。報告的推論是：既然槓桿更集中在低所得家庭，那麼移轉支付多出來的那一塊所得，有越來越大的比例流去償還既有債務而不是消費。Exhibit 20 把這件事量化得最直白——巴西家庭一年付掉的利息約 R$697bn，比電信服務（R$383bn）、私立教育（R$153bn）與智慧型手機（R$152bn）這三項加總還大，更是博弈毛收入（R$37bn）或 GLP-1 藥物（R$22bn）的十幾二十倍。這就是「支出缺口」的實體。\n\n## 憑什麼（三）：高利率把同一個消費市場切成兩半\n\n高利率對淨借款人與淨儲蓄者的作用不對稱，而淨借款人通常正是高消費傾向的低所得家庭。結果是與高所得連動的品類（GLP-1 藥物、珠寶）持續跑贏量販這類大眾市場品類，形成 K 型消費。這不只是宏觀推論：GMAT 在法說會上點名東北地區的 cash-and-carry 同店成長落後全國平均至少約 2 個百分點，理由是該地區的人口結構；BHIA 說高利率壓抑耐久財的可負擔性，且當前家庭槓桿水準已經限制了它自己承作消費信貸的意願。\n\n## 憑什麼（四）：錢包被博弈、藥品與食品通膨重新切分\n\n報告以 2017–18 家庭預算調查為基礎估算品類權重，2018 對比 2025：住房從 36.6% 降到 31.2%、交通從 11.2% 降到 9.6%、服飾從 4.3% 降到 3.2%；反向的是食品從 17.5% 升到 20.5%、藥品從 3.6% 升到 4.8%，博弈則從 0.3% 跳到 4.4%。巴西現在是全球第五大博弈市場，年化總投注額估計約 R$220bn，2025 年扣除派彩後的毛收入為 R$37bn，而這個品類五年前幾乎不存在；財政部資料顯示人均月投注存入金額約 R$1,800。MGLU 管理層在法說會上直接把運動博弈點名為排擠零售消費的來源。食品那一塊則是雙面刃：連年高食品通膨壓縮了非可選消費的空間，讓購物籃沒有餘裕再擴張；但通膨回升本身又是量販的營收動能——巴西央行彙編的共識預期家庭食品通膨從 7 月的 2.5% 回升到 12 月的 6.3%，報告自己更看到 4Q26 上看 7%，理由是 2026 年的聖嬰現象已達「強」等級。\n\n## 憑什麼（五）：價格敏感度把量推到線上，而線上已經很集中\n\n債務負擔、錢包重分配、加上橫向平台的競爭，共同把消費者變得更價格敏感，於是線上化加速。2025 年電商滲透率達整體零售的 17.6%，全年電商市場年增 +22%（2024 年為 +19%），耐久財的線上滲透率已超過 50%。集中度同時在升：電商前幾大業者現在約占市場 70%，MELI 逼近全巴西零售支出的 10%。報告點名 MELI、Shopee 與 Amazon 是 2025 年線上占比年增 220 個基點的主要推手，靠的是物流、品項廣度與積極促銷。對實體零售商而言，這代表跨境低價包裹與平台促銷會持續壓縮定價空間——LREN 與 CEAB 的同店成長在 2Q26 放緩，時間點正好和跨境包裹量的跳升重疊。另有兩個細節值得注意。其一，2026 世界盃把流量往數位推了一把，運動用品最明顯、服飾也受惠，也就是說線上化不全是被動的價格反應，還有事件驅動的成分。其二，零售商自身的 90 天以上逾放比到目前為止大致穩定，報告把這歸因於過去幾年偏緊的核卡標準——這是少見的好消息，但它同時意味著穩定是靠關掉信用水龍頭換來的，代價就是 BHIA 那句不願再放款。BHIA 與 MELI 在 2025 年 10 月宣布的合作，讓 BHIA 的線上銷售量出現正向轉折，暗示實體零售商未來要成長，可能得走進平台而不是對抗平台。\n\n## 它自己承認的限制\n\n最該打折的是錢包權重那張圖。它是「以 2017–2018 POF 為基礎的估算」，用一份八年前的家計調查去推 2025 年的品類配置，本身就有相當的推估成分；博弈的 4.4% 更是建立在假設 15% 留成率之上，而同一份報告在另一張圖用的是約 17% 留成率——同一個數字用兩種假設，讀者應該把博弈的絕對權重當成量級而非精度。R$697bn 的利息支出也被作者主動限定：它在國民帳中列於財產所得支付，不屬於家庭消費，只是「作為參照」放進同一張圖比大小。食品通膨與同店成長的 86% 相關性則是用 2016–19 年估的，能不能外推到高槓桿、高利率的今天並不確定。個股層面同樣有自我限定：LREN 的重評價「需要銷售動能改善的具體證據」，因此近期反彈空間有限；CEAB 則被直接寫明短期服飾銷售動能疲弱。風險清單本身也誠實：六檔標的的下檔風險幾乎都以總體逆風開頭，CEAB 更明列高利率可能同時衝擊它自己的消費金融業務，以及來自本地與跨境業者的競爭加劇——後者正是它在正文裡描述的那股力量。另外，Amazon 的市占是估算值，MELI「逼近零售支出 10%」也是用各家自報的 GMV 拼出來的，跨資料源的口徑差異在這種市占推算裡通常不小。\n\n## 與市場的落差，以及它怎麼變成部位\n\n真正與市場有距離的地方是食品通膨：共識看 12 月 6.3%，高盛看 4Q26 上看 7%，並據此把 ASAI 當成受惠標的——B2B 客戶約占其銷售 40%，食品漲價時傾向補庫存。六檔 Buy 的共同點是「不靠總體修復」：SMFT（目標價 R$38，上檔 129%）靠 TotalPass 擴張與地域分散，2027 年 7.8 倍本益比對應 2026–28 年每股盈餘年增 35%；RADL（R$26，+41%）靠藥品的防禦性與 Semaglutide 專利到期後的量增，並主張高利率環境對小型業者更不利、反而讓它加速搶市占（目前約 20%）；ASAI（R$12，+52%）8.8 倍、自由現金流殖利率 20%；LREN（R$18，+64%）以 15% 的總股東回報率撐估值；CEAB（R$18，+136%）4.5 倍本益比，下週投資人日是短期觸媒；VIVA（R$33，+53%）靠高所得曝險與黃金品項調價。換句話說，這是一份用宏觀空頭論述去支撐個股多頭的報告，賭的是估值已經反映了它描述的惡化。\n\n## 可驗證的節點\n\n最快的一個是 CEAB 的投資人日（報告發布後一週），若釋出來客數或提高股東回報的訊息，是報告自己指認的重評價觸發點。接著是每月的 IPCA 家庭食品通膨：7 月 2.5% 是起點，若到 4Q26 沒有走向 6.3%–7%，ASAI 的核心多頭論述就不成立。巴西央行每月的債務服務比與 90 天以上逾放比（Jun-26 為 7.6%）、Serasa 的違約消費者人數（Jul-26 約 8,400 萬）會裁決「利息吃掉移轉」這條主線是否還在惡化；SELIC 從 14.3% 何時轉向，則決定 K 型消費會不會收斂。最後是 3Q26 的同店成長：若量販與服飾在食品通膨回升的環境下仍未改善，那就不只是購買力問題，而是線上化與品類流失的結構性侵蝕。跨境低價包裹稅負調降的實際衝擊有多大，也會在 3Q26 的服飾同店與毛利率上留下痕跡。",
+   "summary_chars": 4022,
+   "tags": [
+    "巴西",
+    "零售股",
+    "家庭債務",
+    "電子商務",
+    "通膨",
+    "勞動市場"
+   ],
+   "stances": [
+    {
+     "theme": "央行、利率與匯率",
+     "quote": "Higher-for-longer interest rates are reinforcing a K-shaped consumption pattern. The asymmetric impact of elevated rates on net borrowers vs. net lenders (usually lower-income households with high propensity to spend), is consistent with the outperformance of categories linked to higher-income consumers (GLP-1 drugs, jewelry) relative to mass-market categories such as cash & carry.",
+     "quote_zh": "高利率維持更久，正在強化 K 型的消費型態。高利率對淨借款人與淨儲蓄者（通常是消費傾向高的低所得家庭）的作用不對稱，這與高所得消費者連動的品類（GLP-1 藥物、珠寶）持續跑贏量販這類大眾市場品類的現象一致。",
+     "label": null,
+     "page": 1
+    },
+    {
+     "theme": "金融、併購與企業",
+     "quote": "emerging categories such as betting and pharma are capturing a growing share of the consumer’s wallet. Brazil is now the 5th-largest betting market globally, with an estimated ~R$220bn in annualized gross wager, a category that barely existed five years ago.",
+     "quote_zh": "博弈與藥品這類新興品類，正在拿走消費者錢包中越來越大的一塊。巴西現在是全球第五大博弈市場，年化總投注額估計約 2,200 億雷亞爾，而這個品類五年前幾乎不存在。",
+     "label": null,
+     "page": 1
+    },
+    {
+     "theme": "金融、併購與企業",
+     "quote": "MELI, Shopee, and Amazon have\nbeen the primary drivers of +220bp yoy online shift in 2025, leveraging logistics,\nbroader assortment, and aggressive promotional strategies to capture an\nincreasingly value-conscious consumer.",
+     "quote_zh": "MELI、Shopee 與 Amazon 是 2025 年線上占比年增 220 個基點的主要推手，靠的是物流、更廣的品項與積極的促銷策略，來抓住越來越看重性價比的消費者。",
+     "label": null,
+     "page": 1
+    }
+   ],
+   "charts": [
+    {
+     "kind": "grouped_bar",
+     "title": "巴西家庭一年付掉的利息，比電信、私校與手機三項加總還大",
+     "subtitle": "選定品類的家庭年度支出規模；利息支出僅供對照，在國民帳中列為財產所得支付而非家庭消費",
+     "cats": [
+      "1 電信服務",
+      "2 私立教育",
+      "3 智慧型手機及配件",
+      "4 私立醫療",
+      "5 酒精飲料",
+      "6 博弈（毛收入）",
+      "7 串流服務",
+      "8 跨境電商",
+      "9 GLP-1 藥物",
+      "10 利息支出*"
+     ],
+     "groups": [
+      {
+       "name": "年度支出（R$ bn）",
+       "values": [
+        383,
+        153,
+        152,
+        64,
+        41,
+        37,
+        27,
+        22,
+        22,
+        697
+       ]
+      }
+     ],
+     "y_label": "R$ bn",
+     "source": "Goldman Sachs《Brazil Retail: Bridging the Spending Gap & What We Learnt from 2Q26 Results》2026-08-23，第 8 頁 Exhibit 20",
+     "grounding": [
+      "Exhibit 20: Interest payments alone are larger than the combined size of several spending categories",
+      "Household consumption across select categories",
+      "697 700 4.7%",
+      "383 0.8% 0.5% 0.5% 0.3% 0.3% 0.3%",
+      "200 153 152 64",
+      "100 41 37 27 22 22",
+      "1. Telecom services",
+      "2. Private education",
+      "3. Smartphones and accessories",
+      "4. Private healthcare",
+      "5. Alcoholic beverages",
+      "6. Betting (GGR)",
+      "7. Streaming services",
+      "8. Cross-border",
+      "9. GLP-1 drugs",
+      "10. Interest payments*"
+     ],
+     "png": "2026-08-23-goldman-sachs-brazil-retail-1.png",
+     "svg": "2026-08-23-goldman-sachs-brazil-retail-1.svg",
+     "bytes": 147827
+    }
+   ]
+  },
+  {
+   "slug": "2026-08-23-goldman-sachs-asia-economics-analyst-chinas-broad-based-export-strength-to",
+   "broker": "Goldman Sachs",
+   "product": "Asia Economics Analyst China's Broad-Based Export Strength to Persist Despite Limited AI Boost",
+   "title": "Asia Economics Analyst China's Broad-Based Export Strength to Persist Despite Limited AI Boost",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-08-23",
+   "pages": 19,
+   "issue": null,
+   "tier_target": 4000,
+   "tier_band": [
+    3500,
+    4500
+   ],
+   "summary": "# AI 把中國的出口價格推高了，卻沒有推高出口數量；真正的引擎仍是非 AI 的機電與「新三樣」\n\n## 主張：出口強是真的，但「強在 AI」是誤讀\n\n2026 年中國名目出口急速加速，年初至 7 月成長 18.5%，是 2021 年後疫情重啟以來最快的一段。同期出口數量成長 10.8%（上半年）。高盛用一個刻意收窄的定義——半導體、印刷電路、儲存與處理裝置、電腦零件，排除下游電子終端裝置——量出 AI 相關產品占第二季名目出口成長的將近一半。報告的主張是：這個「將近一半」幾乎全部來自價格而非數量；把價格剝掉之後，撐住中國出口的仍是非 AI 的高階製造底盤。也正因為這個底盤還在，高盛把 2026 全年實質出口成長預測上調到 7.9%。報告開宗明義說它要回答客戶的三個問題：近期強勢能不能延續、全球 AI 投資週期算不算一個新的出口成長來源、以及升溫中的中歐貿易摩擦會怎麼改寫展望。\n\n## 這個結論高度取決於「AI」被定義得多窄\n\n報告把量測的困難擺在檯面上：AI 相關貿易沒有標準定義。世界貿易組織的分類涵蓋約 100 條產品線，從原料矽、半導體設備一路到驅動 AI 應用的高階伺服器；一篇聯準會論文則走另一個極端，只用三個 HS-6 類別（伺服器、繪圖卡，以及資料中心任務必需的相關零件）。高盛選的是偏窄的一端，目的是把「AI 產能擴張」和更廣義的數位化區分開。這個選擇會決定數字大小——定義放寬，AI 的占比就會變大——但報告的核心論證（價格對數量、加工貿易占比）並不隨定義移動。另一條佐證在去向：出口成長越來越集中在 AI 硬體相關經濟體，包括參與封裝測試的部分東協市場，以及東北亞的科技生產者。\n\n## 憑什麼（一）：AI 的那一半是價格，不是量\n\nAI 相關產品貢獻了近期中國出口價格成長的約三分之二，而它自己的出口數量成長在第二季已降到 -1.4% 年增。價格的來源在中國之外：資料中心快速擴張造成的全球 AI 硬體通膨，記憶體價格自 2025 年年中以來上漲五到七倍。更關鍵的是這些貨的性質——約 80% 的 AI 相關名目出口走加工貿易或海關特殊監管區，而非一般貿易，也就是進口零組件在中國組裝整合後再出口。海關記錄的是過境商品的總值，不是中國境內創造的加值；兩家外資記憶體大廠在中國設有主要產線，出口計入中國，相當部分的加值卻留在境外。結論是 AI 相關商品目前對中國貿易餘額的淨效果有限，對國內加值的貢獻遠小於毛出口數字所暗示的規模。報告在腳註留了一個伏筆：近期數量成長的減速，可能有一部分反映特定環節的產能瓶頸，以及中國把資源優先擺在國內自給自足——AI 出口量走弱，不必然等於外需轉弱。\n\n## 憑什麼（二）：實質成長來自機電、「新三樣」與歐盟\n\n高盛建立產品層級的拉氏數量指數（固定前一年出口值、套用產品別數量成長）來分離量價。剝掉價格後，貢獻最大的單一項目仍是不含 AI 的電機設備與機械。「新三樣」——太陽能電池、電動車、鋰電池——只占名目出口約 5%，近幾季卻貢獻約 1.5 至 2 個百分點的實質出口成長，幾乎追平家具、家電、成衣這「老三樣」；AI 相關產品的實質貢獻不到 1 個百分點，且隨數量走弱而消退。化工品因中東供應中斷把全球買家推向中國生產者，貢獻近期上升。為了避開 AI 價格效應的干擾，去向分析用的是 2025 年電機設備、機械與車輛的年度貿易流，並排除 2025 年底價格大漲的電子產品（主要是半導體）：東協、歐盟與其他新興市場（非洲、中東、拉美）是最大貢獻者；中國對歐盟的電機與運輸設備出口在 2026 上半年實質年增 19%。\n\n## 憑什麼（三）：新興市場買的是自己要用的\n\n出口到哪裡不等於最終需求在哪裡——這個區分在去年對美貿易戰時特別要緊，當時新興市場出口跳升被普遍當成轉口，因而被視為最終需求其實還在成熟市場。高盛用亞洲開發銀行的多區域投入產出表比對「貨運到哪」與「中國加值最終被誰吸收」，發現兩者對多數新興市場差距很小：這些經濟體收到中國約 39% 的商品毛出口，吸收約 38% 的中國加值，其中消費占最終需求約 60%，顯示當地家庭需求才是主力。例外是東協與墨西哥：東協收到約 12% 的中國毛出口卻只吸收 9% 的中國加值，仍是主要轉口樞紐——但即使如此，其中四分之三的貨仍反映當地需求。墨西哥的缺口較小（3.3% 對 2.2%），而且 2025 年這一輪貿易戰中沒有出現 2018 年那樣的轉運證據；原因具名：在美國施壓下墨西哥調高對中國進口的關稅並收緊查核，2024 年中國對墨的綠地製造業直接投資也同步下滑。同一份表還顯示美國吸收的中國加值多於它直接進口的量——2018 年由東協與墨西哥分攤的間接供應鏈路徑，如今更集中在東協。2019 到 2024 年間新興市場吸收的中國加值上升約 7 個百分點，其中消費就占了約 6 個百分點。\n\n## 它自己承認的限制：「新新三樣」目前只是戰略敘事\n\n中國的出口模式已從家具、家電、成衣的勞力密集「老三樣」，走到技術含量更高的「新三樣」；官方與官媒現在把 AI、機器人、創新藥列為「新新三樣」。但報告自己說這三者更偏服務、缺乏精確的官方定義，貿易數據抓不乾淨，所提出的估計只能當成「可觀察但不完整的代理」。機器人：中國 2025 年成為工業機器人淨出口國，2026 上半年機器人出口總額 7.47 億美元，占總出口僅 0.03%，且腳註提到不少機器人賣給政府支持的訓練中心，實際需求存疑。創新藥：對外授權交易金額上半年年增 66% 至約 1,000 億美元，但那是服務出口而非商品出口，款項綁在臨床進度與法規核准等里程碑上，年初至今服務出口總額只有 2,180 億美元。AI：OpenRouter 數據顯示中國供應商 7 月占全球 token 消耗的 71%，但該平台偏向個人用戶、抓不到企業需求，加上中國模型多為免費或極低價，用量大不等於跨境收入；token 出口——境外請求在中國資料中心處理、結果再回傳海外——則集中在少數南方城市，尤以汕頭為著。報告給的定位很明確：近期意義主要是戰略性的，讓中國能出口 AI 能力、自動化方案與授權收入，配合往價值鏈上游移動、降低對商品貿易依賴的長期目標。\n\n## 進口只有黃金在撐，去金後的順差推到 1.3 兆美元\n\n上半年名目進口年增 26.6%，進口數量只增 7.8%，缺口同樣在價格。第二季的實質進口成長集中在黃金這類少數品項，不是內需的全面回升——高盛的內需追蹤指標近幾個月僅在 2 個百分點附近。能源是數量的明顯拖累，燃料進口大減，同時反映對價格的高敏感度與充足的國內庫存；若全球能源價格穩定、庫存逐步去化，能源進口量可望溫和恢復。黃金本身也不能純用市場需求解釋：中國的非貨幣黃金貿易受配額審批管理，出口原則上禁止，實際進口量取決於當局怎麼調配額。AI 相關進口則主要反映供應鏈需求與加工貿易，不是最終內需。把黃金造成的扭曲調整掉之後，中國的底層貿易順差在 7 月續擴至年化約 1.3 兆美元。\n\n## 風險不在華盛頓，在布魯塞爾\n\n美中已從 2025 年的急遽升級轉為有管理的選擇性穩定：美國對中國的有效關稅率 2026 年大致穩在 23%，7 月 24 日第 122 條臨時關稅到期，被新的第 301 條強迫勞動相關稅捐抵銷；中國對美的有效稅率 27.4% 反而更高。真正的風險在歐盟——歐盟占中國 2025 年出口的 15%，且近月出貨加速。中國對歐出口越來越集中在會衝擊歐洲競爭力的先進製造：電機（如鋰電池）、車輛（尤其電動車）與電腦，對歐順差也集中在這些部門，外加走小額免稅管道的低價出貨。歐盟下一步的判準來源是新的貿易轉移監控框架，措施會集中在轉移證據與國內產業壓力最清楚的部門——鋼鐵、插電式混合動力車、電機、風機零件與基礎化工。高盛估計現有與提議中的措施可能（至少在邊際上）涵蓋中國對歐年出口的約 27%，但強調這不等量換算成出口損失，實際衝擊取決於最終政策細節與執行。新提案包括對插混課 17% 至 38% 的平準稅，以及把碳邊境調整機制延伸到下游產品：涵蓋面將從占中國 2025 年對歐出口 2.1% 的鋼鋁基本製品，再加上 580 億美元的出口，使受影響比重升到 12.1%，打到的正是 2025 年貢獻中國對歐名目出口成長 8.5% 當中 4.9 個百分點的電機、機械與運輸設備。不過咬合力要打折：稅是按鋼鋁前驅材料的隱含碳排課，不是按製成品的總金額，只有重型卡車這類碳密集產品的成本才比較有感。歐盟也已在 2026 年 7 月 1 日取消 150 歐元的免稅門檻，中國在小額包裹這一塊的順差可能因此縮小。緩衝同樣具名：成本優勢與品質改善、對稀土的槓桿（歐盟稀土按重量逾九成來自中國），以及電動車在 2024 年 10 月起被課 10% 基本稅加個別廠商平準稅後、2026 年迅速回升，同時燃油車與插混出口快速上升所展現的規避能力。\n\n## 可驗證的節點\n\n一，下半年海關數據：7.9% 的全年實質出口成長預測隱含下半年 5.3% 年增，2027 年之後回到約 5%；進口量預測 4.4%、其後降到約 2.5%。二，AI 相關出口數量能否從 -1.4% 翻正——翻不正的話，價格一旦回落，名目出口的漂亮數字會先失色。三，黃金配額怎麼調，以及去金順差能否守住年化 1.3 兆美元。四，歐盟貿易首長 10 月的時程與插混平準稅的落地稅率；碳邊境調整機制的下游延伸最快也要 2028 年才實施，那才是這條風險真正兌現的時點。五，美中那條線要看的不是稅率本身，而是 AI、先進科技、投資與關鍵礦產這四個戰略競爭場域。",
+   "summary_chars": 3701,
+   "tags": [
+    "中國",
+    "人工智慧",
+    "半導體",
+    "關稅",
+    "歐盟",
+    "黃金"
+   ],
+   "stances": [
+    {
+     "theme": "中國",
+     "quote": "Once price effects are stripped out, China’s real export growth remains broad-based and driven mainly by its ex-AI high-tech manufacturing rather than AI-related products.",
+     "quote_zh": "把價格效果剝掉之後，中國的實質出口成長依然是廣泛的，而且主要由不含 AI 的高階製造帶動，而非 AI 相關產品。",
+     "label": null,
+     "page": 6
+    },
+    {
+     "theme": "AI 與半導體",
+     "quote": "Around 80% of AI-related nominal exports are shipped under processing-trade regimes or through special customs supervision zones rather than ordinary trade",
+     "quote_zh": "約 80% 的 AI 相關名目出口是走加工貿易體制或海關特殊監管區出貨，而不是一般貿易。",
+     "label": null,
+     "page": 5
+    },
+    {
+     "theme": "歐洲",
+     "quote": "We therefore expect EU policy to become tougher, but to stop short of measures likely to trigger a severe response from Beijing",
+     "quote_zh": "因此我們預期歐盟政策會轉趨強硬，但會止步於可能引來北京強烈反制的措施之前。",
+     "label": null,
+     "page": 14
+    },
+    {
+     "theme": "黃金",
+     "quote": "China’s non-monetary gold trade is tightly administered: imports are subject to quota approvals, while exports are generally prohibited except for a limited number of authorized institutions.",
+     "quote_zh": "中國的非貨幣黃金貿易受到嚴格管理：進口須經配額審批，出口則除少數獲授權機構外原則上禁止。",
+     "label": null,
+     "page": 11
+    }
+   ],
+   "charts": [
+    {
+     "kind": "grouped_bar",
+     "title": "名目與數量之間的缺口，出口與進口都在價格那一側",
+     "subtitle": "中國 2026 年出口與進口的名目成長與實質（數量）成長；出口名目為年初至 7 月、出口數量為上半年，進口兩者皆為上半年年增",
+     "cats": [
+      "出口",
+      "進口"
+     ],
+     "groups": [
+      {
+       "name": "名目成長",
+       "values": [
+        18.5,
+        26.6
+       ]
+      },
+      {
+       "name": "數量（實質）成長",
+       "values": [
+        10.8,
+        7.8
+       ]
+      }
+     ],
+     "y_label": "% 年增",
+     "source": "Goldman Sachs, Asia Economics Analyst: China's Broad-Based Export Strength to Persist Despite Limited AI Boost, 2026-08-23（出口數字見第 3 頁，進口數字見第 10 頁）",
+     "grounding": [
+      "rising 18.5% year-to-date through July, the fastest pace since the post-pandemic reopening in 2021",
+      "export volume growth remained strong at 10.8% in H1 2026",
+      "Nominal imports rose 26.6% yoy in H1, while import volume only increased 7.8% yoy"
+     ],
+     "png": "2026-08-23-goldman-sachs-asia-economics-analyst-chinas-broad-based-export-strength-to-1.png",
+     "svg": "2026-08-23-goldman-sachs-asia-economics-analyst-chinas-broad-based-export-strength-to-1.svg",
+     "bytes": 112468
+    }
+   ]
+  },
+  {
    "slug": "2026-08-22-goldman-sachs-asia-pacific-weekly-kickstart",
    "broker": "Goldman Sachs",
    "product": "Asia-Pacific Weekly Kickstart",
    "title": "Asia-Pacific Weekly Kickstart: MXAPJ rose another 1% as HK/China Offshore rebounded and Asian FX strengthened despite resumed foreign selling; tech exports remained resilient amid higher oil prices",
+   "title_source": "page_one",
+   "title_confident": true,
    "date": "2026-08-22",
    "pages": 35,
    "issue": null,
@@ -398,15 +625,15 @@
      "svg": "2026-08-22-goldman-sachs-asia-pacific-weekly-kickstart-1.svg",
      "bytes": 140099
     }
-   ],
-   "title_source": "page_one",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-21-nomura-1317180",
    "broker": "Nomura",
    "product": "1317180",
    "title": "Japan Economic Weekly: We need to keep a close eye on the flow of information ahead of September MPM",
+   "title_source": "page_one",
+   "title_confident": true,
    "date": "2026-08-21",
    "pages": 22,
    "issue": null,
@@ -496,15 +723,15 @@
      "svg": "2026-08-21-nomura-1317180-1.svg",
      "bytes": 131209
     }
-   ],
-   "title_source": "page_one",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-21-nomura-1317175",
    "broker": "Nomura",
    "product": "1317175",
    "title": "Matsuzawa's View: Macro Strategy Weekly: Implications of the Failed 'Bessent Put'",
+   "title_source": "page_one",
+   "title_confident": true,
    "date": "2026-08-21",
    "pages": 16,
    "issue": null,
@@ -583,15 +810,15 @@
      "svg": "2026-08-21-nomura-1317175-1.svg",
      "bytes": 100041
     }
-   ],
-   "title_source": "page_one",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-21-goldman-sachs-us-weekly-kickstart",
    "broker": "Goldman Sachs",
    "product": "US Weekly Kickstart",
    "title": "US Weekly Kickstart: Hedge funds and mutual funds differ on AI but converge on Financials",
+   "title_source": "pdf_meta",
+   "title_confident": true,
    "date": "2026-08-21",
    "pages": 23,
    "issue": null,
@@ -672,15 +899,15 @@
      "svg": "2026-08-21-goldman-sachs-us-weekly-kickstart-1.svg",
      "bytes": 127477
     }
-   ],
-   "title_source": "pdf_meta",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-21-goldman-sachs-americas-technology",
    "broker": "Goldman Sachs",
    "product": "Americas Technology",
    "title": "Americas Technology: Takeaways From Our 3rd Annual Silicon Valley AI Field Trip",
+   "title_source": "pdf_meta",
+   "title_confident": true,
    "date": "2026-08-21",
    "pages": 41,
    "issue": null,
@@ -763,15 +990,15 @@
      "svg": "2026-08-21-goldman-sachs-americas-technology-1.svg",
      "bytes": 125943
     }
-   ],
-   "title_source": "pdf_meta",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-21-goldman-sachs-americas-engineering-construction",
    "broker": "Goldman Sachs",
    "product": "Americas Engineering & Construction",
    "title": "Americas Engineering & Construction: GS Data Center Construction Spending Tracker: Texas leads, new markets emerge",
+   "title_source": "pdf_meta",
+   "title_confident": true,
    "date": "2026-08-21",
    "pages": 17,
    "issue": null,
@@ -865,15 +1092,15 @@
      "svg": "2026-08-21-goldman-sachs-americas-engineering-construction-1.svg",
      "bytes": 127859
     }
-   ],
-   "title_source": "pdf_meta",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-21-goldman-sachs-americas-construction",
    "broker": "Goldman Sachs",
    "product": "Americas Construction",
    "title": "Americas Construction: Building Products: Non-Residential Construction: Data Centers and Institutional Projects Support Growth in DMI while Billings Deteriorate",
+   "title_source": "page_one",
+   "title_confident": true,
    "date": "2026-08-21",
    "pages": 10,
    "issue": null,
@@ -946,15 +1173,15 @@
      "svg": "2026-08-21-goldman-sachs-americas-construction-1.svg",
      "bytes": 110408
     }
-   ],
-   "title_source": "page_one",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-21-citi-us-rates-weekly-can-secretary-bessent-and-chair-warsh-save-t",
    "broker": "Citi",
    "product": "US Rates Weekly Can Secretary Bessent and Chair Warsh save the curve?",
    "title": "US Rates Weekly: Can Secretary Bessent and Chair Warsh save the curve?",
+   "title_source": "pdf_meta",
+   "title_confident": true,
    "date": "2026-08-21",
    "pages": 37,
    "issue": null,
@@ -1057,15 +1284,15 @@
      "svg": "2026-08-21-citi-us-rates-weekly-can-secretary-bessent-and-chair-warsh-save-t-1.svg",
      "bytes": 107997
     }
-   ],
-   "title_source": "pdf_meta",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-21-citi-us-economics-weekly",
    "broker": "Citi",
    "product": "US Economics Weekly",
    "title": "US Economics Weekly: The resilient narrative of US resilience",
+   "title_source": "pdf_meta",
+   "title_confident": true,
    "date": "2026-08-21",
    "pages": 22,
    "issue": null,
@@ -1165,15 +1392,15 @@
      "svg": "2026-08-21-citi-us-economics-weekly-1.svg",
      "bytes": 137172
     }
-   ],
-   "title_source": "pdf_meta",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-21-citi-global-asset-allocation",
    "broker": "Citi",
    "product": "Global Asset Allocation",
    "title": "Global Asset Allocation: House Views August 2026 – Bessent And The Back End",
+   "title_source": "pdf_meta",
+   "title_confident": true,
    "date": "2026-08-21",
    "pages": 33,
    "issue": null,
@@ -1257,15 +1484,15 @@
      "svg": "2026-08-21-citi-global-asset-allocation-1.svg",
      "bytes": 139943
     }
-   ],
-   "title_source": "pdf_meta",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-20-nomura-asia-insights",
    "broker": "Nomura",
    "product": "Asia Insights",
    "title": "Asia Insights: Thailand: The high concentration of FDI inflows into data centers",
+   "title_source": "page_one",
+   "title_confident": true,
    "date": "2026-08-20",
    "pages": 10,
    "issue": null,
@@ -1339,15 +1566,15 @@
      "svg": "2026-08-20-nomura-asia-insights-1.svg",
      "bytes": 111340
     }
-   ],
-   "title_source": "page_one",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-20-goldman-sachs-oil-analyst",
    "broker": "Goldman Sachs",
    "product": "Oil Analyst",
    "title": "Oil Analyst: Running Hard or Hardly Running: Effect of Refinery Outages on Runs and Margins",
+   "title_source": "pdf_meta",
+   "title_confident": true,
    "date": "2026-08-20",
    "pages": 13,
    "issue": null,
@@ -1422,15 +1649,15 @@
      "svg": "2026-08-20-goldman-sachs-oil-analyst-1.svg",
      "bytes": 72535
     }
-   ],
-   "title_source": "pdf_meta",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-20-goldman-sachs-india-financials",
    "broker": "Goldman Sachs",
    "product": "India Financials",
    "title": "India Financials: What Could Drive the Return of Private Banks?",
+   "title_source": "pdf_meta",
+   "title_confident": true,
    "date": "2026-08-20",
    "pages": 60,
    "issue": null,
@@ -1505,15 +1732,15 @@
      "svg": "2026-08-20-goldman-sachs-india-financials-1.svg",
      "bytes": 123581
     }
-   ],
-   "title_source": "pdf_meta",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-20-goldman-sachs-global-credit-trader",
    "broker": "Goldman Sachs",
    "product": "Global Credit Trader",
    "title": "Global Credit Trader: IG Private Placements—No Longer Niche",
+   "title_source": "pdf_meta",
+   "title_confident": true,
    "date": "2026-08-20",
    "pages": 54,
    "issue": null,
@@ -1588,15 +1815,15 @@
      "svg": "2026-08-20-goldman-sachs-global-credit-trader-1.svg",
      "bytes": 74964
     }
-   ],
-   "title_source": "pdf_meta",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-20-citi-global-economic-outlook-strategy",
    "broker": "Citi",
    "product": "Global Economic Outlook & Strategy",
    "title": "Global Economic Outlook & Strategy: Global Resilience—Many Storm Clouds, but Still Little Rain",
+   "title_source": "pdf_meta",
+   "title_confident": true,
    "date": "2026-08-20",
    "pages": 26,
    "issue": null,
@@ -1748,15 +1975,15 @@
      "svg": "2026-08-20-citi-global-economic-outlook-strategy-1.svg",
      "bytes": 100286
     }
-   ],
-   "title_source": "pdf_meta",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-20-citi-foreign-exchange-forecasts-august-2026",
    "broker": "Citi",
    "product": "Foreign Exchange Forecasts August 2026",
    "title": "Foreign Exchange Forecasts: August 2026",
+   "title_source": "pdf_meta",
+   "title_confident": true,
    "date": "2026-08-20",
    "pages": 30,
    "issue": null,
@@ -1848,15 +2075,15 @@
      "svg": "2026-08-20-citi-foreign-exchange-forecasts-august-2026-1.svg",
      "bytes": 114677
     }
-   ],
-   "title_source": "pdf_meta",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-19-nomura-economic-insights",
    "broker": "Nomura",
    "product": "Economic Insights",
    "title": "Economic Insights: US – Election timing favors Fed patience",
+   "title_source": "page_one",
+   "title_confident": true,
    "date": "2026-08-19",
    "pages": 7,
    "issue": null,
@@ -1932,15 +2159,15 @@
      "svg": "2026-08-19-nomura-economic-insights-1.svg",
      "bytes": 84390
     }
-   ],
-   "title_source": "page_one",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-19-nomura-1316685",
    "broker": "Nomura",
    "product": "1316685",
    "title": "Asia Insights: Indonesia: BI stays on hold and signals policy continuity",
+   "title_source": "page_one",
+   "title_confident": true,
    "date": "2026-08-19",
    "pages": 8,
    "issue": null,
@@ -2018,15 +2245,15 @@
      "svg": "2026-08-19-nomura-1316685-1.svg",
      "bytes": 106211
     }
-   ],
-   "title_source": "page_one",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-19-nomura-1316582",
    "broker": "Nomura",
    "product": "1316582",
    "title": "Special Report: Chipnomics: Introducing Nomura's Chip Shortage Index",
+   "title_source": "page_one",
+   "title_confident": true,
    "date": "2026-08-19",
    "pages": 20,
    "issue": null,
@@ -2112,15 +2339,15 @@
      "svg": "2026-08-19-nomura-1316582-1.svg",
      "bytes": 138891
     }
-   ],
-   "title_source": "page_one",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-19-goldman-sachs-top-of-mind",
    "broker": "Goldman Sachs",
    "product": "Top of Mind",
    "title": "Top of Mind: Assessing a less transparent Fed",
+   "title_source": "pdf_meta",
+   "title_confident": true,
    "date": "2026-08-19",
    "pages": 26,
    "issue": "151",
@@ -2196,15 +2423,15 @@
      "svg": "2026-08-19-goldman-sachs-top-of-mind-1.svg",
      "bytes": 109462
     }
-   ],
-   "title_source": "pdf_meta",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-19-citi-oil-monitor",
    "broker": "Citi",
    "product": "Oil Monitor",
    "title": "Oil Monitor: At visible draw rates, when do we \"run out\" of oil stockpiles?",
+   "title_source": "pdf_meta",
+   "title_confident": true,
    "date": "2026-08-19",
    "pages": 32,
    "issue": null,
@@ -2309,15 +2536,15 @@
      "svg": "2026-08-19-citi-oil-monitor-1.svg",
      "bytes": 105590
     }
-   ],
-   "title_source": "pdf_meta",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-18-nomura-1316506",
    "broker": "Nomura",
    "product": "1316506",
    "title": "Richard Koo: How will Japan and US address the risks of inflation and falling behind the curve?",
+   "title_source": "page_one",
+   "title_confident": true,
    "date": "2026-08-18",
    "pages": 13,
    "issue": null,
@@ -2398,15 +2625,15 @@
      "svg": "2026-08-18-nomura-1316506-1.svg",
      "bytes": 118967
     }
-   ],
-   "title_source": "page_one",
-   "title_confident": true
+   ]
   },
   {
    "slug": "2026-08-18-goldman-sachs-european-economics-analyst",
    "broker": "Goldman Sachs",
    "product": "European Economics Analyst",
    "title": "European Economics Analyst: Germany—A Cyclically Loose but Structurally Tighter Labour Market",
+   "title_source": "pdf_meta",
+   "title_confident": true,
    "date": "2026-08-18",
    "pages": 12,
    "issue": null,
@@ -2477,9 +2704,7 @@
      "svg": "2026-08-18-goldman-sachs-european-economics-analyst-1.svg",
      "bytes": 142690
     }
-   ],
-   "title_source": "pdf_meta",
-   "title_confident": true
+   ]
   }
  ],
  "crosscut": "**這一期真正的新東西是 AI 資本支出那條線 —— 四份報告從四個不同的層面在量同一件事，而且它們彼此補齊、不是分歧。** 高盛的 Americas Construction 量的是體量（商業營建 +13.8%，但**把資料中心扣掉之後是 −16.2%**）；Americas E&C 量的是分布（宣布件數年增率德州 107%、俄亥俄 116%，而維吉尼亞只有 9% —— **集中度與成長率已經分家**）；Power Tracker（W31）量的是它撞到的電網天花板；Global Credit Trader 量的是錢從哪來（AI 相關占美元投資級私募發行兩年內從 3% 到 42%）。四份合起來，是一條從需求、選址、電力到融資的完整鏈。\n\n**分歧在鏈的末端。** Americas Technology 是這一期唯一一份走進現場的：矽谷業者講的是 100 倍 token 消費、季增 5 倍，而三家可比的上市公司訂閱指標一季只加速 0.4 到 1 個百分點。它明講「**token 份額不等於營收利潤份額**」、企業代理人卡在究責而不是能力。**前面四份量的是投進去多少，這一份量的是流出來多少，而兩個數字的量級差很遠。** 這是本期最值得記下來的一組落差——它不是誰對誰錯，是同一個故事的兩端還沒有接上。\n\n**聯準會那組分歧還在，而且沒有前進。** 野村維持按兵不動（通膨動能消退加上選舉行事曆），花旗把 27 家主要央行裡的 17 家政策利率預測上修（油價衝擊逼出的緊縮轉向）；**兩家看的是同一組資料、給出相反的方向**，市場定價站在花旗那一側（十月升息一碼機率約 55%）。高盛的 Top of Mind 與 Global Economics Analyst（W33）都在談聯準會，但問的是**透不透明**、不是升不升息 —— 它們與上面兩家正交而非對立。**三家都在談聯準會，只有兩家在談同一個問題。**\n\n**石油那組不是分歧，是彼此補齊。** 花旗算庫存去化到什麼時候見底（OECD 約 2027 年底降到 70 天覆蓋），高盛算煉廠開工率為何與 margin 背離（全球約 1,000 萬桶／日產能離線）。方向一致、切面不同。\n\n**兩份週報講了同一個形狀的事：主動資金的部位跟賣方建議相反。** 美國那份是「最擁擠的部位今年最差」——集中放空籃子 +38%，而避險基金 VIP 籃子只有 +12%；亞太那份是主動型基金對台灣減碼 530 個基點（全表最極端），而高盛自己給台灣加碼、權重 26%。**兩份都沒有主張自己會贏，它們陳述的是同一件事：擁擠度本身正在變成報酬的來源。**\n\n---\n\n**（2026-08-23 補收 9 份之後新增的分歧）**\n\n**長端殖利率怎麼才會穩下來 —— 花旗與野村給了相反的答案，而且兩邊都把話講死了。** 花旗 US Rates Weekly 在財政部調高長端買回之後做多 20 年期公債，理由是「**我們幾乎看不到證據顯示更緊的聯準會政策會傳導成更低、更穩定的長端殖利率**」，並直說鷹派聯準會比較可能扯這筆交易的後腿。野村的松澤在同一週寫的是反面：「**債市當前的不穩定，要等到華許領導下的聯準會真的升息，才會平息**」。同一個問題（誰能把長端接住），一邊說靠財政部、鷹派會壞事，一邊說非升息不可、財政部那條路已經走不通。**這是本期最乾淨的一組分歧 —— 兩邊都可以被同一組事件證偽。**\n\n**同一個事件（財政部把買回加倍），三種讀法。** 花旗 US Rates 讀成「財政部已經替 30 年債畫出一條隱形天花板」，據此進場；花旗自己的 US Economics Weekly 讀成徵兆而不是解方 ——「**這個未被預期的宣布，確實透露出對近期殖利率上行的某種不適**」；野村松澤讀成失敗案例，標題直接寫 Bessent put 失敗證明的是「診斷錯了」。**花旗兩份之間是溫差，花旗與野村之間是方向相反。**\n\n**聯準會下一步：野村在替升息鋪路，花旗在數鴿派證據。** 辜朝明（野村綜研，文中註明為個人觀點）認為華許「**可能打算把過去 42 天發生的事，當成說服川普總統需要升息的證據**」，甚至可能改用量化緊縮把長端推高；花旗 US Economics Weekly 則說「**對照會後收到的更疲弱就業與更進一步放緩的通膨資料，七月 FOMC 會議紀要讀起來已經過時**」。**這一組要小心讀：辜朝明那份掛的是個人觀點，不等於野村證券研究部的立場**，所以它與前面那組「野村維持按兵不動」不是同一個發言人。\n\n**日圓貶值的歸因，兩家指向不同的東西。** 花旗說「**今年日圓貶值的主因，是國內外投資人因日本股價歷史性上漲而做的賣日圓避險**」——那是流量問題；野村松澤說「**以供需手段壓抑公債殖利率所造成的扭曲，往往會以日圓貶值壓力的形式浮現**」——那是政策問題。**同一個貶值，一個歸因於股市避險部位、一個歸因於殖利率壓抑，處方因此完全不同。**\n\n**日銀九月則是難得的一致，沒有分歧可寫。** 野村 Japan Economic Weekly 給九月升息 85%（市場定價約 80%），花旗此前也預期九月升息一碼。**兩家對「會不會升」看法相同，分歧只在升完之後升到哪裡** —— 那還不到可以寫成分歧的程度。",
@@ -2495,7 +2720,10 @@
   "日銀九月會議：野村給 85%（市場約 80%）。分歧不在會不會升，在升完之後的路徑。",
   "印尼央行第四季會議：野村維持再升 50 個基點的預測，同時自承「不確定性依然很高」。",
   "歐元兌美元的兩個時點：花旗 0-3 個月 1.1750、6-12 個月仍留 1.14 —— 這兩格同時擺著，就是一個有到期日的看空美元。",
-  "野村晶片短缺指數（CSI）的月度讀數：它主張這一輪卡在晶圓分配、可撐超過 24 個月，那是逐月可驗的。"
+  "野村晶片短缺指數（CSI）的月度讀數：它主張這一輪卡在晶圓分配、可撐超過 24 個月，那是逐月可驗的。",
+  "中國出口的量價缺口：名目 18.5% 對數量 10.8%（出口）、名目 26.6% 對數量 7.8%（進口）。這個缺口收斂或擴大，就是「AI 推高的是價格不是數量」這個說法的月度裁決點。",
+  "歐盟對中國的貿易工具：高盛把歐盟轉硬的上限畫在「引來北京強烈反制之前」，十月的反傾銷調查與 CBAM 時程是第一個會裁決這條線的地方。",
+  "巴西的 Selic 路徑與家庭利息負擔（年度 R$697bn）：高盛把零售的需求缺口歸因於現金流而非景氣循環，降息真的開始之後，那條歸因就會被裁決。"
  ],
  "notes": [
   "本期立場的 `label` 全部為 null —— 立場受控詞表尚未訂定（BRIEF 第五節），先累積分析師原句。",
@@ -2505,7 +2733,10 @@
   "**本期是在已發布的 W34 上再補收 9 份**（14 → 23 份），走的是資料 repo 的 `append_only`（只准長大）。原有 14 份的內容一字未動，`crosscut` 是在原文之後接續新增，不是改寫。",
   "**辜朝明那份（Nomura 1316506）文中自述為野村綜研首席經濟學家的個人觀點**，不等於野村證券研究部的立場。跨家比較時它不能拿來代表「野村」。",
   "抽取層的兩處已知瑕疵，撰寫者都避開了、但值得記著：Japan Economic Weekly 原文第 3 頁與第 11 頁對同一場會面寫成 `22 May 2025` 與 `22 May 2026`（採後者）；Citi 匯率預測第 19 頁末尾有一句疑似編輯殘留，未採用。",
-  "**`research_verify` 的 `research.chart_spec_wellformed` 這一輪是 FAIL，但那是工具的接線缺口不是產出的問題** —— `tools/research_verify.py` 組 payload 時沒有帶 `chart_anchors`，而 `systems/research.py`（發布閘門走的那支）有帶。補上那張表之後同一條檢查回 PASS（23 張圖全部合格）。"
+  "**`research_verify` 的 `research.chart_spec_wellformed` 這一輪是 FAIL，但那是工具的接線缺口不是產出的問題** —— `tools/research_verify.py` 組 payload 時沒有帶 `chart_anchors`，而 `systems/research.py`（發布閘門走的那支）有帶。補上那張表之後同一條檢查回 PASS（23 張圖全部合格）。",
+  "**2026-08-24 在已發布的 W34 上再補收兩份 8/23 的報告**（GS Asia Economics Analyst、GS Brazil Retail，23 → 25 份），走的同樣是資料 repo 的 `append_only`。既有 23 份逐份做了 JSON 比對，**一個欄位都沒有變動**。",
+  "**`crosscut` 這一次沒有改。** 兩份新報告都沒有跟既有 23 份形成「兩家對同一件事給了不同答案」：中國出口那份是 AI 那條線上的第三個量測點、但發言的同樣是高盛；巴西零售那份在本期沒有對手。依 BRIEF 第三節，寧可不寫，也不把「彼此補齊」寫成分歧。",
+  "兩份新報告的 `grouped_bar` 規格原本把數列寫在 `groups[].vals`，而 `chartkit` 讀的是 `groups[].values`，渲染時丟 KeyError。`check_part.py` 與 `research.chart_spec_wellformed` 對這一類「渲染時才會炸」的形狀是盲的（後者的 `blind_to` 自己記著這一格）。**只改欄位名，數字、標題與 `grounding` 一個字沒動。**"
  ],
  "date": "2026-08-23"
 }

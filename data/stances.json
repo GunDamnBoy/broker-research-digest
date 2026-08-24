@@ -1,8 +1,413 @@
 {
- "updated": "2026-08-23T01:37:07+08:00",
+ "updated": "2026-08-25T00:00:46+08:00",
  "note": "原句是分析師說的，精華與圖是我們做的。到期日 = 報告日期 + 3 個月。",
- "count": 96,
+ "count": 113,
  "items": [
+  {
+   "id": "2026-08-24-goldman-sachs-us-tariff-impact-tracker-1",
+   "week": "2026-W35",
+   "slug": "2026-08-24-goldman-sachs-us-tariff-impact-tracker",
+   "broker": "Goldman Sachs",
+   "title": "US Tariff Impact Tracker: Indicated Imports into LA Positive on YOY Basis Over Next Two Weeks",
+   "date": "2026-08-24",
+   "due": "2026-11-22",
+   "theme": "美國政治與政策",
+   "tags": [
+    "關稅",
+    "美國",
+    "中國",
+    "貨櫃航運",
+    "運輸股",
+    "供應鏈"
+   ],
+   "quote": "We do highlight that trucking activity on the West Coast reflected in load availability and spot rates, have shown a meaningful decline over July and August, which could indicate some level of pull forward activity in May/June is now tapering off.",
+   "quote_zh": "我們要特別指出，西岸的卡車運輸活動——反映在貨載可得性與現貨運價上——在七月與八月出現了有意義的下滑，這可能代表五、六月間某種程度的拉貨前置正在退潮。",
+   "page": 1,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-24-goldman-sachs-us-tariff-impact-tracker-2",
+   "week": "2026-W35",
+   "slug": "2026-08-24-goldman-sachs-us-tariff-impact-tracker",
+   "broker": "Goldman Sachs",
+   "title": "US Tariff Impact Tracker: Indicated Imports into LA Positive on YOY Basis Over Next Two Weeks",
+   "date": "2026-08-24",
+   "due": "2026-11-22",
+   "theme": "美股與財報",
+   "tags": [
+    "關稅",
+    "美國",
+    "中國",
+    "貨櫃航運",
+    "運輸股",
+    "供應鏈"
+   ],
+   "quote": "we remain positive on the cycle recovery story—despite the heretofore elusive bottom, and we note several factors that could finally stimulate a favorable and fulsome volume inflection into 2026",
+   "quote_zh": "我們對景氣循環復甦的故事維持正面看法——儘管那個底部至今仍難以捉摸；我們並列出幾項因素，可能終於促成 2026 年一次有利而充分的量能轉折。",
+   "page": 2,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-24-goldman-sachs-us-tariff-impact-tracker-3",
+   "week": "2026-W35",
+   "slug": "2026-08-24-goldman-sachs-us-tariff-impact-tracker",
+   "broker": "Goldman Sachs",
+   "title": "US Tariff Impact Tracker: Indicated Imports into LA Positive on YOY Basis Over Next Two Weeks",
+   "date": "2026-08-24",
+   "due": "2026-11-22",
+   "theme": "中國",
+   "tags": [
+    "關稅",
+    "美國",
+    "中國",
+    "貨櫃航運",
+    "運輸股",
+    "供應鏈"
+   ],
+   "quote": "On a laden vessel basis, Mainland China was up +7% YoY on average while Asia-Ex Mainland China was down -2% YoY. On a TEU basis, Mainland China was up +1% YoY on average while Asia-Ex Mainland was up +6% on average.",
+   "quote_zh": "以載貨船數計，中國大陸平均年增 +7%，而亞洲扣除中國大陸則年減 -2%。以 TEU 計，中國大陸平均年增 +1%，而亞洲扣除中國大陸平均年增 +6%。",
+   "page": 6,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-24-goldman-sachs-americas-retail-1",
+   "week": "2026-W35",
+   "slug": "2026-08-24-goldman-sachs-americas-retail",
+   "broker": "Goldman Sachs",
+   "title": "Americas Retail: Takeaways from IR: management; 2Q26 mid-earnings summary",
+   "date": "2026-08-24",
+   "due": "2026-11-22",
+   "theme": "美股與財報",
+   "tags": [
+    "美國",
+    "零售股",
+    "關稅",
+    "通膨",
+    "電子商務"
+   ],
+   "quote": "We note that most companies raised FY26 guidance, though there was a mix of top-line misses.",
+   "quote_zh": "我們注意到多數公司調高了 FY26 財測，但營收端出現一批未達標。",
+   "page": 4,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-24-goldman-sachs-americas-retail-2",
+   "week": "2026-W35",
+   "slug": "2026-08-24-goldman-sachs-americas-retail",
+   "broker": "Goldman Sachs",
+   "title": "Americas Retail: Takeaways from IR: management; 2Q26 mid-earnings summary",
+   "date": "2026-08-24",
+   "due": "2026-11-22",
+   "theme": "美國政治與政策",
+   "tags": [
+    "美國",
+    "零售股",
+    "關稅",
+    "通膨",
+    "電子商務"
+   ],
+   "quote": "Per management, Walmart received the vast majority of the $2.9bn in tariff refunds in 2Q, and the company put those dollars to work through price investments",
+   "quote_zh": "據管理層說法，沃爾瑪在 2Q 收到 29 億美元關稅退款的絕大部分，並把這筆錢透過價格投資投入市場。",
+   "page": 4,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-24-goldman-sachs-americas-retail-3",
+   "week": "2026-W35",
+   "slug": "2026-08-24-goldman-sachs-americas-retail",
+   "broker": "Goldman Sachs",
+   "title": "Americas Retail: Takeaways from IR: management; 2Q26 mid-earnings summary",
+   "date": "2026-08-24",
+   "due": "2026-11-22",
+   "theme": "美股與財報",
+   "tags": [
+    "美國",
+    "零售股",
+    "關稅",
+    "通膨",
+    "電子商務"
+   ],
+   "quote": "Management attributed the quarter’s strong performance to accelerated market share gains rather than an overall improvement in the underlying market.",
+   "quote_zh": "管理層把本季的強勁表現歸因於加速的市佔取得，而非底層市場的整體改善。",
+   "page": 2,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-24-citi-latin-america-economics-strategy-daily-1",
+   "week": "2026-W35",
+   "slug": "2026-08-24-citi-latin-america-economics-strategy-daily",
+   "broker": "Citi",
+   "title": "Latin America Economics & Strategy Daily: Tight Election, Mexico CPI, ARS Defense, Colombia's Receivables, Peru El Niño",
+   "date": "2026-08-24",
+   "due": "2026-11-22",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "拉丁美洲",
+    "巴西",
+    "墨西哥",
+    "阿根廷",
+    "通膨",
+    "聖嬰現象"
+   ],
+   "quote": "We think the figure is consistent with Banxico keeping a stable rate outlook ahead of 6.50%",
+   "quote_zh": "我們認為這組數字與墨西哥央行維持 6.50% 的穩定利率展望一致。",
+   "page": 3,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-24-citi-latin-america-economics-strategy-daily-2",
+   "week": "2026-W35",
+   "slug": "2026-08-24-citi-latin-america-economics-strategy-daily",
+   "broker": "Citi",
+   "title": "Latin America Economics & Strategy Daily: Tight Election, Mexico CPI, ARS Defense, Colombia's Receivables, Peru El Niño",
+   "date": "2026-08-24",
+   "due": "2026-11-22",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "拉丁美洲",
+    "巴西",
+    "墨西哥",
+    "阿根廷",
+    "通膨",
+    "聖嬰現象"
+   ],
+   "quote": "the stubborn focus on preventing the depreciation of the peso is aimed at dampening inflationary pressures. However, this approach is generating tighter local currency (LCY) liquidity and driving up interest rates, which in turn hinders a faster recovery in economic activity",
+   "quote_zh": "固執地聚焦於阻止披索貶值，目的是壓抑通膨壓力。但這套做法正在造成本幣流動性趨緊、利率被推高，反過來阻礙景氣更快復甦。",
+   "page": 4,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-24-citi-latin-america-economics-strategy-daily-3",
+   "week": "2026-W35",
+   "slug": "2026-08-24-citi-latin-america-economics-strategy-daily",
+   "broker": "Citi",
+   "title": "Latin America Economics & Strategy Daily: Tight Election, Mexico CPI, ARS Defense, Colombia's Receivables, Peru El Niño",
+   "date": "2026-08-24",
+   "due": "2026-11-22",
+   "theme": "信用債",
+   "tags": [
+    "拉丁美洲",
+    "巴西",
+    "墨西哥",
+    "阿根廷",
+    "通膨",
+    "聖嬰現象"
+   ],
+   "quote": "On credit, as markets move into September/October, a potential aversion to duration risk in EM credit may cause some spread widening in the belly and front end",
+   "quote_zh": "信用方面，隨著市場進入九月／十月，對新興市場信用存續期風險的迴避，可能造成曲線腹部與前端的利差走闊。",
+   "page": 1,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-24-citi-latin-america-economics-strategy-daily-4",
+   "week": "2026-W35",
+   "slug": "2026-08-24-citi-latin-america-economics-strategy-daily",
+   "broker": "Citi",
+   "title": "Latin America Economics & Strategy Daily: Tight Election, Mexico CPI, ARS Defense, Colombia's Receivables, Peru El Niño",
+   "date": "2026-08-24",
+   "due": "2026-11-22",
+   "theme": "能源與原物料",
+   "tags": [
+    "拉丁美洲",
+    "巴西",
+    "墨西哥",
+    "阿根廷",
+    "通膨",
+    "聖嬰現象"
+   ],
+   "quote": "warmer ocean temperatures are altering the distribution and biological condition of key species, particularly anchoveta, the backbone of Peru’s fishmeal and fish-oil exports",
+   "quote_zh": "偏暖的海水溫度正在改變關鍵魚種的分布與生物狀態，尤其是鯷魚——秘魯魚粉與魚油出口的支柱。",
+   "page": 8,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-23-goldman-sachs-brazil-retail-1",
+   "week": "2026-W34",
+   "slug": "2026-08-23-goldman-sachs-brazil-retail",
+   "broker": "Goldman Sachs",
+   "title": "Brazil Retail: Bridging the Spending Gap & What We Learnt from 2Q26 Results",
+   "date": "2026-08-23",
+   "due": "2026-11-21",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "巴西",
+    "零售股",
+    "家庭債務",
+    "電子商務",
+    "通膨",
+    "勞動市場"
+   ],
+   "quote": "Higher-for-longer interest rates are reinforcing a K-shaped consumption pattern. The asymmetric impact of elevated rates on net borrowers vs. net lenders (usually lower-income households with high propensity to spend), is consistent with the outperformance of categories linked to higher-income consumers (GLP-1 drugs, jewelry) relative to mass-market categories such as cash & carry.",
+   "quote_zh": "高利率維持更久，正在強化 K 型的消費型態。高利率對淨借款人與淨儲蓄者（通常是消費傾向高的低所得家庭）的作用不對稱，這與高所得消費者連動的品類（GLP-1 藥物、珠寶）持續跑贏量販這類大眾市場品類的現象一致。",
+   "page": 1,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-23-goldman-sachs-brazil-retail-2",
+   "week": "2026-W34",
+   "slug": "2026-08-23-goldman-sachs-brazil-retail",
+   "broker": "Goldman Sachs",
+   "title": "Brazil Retail: Bridging the Spending Gap & What We Learnt from 2Q26 Results",
+   "date": "2026-08-23",
+   "due": "2026-11-21",
+   "theme": "金融、併購與企業",
+   "tags": [
+    "巴西",
+    "零售股",
+    "家庭債務",
+    "電子商務",
+    "通膨",
+    "勞動市場"
+   ],
+   "quote": "emerging categories such as betting and pharma are capturing a growing share of the consumer’s wallet. Brazil is now the 5th-largest betting market globally, with an estimated ~R$220bn in annualized gross wager, a category that barely existed five years ago.",
+   "quote_zh": "博弈與藥品這類新興品類，正在拿走消費者錢包中越來越大的一塊。巴西現在是全球第五大博弈市場，年化總投注額估計約 2,200 億雷亞爾，而這個品類五年前幾乎不存在。",
+   "page": 1,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-23-goldman-sachs-brazil-retail-3",
+   "week": "2026-W34",
+   "slug": "2026-08-23-goldman-sachs-brazil-retail",
+   "broker": "Goldman Sachs",
+   "title": "Brazil Retail: Bridging the Spending Gap & What We Learnt from 2Q26 Results",
+   "date": "2026-08-23",
+   "due": "2026-11-21",
+   "theme": "金融、併購與企業",
+   "tags": [
+    "巴西",
+    "零售股",
+    "家庭債務",
+    "電子商務",
+    "通膨",
+    "勞動市場"
+   ],
+   "quote": "MELI, Shopee, and Amazon have\nbeen the primary drivers of +220bp yoy online shift in 2025, leveraging logistics,\nbroader assortment, and aggressive promotional strategies to capture an\nincreasingly value-conscious consumer.",
+   "quote_zh": "MELI、Shopee 與 Amazon 是 2025 年線上占比年增 220 個基點的主要推手，靠的是物流、更廣的品項與積極的促銷策略，來抓住越來越看重性價比的消費者。",
+   "page": 1,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-23-goldman-sachs-asia-economics-analyst-chinas-broad-based-export-strength-to-1",
+   "week": "2026-W34",
+   "slug": "2026-08-23-goldman-sachs-asia-economics-analyst-chinas-broad-based-export-strength-to",
+   "broker": "Goldman Sachs",
+   "title": "Asia Economics Analyst China's Broad-Based Export Strength to Persist Despite Limited AI Boost",
+   "date": "2026-08-23",
+   "due": "2026-11-21",
+   "theme": "中國",
+   "tags": [
+    "中國",
+    "人工智慧",
+    "半導體",
+    "關稅",
+    "歐盟",
+    "黃金"
+   ],
+   "quote": "Once price effects are stripped out, China’s real export growth remains broad-based and driven mainly by its ex-AI high-tech manufacturing rather than AI-related products.",
+   "quote_zh": "把價格效果剝掉之後，中國的實質出口成長依然是廣泛的，而且主要由不含 AI 的高階製造帶動，而非 AI 相關產品。",
+   "page": 6,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-23-goldman-sachs-asia-economics-analyst-chinas-broad-based-export-strength-to-2",
+   "week": "2026-W34",
+   "slug": "2026-08-23-goldman-sachs-asia-economics-analyst-chinas-broad-based-export-strength-to",
+   "broker": "Goldman Sachs",
+   "title": "Asia Economics Analyst China's Broad-Based Export Strength to Persist Despite Limited AI Boost",
+   "date": "2026-08-23",
+   "due": "2026-11-21",
+   "theme": "AI 與半導體",
+   "tags": [
+    "中國",
+    "人工智慧",
+    "半導體",
+    "關稅",
+    "歐盟",
+    "黃金"
+   ],
+   "quote": "Around 80% of AI-related nominal exports are shipped under processing-trade regimes or through special customs supervision zones rather than ordinary trade",
+   "quote_zh": "約 80% 的 AI 相關名目出口是走加工貿易體制或海關特殊監管區出貨，而不是一般貿易。",
+   "page": 5,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-23-goldman-sachs-asia-economics-analyst-chinas-broad-based-export-strength-to-3",
+   "week": "2026-W34",
+   "slug": "2026-08-23-goldman-sachs-asia-economics-analyst-chinas-broad-based-export-strength-to",
+   "broker": "Goldman Sachs",
+   "title": "Asia Economics Analyst China's Broad-Based Export Strength to Persist Despite Limited AI Boost",
+   "date": "2026-08-23",
+   "due": "2026-11-21",
+   "theme": "歐洲",
+   "tags": [
+    "中國",
+    "人工智慧",
+    "半導體",
+    "關稅",
+    "歐盟",
+    "黃金"
+   ],
+   "quote": "We therefore expect EU policy to become tougher, but to stop short of measures likely to trigger a severe response from Beijing",
+   "quote_zh": "因此我們預期歐盟政策會轉趨強硬，但會止步於可能引來北京強烈反制的措施之前。",
+   "page": 14,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-23-goldman-sachs-asia-economics-analyst-chinas-broad-based-export-strength-to-4",
+   "week": "2026-W34",
+   "slug": "2026-08-23-goldman-sachs-asia-economics-analyst-chinas-broad-based-export-strength-to",
+   "broker": "Goldman Sachs",
+   "title": "Asia Economics Analyst China's Broad-Based Export Strength to Persist Despite Limited AI Boost",
+   "date": "2026-08-23",
+   "due": "2026-11-21",
+   "theme": "黃金",
+   "tags": [
+    "中國",
+    "人工智慧",
+    "半導體",
+    "關稅",
+    "歐盟",
+    "黃金"
+   ],
+   "quote": "China’s non-monetary gold trade is tightly administered: imports are subject to quota approvals, while exports are generally prohibited except for a limited number of authorized institutions.",
+   "quote_zh": "中國的非貨幣黃金貿易受到嚴格管理：進口須經配額審批，出口則除少數獲授權機構外原則上禁止。",
+   "page": 11,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
   {
    "id": "2026-08-22-goldman-sachs-asia-pacific-weekly-kickstart-1",
    "week": "2026-W34",
@@ -25,9 +430,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-22-goldman-sachs-asia-pacific-weekly-kickstart-2",
@@ -51,9 +454,7 @@
    "page": 3,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-22-goldman-sachs-asia-pacific-weekly-kickstart-3",
@@ -77,9 +478,7 @@
    "page": 4,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-22-goldman-sachs-asia-pacific-weekly-kickstart-4",
@@ -103,9 +502,7 @@
    "page": 3,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-nomura-1317180-1",
@@ -129,9 +526,7 @@
    "page": 2,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-nomura-1317180-2",
@@ -155,9 +550,7 @@
    "page": 3,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-nomura-1317180-3",
@@ -181,9 +574,7 @@
    "page": 7,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-nomura-1317175-1",
@@ -207,9 +598,7 @@
    "page": 3,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-nomura-1317175-2",
@@ -233,9 +622,7 @@
    "page": 3,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-nomura-1317175-3",
@@ -259,9 +646,7 @@
    "page": 4,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-goldman-sachs-us-weekly-kickstart-1",
@@ -285,9 +670,7 @@
    "page": 2,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-goldman-sachs-us-weekly-kickstart-2",
@@ -311,9 +694,7 @@
    "page": 3,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-goldman-sachs-us-weekly-kickstart-3",
@@ -337,9 +718,7 @@
    "page": 6,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-goldman-sachs-americas-technology-1",
@@ -363,9 +742,7 @@
    "page": 21,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-goldman-sachs-americas-technology-2",
@@ -389,9 +766,7 @@
    "page": 25,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-goldman-sachs-americas-technology-3",
@@ -415,9 +790,7 @@
    "page": 22,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-goldman-sachs-americas-engineering-construction-1",
@@ -441,9 +814,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-goldman-sachs-americas-engineering-construction-2",
@@ -467,9 +838,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-goldman-sachs-americas-engineering-construction-3",
@@ -493,9 +862,7 @@
    "page": 2,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-goldman-sachs-americas-engineering-construction-4",
@@ -519,9 +886,7 @@
    "page": 5,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-goldman-sachs-americas-engineering-construction-5",
@@ -545,9 +910,7 @@
    "page": 9,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-goldman-sachs-americas-construction-1",
@@ -571,9 +934,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-goldman-sachs-americas-construction-2",
@@ -597,9 +958,7 @@
    "page": 3,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-goldman-sachs-americas-construction-3",
@@ -623,9 +982,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-citi-us-rates-weekly-can-secretary-bessent-and-chair-warsh-save-t-1",
@@ -649,9 +1006,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-citi-us-rates-weekly-can-secretary-bessent-and-chair-warsh-save-t-2",
@@ -675,9 +1030,7 @@
    "page": 6,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-citi-us-rates-weekly-can-secretary-bessent-and-chair-warsh-save-t-3",
@@ -701,9 +1054,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-citi-us-economics-weekly-1",
@@ -727,9 +1078,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-citi-us-economics-weekly-2",
@@ -753,9 +1102,7 @@
    "page": 2,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-citi-us-economics-weekly-3",
@@ -779,9 +1126,7 @@
    "page": 3,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-citi-us-economics-weekly-4",
@@ -805,9 +1150,7 @@
    "page": 5,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-citi-global-asset-allocation-1",
@@ -831,9 +1174,7 @@
    "page": 8,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-citi-global-asset-allocation-2",
@@ -857,9 +1198,7 @@
    "page": 14,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-citi-global-asset-allocation-3",
@@ -883,9 +1222,7 @@
    "page": 3,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-21-citi-global-asset-allocation-4",
@@ -909,9 +1246,7 @@
    "page": 2,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-nomura-asia-insights-1",
@@ -935,9 +1270,7 @@
    "page": 6,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-nomura-asia-insights-2",
@@ -961,9 +1294,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-nomura-asia-insights-3",
@@ -987,9 +1318,7 @@
    "page": 3,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-goldman-sachs-oil-analyst-1",
@@ -1013,9 +1342,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-goldman-sachs-oil-analyst-2",
@@ -1039,9 +1366,7 @@
    "page": 4,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-goldman-sachs-oil-analyst-3",
@@ -1065,9 +1390,7 @@
    "page": 2,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-goldman-sachs-india-financials-1",
@@ -1091,9 +1414,7 @@
    "page": 3,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-goldman-sachs-india-financials-2",
@@ -1117,9 +1438,7 @@
    "page": 18,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-goldman-sachs-india-financials-3",
@@ -1143,9 +1462,7 @@
    "page": 33,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-goldman-sachs-global-credit-trader-1",
@@ -1168,9 +1485,7 @@
    "page": 2,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-goldman-sachs-global-credit-trader-2",
@@ -1193,9 +1508,7 @@
    "page": 3,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-goldman-sachs-global-credit-trader-3",
@@ -1218,9 +1531,7 @@
    "page": 4,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-goldman-sachs-global-credit-trader-4",
@@ -1243,9 +1554,7 @@
    "page": 5,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-citi-global-economic-outlook-strategy-1",
@@ -1269,9 +1578,7 @@
    "page": 5,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-citi-global-economic-outlook-strategy-2",
@@ -1295,9 +1602,7 @@
    "page": 6,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-citi-global-economic-outlook-strategy-3",
@@ -1321,9 +1626,7 @@
    "page": 5,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-citi-global-economic-outlook-strategy-4",
@@ -1347,9 +1650,7 @@
    "page": 16,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-citi-global-economic-outlook-strategy-5",
@@ -1373,9 +1674,7 @@
    "page": 13,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-citi-foreign-exchange-forecasts-august-2026-1",
@@ -1399,9 +1698,7 @@
    "page": 3,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-citi-foreign-exchange-forecasts-august-2026-2",
@@ -1425,9 +1722,7 @@
    "page": 6,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-citi-foreign-exchange-forecasts-august-2026-3",
@@ -1451,9 +1746,7 @@
    "page": 8,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-20-citi-foreign-exchange-forecasts-august-2026-4",
@@ -1477,9 +1770,7 @@
    "page": 5,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-19-nomura-economic-insights-1",
@@ -1502,9 +1793,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-19-nomura-economic-insights-2",
@@ -1527,9 +1816,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-19-nomura-economic-insights-3",
@@ -1552,9 +1839,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-19-nomura-economic-insights-4",
@@ -1577,9 +1862,7 @@
    "page": 3,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-19-nomura-1316685-1",
@@ -1603,9 +1886,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-19-nomura-1316685-2",
@@ -1629,9 +1910,7 @@
    "page": 4,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-19-nomura-1316685-3",
@@ -1655,9 +1934,7 @@
    "page": 3,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-19-nomura-1316582-1",
@@ -1680,9 +1957,7 @@
    "page": 12,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-19-nomura-1316582-2",
@@ -1705,9 +1980,7 @@
    "page": 4,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-19-nomura-1316582-3",
@@ -1730,9 +2003,7 @@
    "page": 6,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-19-goldman-sachs-top-of-mind-1",
@@ -1756,9 +2027,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-19-goldman-sachs-top-of-mind-2",
@@ -1782,9 +2051,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-19-goldman-sachs-top-of-mind-3",
@@ -1808,9 +2075,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-19-citi-oil-monitor-1",
@@ -1834,9 +2099,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-19-citi-oil-monitor-2",
@@ -1860,9 +2123,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-19-citi-oil-monitor-3",
@@ -1886,9 +2147,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-19-citi-oil-monitor-4",
@@ -1912,9 +2171,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-18-nomura-1316506-1",
@@ -1938,9 +2195,7 @@
    "page": 3,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-18-nomura-1316506-2",
@@ -1964,9 +2219,7 @@
    "page": 5,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-18-nomura-1316506-3",
@@ -1990,9 +2243,7 @@
    "page": 6,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-18-nomura-1316506-4",
@@ -2016,9 +2267,7 @@
    "page": 9,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "page_one",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-18-goldman-sachs-european-economics-analyst-1",
@@ -2041,9 +2290,7 @@
    "page": 2,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-18-goldman-sachs-european-economics-analyst-2",
@@ -2066,9 +2313,7 @@
    "page": 8,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-18-goldman-sachs-european-economics-analyst-3",
@@ -2091,9 +2336,7 @@
    "page": 8,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-14-goldman-sachs-global-economics-analyst-1",
@@ -2116,9 +2359,7 @@
    "page": 2,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-14-goldman-sachs-global-economics-analyst-2",
@@ -2141,9 +2382,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-08-14-goldman-sachs-global-economics-analyst-3",
@@ -2166,9 +2405,7 @@
    "page": 11,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-07-29-goldman-sachs-power-tracker-1",
@@ -2192,9 +2429,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-07-29-goldman-sachs-power-tracker-2",
@@ -2218,9 +2453,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-07-29-goldman-sachs-power-tracker-3",
@@ -2244,9 +2477,7 @@
    "page": 2,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-07-29-goldman-sachs-power-tracker-4",
@@ -2270,9 +2501,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-07-22-goldman-sachs-top-of-mind-1",
@@ -2296,9 +2525,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-07-22-goldman-sachs-top-of-mind-2",
@@ -2322,9 +2549,7 @@
    "page": 1,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-07-22-goldman-sachs-top-of-mind-3",
@@ -2348,9 +2573,7 @@
    "page": 15,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-07-22-goldman-sachs-top-of-mind-4",
@@ -2374,9 +2597,7 @@
    "page": 17,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-06-25-goldman-sachs-top-of-mind-1",
@@ -2399,9 +2620,7 @@
    "page": 10,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-06-25-goldman-sachs-top-of-mind-2",
@@ -2424,9 +2643,7 @@
    "page": 7,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-06-25-goldman-sachs-top-of-mind-3",
@@ -2449,9 +2666,7 @@
    "page": 4,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   },
   {
    "id": "2026-06-25-goldman-sachs-top-of-mind-4",
@@ -2474,9 +2689,7 @@
    "page": 17,
    "status": "觀察中",
    "verdict": "",
-   "verdictDate": "",
-   "title_source": "pdf_meta",
-   "title_confident": true
+   "verdictDate": ""
   }
  ]
 }
