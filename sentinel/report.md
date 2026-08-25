@@ -1,7 +1,7 @@
-# 哨兵回報 · 2026-08-23T01:54:26+00:00
+# 哨兵回報 · 2026-08-25T03:52:30+00:00
 
 - ✅ `sentinel.data_fresh`
-- ✅ `sentinel.no_future_date`
+- ❌ `sentinel.no_future_date` 最新一期是 2026-08-30，那一天還沒到（還有 108 小時） —— 日期是被寫出來的，不是被觀測到的
 - ✅ `sentinel.updated_fresh`
 - ✅ `sentinel.no_data_loss`
 - ⏭️ `sentinel.ledger_overdue` 這個系統還沒有訊號帳本，該項未執行
