@@ -7,28 +7,139 @@
     "2026-08-24",
     "2026-08-30"
    ],
-   "reports": 3,
+   "reports": 11,
    "brokers": {
-    "Citi": 1,
-    "Goldman Sachs": 2
+    "Citi": 2,
+    "Goldman Sachs": 8,
+    "Nomura": 1
    },
    "tags": [
     "中國",
+    "中小企業融資",
+    "中東",
+    "人工智慧",
     "供應鏈",
+    "加密貨幣",
+    "勞動市場",
+    "印尼",
+    "原油",
     "墨西哥",
+    "天然氣",
+    "央行溝通",
     "巴西",
+    "建材",
     "拉丁美洲",
+    "日圓",
+    "日本",
+    "日本銀行",
+    "歐洲",
+    "歐洲央行",
+    "殖利率曲線",
+    "監理",
     "美國",
     "聖嬰現象",
+    "聯準會",
+    "英國",
+    "英格蘭銀行",
+    "財政政策",
     "貨櫃航運",
+    "資料中心",
     "通膨",
     "運輸股",
+    "金融股",
     "關稅",
     "阿根廷",
     "零售股",
-    "電子商務"
+    "電力",
+    "電動車",
+    "電子商務",
+    "預測市場",
+    "馬來西亞"
    ],
    "items": [
+    {
+     "slug": "2026-08-25-goldman-sachs-japan-economics-analyst",
+     "broker": "Goldman Sachs",
+     "title": "Japan Economics Analyst: Revising BOJ Policy Rate Forecasts: Now Forecasting September Hike",
+     "date": "2026-08-25",
+     "pages": 16,
+     "tags": [
+      "日本",
+      "日本銀行",
+      "日圓",
+      "央行溝通",
+      "殖利率曲線"
+     ],
+     "chars": 3667,
+     "headline": "日銀升息理由本身還沒到位，但日圓逼近160-164干預線，讓高盛把首次升息時點從明年1月提前到9月"
+    },
+    {
+     "slug": "2026-08-25-goldman-sachs-european-economics-analyst",
+     "broker": "Goldman Sachs",
+     "title": "European Economics Analyst: UK—Inflationary Pressures Probably Not Sufficient to Push the BoE to Hike",
+     "date": "2026-08-25",
+     "pages": 14,
+     "tags": [
+      "英國",
+      "英格蘭銀行",
+      "通膨",
+      "原油",
+      "中東",
+      "勞動市場"
+     ],
+     "chars": 3709,
+     "headline": "英國通膨會在今年底前彈升到3.3%,但這個高度還不足以讓英格蘭銀行轉向升息"
+    },
+    {
+     "slug": "2026-08-25-goldman-sachs-asean-data-center-primer",
+     "broker": "Goldman Sachs",
+     "title": "ASEAN Data Center Primer: Mapping the ecosystem",
+     "date": "2026-08-25",
+     "pages": 35,
+     "tags": [
+      "資料中心",
+      "人工智慧",
+      "電力",
+      "印尼",
+      "馬來西亞",
+      "監理"
+     ],
+     "chars": 4443,
+     "headline": "柔佛將在2030年反超新加坡成為東協最大資料中心樞紐，但電力交付能力而非簽約容量才是真正的產能瓶頸"
+    },
+    {
+     "slug": "2026-08-25-citi-european-economics",
+     "broker": "Citi",
+     "title": "European Economics: Euro Inflation Monitor: Gas, Food, Wages and AI Risks",
+     "date": "2026-08-25",
+     "pages": 13,
+     "tags": [
+      "歐洲",
+      "通膨",
+      "天然氣",
+      "原油",
+      "歐洲央行",
+      "人工智慧"
+     ],
+     "chars": 3759,
+     "headline": "天然氣價格急漲讓Citi把歐元區通膨高峰上修至3.7-3.8%，但下游傳導證據仍薄弱"
+    },
+    {
+     "slug": "2026-08-24-nomura-1317262",
+     "broker": "Nomura",
+     "title": "Asia Insights: China: Moderate stimulus measures are offset by a worsening fiscal contraction",
+     "date": "2026-08-24",
+     "pages": 11,
+     "tags": [
+      "中國",
+      "財政政策",
+      "資料中心",
+      "人工智慧",
+      "中小企業融資"
+     ],
+     "chars": 3520,
+     "headline": "溫和刺激擋不住財政收縮加深，野村維持低於共識的第三季 4.3% 成長預測"
+    },
     {
      "slug": "2026-08-24-goldman-sachs-us-tariff-impact-tracker",
      "broker": "Goldman Sachs",
@@ -47,6 +158,37 @@
      "headline": "進到洛杉磯港的櫃量還在年增，先軟下來的是它後面那一段西岸卡車"
     },
     {
+     "slug": "2026-08-24-goldman-sachs-us-economics-analyst",
+     "broker": "Goldman Sachs",
+     "title": "US Economics Analyst: Inflation Expectations After Five Years of High Inflation",
+     "date": "2026-08-24",
+     "pages": 17,
+     "tags": [
+      "美國",
+      "聯準會",
+      "通膨",
+      "央行溝通"
+     ],
+     "chars": 3598,
+     "headline": "五年高通膨並未讓通膨預期脫錨，高盛測算淨效應只是溫和偏高"
+    },
+    {
+     "slug": "2026-08-24-goldman-sachs-china-basic-materials-monitor",
+     "broker": "Goldman Sachs",
+     "title": "China Basic Materials Monitor: Aug 2026: Supply keeping price supported amid weak demand",
+     "date": "2026-08-24",
+     "pages": 44,
+     "tags": [
+      "中國",
+      "建材",
+      "供應鏈",
+      "電動車",
+      "關稅"
+     ],
+     "chars": 4404,
+     "headline": "供給端收緊撐住了鋁、銅、煤炭,但撐不住鋼鐵與水泥"
+    },
+    {
      "slug": "2026-08-24-goldman-sachs-americas-retail",
      "broker": "Goldman Sachs",
      "title": "Americas Retail: Takeaways from IR: management; 2Q26 mid-earnings summary",
@@ -61,6 +203,22 @@
      ],
      "chars": 3899,
      "headline": "關稅退款撐起了這一季的零售獲利，而拿到錢的公司多半選擇立刻把它花掉"
+    },
+    {
+     "slug": "2026-08-24-goldman-sachs-americas-brokers-crypto",
+     "broker": "Goldman Sachs",
+     "title": "Americas Brokers & Crypto: A cautiously optimistic outlook for 2H26: structural and cyclical traditional brokerage and prediction markets growth, and upside crypto optionality, if recent trends persist",
+     "date": "2026-08-24",
+     "pages": 37,
+     "tags": [
+      "美國",
+      "加密貨幣",
+      "預測市場",
+      "金融股",
+      "監理"
+     ],
+     "chars": 4414,
+     "headline": "財報優於共識只是敲門磚,高盛看多券商與加密貨幣股的真正理由是九月起的季節性反轉,而非加密貨幣的反彈"
     },
     {
      "slug": "2026-08-24-citi-latin-america-economics-strategy-daily",
@@ -793,7 +951,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-08-30T16:01:42+00:00",
+ "updated": "2026-08-30T16:01:50+00:00",
  "updatedLabel": "8/31 00:01",
  "count": 6
 }
