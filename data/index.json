@@ -71,7 +71,9 @@
       "殖利率曲線"
      ],
      "chars": 3667,
-     "headline": "日銀升息理由本身還沒到位，但日圓逼近160-164干預線，讓高盛把首次升息時點從明年1月提前到9月"
+     "headline": "日銀升息理由本身還沒到位，但日圓逼近160-164干預線，讓高盛把首次升息時點從明年1月提前到9月",
+     "title_source": "pdf_meta",
+     "title_confident": true
     },
     {
      "slug": "2026-08-25-goldman-sachs-european-economics-analyst",
@@ -88,7 +90,9 @@
       "勞動市場"
      ],
      "chars": 3709,
-     "headline": "英國通膨會在今年底前彈升到3.3%,但這個高度還不足以讓英格蘭銀行轉向升息"
+     "headline": "英國通膨會在今年底前彈升到3.3%,但這個高度還不足以讓英格蘭銀行轉向升息",
+     "title_source": "pdf_meta",
+     "title_confident": true
     },
     {
      "slug": "2026-08-25-goldman-sachs-asean-data-center-primer",
@@ -105,7 +109,9 @@
       "監理"
      ],
      "chars": 4443,
-     "headline": "柔佛將在2030年反超新加坡成為東協最大資料中心樞紐，但電力交付能力而非簽約容量才是真正的產能瓶頸"
+     "headline": "柔佛將在2030年反超新加坡成為東協最大資料中心樞紐，但電力交付能力而非簽約容量才是真正的產能瓶頸",
+     "title_source": "pdf_meta",
+     "title_confident": true
     },
     {
      "slug": "2026-08-25-citi-european-economics",
@@ -122,7 +128,9 @@
       "人工智慧"
      ],
      "chars": 3759,
-     "headline": "天然氣價格急漲讓Citi把歐元區通膨高峰上修至3.7-3.8%，但下游傳導證據仍薄弱"
+     "headline": "天然氣價格急漲讓Citi把歐元區通膨高峰上修至3.7-3.8%，但下游傳導證據仍薄弱",
+     "title_source": "pdf_meta",
+     "title_confident": true
     },
     {
      "slug": "2026-08-24-nomura-1317262",
@@ -138,7 +146,9 @@
       "中小企業融資"
      ],
      "chars": 3520,
-     "headline": "溫和刺激擋不住財政收縮加深，野村維持低於共識的第三季 4.3% 成長預測"
+     "headline": "溫和刺激擋不住財政收縮加深，野村維持低於共識的第三季 4.3% 成長預測",
+     "title_source": "page_one",
+     "title_confident": true
     },
     {
      "slug": "2026-08-24-goldman-sachs-us-tariff-impact-tracker",
@@ -155,7 +165,9 @@
       "供應鏈"
      ],
      "chars": 3814,
-     "headline": "進到洛杉磯港的櫃量還在年增，先軟下來的是它後面那一段西岸卡車"
+     "headline": "進到洛杉磯港的櫃量還在年增，先軟下來的是它後面那一段西岸卡車",
+     "title_source": "pdf_meta",
+     "title_confident": true
     },
     {
      "slug": "2026-08-24-goldman-sachs-us-economics-analyst",
@@ -170,7 +182,9 @@
       "央行溝通"
      ],
      "chars": 3598,
-     "headline": "五年高通膨並未讓通膨預期脫錨，高盛測算淨效應只是溫和偏高"
+     "headline": "五年高通膨並未讓通膨預期脫錨，高盛測算淨效應只是溫和偏高",
+     "title_source": "pdf_meta",
+     "title_confident": true
     },
     {
      "slug": "2026-08-24-goldman-sachs-china-basic-materials-monitor",
@@ -186,7 +200,9 @@
       "關稅"
      ],
      "chars": 4404,
-     "headline": "供給端收緊撐住了鋁、銅、煤炭,但撐不住鋼鐵與水泥"
+     "headline": "供給端收緊撐住了鋁、銅、煤炭,但撐不住鋼鐵與水泥",
+     "title_source": "pdf_meta",
+     "title_confident": true
     },
     {
      "slug": "2026-08-24-goldman-sachs-americas-retail",
@@ -202,7 +218,9 @@
       "電子商務"
      ],
      "chars": 3899,
-     "headline": "關稅退款撐起了這一季的零售獲利，而拿到錢的公司多半選擇立刻把它花掉"
+     "headline": "關稅退款撐起了這一季的零售獲利，而拿到錢的公司多半選擇立刻把它花掉",
+     "title_source": "pdf_meta",
+     "title_confident": true
     },
     {
      "slug": "2026-08-24-goldman-sachs-americas-brokers-crypto",
@@ -218,7 +236,9 @@
       "監理"
      ],
      "chars": 4414,
-     "headline": "財報優於共識只是敲門磚,高盛看多券商與加密貨幣股的真正理由是九月起的季節性反轉,而非加密貨幣的反彈"
+     "headline": "財報優於共識只是敲門磚,高盛看多券商與加密貨幣股的真正理由是九月起的季節性反轉,而非加密貨幣的反彈",
+     "title_source": "page_one",
+     "title_confident": true
     },
     {
      "slug": "2026-08-24-citi-latin-america-economics-strategy-daily",
@@ -235,7 +255,9 @@
       "聖嬰現象"
      ],
      "chars": 3795,
-     "headline": "拉美這一輪的物價穩定是買來的：帳單記在財政與流動性上，不記在通膨數字裡"
+     "headline": "拉美這一輪的物價穩定是買來的：帳單記在財政與流動性上，不記在通膨數字裡",
+     "title_source": "pdf_meta",
+     "title_confident": true
     }
    ],
    "file": "data/2026-08-30.json"
@@ -1005,7 +1027,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-08-30T23:26:56+00:00",
- "updatedLabel": "8/31 07:26",
+ "updated": "2026-08-30T23:27:04+00:00",
+ "updatedLabel": "8/31 07:27",
  "count": 6
 }
