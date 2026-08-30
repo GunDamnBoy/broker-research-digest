@@ -89,10 +89,10 @@
     "2026-08-17",
     "2026-08-23"
    ],
-   "reports": 25,
+   "reports": 27,
    "brokers": {
     "Citi": 6,
-    "Goldman Sachs": 12,
+    "Goldman Sachs": 14,
     "Nomura": 7
    },
    "tags": [
@@ -149,6 +149,7 @@
     "美股",
     "聯準會",
     "記憶體",
+    "財政政策",
     "資料中心",
     "軟體",
     "通膨",
@@ -202,6 +203,23 @@
      ],
      "chars": 3701,
      "headline": "AI 把中國的出口價格推高了，卻沒有推高出口數量；真正的引擎仍是非 AI 的機電與「新三樣」"
+    },
+    {
+     "slug": "2026-08-23-goldman-sachs-americas-diversified-financials",
+     "broker": "Goldman Sachs",
+     "title": "Americas Diversified Financials: 2Q26 mutual fund and hedge fund Financials positioning analysis",
+     "date": "2026-08-23",
+     "pages": 13,
+     "tags": [
+      "美國",
+      "美股",
+      "金融股",
+      "銀行股",
+      "共同基金",
+      "避險基金"
+     ],
+     "chars": 3806,
+     "headline": "共同基金把金融股超配衝上十年新高，但撐盤的次產業換成了原本最不看好的那兩個"
     },
     {
      "slug": "2026-08-22-goldman-sachs-asia-pacific-weekly-kickstart",
@@ -270,6 +288,22 @@
      ],
      "chars": 3875,
      "headline": "今年的報酬不是最擁擠的部位貢獻的：兩類法人在 AI 上分歧，卻同時押進金融股"
+    },
+    {
+     "slug": "2026-08-21-goldman-sachs-china-matters",
+     "broker": "Goldman Sachs",
+     "title": "China Matters: From Weak to Weaker",
+     "date": "2026-08-21",
+     "pages": 11,
+     "tags": [
+      "中國",
+      "建材",
+      "勞動市場",
+      "家庭債務",
+      "財政政策"
+     ],
+     "chars": 3613,
+     "headline": "七月數據轉弱是需求問題,不是雜訊,而政策目前端出的仍是供給端解方"
     },
     {
      "slug": "2026-08-21-goldman-sachs-americas-technology",
@@ -759,7 +793,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-08-24T16:01:57+00:00",
- "updatedLabel": "8/25 00:01",
+ "updated": "2026-08-30T16:01:42+00:00",
+ "updatedLabel": "8/31 00:01",
  "count": 6
 }
