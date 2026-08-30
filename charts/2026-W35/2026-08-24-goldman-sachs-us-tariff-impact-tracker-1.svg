@@ -45,49 +45,9 @@ L 469.090909 63.504
     <g id="xtick_1">
      <g id="line2d_2"/>
      <g id="text_1">
-      <!-- 26/07 -->
+      <!-- 07/22 -->
       <g style="fill: #6b7076" transform="translate(35.82508 303.487437) scale(0.09 -0.09)">
        <defs>
-        <path id="NotoSansCJKtc-Regular-32" d="M 282 0 
-L 3232 0 
-L 3232 506 
-L 1933 506 
-C 1696 506 1408 480 1165 461 
-C 2266 1504 3008 2458 3008 3398 
-C 3008 4230 2477 4774 1638 4774 
-C 1043 4774 634 4506 256 4090 
-L 595 3757 
-C 858 4070 1184 4301 1568 4301 
-C 2150 4301 2432 3910 2432 3373 
-C 2432 2566 1754 1632 282 346 
-L 282 0 
-z
-" transform="scale(0.015625)"/>
-        <path id="NotoSansCJKtc-Regular-36" d="M 1926 -83 
-C 2656 -83 3277 531 3277 1440 
-C 3277 2426 2765 2912 1971 2912 
-C 1606 2912 1197 2701 909 2349 
-C 934 3802 1466 4294 2118 4294 
-C 2400 4294 2682 4154 2861 3936 
-L 3194 4294 
-C 2931 4576 2579 4774 2093 4774 
-C 1184 4774 358 4077 358 2240 
-C 358 691 1030 -83 1926 -83 
-z
-M 922 1882 
-C 1229 2317 1587 2477 1875 2477 
-C 2445 2477 2720 2074 2720 1440 
-C 2720 800 2374 378 1926 378 
-C 1338 378 986 909 922 1882 
-z
-" transform="scale(0.015625)"/>
-        <path id="NotoSansCJKtc-Regular-2f" d="M 70 -1146 
-L 499 -1146 
-L 2413 5082 
-L 1990 5082 
-L 70 -1146 
-z
-" transform="scale(0.015625)"/>
         <path id="NotoSansCJKtc-Regular-30" d="M 1779 -83 
 C 2669 -83 3238 723 3238 2362 
 C 3238 3987 2669 4774 1779 4774 
@@ -111,19 +71,41 @@ L 2592 4192
 C 1670 2912 1350 1779 1267 0 
 z
 " transform="scale(0.015625)"/>
+        <path id="NotoSansCJKtc-Regular-2f" d="M 70 -1146 
+L 499 -1146 
+L 2413 5082 
+L 1990 5082 
+L 70 -1146 
+z
+" transform="scale(0.015625)"/>
+        <path id="NotoSansCJKtc-Regular-32" d="M 282 0 
+L 3232 0 
+L 3232 506 
+L 1933 506 
+C 1696 506 1408 480 1165 461 
+C 2266 1504 3008 2458 3008 3398 
+C 3008 4230 2477 4774 1638 4774 
+C 1043 4774 634 4506 256 4090 
+L 595 3757 
+C 858 4070 1184 4301 1568 4301 
+C 2150 4301 2432 3910 2432 3373 
+C 2432 2566 1754 1632 282 346 
+L 282 0 
+z
+" transform="scale(0.015625)"/>
        </defs>
-       <use xlink:href="#NotoSansCJKtc-Regular-32"/>
-       <use xlink:href="#NotoSansCJKtc-Regular-36" transform="translate(55.499985 0)"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-30"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-37" transform="translate(55.499985 0)"/>
        <use xlink:href="#NotoSansCJKtc-Regular-2f" transform="translate(110.999969 0)"/>
-       <use xlink:href="#NotoSansCJKtc-Regular-30" transform="translate(150.199966 0)"/>
-       <use xlink:href="#NotoSansCJKtc-Regular-37" transform="translate(205.699951 0)"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-32" transform="translate(150.199966 0)"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-32" transform="translate(205.699951 0)"/>
       </g>
      </g>
     </g>
     <g id="xtick_2">
      <g id="line2d_3"/>
      <g id="text_2">
-      <!-- 26/08 -->
+      <!-- 08/01 -->
       <g style="fill: #6b7076" transform="translate(149.747158 303.487437) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-38" d="M 1792 -83 
@@ -151,22 +133,36 @@ C 2125 2010 2701 1779 2701 1146
 C 2701 678 2342 352 1798 352 
 z
 " transform="scale(0.015625)"/>
+        <path id="NotoSansCJKtc-Regular-31" d="M 563 0 
+L 3136 0 
+L 3136 486 
+L 2195 486 
+L 2195 4691 
+L 1747 4691 
+C 1491 4544 1190 4435 774 4358 
+L 774 3987 
+L 1613 3987 
+L 1613 486 
+L 563 486 
+L 563 0 
+z
+" transform="scale(0.015625)"/>
        </defs>
-       <use xlink:href="#NotoSansCJKtc-Regular-32"/>
-       <use xlink:href="#NotoSansCJKtc-Regular-36" transform="translate(55.499985 0)"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-30"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-38" transform="translate(55.499985 0)"/>
        <use xlink:href="#NotoSansCJKtc-Regular-2f" transform="translate(110.999969 0)"/>
        <use xlink:href="#NotoSansCJKtc-Regular-30" transform="translate(150.199966 0)"/>
-       <use xlink:href="#NotoSansCJKtc-Regular-38" transform="translate(205.699951 0)"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-31" transform="translate(205.699951 0)"/>
       </g>
      </g>
     </g>
     <g id="xtick_3">
      <g id="line2d_4"/>
      <g id="text_3">
-      <!-- 26/08 -->
+      <!-- 08/08 -->
       <g style="fill: #6b7076" transform="translate(229.492613 303.487437) scale(0.09 -0.09)">
-       <use xlink:href="#NotoSansCJKtc-Regular-32"/>
-       <use xlink:href="#NotoSansCJKtc-Regular-36" transform="translate(55.499985 0)"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-30"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-38" transform="translate(55.499985 0)"/>
        <use xlink:href="#NotoSansCJKtc-Regular-2f" transform="translate(110.999969 0)"/>
        <use xlink:href="#NotoSansCJKtc-Regular-30" transform="translate(150.199966 0)"/>
        <use xlink:href="#NotoSansCJKtc-Regular-38" transform="translate(205.699951 0)"/>
@@ -176,33 +172,53 @@ z
     <g id="xtick_4">
      <g id="line2d_5"/>
      <g id="text_4">
-      <!-- 26/08 -->
+      <!-- 08/15 -->
       <g style="fill: #6b7076" transform="translate(309.238067 303.487437) scale(0.09 -0.09)">
-       <use xlink:href="#NotoSansCJKtc-Regular-32"/>
-       <use xlink:href="#NotoSansCJKtc-Regular-36" transform="translate(55.499985 0)"/>
+       <defs>
+        <path id="NotoSansCJKtc-Regular-35" d="M 1677 -83 
+C 2464 -83 3213 499 3213 1523 
+C 3213 2560 2573 3021 1798 3021 
+C 1517 3021 1306 2950 1094 2835 
+L 1216 4192 
+L 2982 4192 
+L 2982 4691 
+L 704 4691 
+L 550 2502 
+L 864 2304 
+C 1133 2483 1331 2579 1645 2579 
+C 2234 2579 2618 2182 2618 1510 
+C 2618 826 2176 403 1619 403 
+C 1075 403 730 653 467 922 
+L 173 538 
+C 493 224 941 -83 1677 -83 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#NotoSansCJKtc-Regular-30"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-38" transform="translate(55.499985 0)"/>
        <use xlink:href="#NotoSansCJKtc-Regular-2f" transform="translate(110.999969 0)"/>
-       <use xlink:href="#NotoSansCJKtc-Regular-30" transform="translate(150.199966 0)"/>
-       <use xlink:href="#NotoSansCJKtc-Regular-38" transform="translate(205.699951 0)"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-31" transform="translate(150.199966 0)"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-35" transform="translate(205.699951 0)"/>
       </g>
      </g>
     </g>
     <g id="xtick_5">
      <g id="line2d_6"/>
      <g id="text_5">
-      <!-- 26/08 -->
+      <!-- 08/22 -->
       <g style="fill: #6b7076" transform="translate(388.983522 303.487437) scale(0.09 -0.09)">
-       <use xlink:href="#NotoSansCJKtc-Regular-32"/>
-       <use xlink:href="#NotoSansCJKtc-Regular-36" transform="translate(55.499985 0)"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-30"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-38" transform="translate(55.499985 0)"/>
        <use xlink:href="#NotoSansCJKtc-Regular-2f" transform="translate(110.999969 0)"/>
-       <use xlink:href="#NotoSansCJKtc-Regular-30" transform="translate(150.199966 0)"/>
-       <use xlink:href="#NotoSansCJKtc-Regular-38" transform="translate(205.699951 0)"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-32" transform="translate(150.199966 0)"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-32" transform="translate(205.699951 0)"/>
       </g>
      </g>
     </g>
     <g id="xtick_6">
      <g id="line2d_7"/>
      <g id="text_6">
-      <!-- 26/09 -->
+      <!-- 09/01 -->
       <g style="fill: #6b7076" transform="translate(502.9056 303.487437) scale(0.09 -0.09)">
        <defs>
         <path id="NotoSansCJKtc-Regular-39" d="M 1504 -83 
@@ -224,11 +240,11 @@ C 2227 4320 2586 3808 2650 2842
 z
 " transform="scale(0.015625)"/>
        </defs>
-       <use xlink:href="#NotoSansCJKtc-Regular-32"/>
-       <use xlink:href="#NotoSansCJKtc-Regular-36" transform="translate(55.499985 0)"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-30"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-39" transform="translate(55.499985 0)"/>
        <use xlink:href="#NotoSansCJKtc-Regular-2f" transform="translate(110.999969 0)"/>
        <use xlink:href="#NotoSansCJKtc-Regular-30" transform="translate(150.199966 0)"/>
-       <use xlink:href="#NotoSansCJKtc-Regular-39" transform="translate(205.699951 0)"/>
+       <use xlink:href="#NotoSansCJKtc-Regular-31" transform="translate(205.699951 0)"/>
       </g>
      </g>
     </g>
@@ -245,20 +261,6 @@ L 572.76 287.621873
       <!-- 100,000 -->
       <g style="fill: #6b7076" transform="translate(10.468281 291.203592) scale(0.09 -0.09)">
        <defs>
-        <path id="NotoSansCJKtc-Regular-31" d="M 563 0 
-L 3136 0 
-L 3136 486 
-L 2195 486 
-L 2195 4691 
-L 1747 4691 
-C 1491 4544 1190 4435 774 4358 
-L 774 3987 
-L 1613 3987 
-L 1613 486 
-L 563 486 
-L 563 0 
-z
-" transform="scale(0.015625)"/>
         <path id="NotoSansCJKtc-Regular-2c" d="M 480 -1216 
 C 1056 -973 1414 -493 1414 122 
 C 1414 550 1229 806 922 806 
@@ -415,26 +417,6 @@ L 572.76 101.51258
      <g id="text_12">
       <!-- 150,000 -->
       <g style="fill: #6b7076" transform="translate(10.468281 105.094299) scale(0.09 -0.09)">
-       <defs>
-        <path id="NotoSansCJKtc-Regular-35" d="M 1677 -83 
-C 2464 -83 3213 499 3213 1523 
-C 3213 2560 2573 3021 1798 3021 
-C 1517 3021 1306 2950 1094 2835 
-L 1216 4192 
-L 2982 4192 
-L 2982 4691 
-L 704 4691 
-L 550 2502 
-L 864 2304 
-C 1133 2483 1331 2579 1645 2579 
-C 2234 2579 2618 2182 2618 1510 
-C 2618 826 2176 403 1619 403 
-C 1075 403 730 653 467 922 
-L 173 538 
-C 493 224 941 -83 1677 -83 
-z
-" transform="scale(0.015625)"/>
-       </defs>
        <use xlink:href="#NotoSansCJKtc-Regular-31"/>
        <use xlink:href="#NotoSansCJKtc-Regular-35" transform="translate(55.499985 0)"/>
        <use xlink:href="#NotoSansCJKtc-Regular-30" transform="translate(110.999969 0)"/>
@@ -455,6 +437,26 @@ L 572.76 64.290721
      <g id="text_13">
       <!-- 160,000 -->
       <g style="fill: #6b7076" transform="translate(10.468281 67.87244) scale(0.09 -0.09)">
+       <defs>
+        <path id="NotoSansCJKtc-Regular-36" d="M 1926 -83 
+C 2656 -83 3277 531 3277 1440 
+C 3277 2426 2765 2912 1971 2912 
+C 1606 2912 1197 2701 909 2349 
+C 934 3802 1466 4294 2118 4294 
+C 2400 4294 2682 4154 2861 3936 
+L 3194 4294 
+C 2931 4576 2579 4774 2093 4774 
+C 1184 4774 358 4077 358 2240 
+C 358 691 1030 -83 1926 -83 
+z
+M 922 1882 
+C 1229 2317 1587 2477 1875 2477 
+C 2445 2477 2720 2074 2720 1440 
+C 2720 800 2374 378 1926 378 
+C 1338 378 986 909 922 1882 
+z
+" transform="scale(0.015625)"/>
+       </defs>
        <use xlink:href="#NotoSansCJKtc-Regular-31"/>
        <use xlink:href="#NotoSansCJKtc-Regular-36" transform="translate(55.499985 0)"/>
        <use xlink:href="#NotoSansCJKtc-Regular-30" transform="translate(110.999969 0)"/>
