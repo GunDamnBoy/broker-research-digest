@@ -7,10 +7,10 @@
     "2026-08-24",
     "2026-08-30"
    ],
-   "reports": 11,
+   "reports": 12,
    "brokers": {
     "Citi": 2,
-    "Goldman Sachs": 8,
+    "Goldman Sachs": 9,
     "Nomura": 1
    },
    "tags": [
@@ -21,6 +21,7 @@
     "供應鏈",
     "加密貨幣",
     "勞動市場",
+    "半導體",
     "印尼",
     "原油",
     "墨西哥",
@@ -41,6 +42,7 @@
     "聯準會",
     "英國",
     "英格蘭銀行",
+    "記憶體",
     "財政政策",
     "貨櫃航運",
     "資料中心",
@@ -183,6 +185,24 @@
      ],
      "chars": 3598,
      "headline": "五年高通膨並未讓通膨預期脫錨，高盛測算淨效應只是溫和偏高",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-08-24-goldman-sachs-global-semis",
+     "broker": "Goldman Sachs",
+     "title": "Global Semis: CHIPS IV: China Semis self-sufficiency builds",
+     "date": "2026-08-24",
+     "pages": 34,
+     "tags": [
+      "中國",
+      "半導體",
+      "記憶體",
+      "人工智慧",
+      "供應鏈"
+     ],
+     "chars": 4538,
+     "headline": "中國半導體的產能自給率正快速收斂，但價值與技術缺口尚未補上，高盛據此首次給予蕈鑫買進評等",
      "title_source": "pdf_meta",
      "title_confident": true
     },
@@ -1027,7 +1047,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-08-30T23:27:04+00:00",
- "updatedLabel": "8/31 07:27",
+ "updated": "2026-08-31T01:03:19+00:00",
+ "updatedLabel": "8/31 09:03",
  "count": 6
 }
