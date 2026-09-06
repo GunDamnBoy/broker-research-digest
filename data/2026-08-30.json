@@ -4,81 +4,185 @@
   "2026-08-24",
   "2026-08-30"
  ],
- "reports_count": 12,
+ "reports_count": 25,
  "brokers": {
-  "Citi": 2,
-  "Goldman Sachs": 9,
-  "Nomura": 1
+  "Citi": 4,
+  "Goldman Sachs": 17,
+  "Nomura": 4
  },
  "tags": {
-  "通膨": [
-   "2026-08-24-citi-latin-america-economics-strategy-daily",
-   "2026-08-24-goldman-sachs-americas-retail",
-   "2026-08-24-goldman-sachs-us-economics-analyst",
-   "2026-08-25-citi-european-economics",
-   "2026-08-25-goldman-sachs-european-economics-analyst"
-  ],
-  "中國": [
-   "2026-08-24-goldman-sachs-china-basic-materials-monitor",
-   "2026-08-24-goldman-sachs-global-semis",
-   "2026-08-24-goldman-sachs-us-tariff-impact-tracker",
-   "2026-08-24-nomura-1317262"
-  ],
   "人工智慧": [
    "2026-08-24-goldman-sachs-global-semis",
    "2026-08-24-nomura-1317262",
    "2026-08-25-citi-european-economics",
-   "2026-08-25-goldman-sachs-asean-data-center-primer"
+   "2026-08-25-goldman-sachs-asean-data-center-primer",
+   "2026-08-28-citi-us-economics-weekly",
+   "2026-08-28-goldman-sachs-americas-technology",
+   "2026-08-28-goldman-sachs-global-technology",
+   "2026-08-28-nomura-1318109",
+   "2026-08-30-goldman-sachs-americas-entertainment",
+   "2026-08-30-goldman-sachs-global-physical-ai",
+   "2026-08-30-goldman-sachs-us-economics-analyst"
   ],
   "美國": [
    "2026-08-24-goldman-sachs-americas-brokers-crypto",
    "2026-08-24-goldman-sachs-americas-retail",
    "2026-08-24-goldman-sachs-us-economics-analyst",
-   "2026-08-24-goldman-sachs-us-tariff-impact-tracker"
+   "2026-08-24-goldman-sachs-us-tariff-impact-tracker",
+   "2026-08-28-citi-us-economics-weekly",
+   "2026-08-28-goldman-sachs-americas-technology",
+   "2026-08-28-nomura-1318109",
+   "2026-08-30-goldman-sachs-americas-entertainment",
+   "2026-08-30-goldman-sachs-us-economics-analyst"
+  ],
+  "通膨": [
+   "2026-08-24-citi-latin-america-economics-strategy-daily",
+   "2026-08-24-goldman-sachs-americas-retail",
+   "2026-08-24-goldman-sachs-us-economics-analyst",
+   "2026-08-25-citi-european-economics",
+   "2026-08-25-goldman-sachs-european-economics-analyst",
+   "2026-08-28-citi-us-economics-weekly",
+   "2026-08-28-nomura-1318109",
+   "2026-08-30-goldman-sachs-us-economics-analyst"
+  ],
+  "聯準會": [
+   "2026-08-24-goldman-sachs-us-economics-analyst",
+   "2026-08-27-citi-global-macro-strategy-views-and-trade-ideas",
+   "2026-08-28-citi-us-economics-weekly",
+   "2026-08-28-nomura-1318109",
+   "2026-08-29-nomura-1318100",
+   "2026-08-30-goldman-sachs-us-economics-analyst"
+  ],
+  "中國": [
+   "2026-08-24-goldman-sachs-china-basic-materials-monitor",
+   "2026-08-24-goldman-sachs-global-semis",
+   "2026-08-24-goldman-sachs-us-tariff-impact-tracker",
+   "2026-08-24-nomura-1317262",
+   "2026-08-29-nomura-1318120"
+  ],
+  "勞動市場": [
+   "2026-08-25-goldman-sachs-european-economics-analyst",
+   "2026-08-28-citi-us-economics-weekly",
+   "2026-08-28-nomura-1318109",
+   "2026-08-30-goldman-sachs-global-physical-ai",
+   "2026-08-30-goldman-sachs-us-economics-analyst"
+  ],
+  "原油": [
+   "2026-08-25-citi-european-economics",
+   "2026-08-25-goldman-sachs-european-economics-analyst",
+   "2026-08-28-goldman-sachs-oil-analyst",
+   "2026-08-30-goldman-sachs-india-views"
+  ],
+  "監理": [
+   "2026-08-24-goldman-sachs-americas-brokers-crypto",
+   "2026-08-25-goldman-sachs-asean-data-center-primer",
+   "2026-08-29-nomura-1318120",
+   "2026-08-30-goldman-sachs-americas-entertainment"
+  ],
+  "美股": [
+   "2026-08-28-goldman-sachs-americas-technology",
+   "2026-08-28-goldman-sachs-global-technology",
+   "2026-08-30-goldman-sachs-americas-entertainment",
+   "2026-08-30-goldman-sachs-global-physical-ai"
+  ],
+  "關稅": [
+   "2026-08-24-goldman-sachs-americas-retail",
+   "2026-08-24-goldman-sachs-china-basic-materials-monitor",
+   "2026-08-24-goldman-sachs-us-tariff-impact-tracker",
+   "2026-08-30-goldman-sachs-india-views"
+  ],
+  "電子商務": [
+   "2026-08-24-goldman-sachs-americas-retail",
+   "2026-08-28-goldman-sachs-americas-technology",
+   "2026-08-28-goldman-sachs-global-technology",
+   "2026-08-30-goldman-sachs-global-physical-ai"
   ],
   "供應鏈": [
    "2026-08-24-goldman-sachs-china-basic-materials-monitor",
    "2026-08-24-goldman-sachs-global-semis",
    "2026-08-24-goldman-sachs-us-tariff-impact-tracker"
   ],
-  "關稅": [
-   "2026-08-24-goldman-sachs-americas-retail",
-   "2026-08-24-goldman-sachs-china-basic-materials-monitor",
-   "2026-08-24-goldman-sachs-us-tariff-impact-tracker"
-  ],
-  "原油": [
-   "2026-08-25-citi-european-economics",
-   "2026-08-25-goldman-sachs-european-economics-analyst"
+  "半導體": [
+   "2026-08-24-goldman-sachs-global-semis",
+   "2026-08-30-goldman-sachs-asian-equity-perspectives",
+   "2026-08-30-goldman-sachs-global-physical-ai"
   ],
   "央行溝通": [
    "2026-08-24-goldman-sachs-us-economics-analyst",
-   "2026-08-25-goldman-sachs-japan-economics-analyst"
+   "2026-08-25-goldman-sachs-japan-economics-analyst",
+   "2026-08-28-nomura-1318109"
   ],
-  "監理": [
-   "2026-08-24-goldman-sachs-americas-brokers-crypto",
-   "2026-08-25-goldman-sachs-asean-data-center-primer"
+  "消費": [
+   "2026-08-29-nomura-1318120",
+   "2026-08-30-goldman-sachs-americas-entertainment",
+   "2026-08-30-goldman-sachs-india-views"
+  ],
+  "美國公債": [
+   "2026-08-27-citi-global-macro-strategy-views-and-trade-ideas",
+   "2026-08-28-citi-us-economics-weekly",
+   "2026-08-30-goldman-sachs-asian-equity-perspectives"
+  ],
+  "財政政策": [
+   "2026-08-24-nomura-1317262",
+   "2026-08-29-nomura-1318100",
+   "2026-08-30-goldman-sachs-india-views"
   ],
   "資料中心": [
    "2026-08-24-nomura-1317262",
-   "2026-08-25-goldman-sachs-asean-data-center-primer"
+   "2026-08-25-goldman-sachs-asean-data-center-primer",
+   "2026-08-28-goldman-sachs-americas-technology"
+  ],
+  "中東": [
+   "2026-08-25-goldman-sachs-european-economics-analyst",
+   "2026-08-28-goldman-sachs-oil-analyst"
+  ],
+  "印度": [
+   "2026-08-28-goldman-sachs-global-technology",
+   "2026-08-30-goldman-sachs-india-views"
+  ],
+  "拉丁美洲": [
+   "2026-08-24-citi-latin-america-economics-strategy-daily",
+   "2026-08-28-goldman-sachs-global-technology"
+  ],
+  "日圓": [
+   "2026-08-25-goldman-sachs-japan-economics-analyst",
+   "2026-08-29-nomura-1318100"
+  ],
+  "日本": [
+   "2026-08-25-goldman-sachs-japan-economics-analyst",
+   "2026-08-29-nomura-1318100"
+  ],
+  "日本銀行": [
+   "2026-08-25-goldman-sachs-japan-economics-analyst",
+   "2026-08-29-nomura-1318100"
+  ],
+  "電力": [
+   "2026-08-25-goldman-sachs-asean-data-center-primer",
+   "2026-08-28-goldman-sachs-americas-technology"
   ],
   "中小企業融資": [
    "2026-08-24-nomura-1317262"
   ],
-  "中東": [
-   "2026-08-25-goldman-sachs-european-economics-analyst"
+  "亞股": [
+   "2026-08-30-goldman-sachs-asian-equity-perspectives"
+  ],
+  "人形機器人": [
+   "2026-08-30-goldman-sachs-global-physical-ai"
+  ],
+  "俄羅斯": [
+   "2026-08-28-goldman-sachs-oil-analyst"
   ],
   "加密貨幣": [
    "2026-08-24-goldman-sachs-americas-brokers-crypto"
   ],
-  "勞動市場": [
-   "2026-08-25-goldman-sachs-european-economics-analyst"
-  ],
-  "半導體": [
-   "2026-08-24-goldman-sachs-global-semis"
-  ],
   "印尼": [
    "2026-08-25-goldman-sachs-asean-data-center-primer"
+  ],
+  "印度央行": [
+   "2026-08-30-goldman-sachs-india-views"
+  ],
+  "台灣": [
+   "2026-08-30-goldman-sachs-asian-equity-perspectives"
   ],
   "墨西哥": [
    "2026-08-24-citi-latin-america-economics-strategy-daily"
@@ -92,17 +196,23 @@
   "建材": [
    "2026-08-24-goldman-sachs-china-basic-materials-monitor"
   ],
-  "拉丁美洲": [
-   "2026-08-24-citi-latin-america-economics-strategy-daily"
+  "房地產": [
+   "2026-08-29-nomura-1318120"
   ],
-  "日圓": [
-   "2026-08-25-goldman-sachs-japan-economics-analyst"
+  "房貸": [
+   "2026-08-29-nomura-1318120"
   ],
-  "日本": [
-   "2026-08-25-goldman-sachs-japan-economics-analyst"
+  "投資級信用": [
+   "2026-08-27-citi-global-macro-strategy-views-and-trade-ideas"
   ],
-  "日本銀行": [
-   "2026-08-25-goldman-sachs-japan-economics-analyst"
+  "期中選舉": [
+   "2026-08-30-goldman-sachs-asian-equity-perspectives"
+  ],
+  "期限溢酬": [
+   "2026-08-27-citi-global-macro-strategy-views-and-trade-ideas"
+  ],
+  "柴油裂解價差": [
+   "2026-08-28-goldman-sachs-oil-analyst"
   ],
   "歐洲": [
    "2026-08-25-citi-european-economics"
@@ -113,11 +223,20 @@
   "殖利率曲線": [
    "2026-08-25-goldman-sachs-japan-economics-analyst"
   ],
+  "煉油產能": [
+   "2026-08-28-goldman-sachs-oil-analyst"
+  ],
+  "石油庫存": [
+   "2026-08-28-goldman-sachs-oil-analyst"
+  ],
+  "美元": [
+   "2026-08-27-citi-global-macro-strategy-views-and-trade-ideas"
+  ],
+  "美國財政部": [
+   "2026-08-27-citi-global-macro-strategy-views-and-trade-ideas"
+  ],
   "聖嬰現象": [
    "2026-08-24-citi-latin-america-economics-strategy-daily"
-  ],
-  "聯準會": [
-   "2026-08-24-goldman-sachs-us-economics-analyst"
   ],
   "英國": [
    "2026-08-25-goldman-sachs-european-economics-analyst"
@@ -127,9 +246,6 @@
   ],
   "記憶體": [
    "2026-08-24-goldman-sachs-global-semis"
-  ],
-  "財政政策": [
-   "2026-08-24-nomura-1317262"
   ],
   "貨櫃航運": [
    "2026-08-24-goldman-sachs-us-tariff-impact-tracker"
@@ -146,14 +262,11 @@
   "零售股": [
    "2026-08-24-goldman-sachs-americas-retail"
   ],
-  "電力": [
-   "2026-08-25-goldman-sachs-asean-data-center-primer"
-  ],
   "電動車": [
    "2026-08-24-goldman-sachs-china-basic-materials-monitor"
   ],
-  "電子商務": [
-   "2026-08-24-goldman-sachs-americas-retail"
+  "韓國": [
+   "2026-08-30-goldman-sachs-asian-equity-perspectives"
   ],
   "預測市場": [
    "2026-08-24-goldman-sachs-americas-brokers-crypto"
@@ -163,6 +276,1333 @@
   ]
  },
  "reports": [
+  {
+   "slug": "2026-08-30-goldman-sachs-us-economics-analyst",
+   "broker": "Goldman Sachs",
+   "product": "US Economics Analyst",
+   "title": "US Economics Analyst: Looking for Pockets of Overheating",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-08-30",
+   "pages": 15,
+   "issue": null,
+   "tier_target": 4000,
+   "tier_band": [
+    3500,
+    4500
+   ],
+   "summary": "## 經濟沒有過熱，AI 造成的產能瓶頸只集中在電機設備、機械與專業服務三處\n\n## 主張是什麼\n\n高盛這一期處理的是一個由聯準會官員提出、卻沒有人認真量過的問題：總體數據看不到過熱，但 AI 建置會不會在水面下製造局部的資源瓶頸，成為通膨的來源。作者 Pierfrancesco Mei 的答案是，他找過了，而且找得比平常細——產業層級的職缺與失業人數缺口、約 90 個次產業的薪資、12 個聯準會分區的褐皮書用字、製造業各業的產能利用率與加班工時，再加上一套用另類資料自建的服務業產能利用率指數——結論是瓶頸確實存在，但數量少、範圍窄，而且集中在直接支援 AI 建置的那幾個產業。把勞動市場、製造業、服務業三塊合起來的綜合瓶頸指標近幾個月微幅上揚，水準仍與疫情前相當。對政策的意涵很直接：以目前的估計，服務業產能吃緊替核心服務（不含住房）PCE 年增率貢獻的壓力約 10 個基點，不是需要用利率去處理的量級。\n\n這個問題不是憑空冒出來的。近期有聯準會官員把與 AI 榮景相連的資源限制點名為通膨壓力的來源，而總體數據又完全不支持這個說法，兩者之間的落差就是這期報告要處理的東西：如果過熱不在總表上，它會不會藏在水面下的某幾格。\n\n值得注意的是，這份報告的立場其實是防守型的。它沒有主張 AI 不會造成通膨，它主張的是「到今天為止，過熱的廣度沒有異常」。這兩件事在市場上常被混為一談，但它們會被完全不同的資料裁決。\n\n## 憑什麼之一：勞動市場沒有緊到哪裡去\n\n第一層證據是總體的。高盛的閒置指標（把十項勞動市場利用率指標換算成失業率尺度的合成指標）比上一輪循環末期高 1 個百分點——而上一輪循環末期，聯準會正苦於把通膨撐到 2%。薪資追蹤指標同樣落在他們估計與 2% 通膨相容的水準之下。整體工業產能利用率也不算特別高。\n\n第二層是產業別。報告用「職缺數減失業人數、再除以該產業勞動力」定義各產業的職缺—求職者缺口，理由是這個指標近年比失業率更能抓到緊繃程度。結果是多數產業的缺口已經低於疫情前水準；少數仍偏高的產業——批發業、醫療保健、專業服務——也都已從疫情高點大幅回落，而且沒有再度轉緊的跡象。\n\n第三層是地區別，這是方法上最有意思的一段。美國勞工統計局已經停止定期發布州別職缺月資料，作者因此無法再算州層級的缺口，改為回頭讀褐皮書：把過去二十年褐皮書裡用來描述缺工與薪資壓力的一整組詞彙標記出來，做成分區別的緊繃度指標。這個指標曾準確捕捉到疫後復甦期的全面過熱，而現在 12 個聯準會分區全部大致落在歷史平均附近。\n\n第四層是薪資的廣度。報告對約 90 個次產業計算時薪年增率，再以就業權重算出超過 4%（他們估計在當前生產力成長下與 2% 通膨相容的步調）的產業占比。目前是 35%，其中只有 5% 的產業超過 6%。1990 至 2019 年的平均是 25%——那段期間通膨平均 1.9%，而與 2% 通膨相容的薪資步調同樣約在 4%——2022 年的高點則約 90%。現在比常態略高，但離 2022 年那種全面性的薪資壓力還很遠。\n\n## 憑什麼之二：製造業的例外只有兩個，而且正好是 AI 相關\n\n多數製造業產業目前的運轉水準都明顯低於最大潛在產出，仍有以現有產能擴產的空間。報告另外採用聯準會經濟學家提出的較嚴格標準——以各產業在近幾個景氣循環中實際達到過的最高利用率當作可達上限，理由是廠商很少真的碰到帳面上的滿載，實務上達到過的最高點才是比較實際的天花板——即使用這把比較苛的尺，接近上限的也只有電機設備與機械製造，而這兩者正是支援 AI 基礎設施建置的產業。\n\n這裡有一個誠實的空缺：這兩個產業沒有次產業層級的產能利用率資料，作者只能改用比較細的工業生產數據佐證，指出電池、通訊線纜、輸配電設備的產出成長很快，與這些產業正在逼近產能上限的說法一致。那是推論，不是量測，報告自己也是這樣寫的。\n\n前瞻的部分用加班工時。以約 20 個主要製造業、近二十年的追蹤資料估計，平均每週加班工時領先產能利用率約 3 到 6 個月；目前多數產業的加班工時仍明顯低於各自在近幾個循環的高點，因此短期內新增產能壓力的風險有限。\n\n## 憑什麼之三：服務業的空白，用另類資料補起來\n\n這一節是報告真正新增的東西。聯準會只對製造業、礦業與公用事業提供產能利用率估計，這三塊合計約占經濟的 15%，其餘部門沒有官方估計。ISM 有一份半年一次的非製造業運轉率調查，但頻率太低，而且它只靠一道籠統的問卷題目，而不是能真正對應各產業產能的具體營運指標。\n\n高盛的做法是拿股票分析師平常在追的營運資料，估出七個服務業產業的產能利用率，合計約占 GDP 的 30%：運輸用國內商業航班與空運、卡車、鐵路貨運的裝載率；倉儲用倉庫可用儲位中已存放存貨的比重；零售用店面的實質單位坪效；專業與商業服務用按工時計費產業（法律、會計、管理顧問）的平均工時；住宿用旅館客房住用率；不動產用自有與租賃住宅及公寓的空置率；營建用工程機具的平均運轉時數。營建並非正式歸類為服務業，報告是為了敘述方便才併在一起。\n\n驗證的方式是看這些指標能不能預示各自產業的價格壓力：旅館住用率對上住宿類 CPI、鐵路貨運裝載率對上鐵路運輸 PPI，兩組的利用率上升大致都伴隨著價格上揚。\n\n結果與製造業一致：多數服務業產業仍明顯低於過去二十年的利用率高點，唯一的例外是專業與商業服務。作者對這個例外給了一個有意思的解釋——他們過去主張這個產業有很多職業長期而言最容易被 AI 取代，但眼下反而可能接近滿載，因為這些公司正在幫別人做 AI 轉型；2025 年底以來顧問服務的就業成長確實加速。把七個產業以各自的 GDP 占比加權後，服務業整體的產能利用率已回到疫情前水準。\n\n這個指數的用處在於它對通膨有增額解釋力：把它加進一個已經含服務業失業率的菲利普曲線模型，仍能提高解釋力。而以目前僅略高於長期平均的水準推算，服務業產能吃緊對核心服務（不含住房）PCE 年增率的貢獻約 10 個基點，遠低於 2021 至 2022 年的 30 至 40 個基點。\n\n## 它自己承認的限制\n\n最後的綜合瓶頸指標把三塊合起來，追蹤「職缺缺口、薪資成長或產能利用率特別高」的產業占比。它近幾個月確實微幅上揚，作者把原因指名為少數次產業的職缺缺口再度擴大——這些產業的勞動市場在 2025 年下半年走弱之後回穩。換句話說，指標往上不是因為 AI，而是因為去年的疲弱在退潮。這是一個對自己不利的細節，報告主動寫出來了。指標本身以 z 分數呈現，產品市場那一軌以各產業附加價值加權、勞動市場那一軌以就業加權，兩軌再合成一條總指標。\n\n其他自我限定同樣具名：服務業指標的高點只能從 2005 年起算（專業與商業服務從 2006 年、營建從 2007 年開始），因為更早的資料不全；2020 年被整年排除，因為零售業的來源資料缺漏，而零售約占這個指數的 20%；電機設備與機械沒有次產業資料。這些都不是致命傷，但它們說明一件事：這份報告比較的是「相對於自己過去二十年的高點」，不是絕對意義上的滿載。也因此，如果 AI 建置把某個產業推到它從未到過的水準，這套尺一開始會顯示為「接近高點」，而不是「超出」。\n\n## 與 ISM 的落差\n\n報告唯一明確與其他來源不一致的地方是 ISM。ISM 半年調查估出的服務業產能利用率高於高盛的估計。作者的處理方式是承認落差，然後用 ISM 自己報告裡的評論來收——業者普遍預期 2026 年剩餘時間產能會以穩健速度擴張，那會壓低 ISM 的利用率、縮小這個差距。這是合理的說法，但它把落差的解決推給了尚未發生的事；如果年底 ISM 沒有回落，要調整的是這份報告，不是 ISM。值得留意的是，這是全篇唯一一處「別人的估計比我高」，方向上不利於它的結論，而報告沒有迴避。\n\n## 可驗證的節點\n\n同一期附的美國經濟與金融預測表，讓這個主張有相當具體的裁決點。核心 PCE 年增率預估 2026 年 3.0%、2027 年降到 2.2%，其中 2026 年第三季 3.2%、第四季 3.1%，第一個明顯的降幅要到 2027 年第一季的 2.6%。如果通膨在 2026 年底沒有依這條路徑走弱，「瓶頸只貢獻 10 個基點」會是最先被質疑的一句。\n\n成長面的預估則相對平穩：實質 GDP 2026 與 2027 年都預估 2.1%，企業固定投資 2026 年 7.0%、其中設備投資 10.8%、智慧財產產品 9.2%，非農就業月均 2026 年 5.5 萬人、2027 年 5 萬人。這是一個「AI 拉動投資、但沒有拉爆勞動市場」的組合，也正是「瓶頸有限」這個主張成立時該長的樣子。\n\n利率路徑同樣可檢驗：聯邦基金目標區間預估維持在 3.5-3.75% 直到 2027 年第一季，2027 年第二季降到 3.25-3.5%，年底 3-3.25%。這條路徑內含的前提，就是沒有局部過熱迫使聯準會改口。\n\n其他值得盯的數字：失業率整段預測期都在 4.2% 附近，平均時薪年增率 2026 年 3.9%、2027 年 3.8%，都與「薪資壓力有限」一致；製造業工業生產從 2026 年的 1.9% 加速到 2027 年的 3.7%，設備投資 2026 年成長 10.8%——如果 AI 建置真的要撞上產能，這兩條線是最先出現裂縫的地方。至於報告自己的追蹤指標，該看的是綜合瓶頸指標會不會從「微幅上揚」變成趨勢，以及專業與商業服務這個唯一的例外會不會擴散到第二個、第三個產業。",
+   "summary_chars": 3664,
+   "tags": [
+    "美國",
+    "通膨",
+    "勞動市場",
+    "聯準會",
+    "人工智慧"
+   ],
+   "stances": [
+    {
+     "theme": "央行、利率與匯率",
+     "quote": "We see little sign of overheating at a macroeconomic level today. The labor market is in balance and wage pressures are moderate.",
+     "quote_zh": "我們今天在總體層面看不到什麼過熱的跡象。勞動市場處於平衡，薪資壓力溫和。",
+     "label": null,
+     "page": 3
+    },
+    {
+     "theme": "AI 與半導體",
+     "quote": "only a few industries are nearing their limits—notably electrical equipment and machinery manufacturers, which are likely supporting the AI infrastructure buildout.",
+     "quote_zh": "只有少數幾個產業正在逼近上限——特別是電機設備與機械製造商，它們很可能正在支援 AI 基礎設施的建置。",
+     "label": null,
+     "page": 6
+    },
+    {
+     "theme": "AI 與半導體",
+     "quote": "While we have argued that many occupations in this industry are ultimately at higher risk of displacement from AI, activity may be running closer to capacity for now",
+     "quote_zh": "雖然我們過去主張這個產業有許多職業終究面臨較高的被 AI 取代風險，但眼下的活動水準可能已經比較接近產能上限。",
+     "label": null,
+     "page": 9
+    },
+    {
+     "theme": "央行、利率與匯率",
+     "quote": "our tracker suggests that capacity pressures are not unusually broad-based and that pockets of overheating remain limited so far.",
+     "quote_zh": "我們的追蹤指標顯示，產能壓力並非異常地全面，局部過熱到目前為止仍然有限。",
+     "label": null,
+     "page": 9
+    }
+   ],
+   "charts": [
+    {
+     "kind": "grouped_bar",
+     "title": "薪資壓力的廣度：年增率超過 4% 的產業只占三成五",
+     "subtitle": "以就業權重計算、時薪年增率高於 4% 的產業占比；4% 是高盛估計與 2% 通膨相容的薪資步調",
+     "cats": [
+      "最新",
+      "1990-2019 平均",
+      "2022 高峰"
+     ],
+     "groups": [
+      {
+       "name": "時薪年增率高於 4% 的產業占比",
+       "values": [
+        35,
+        25,
+        90
+       ]
+      }
+     ],
+     "y_label": "占全體就業比重（%）",
+     "source": "Goldman Sachs, US Economics Analyst: Looking for Pockets of Overheating, 2026-08-30（第 5 頁 Exhibit 4）",
+     "grounding": [
+      "about 35% of industries are currently seeing nominal wage growth above 4%",
+      "This is somewhat above the 25% average over 1990-2019",
+      "well below the roughly 90% peak in 2022"
+     ],
+     "png": "2026-08-30-goldman-sachs-us-economics-analyst-1.png",
+     "svg": "2026-08-30-goldman-sachs-us-economics-analyst-1.svg",
+     "bytes": 107592
+    }
+   ]
+  },
+  {
+   "slug": "2026-08-30-goldman-sachs-india-views",
+   "broker": "Goldman Sachs",
+   "product": "India Views",
+   "title": "India Views: What Is Driving the Growth Resilience?",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-08-30",
+   "pages": 8,
+   "issue": null,
+   "tier_target": 3000,
+   "tier_band": [
+    2600,
+    3400
+   ],
+   "summary": "# 印度的成長韌性來自財政與貨幣的雙重補貼，而這兩股推力的高峰都已經過去\n\n## 主張是什麼\n\nGoldman Sachs 先立了一個對照組：2026 年亞洲新興市場的成長普遍上修，多半反映 AI 相關資本支出與科技出口，台灣是最大但不是唯一的受益者，出口榮景在北亞造出可觀的經常帳順差；沒有 AI 相關資本支出的經濟體則普遍偏軟。印度是這個規律的例外。它面對的外部環境更差：市場認為印度 AI 含量不足，加上對服務出口與就業風險的疑慮，外資興趣有限；2025 年吃了美國關稅衝擊；美伊敵對推升能源價格，又帶來貿易條件的負面衝擊。三重逆風之下，成長仍持續超出預期。\n\n報告給的答案不是印度長出了新的成長引擎，而是國內政策在對的時間、以夠大的規模接住了衝擊。分析師寫得很直白：印度韌性的關鍵解釋，是國內政策支持的規模與時機。這個答案本身就帶著第二層意思——政策是會退場的。GS 把 CY26 實質 GDP 成長預測上修 0.4 個百分點到 7.3%，同時明說動能會在年內逐季放緩。\n\n## 憑什麼（一）：財政與準財政的規模\n\n2025 年 2 月聯邦預算的所得稅減免相當於 GDP 的 0.6 個百分點，直接墊高家庭可支配所得與消費；FY26 後段的 GST 稅率合理化再加 0.3 個百分點，把消費順風延續到 FY27。2026 年中東衝擊之後，燃料貨物稅減徵（0.3 個百分點）搭配能源國營企業吸收部分成本，壓低了能源價格的傳導，撐住 2026 上半年的消費活動。支出面同樣前置：肥料補貼本財年迄今年增 58%，中央政府資本支出在 FY27 前三個月年增約 24%。\n\n## 憑什麼（二）：貨幣政策從寬鬆走向正常化\n\nCY25 上半年前置的 100 個基點降息（落在累計 125 個基點的寬鬆循環裡），加上流動性改善與印度央行一連串監理鬆綁，對經濟活動提供了實質支撐。但 GS 判斷貨幣政策的成長脈衝高峰也已過去，先前寬鬆的傳導會在 2026 年底走完。央行 8 月會議是鴿派按兵不動，會議紀要卻透出更偏鷹的傾向，理由是活動有韌性、通膨風險上升。GS 預期一個淺的 50 個基點升息循環從 2026 年底展開，12 月與 2 月各升 25 個基點。正常化的跡象已經出現在流動性操作：近期的浮動利率逆回購標售正在吸收銀行體系過剩流動性，也讓隔夜拆款利率重新向政策附買回利率靠攏。\n\n## 憑什麼（三）：消費、薪資與信貸\n\nFY26 的實質民間消費成長平均比 FY25 高出 2 個百分點，達到 7.8% 年增。企業部門薪資成長在 2024 到 2025 年多數時間維持住，撐起家庭購買力，不過 2025 年底起薪資成長已在下滑。銀行信貸是另一層支撐：自 CY25 第四季持續回升，2026 年 7 月達到 19.3% 年增的兩年新高，各部門普遍加速，工業尤其明顯，而工業信貸的加速主要由大型工業帶動，已升到接近 14 年新高。信貸的組成也值得看：微型與小型、中型、大型工業三條線裡，只有大型工業明顯拉升，代表這一輪擴張的受益者相當集中。GS 預期信貸成長在第三季見頂，之後仍能維持在 mid-teens 水準。\n\n## 憑什麼（四）：出口分散與外部帳改善\n\n美國對等關稅初次宣布後，印度對美出口在 CY25 上半年搶跑式衝高，由電子產品帶頭，部分緩衝了 CY25 下半年 50% 關稅的衝擊；電子出口在高基期下於 CY26 上半年仍持續擴張。GS 原先估計關稅對 CY25 實質 GDP 有 0.3 個百分點的拖累，但較強的服務出口與較低的進口大致抵銷。服務出口占 GDP 比重上升約 0.7 個百分點，CY25 第三季到 CY26 第二季平均達 11.1%。2026 年 2 月的美印貿易協議把對等關稅從 50% 降到 18%。中東衝突推升油價，但進口量下滑反而讓淨出口對實質 GDP 成長的貢獻增加約 0.4 個百分點；CY26 上半年商品與服務出口合計年增近 8%，靠的是美國需求回溫、服務出口有韌性與市場分散，即使對中東的出貨轉弱。展望上，GS 認為美國與中東出口回溫、服務出口維持強勢，加上商品團隊預測油價在 CY26 年底前走低，會讓淨出口在 CY26 與 FY27 對成長維持溫和正貢獻，足以部分抵銷財政推力的消退。\n\n## 與市場看法的落差\n\n這份報告的立論起點本身就是一個落差：外資對印度興趣有限，是因為市場認定它 AI 含量不足，並擔心服務出口與就業風險。GS 沒有正面反駁這個標籤，而是指出印度成長已一再超出預期，所以真正該問的不是印度有沒有 AI，而是誰在支撐內需。到報告尾端，這個落差被翻成部位面的講法：外資部位極輕，股票策略團隊反而看到 FII 資金回流的空間。同一件事，市場讀成缺點，GS 讀成還沒被反映的選擇權。\n\n## 它自己承認的限制\n\n這份報告最誠實的部分是對自己憑據的設限。薪資數據取自 CMIE、涵蓋 3,084 家公司，只及於正式部門，抓不到非正式經濟的變化——而印度就業有很大一塊在非正式部門。財政面講得更直接：該期間貨物稅收年減 22%，加上補貼超支，可能迫使政府重排支出優先順序，才能守住 GDP 4.3% 的財政赤字目標，也就是 FY27 下半年的資本支出成長與其他非義務性支出會放慢。報告的 Exhibit 2 把這個限制畫成一條線：若要達成 FY27 預算數，中央資本支出在接下來九個月的隱含成長路徑，會明顯低於目前的實際年增速。撐住上半場的那筆錢，正在變成下半場的限制。Gen-AI 被列為中期成長的正面因素，但條件是企業端要有廣泛部署，而且 GS 直說勞動市場的影響會不平均。\n\n## 接力的是誰，以及匯率為什麼不跟著漲\n\n政策退場後，成長組成會轉向民間需求。持續的消費，加上一個還在萌芽的投資復甦——特別是能源韌性與國防製造——會決定 CY27 的成長。GS 的實地拜訪強化了一個判斷：能源安全已是印度更明確的戰略優先，投資分散到石油、LNG、再生能源與火力發電，並搭配戰略石油儲備的漸進擴建。外部帳同樣好轉：印度央行提前一個月在 8 月 31 日關閉 FCNR(B) 存款窗口，被視為國際收支壓力下降的訊號，該窗口到 8 月 21 日已吸入 653 億美元；淨 FDI 改善與 6 月以來的債券流入，而 ECB 與 OFCB 的優惠管道到 2026 年底仍然開放，留下進一步流入的空間；這些都降低了央行進一步擴大遠期空頭部位的必要（該部位 6 月底已超過 1,030 億美元）。但 GS 認為盧比升值的主要催化劑已經過去，預期美元兌盧比維持 95 至 97 區間，因為央行傾向利用貨幣走強時補充準備、降低遠期負債。外資部位極輕，股票策略團隊反而看到資金回流空間，NIFTY 有機會朝 2027 年 6 月目標 26,500 靠攏，隱含約 10% 報酬。\n\n## 可驗證的節點\n\n這個主張有幾個時間明確的裁決點。第一，12 月與 2 月的印度央行會議：若沒有各升 25 個基點，正常化已經開始的判斷就得重寫。第二，FY27 下半年的中央政府資本支出：前三個月年增約 24% 是否如預期急速減速，會直接檢驗財政高峰已過的說法。第三，第三季之後的銀行信貸成長：19.3% 見頂後若跌破 mid-teens，內需的第三根支柱就鬆了。第四，貨物稅收與補貼的缺口是否真的逼出支出重排、4.3% 的赤字目標守不守得住。第五，美元兌盧比若明顯跌破 95，代表 GS 對央行行為的假設出錯。第六，油價在 2026 年底前是否如商品團隊預期走低——那是淨出口能續作溫和正貢獻的前提。",
+   "summary_chars": 2835,
+   "tags": [
+    "印度",
+    "印度央行",
+    "財政政策",
+    "關稅",
+    "消費",
+    "原油"
+   ],
+   "stances": [
+    {
+     "theme": "亞太（韓國、印度、東南亞）",
+     "quote": "Reflecting the stronger-than-expected policy boost, we raised our CY26 real GDP growth forecast by 0.4pp to 7.3% yoy.",
+     "quote_zh": "反映強於預期的政策推力，我們把 CY26 實質 GDP 成長預測上修 0.4 個百分點至 7.3% 年增。",
+     "label": null,
+     "page": 4
+    },
+    {
+     "theme": "央行、利率與匯率",
+     "quote": "We expect a shallow 50bp hiking cycle to begin by end-2026, with 25bp hikes each in December and February meetings.",
+     "quote_zh": "我們預期一個淺的 50 個基點升息循環將於 2026 年底展開，12 月與 2 月會議各升 25 個基點。",
+     "label": null,
+     "page": 2
+    },
+    {
+     "theme": "美國政治與政策",
+     "quote": "The February 2026 US-India trade agreement reduced US reciprocal tariffs on Indian goods exports to 18% from 50%, while preserving a pathway to a broader bilateral trade agreement.",
+     "quote_zh": "2026 年 2 月的美印貿易協議把美國對印度商品出口的對等關稅由 50% 降至 18%，同時保留了通往更廣泛雙邊貿易協定的路徑。",
+     "label": null,
+     "page": 4
+    }
+   ],
+   "charts": [
+    {
+     "kind": "waterfall",
+     "title": "撐住印度內需的三項減稅與減徵",
+     "subtitle": "FY26 以來明確載於內文的財政與準財政措施規模，單位為名目 GDP 百分點",
+     "cats": [
+      "所得稅減免（2025年2月預算）",
+      "GST 稅率合理化（FY26 後段）",
+      "燃料貨物稅減徵（2026 中東衝擊後）"
+     ],
+     "vals": [
+      0.6,
+      0.3,
+      0.3
+     ],
+     "total_label": "合計",
+     "y_label": "占名目 GDP 百分點",
+     "source": "Goldman Sachs, India Views: What Is Driving the Growth Resilience?, 2026-08-30（數字均出自第 1 頁內文）",
+     "grounding": [
+      "Income-tax cuts (0.6pp of GDP) in the February 2025 union budget lifted household disposable income and consumption.",
+      "GST-rate rationalization (0.3pp of GDP) in late-FY26 provided an additional",
+      "fuel-excise duty cuts1 (0.3pp of GDP) and partial absorption"
+     ],
+     "png": "2026-08-30-goldman-sachs-india-views-1.png",
+     "svg": "2026-08-30-goldman-sachs-india-views-1.svg",
+     "bytes": 119435
+    }
+   ]
+  },
+  {
+   "slug": "2026-08-30-goldman-sachs-global-physical-ai",
+   "broker": "Goldman Sachs",
+   "product": "Global Physical AI",
+   "title": "Global Physical AI: Framing the Forward Progress of Humanoids (with a Studied Focus on the Logistics Landscape)",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-08-30",
+   "pages": 80,
+   "issue": null,
+   "tier_target": 5000,
+   "tier_band": [
+    4400,
+    5600
+   ],
+   "summary": "## 人形機器人出貨預測一次上修四倍，撐住這個數字的不是技術突破，而是倉儲物流那本算得出來的帳\n\n### 主張是什麼\n\n高盛在這份 80 頁的跨區域報告裡（作者橫跨美國、日本、韓國、中國與歐洲團隊），把人形機器人的市場預測整個往上抬：2030 年出貨量從原本的 256K 上修到約 890K，2035 年從 1.4 mn 上修到 6.5 mn，2026 年當年則從 51K 上修到 75K；以金額計，2035 年市場規模來到 1,383 億美元。報告自己點破了這次上修的性質——新的基本情境在總量上與先前的多頭情境相當。也就是說，原本的樂觀劇本被降格成了基準劇本。\n\n撐住這個數字的，作者並沒有訴諸某次模型能力的躍進，而是三條可以逐項核帳的線：實體世界的訓練資料開始累積（怎麼拿起一個信封、怎麼打破一顆蛋，這些不可能單靠網路上的數位資料學會）、開源工具與全球資金到位、以及物料清單成本每年約 7% 的下滑。更關鍵的是落地順序被明確指定了：倉儲與物流是第一批大規模試點與部署的場域，不是汽車產線，更不是家庭。理由並不浪漫——倉庫裡的任務夠雜，雜到傳統機器人自動化起來不划算；但環境仍然是結構化的，天氣與隱私這類麻煩在這裡是可控的。\n\n### 憑什麼（一）：成本曲線先降下來，數量才跟得上\n\n這份報告最硬的一塊是物料清單與平均售價的推估。全球人形機器人平均售價從 2023 年的 59,265 美元一路降到 2035 年的 21,349 美元，物料清單成本從 39,543 美元降到 13,505 美元，年化降幅分別是 6% 與 7%。分規格看，高規格降得最凶：售價從 2023 年的 394,363 美元掉到 2035 年的 50,017 美元；中規格從 86,354 降到 16,584；低規格從 37,101 降到 9,469。作者把降幅歸因於規模與設計最佳化，而不是任何單一元件的突破——這是一個相對保守、也相對可檢驗的說法。\n\n這條曲線是整份報告的地基。價格降不下來，後面所有「導入率 10% 到 50%」的情境都不成立。出貨結構同樣值得注意：2026 年的 75,000 台裡，高規格只有 3,000 台，中規格 33,750 台，低規格 38,250 台；到 2035 年的 6,477,908 台中，高規格 1,295,582 台、中規格 3,433,291 台、低規格 1,749,035 台。量體的主力始終落在中低規格，高規格是金額的貢獻者而非數量的貢獻者。整體市場金額 2030 年為 274.29 億美元、2035 年 1,383 億美元，年增率在 2030 年之後穩定落在 37% 到 39% 之間。\n\n### 憑什麼（二）：亞馬遜那本帳是全篇唯一算到底的\n\n報告把倉儲物流當成主場，最實的證據是亞馬遜的個案。現況先給定錨：亞馬遜到 2025 年 6 月已在超過 300 座設施部署逾百萬台機器人；沃爾瑪則有 3,100 家美國門市已具備某種程度的自動化貨運，且到 2026 年 8 月為止，超過五成的電商履約量透過自動化設施處理。這兩家不是在評估要不要做，是已經在做。\n\n往前推的情境是這樣算的：假設 2026 至 2030 年間服務成本取得約 5.6% 的營運槓桿，機器人與自動化可帶來約 720 億美元的總成本節省，其中約 80% 落在營業費用（定義為財報上的履約費用，扣除股酬與支付處理費）、約 20% 落在銷貨成本（運費），最終轉為 2030 年合併稅前息前利益率約 240 個基點的順風，其中約 50 個基點來自毛利率。換算到單位經濟：每單位服務成本下降約 11%，對應零售部門稅前息前利益率到 2030 年約 400 個基點的順風。\n\n作者的解讀比數字本身更值得記下來——履約效率正在從成本項目變成競爭差異化。省下來的錢亞馬遜可以選擇不落袋，改投入更快的到貨、更低的售價或更好的 Prime 權益；而規模不夠、自動化能力不夠的競爭者，結構性地就得承受更高的服務成本。這是一個把成本題重新寫成護城河題的論證。\n\n### 為什麼是倉庫先動：滲透率低到不像話\n\n作者給了一個很直觀的參照。汽車業經過數十年投資，機器人密度已經接近每一萬名員工 1,800 台；非汽車製造業則只有 250 台。而倉儲與物流的自動化滲透率，相對於這些已經成熟的製造業垂直領域仍然偏低。報告承認這個對比是方向性的、不是倉儲自動化的直接量測（國際機器人聯盟一類的統計並未完整涵蓋倉儲物流系統），但落差的量級擺在那裡：這是一個既有巨大存量勞動、又還沒被自動化吃掉的場域。\n\n這也解釋了為什麼受惠名單這麼雜。報告點名未來三到五年可望受惠的公司橫跨四個層次：終端使用者（亞馬遜、沃爾瑪）、晶片與運算（輝達、瑞薩電子）、整機與整車（特斯拉、小鵬、小米、比亞迪、豐田）、以及零組件與代工（捷普、匯川技術、三花、雙環傳動、禾賽、大福、美蓓亞三美、HL Mando、現代摩比斯、Robotis、西門子、施耐德電機、雷格瑞斯）。名單裡沒有純軟體公司，這本身就是一個訊號——這一輪的價值捕捉點被判定在硬體與供應鏈上。\n\n### 憑什麼（三）：汽車業的帳也算得出來，但只碰得到 2%\n\n汽車是第二條線。約四分之一的傳統工業機器人賣給汽車業，但自動化的分布極不平均：車身焊接高度自動化，最終組裝、線束配線這些多半仍靠人工。日本團隊做了一組情境分析：以汽車與零件業典型 10% 到 20% 的人事費用比率取 15% 為基準，機器人單價設在 2 萬到 6 萬美元，導入率設在 10% 到 50%，推得營業利益率的毛額改善幅度為 1% 到 6%。模型的內部參數全部攤開來：年均工資 53,300 美元、年工作天數 250 天、每日 8 小時、機器人年運轉 6,000 小時、相對人類的作業能力 25%、可替代 0.8 個全職人力、年度人事費節省 40,000 美元；以 3 萬美元機種計，初始投資 45,000 美元、年營運支出 5,700 美元、年折舊 6,000 美元、淨年度節省 28,300 美元，回收期 1.6 年。單價愈高，成本削減率從 85% 遞減到 72%、再到 58%。\n\n報告同時做了整車廠的準備度評分（Will／Should／Could 六個維度）：特斯拉與現代並列 9 分最高，豐田 8 分，BMW、賓士、本田各 6 分，福斯、通用、福特各 5 分，速霸陸 2 分墊底。這張表把「誰在喊」與「誰有能力做」分開來看，是這一節最有用的一格。\n\n### 半導體與 vPLC：誰的錢包被打開，誰的護城河被掀開\n\n對半導體而言，這是一條結構性的量增。每台人形機器人的半導體可服務市場估在 2,950 到 6,000 美元以上：非記憶體數位（GPU／CPU 為主）1,600 到 4,150 美元以上，其中 GPU／CPU 就佔 1,500 到 4,000 美元以上、馬達控制與嵌入式微控制器 100 到 150 美元；類比與混合訊號合計 750 到 1,050 美元以上，拆開來是功率半導體 350 到 500 美元（其中光是氮化鎵馬達驅動開關就有 250 到 300 美元，假設一台 30 顆馬達、每顆兩相馬達約 6 顆開關）、通訊 IC 與 FPGA 150 到 200 美元、光學元件 150 到 200 美元、其他感測器 50 到 100 美元、MEMS 精密計時 15 到 25 美元；記憶體 600 到 800 美元以上，DRAM 250 到 350、NAND 350 到 450。\n\n被掀開的那一邊是可程式邏輯控制器。人形機器人會移動，移動的機器沒辦法靠固定在控制箱裡、實體佈線的傳統 PLC 來協調，於是軟體定義的虛擬 PLC 被推到前台。數字的落差很誠實：全球 PLC 市場 2025 年約 130 億美元、年複合成長率約 4%；虛擬 PLC 2025 年的基期只有約 5 億美元，但西門子預期年增 20% 到 30%，施耐德電機預期到 2030 年虛擬 PLC 執行環境規模達約 13 億美元。前五大傳統 PLC 供應商合計約佔全球七成五市佔，威脅不在於市場被搶走多少，而在於硬體與軟體綁定的鎖定效應被拆開——客戶可以把控制邏輯跑在開放的商規伺服器上。\n\n虛擬 PLC 對客戶的好處被拆成三項，每一項都直接對應到既有供應商的收入來源：可以跑在標準的現成伺服器或雲端上，因此不被綁在專有硬體生態系裡，也能分散供應鏈風險；擴充產線與產能時所需的資本支出更低；控制邏輯可以從集中式主控台遠端更新，減少現場工程師的需求。傳統 PLC 系統中可能被取代的核心元件，作者列得很具體：控制器本體、實體機架、以及實體輸出入模組。反過來說，這也意味著新進者要打的不是技術戰而是商業模式戰——Codesys、Phoenix Contact、OTee、Beckhoff 這些名字出現在名單上，靠的是開放而非效能。\n\n### 它自己承認的限制\n\n報告的自我限定寫得比多數同類作品清楚。最重的一條在汽車那節：在目前尚未機器人化的生產流程中，人形機器人現階段真正能應用的範圍僅佔整體的 2%，而且只限於零件分類與簡單的物流搬運；剩下的 98%——複雜零件組裝、配線與接頭連接、外觀與異音檢查——還需要 AI 大腦與機器手的創新。第二條是利潤歸屬：汽車業那 1% 到 6% 的利潤率改善是毛額口徑，若部分節省以降價形式讓渡給消費者，淨效果會更小。\n\n第三條來自高盛自己的企業調查（回收超過 80 家全球企業的回覆）。約 30% 至 35% 的受訪者正在認真評估或試點通用機器人／人形機器人，另約 35% 已有有限部署；約 70% 目前使用或預期用於製造與生產；約 40% 預期未來三到五年至少 10% 的工作流程會被自動化或大幅強化。但受訪者點名的障礙是技術限制與可靠度、以及整合複雜度——不是價格。而在財務貢獻上，超過 35% 認為要三年以上才會對獲利產生有意義的挹注，另有約 33% 表示不確定或不預期有影響。這一格是全篇最節制的地方：企業對技術方向有共識，對入帳時點沒有。同一份調查問到「機器人要具備什麼條件貴公司才會採用」時，得票最高的是「能完成的任務範圍夠廣」，其次才是「完全靈巧的類人手掌」，而「雙足（而非輪式或固定底座）」墊底——企業要的是多工能力，不是人形這個外觀本身。這對一份標題掛著 humanoids 的報告來說，是相當坦白的一筆。\n\n第四條是勞動面的克制。美國勞工統計局預估 2024 至 2034 年間，人工搬運與物料移動類職務平均每年約有 100 萬個職缺，且多數來自轉職與退休的替補需求；2024 年這類職務全美約有 640 萬人（其中倉儲業 987K），中位年薪約 37.7K 美元，對應約 2,400 億美元的年度人事成本。作者因此推論，通用機器人在近中期未必造成總量上的直接失業，但會影響新增職缺與人類工作者的角色。這是一個明顯避開了「取代論」的表述。\n\n### 可驗證的節點\n\n這份報告把自己釘在幾個時間點上。最近的一個是 2026 年當年的出貨量：基準情境 75,000 台，對照 2025 年的 14,668 台，年增 411%——這個倍數在一年內就會被驗證，是整條曲線最脆弱的一段。接著是成本曲線的斜率：2027 年平均售價應落在 34,930 美元、物料清單成本 22,765 美元；若實際降幅明顯慢於每年 6% 到 7%，後面所有導入率情境都要重算。\n\n2030 年是三條線同時交卷的年份：出貨量 890,445 台、市場金額 274.29 億美元；亞馬遜每單位服務成本應較 2026 年下降約 11%、合併稅前息前利益率取得約 240 個基點的順風；施耐德電機所預期的虛擬 PLC 執行環境約 13 億美元規模是否兌現，會直接檢驗傳統 PLC 三巨頭的鎖定效應到底鬆了沒有。中間的觀察哨則是汽車業那 2% 的適用範圍會不會擴大——複雜零件組裝、配線接頭、外觀與異音檢查這三項只要有任何一項被跨過，這份報告的汽車章節就得整個改寫。",
+   "summary_chars": 4481,
+   "tags": [
+    "人形機器人",
+    "人工智慧",
+    "半導體",
+    "電子商務",
+    "勞動市場",
+    "美股"
+   ],
+   "stances": [
+    {
+     "theme": "AI 與半導體",
+     "quote": "We now expect the market to reach about 890K in 2030 and 6.5 mn in 2035 on a units basis, up from 256K and 1.4 mn prior.",
+     "quote_zh": "我們現在預期人形機器人市場以單位計，2030 年達到約 890K 台、2035 年達到 6.5 mn 台，先前的預估分別是 256K 與 1.4 mn。",
+     "label": null,
+     "page": 4
+    },
+    {
+     "theme": "美股與財報",
+     "quote": "Assuming ~5.6% of leverage in cost to serve from 2026E to 2030E, we expect a total cost savings of ~$72 bn from robotics and automation efforts.",
+     "quote_zh": "假設 2026 至 2030 年間服務成本取得約 5.6% 的營運槓桿，我們預期機器人與自動化的努力可帶來約 720 億美元的總成本節省。",
+     "label": null,
+     "page": 28
+    },
+    {
+     "theme": "金融、併購與企業",
+     "quote": "The top five traditional PLC suppliers contribute to c.75% of the global PLC market, with dominant players including Siemens, Rockwell Automation, Mitsubishi Electric and Schneider Electric.",
+     "quote_zh": "前五大傳統 PLC 供應商合計約佔全球 PLC 市場的 75%，主導者包括西門子、洛克威爾自動化、三菱電機與施耐德電機。",
+     "label": null,
+     "page": 39
+    },
+    {
+     "theme": "AI 與半導體",
+     "quote": "the areas where humanoid robots can currently be applied remain at a mere 2% of the total (parts sorting and simple logistics/transportation tasks).",
+     "quote_zh": "人形機器人目前真正能應用的範圍僅佔整體的 2%（零件分類與簡單的物流／搬運任務）。",
+     "label": null,
+     "page": 37
+    }
+   ],
+   "charts": [
+    {
+     "kind": "timeseries",
+     "title": "人形機器人售價與物料清單成本：每年 6% 與 7% 的下滑",
+     "subtitle": "全球人形機器人平均售價與 BOM 成本推估，2023-2035E（美元）",
+     "y_label": "每台美元",
+     "series": [
+      {
+       "name": "平均售價（ASP）",
+       "dates": [
+        "2023-12-31",
+        "2024-12-31",
+        "2025-12-31",
+        "2026-12-31",
+        "2027-12-31",
+        "2028-12-31",
+        "2029-12-31",
+        "2030-12-31",
+        "2031-12-31",
+        "2032-12-31",
+        "2033-12-31",
+        "2034-12-31",
+        "2035-12-31"
+       ],
+       "values": [
+        59265,
+        52115,
+        41788,
+        35830,
+        34930,
+        33649,
+        32411,
+        30804,
+        28507,
+        26428,
+        24544,
+        22833,
+        21349
+       ]
+      },
+      {
+       "name": "物料清單成本（BOM）",
+       "dates": [
+        "2023-12-31",
+        "2024-12-31",
+        "2025-12-31",
+        "2026-12-31",
+        "2027-12-31",
+        "2028-12-31",
+        "2029-12-31",
+        "2030-12-31",
+        "2031-12-31",
+        "2032-12-31",
+        "2033-12-31",
+        "2034-12-31",
+        "2035-12-31"
+       ],
+       "values": [
+        39543,
+        34541,
+        27744,
+        23624,
+        22765,
+        21744,
+        20794,
+        19668,
+        18166,
+        16809,
+        15581,
+        14468,
+        13505
+       ]
+      }
+     ],
+     "source": "Goldman Sachs, Global Physical AI: Framing the Forward Progress of Humanoids, 2026-08-30（Exhibit 10、Exhibit 11，第 16-17 頁）",
+     "grounding": [
+      "Global humanoid robot ASP (US$) 59,265 52,115 41,788 35,830 34,930 33,649 32,411 30,804 28,507 26,428 24,544 22,833 21,349",
+      "Global humanoid robot BOM cost (US$) 39,543 34,541 27,744 23,624 22,765 21,744 20,794 19,668 18,166 16,809 15,581 14,468 13,505",
+      "we update our BOM and ASP forecast which suggests a 7% per year decline in BOM costs and a 6% per year decline in ASPs"
+     ],
+     "png": "2026-08-30-goldman-sachs-global-physical-ai-1.png",
+     "svg": "2026-08-30-goldman-sachs-global-physical-ai-1.svg",
+     "bytes": 144612
+    }
+   ]
+  },
+  {
+   "slug": "2026-08-30-goldman-sachs-asian-equity-perspectives",
+   "broker": "Goldman Sachs",
+   "product": "Asian Equity Perspectives",
+   "title": "Asian Equity Perspectives: Into the home stretch",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-08-30",
+   "pages": 17,
+   "issue": null,
+   "tier_target": 4000,
+   "tier_band": [
+    3500,
+    4500
+   ],
+   "summary": "## 亞股續多的理由高度集中：扣掉韓國與台灣，十二個月只剩 8% 的價格報酬\n\n### 一、主張是什麼\n\n高盛亞太投組策略團隊（Timothy Moe 等）在 2026-08-30 的這份季度展望裡維持建設性看法，並把 MXAPJ 的 12 個月目標從 1,080 上調 4% 到 1,120，隱含 26% 的美元價格報酬與 28% 的總報酬。但同一頁緊接著的那句話才是這份報告真正的形狀：扣掉韓國與台灣這兩個科技驅動的市場，同一組預測只剩 8% 的價格報酬與 11% 的總報酬。\n\n所以它要你相信的不是「亞洲會漲」，而是一個窄得多、也因此可以被證偽的命題：AI 硬體供應鏈的獲利循環比市場想的更強也更久，而第三季的回檔加上有紀錄以來最大的外資賣超，已經把進場位置重新洗到可以接受的水準。四根支柱依序是總經、獲利、評價、籌碼；三個風險是 11 月 3 日的美國期中選舉、美國公債殖利率再往上、以及地緣政治。操作結論同樣有方向：續抱北亞（韓國、台灣、日本、中國 A 股），減碼澳洲與大半個東協，並用衍生性結構在選舉前買下檔保護、選舉後留上檔參與。\n\n價格背景是這樣的：MXAPJ 上半年漲 22.8%，第三季至今 0.1%，今年以來 22.9%；但上半年的贏家韓國（+117.5%）第三季跌掉 13.1%，台灣上半年 61.7%、第三季 -0.6%，而上半年的輸家中國、印度、印尼在 7 月的輪動裡反彈。高盛的判斷是：跌深市場的反彈還不足以證明上升趨勢回來，落後市場的回升也沒有真正扭轉方向——所以這是一個「暫定的交叉點」，而不是一個已經決定的方向。\n\n### 二、憑什麼（一）：獲利，而且獲利只在兩個地方\n\n報告自己說得很直白，支撐正面看法最有力的論據是與科技硬體供應鏈高度連動的市場所產生的獲利成長。高盛再一次上調預估：韓國今年 350%、台灣 60%，2027 年再各成長 35% 與 30%；拉到區域層級是 2026 年 72%、2027 年 23%。日本因為 1QFY26 財報強勁，FY26 獲利成長預估從 13% 上調到 19%。\n\n把時間軸拉長，這些數字才看得出份量：MXAPJ 的獲利在 2011 到 2025 年只有 6% 的年複合成長，遠低於前面二十年的十幾個百分點，這也解釋了同期只有 3% 的年化報酬。即使 2028 年成長率回落到高盛目前預估的 13%，2026 到 2028 年的複合成長率仍有 34%。這是一個「久旱之後」的論證：不是說亞洲變好了，而是說亞洲終於不再拖累。\n\n但這一節有一個作者自己寫出來的但書：72% 與 23% 的區域獲利成長「大致與市場共識的加總預估一致」，差異在個別市場層級。換句話說，這份報告的變異觀點不在獲利數字本身——共識也看到了同一批數字——而在獲利之外的三根支柱，以及在你願不願意把這一塊高度集中的獲利算進整個區域的報酬裡。\n\n### 三、憑什麼（二）：評價被韓國扭曲，籌碼則是實打實的清乾淨\n\n評價這根支柱看起來很強，卻是被作者親手拆掉的一根。MXAPJ 以 12 個月遠期本益比 11.1 倍交易，低於長期均值兩個標準差，股價淨值比 2.6 倍，而股東權益報酬率是歷史新高的 19.9%。緊接著的一句話是：這個數字被韓國極低的評價扭曲了——韓國只有 5 倍遠期本益比。印尼與菲律賓在 9 到 10 倍，離岸中國 12 倍；另一端的印度、澳洲、台灣、日本、新加坡全都在 18 到 20 倍，無論絕對值或相對自身歷史區間都偏高。所以「亞股便宜」在這份報告裡不成立，取而代之的是分市場的本益成長比（PEG）與 z-score 評估。\n\n籌碼那一節是全篇最實證的部分。八個提供每日交易所層級資料的新興亞洲市場，今年以來累計淨賣超超過 1,700 億美元，是有紀錄以來最大的流出，由韓國領頭（現股淨賣超 1,095.68 億美元），台灣 358.61 億、印度 235.06 億。主動型 EM／AEJ 基金對台灣、印度、韓國仍是低配；避險基金對日、韓、台、中的淨配置都已從歷史高點回落到一年區間的中段（中國落在第 12 百分位）；韓國槓桿型 ETF 的資產規模與交易商每日順週期避險，比 6 月底的峰值下降了 50% 到 70%。\n\n值得注意這一節主張的是什麼、不主張什麼：它沒有說市場便宜，只說擁擠度已經被清掉。這兩件事在多頭論證裡的份量並不相同——籌碼乾淨解釋的是「跌不下去」，不是「一定會漲」。\n\n### 四、它自己承認的限制\n\n第一，總經那根支柱其實最薄。全球 GDP 成長預估從 2026 年的 2.5% 改善到 2027 年的 2.8%；亞太處在溫和的貨幣緊縮循環，但幅度不到威脅成長或評價；高盛經濟學家對聯準會比共識更鴿，預期 2027 年降息兩次；未來 12 個月亞幣對美元溫和升值（模型隱含 12 個月 -2.0%）；布蘭特原油從目前接近 90 美元的水準回落到 2027 年的 75 美元。每一條都是「有利但不強烈」。\n\n第二，風險那一節寫得比支柱更具體。11 月 3 日的期中選舉：美國團隊的歷史統計是選前政策不確定性與標普 500 波動度上升、股市橫盤，選後才反彈；高盛對 MXAPJ 做了同樣檢驗，得到選前兩個月區間震盪、之後三個月上漲的結論——並明白註記亞洲的樣本期間較短。美國 10 年期公債殖利率自 7 月初以來上升近 40 個基點，市場重新盯上佔 GDP 6% 的財政赤字；利率團隊認為殖利率會從目前 4.7% 的區間下滑，但也承認一旦碰到或穿過 5%，對市場、尤其長存續期間的類股會是挑戰，而區域總經模型顯示在控制成長與商品價格後，MXAPJ 的每一個成分市場對美國利率上升的敏感度都是負的。VIX、美國經濟政策不確定性指數、全球地緣政治風險指數則都在歷史區間的低端，作者直接用「相當程度的自滿」來形容這個狀態。\n\n第三，一個技術性的不一致：內文寫 12 個月目標隱含 26% 的美元價格報酬，Exhibit 19 的標題寫 25%，Exhibit 20 的摘要寫 26%／28%。差距不大，但同一份報告的三處寫法並不完全一致。\n\n### 五、配置：26% 的報酬是被一個假設撐起來的\n\n高盛超配北亞的韓國、台灣、日本、中國 A 股，資金來自澳洲與部分東協的減碼；產業上超配科技硬體與半導體、資本財、銀行（不含澳洲與中國）、健護，減碼運輸、軟體與服務、公用事業、汽車與必需消費。今年以來市場配置貢獻 12 個百分點、產業配置貢獻 48 個百分點的超額報酬——後面那個數字本身就是集中度的證據。\n\n韓國的理由列了四條：記憶體與更廣義的 AI 硬體循環會比過去更強更久（運算需求加速、供給短缺可能延伸到 2030 年）、槓桿 ETF 退潮後籌碼變乾淨、非記憶體部分的題材成長快、以及 2026 到 2028 年 350%／35%／20% 的獲利成長配上 5 倍遠期本益比。但把這件事放回目標價會更清楚：KOSPI 從 6,818 看到 12,000，隱含 76% 的價格報酬、79% 的總報酬。區域那 26% 裡有多大一塊靠這一個假設，報告用「扣掉韓台只剩 8%」自己回答了。台灣的論證與韓國大同小異，差別是供應鏈更深、但評價更貴（遠期本益比 17.5 倍）。\n\n把個別市場的目標攤開來看，集中度更難迴避：韓國 KOSPI 6,818 看到 12,000、中國 A 股滬深 300 從 4,626 看到 5,500（隱含 19%）、台灣加權指數 46,412 看到 54,000（16%）、日本 TOPIX 4,156 看到 4,600（11%）、印尼綜合指數 6,549 反而看到 6,300（-4%）。整個區域指數從 892 看到 1,120 的 26%，等於是韓國那 76% 在拉，其餘市場多半落在個位數到十幾個百分點。目標本益比也一併調整過：MXAPJ 用 11.9 倍，低於先前的 12.2 倍——也就是說這次上調目標完全來自獲利，而不是來自願意給更高的評價倍數。\n\n中國維持 A 股超配、離岸中性，但建議選擇性增加 H 股曝險——網路與軟科技（獲利動能可能在第三、四季回升）或健護這類非 AI 區塊；A 股本身第二季獲利年增 17%。印度則是活動與獲利在打底，銀行、煉油、TMT、國防、公用事業的進場點轉佳。澳洲因獲利疲弱與評價偏高維持謹慎；印尼、菲律賓、泰國則因獲利成長、評價、流動性與指數自由流通量壓力的各種組合，報酬展望平淡。\n\n### 六、可驗證的節點\n\n路徑本身就是第一個節點：3 個月目標 960、6 個月 1,040、12 個月 1,120（對應 2027 年 6 月），而指數現在在 892。3 個月目標是這次下修過的，理由是美國選舉前的不確定性——如果 11 月 3 日之前指數就明顯站穩 960 之上，這份報告的短期形狀先錯一半。第二，10 年期美債殖利率的 5%，是作者自己標出來會讓論證失效的水準。第三，韓國與台灣 2027 年 35% 與 30% 的獲利成長，以及 ERLI（高盛每月初發布的獲利修正領先指標）目前顯示的「溫和上修」是否延續——這條是月頻的，最快會被打臉。第四，H 股網路與軟科技的獲利動能是否如預期在第三、四季回升，以及今年 1,700 億美元的外資賣超是否轉為回補。\n\n實作上高盛給了三條路：回檔後的主題進場點（AIGC 半導體、航太與國防、能源安全、HALO 重資產低淘汰率、高股東報酬）；兩張選股表（低 PEG 的 AI 硬體股，以及股東報酬強、自由現金流殖利率高、獲利修正向上的買進評等股，中位數 12 倍 2027 年本益比、2026 至 2027 年 15% 的每股盈餘複合成長）；以及衍生品結構——韓國波動度高，適合零成本的賣權價差領口與賣權融資的買權價差；日本波動度低，適合低權利金的歐式賣權與買權；中國 A 股做多滬深 300 交換合約的資金成本在 650 個基點的歷史高檔，可以做成 3.4 倍上檔對 1.0 倍下檔的美元 quanto 結構。這三條合起來透露的訊息很一致：連作者自己都認為，這個看多觀點需要在年底前先買一份保險。",
+   "summary_chars": 3773,
+   "tags": [
+    "亞股",
+    "韓國",
+    "台灣",
+    "半導體",
+    "期中選舉",
+    "美國公債"
+   ],
+   "stances": [
+    {
+     "theme": "亞太（韓國、印度、東南亞）",
+     "quote": "Excluding these two tech-driven markets, our forecasts imply 8% and 11% price and total returns, respectively.",
+     "quote_zh": "扣掉這兩個科技驅動的市場，我們的預測只隱含 8% 的價格報酬與 11% 的總報酬。",
+     "label": null,
+     "page": 10
+    },
+    {
+     "theme": "AI 與半導體",
+     "quote": "the semiconductor memory and broader AI tech hardware cycle is likely to be stronger and last longer than previous cycles, given accelerating compute demand and deep supply shortages potentially extending to 2030",
+     "quote_zh": "記憶體與更廣義的 AI 科技硬體循環，可能比過去的循環更強、也持續更久，原因是運算需求加速以及供給嚴重短缺、可能延續到 2030 年。",
+     "label": null,
+     "page": 11
+    },
+    {
+     "theme": "央行、利率與匯率",
+     "quote": "While our interest rate strategists expect the 10-year yield to decline from the current 4.7% range, a move to or through the 5% level would be challenging for markets, particularly longer-duration sectors.",
+     "quote_zh": "雖然我們的利率策略團隊預期 10 年期殖利率會從目前 4.7% 的區間下滑，但一旦升抵或穿過 5%，對市場、尤其是長存續期間的類股，將會是挑戰。",
+     "label": null,
+     "page": 7
+    },
+    {
+     "theme": "中國",
+     "quote": "While we remain OW A-shares and MW offshore China, we advocate selectively increasing exposure to H-shares, either in the internet/soft tech sector, where earnings momentum may recover in 3Q-4Q, or in non-AI segments such as healthcare.",
+     "quote_zh": "我們維持 A 股超配、離岸中國中性，但主張選擇性增加 H 股曝險，可以放在獲利動能可能於第三、四季回升的網路／軟科技，或健護這類非 AI 的區塊。",
+     "label": null,
+     "page": 11
+    }
+   ],
+   "charts": [
+    {
+     "kind": "grouped_bar",
+     "title": "區域 72% 的獲利成長，是韓國與台灣兩個市場堆出來的",
+     "subtitle": "高盛對 2026 與 2027 年每股盈餘成長率的最新預估",
+     "cats": [
+      "韓國",
+      "台灣",
+      "亞太不含日本（MXAPJ）"
+     ],
+     "groups": [
+      {
+       "name": "2026E",
+       "values": [
+        350,
+        60,
+        72
+       ]
+      },
+      {
+       "name": "2027E",
+       "values": [
+        35,
+        30,
+        23
+       ]
+      }
+     ],
+     "y_label": "每股盈餘年成長率（%）",
+     "source": "Goldman Sachs, Asian Equity Perspectives: Into the home stretch, 2026-08-30（數字取自第 4 頁本文首段）",
+     "grounding": [
+      "now expect earnings growth of 350% and 60% in Korea and Taiwan this year, followed by a further 35% and 30%, respectively, in 2027",
+      "This brings regional earnings growth to 72% and 23% for 2026 and 2027"
+     ],
+     "png": "2026-08-30-goldman-sachs-asian-equity-perspectives-1.png",
+     "svg": "2026-08-30-goldman-sachs-asian-equity-perspectives-1.svg",
+     "bytes": 106598
+    }
+   ]
+  },
+  {
+   "slug": "2026-08-30-goldman-sachs-americas-entertainment",
+   "broker": "Goldman Sachs",
+   "product": "Americas Entertainment",
+   "title": "Americas Entertainment: Key Themes & Debates heading into Communacopia + Technology 2026 for US Entertainment",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-08-30",
+   "pages": 28,
+   "issue": null,
+   "tier_target": 4000,
+   "tier_band": [
+    3500,
+    4500
+   ],
+   "summary": "## 現場活動的可見度是真的，但把 2026 的動能直接外推到 2027，是這個族群最大的風險\n\n高盛在 9 月 8 至 11 日的 Communacopia + Technology 會議前，替美國娛樂類股列出投資人最在意的五組題目：現場娛樂與票務的近期需求、現場音樂與運動資產在贊助與高端接待上的成長能見度、音訊廣告市場的健康度與音訊平台的策略選擇權、戲院近期動能的可持續性，以及玩具在假期旺季前的零售與消費需求、加上數位遊戲的進度。把五組題目串起來，這份報告真正的主張是：2026 年的好成績大部分來自合約、場館與片單這些供給面的東西，而不是需求結構多長出一層；因此娛樂已經不該當成一個族群看待，要分成「有合約與預售撐著能見度」與「只能靠個別公司執行力」兩邊。分析師自己把這條線畫得很直白 —— 2Q26 財報後，現場活動（LYV、MSGE、SPHR、STUB）與運動（TKO、FWONK）的表現強而一致，音訊服務（UMG、WMG、SIRI、IHRT）、玩具（MAT、FNKO、HAS）與媒體（NFLX、WBTN）則各走各的路。\n\n### 現場活動的能見度來自遞延收入，不是來自景氣\n\n現場端的數字站得住：Live Nation 預期 2026 年觀眾人次成長 10%，StubHub 預期 2026 年 GMS 成長 10% 至 12%。高頻資料同樣支持 —— 高盛用 Placer AI 做的北美到場人次代理指標，到 7 月為止露天劇場年增 18%、室內體育館年增 8%，體育場則年減 13%（因為比較基期高、加上世界盃）。Sphere 的內容管線與贊助變現同步推進，MSGE 為 FY2027 排出以駐場演出與指標賽事為主的預售盤，兩者都在證明稀有場館仍握有訂價權。報告點名這一段最重要的收穫是「能見度」本身：遞延收入預售與多年期活動管線，讓投資人對未來營收與獲利的把握度高於媒體娛樂的其他角落。也正因為 2026 已經看得差不多，辯論早就移到 2027 —— 體育場、室內館與露天劇場的演唱會供給明年怎麼走，以及這個生態系還能靠新增場館與高端體驗再撐多遠。場館側目前只有一筆值得記的新增：巴西聖保羅的競技場，2028 年開幕、2.1 萬座。\n\n### 多頭與空頭真正在吵的是第四季，不是總體\n\n報告把每個子產業的辯論拆成正反兩面，現場端這一組最具體。Ticketmaster 第二季超乎預期之後，多頭認為量能與前瞻指標支撐下半年還有上修空間，空頭則盯著次級市場（轉售）持續承壓；演唱會分部的營業獲利改善又集中在第四季，多頭指向相對強勁的第四季巡演檔期加上新增的自有自營場館，空頭則指出 2027 年檔期的行銷費用有可能提前落在第四季，讓數字風險升高。Sphere 的爭點是短期與長期之分：《綠野仙蹤》至今售出約 360 萬張票、約 4.5 億美元票房、平均票價 125 美元，投資人該把注意力放在這條曲線的近期走勢，還是放在 2027 年的新內容管線（WOZ 2.0、《洛基恐怖秀》、From the Edge，以及可能的第四檔節目），以及未來 12 到 24 個月新 Sphere 場館的時程、出資方式與權利金經濟。TKO 那一邊反過來問：管理層一向習慣先低估再上調，這次調升後的指引會不會反而不夠保守 —— 訂價與到場人數放緩的疑慮、WWE 贊助收入今年開局偏慢、以及併購成本綜效可執行的空間愈來愈小，都是理由。這些爭點的共同點是：沒有一個是宏觀問題，全部都能用公司自己的揭露來裁決。\n\n### 運動是全篇能見度最高的一塊，但成長算式已經換了引擎\n\n運動的舊引擎是媒體版權，新引擎是贊助、高端接待與財務誘因方案（FIPs）／推廣收入。TKO 第二季表現算是好壞參半，但 UFC 的參與度、IMG 的世界盃貢獻、贊助與持續成長的 FIPs 仍讓全年營收與調整後 EBITDA 預期上調。F1 第二季因中東兩場賽事取消而偏弱，不過贊助需求、拉斯維加斯大獎賽、車隊分潤與第 23 場賽事加回來，都指向底層動能仍在；報告把辯論寫成一個可以驗證的數字：F1 2026 年隱含的調整後 OIBDA 預算約 10.08 億美元，比第一季結果隱含的約 9.90 億美元高，而它可能還是保守的。高盛 7 月與 F1 管理層會面與場勘後，對未來三到五年維持高個位數至低雙位數的營收與調整後 OIBDA 成長更有信心，FWONK 給買進、目標價 117 美元。\n\n### 音樂與音訊：產業成長已經不重要，個股的定價與 AI 位置才重要\n\n這是全篇語氣最像轉折的一段。訂閱串流的大盤在放緩，UMG 與 WMG 的差距改由市占與 AI 變現決定：WMG 在批發漲價的能見度與 AI 授權協議上維持說法，UMG 則出現訂閱串流成長減速、音樂出版能見度下降、成本節約被回頭再投資，重新引發市占與margin 流通率的疑慮。Spotify 的辯論轉到漲價執行、廣告變現與 AI remix 產品能不能開出新收入。SiriusXM 的關注點乾脆離開營運本身 —— 高盛 8 月 6 日的頻譜報告以機率加權方式，把頻譜這個「內嵌的策略選擇權」估為每股 10 美元，但同時說明不對任何特定結果表態，仍以營運與自由現金流為評價主軸。iHeartMedia 的廣告市場依舊混雜，公司把明顯的轉折點指向 4Q26 的期中選舉政治週期。\n\n### 戲院的第三季是片單給的：2026 年 +13%，2027 年只剩 +1%\n\n這份報告裡最誠實的一組算術在戲院。7 月北美票房收在 11.77 億美元（年增 5%），高盛把第三季上調到 26.8 億美元、年增 13%，比 7 月 6 日的預估高出約 7,400 萬美元，主要來自《奧德賽》與《蜘蛛人：全新一天》超乎預期，被《小小兵與怪物》與真人版《海洋奇緣》的疲弱部分抵銷。但把時間拉長，2026 年全年北美票房估約 97.6 億美元、年增 13%，2027 年估約 98.3 億美元 —— 年增只有 1%。也就是說，同一份報告在說第三季的火熱與明年的持平，而支撐 2027 的理由只是寬上映片數增加。這正是報告替 CNK 與 IMAX 寫下的辯論：這種觀影需求在片商供片可能不穩的情況下能不能複製。附帶一提，這一段原文把比較基準寫成「$2.61M」，從上下文看應為 $2.61B，是報告本身的筆誤。\n\n### 玩具與媒體：2027 的賭注下在費用上\n\n玩具維持老劇本 —— 收藏品、遊戲與 kidult 導向的自有 IP 是最好的成長與利潤池，傳統玩具只能靠執行與成本紀律。Hasbro 靠《魔法風雲會》的玩家基數、通路擴張與發行節奏，在吸收一起資安事件與自研遊戲行銷加碼後仍上調全年營收、AOP 利潤率與調整後 EBITDA 展望。Funko 靠收藏品與國際市場推動利潤率修復，另有約 2,500 萬美元的關稅退款 —— 這筆一次性項目大到讓高盛在共識比較圖上改用 2027 年的調整後 EBITDA。Mattel 則是 Hot Wheels 撐著、Barbie 疲弱、營業費用加碼，2026 至 2027 年合計 1.5 億美元的費用投資能否換來管理層瞄準的 2027 年雙位數 AOI 成長，是整段最大的問號；高盛 7 月 9 日已把 MAT 降評至賣出。媒體端 Netflix 與 Webtoon 是同一種模式：底層營運不差，但指引偏軟、揭露變少，注意力全被推向參與度與變現的持續性。\n\n### 它自己承認的限制\n\n報告的自我限定比結論更值得讀。頻譜估值明說不對任何特定結果表態，只當成選擇權。StubHub 的前瞻指引「框架仍有爭議」—— 需求好但指引怎麼讀，高盛沒有斷言。票房展望的但書是「基於目前有能見度的影片的情緒追蹤」，也就是說 2027 年那個 +1% 建立在片單能見度上，片單一動整條就要重算。Funko 的比較基準因一次性退稅而不可比，報告自己換了年度。玩具與音樂的分化，講的是 2Q 的觀察，不是結構性的結論。\n\n### 與共識的落差小，分歧其實在倍數\n\n值得注意的是，高盛的數字和賣方共識幾乎貼在一起：2026 年營收預估相對共識的差距落在 -1.0% 到 +0.5% 之間，調整後 EBITDA 也只在 -3% 到 +3% 之間。票房同樣如此 —— 2026 年的 97.5 億美元共識與高盛大致齊平，2027 年高盛的估值則略低於約 100 億美元的共識。真正的分歧不在數字，在評價：覆蓋範圍內 12 個月目標價的潛在報酬從 -21.2% 一路排到 +24.4%，2027 年 EV/EBITDA 從 4.7 倍散到 20.7 倍。同一組營運假設下出現這種離散度，等於在說「大家對數字沒意見，對這些數字值多少錢意見很大」。\n\n### 可以驗證的節點\n\n最近的裁決點就是這場會議本身：9 月 8 日 TKO 由總裁／營運長出席，9 月 9 日連續是 Live Nation、IMAX、StubHub、iHeartMedia、Spotify 與 SiriusXM，9 月 10 日 Webtoon，Mattel 則在 9 月 15 日的高盛零售會議登場。高盛提醒 LYV、TKO 與 MAT 在往年 9 月的會議上最常給出營運近況更新，這三家的說法最有機會直接改寫數字。再往後的三個節點：4Q 的演唱會分部 AOI 會不會被 2027 檔期提前入帳的行銷費用吃掉、4Q26 期中選舉政治廣告能否兌現 iHeartMedia 的轉折、以及票務監理的推進 —— 華盛頓特區已通過含價格上限的 RESALE Act，北卡通過全包式定價並禁止投機票，麻州則提案同時管制轉售價與轉售手續費。這一條是最容易被低估的：它改的是 Live Nation 與 StubHub 的收費結構本身，不是某一季的量。",
+   "summary_chars": 3649,
+   "tags": [
+    "美國",
+    "美股",
+    "消費",
+    "人工智慧",
+    "監理"
+   ],
+   "stances": [
+    {
+     "theme": "美股與財報",
+     "quote": "we saw a familiar division across our coverage between the robust performance of live events (LYV, MSGE, SPHR, STUB) and sports (TKO, FWONK), compared to diverging trends playing out within the audio services (UMG, WMG, SIRI, IHRT), toys (MAT, FNKO, HAS) and Media (NFLX, WBTN) industries",
+     "quote_zh": "我們在覆蓋範圍內看到一條熟悉的分界：現場活動（LYV、MSGE、SPHR、STUB）與運動（TKO、FWONK）表現強勁，而音訊服務（UMG、WMG、SIRI、IHRT）、玩具（MAT、FNKO、HAS）與媒體（NFLX、WBTN）產業內部則走勢分歧。",
+     "label": null,
+     "page": 5
+    },
+    {
+     "theme": "AI 與半導體",
+     "quote": "stock selection in music increasingly depends on company-specific pricing, monetization, and AI positioning rather than underlying industry growth.",
+     "quote_zh": "音樂類股的選股，愈來愈取決於個別公司的定價、變現與 AI 布局，而不是產業本身的成長。",
+     "label": null,
+     "page": 6
+    },
+    {
+     "theme": "美國政治與政策",
+     "quote": "we flag three notable changes: 1) DC passed the RESALE Act (incl. price caps); 2) North Carolina passed legislation for all-in pricing and banning spec tickets; 3) Massachusetts proposed caps on both resale prices and reseller fees.",
+     "quote_zh": "我們標記三項值得注意的變化：1) 華盛頓特區通過 RESALE Act（含價格上限）；2) 北卡羅來納州通過全包式定價並禁止投機票的立法；3) 麻薩諸塞州提案同時管制轉售價格與轉售手續費。",
+     "label": null,
+     "page": 14
+    }
+   ],
+   "charts": [
+    {
+     "kind": "grouped_bar",
+     "title": "北美票房：高盛把 2026 的火熱寫進去了，2027 只給 +1%",
+     "subtitle": "高盛預估 vs 公司彙整的賣方共識，單位十億美元",
+     "cats": [
+      "2026E",
+      "2027E"
+     ],
+     "groups": [
+      {
+       "name": "高盛預估",
+       "values": [
+        9.76,
+        9.83
+       ]
+      },
+      {
+       "name": "賣方共識",
+       "values": [
+        9.75,
+        10.0
+       ]
+      }
+     ],
+     "y_label": "北美票房（十億美元）",
+     "source": "Goldman Sachs, Americas Entertainment: Key Themes & Debates heading into Communacopia + Technology 2026 for US Entertainment, 2026-08-30，第 14 頁",
+     "grounding": [
+      "we expect 2026 DBO to hit ~$9.76B (+13% YoY; $9.70B prior) and for 2027 DBO to reach ~$9.83B (+1% YoY; $9.83B prior)",
+      "our outlook for DBO is broadly in-line with company-compiled broker consensus of $9.75B for 2026 (as of 2Q26) and remains modestly below consensus of ~$10.0B for 2027."
+     ],
+     "png": "2026-08-30-goldman-sachs-americas-entertainment-1.png",
+     "svg": "2026-08-30-goldman-sachs-americas-entertainment-1.svg",
+     "bytes": 99039
+    }
+   ]
+  },
+  {
+   "slug": "2026-08-29-nomura-1318120",
+   "broker": "Nomura",
+   "product": "1318120",
+   "title": "China property development: Structural policy changes amid sector downcycle",
+   "title_source": "page_one",
+   "title_confident": true,
+   "date": "2026-08-29",
+   "pages": 9,
+   "issue": null,
+   "tier_target": 3000,
+   "tier_band": [
+    2600,
+    3400
+   ],
+   "summary": "# 政策改寫了開發商的現金流節奏，卻改不動購房者的預期\n\n中國政府在 8 月 28 日一口氣公布一批房地產政策，野村隔天出的這份報告，做的事情不是把政策條文重述一遍，而是從幾十條裡挑出兩條說「只有這兩條有結構性後果」。它的立場是結構性的、不是週期性的——談的是這個已經下行超過五年的行業往後怎麼運作，而不是明年房價會不會回升。而它對這兩條政策的判斷方向並不一致：強化現房銷售確實會改變開發商的營運模式與現金回收節奏；把個人房貸年限從 30 年延長到 40 年則是想拉動需求，但野村認為它撼動不了購房者的預期。這是一份「政策改得了制度、改不了情緒」的報告。\n\n把話說得更精確一點：野村沒有否定政策的效果，它否定的是政策效果的傳導終點。制度端的改變是確定的、機械的，會直接寫進開發商的財務報表；需求端的改變則要先經過購房者對房價、工作保障與未來收入的預期，而這三樣東西這批政策都沒有真正碰到。這個「確定的一半、不確定的另一半」的區分貫穿整份報告，也決定了它把買進評等給了房仲、而不是給任何一家開發商。\n\n## 政策的三條線：銷售制度、信用體系、資本市場\n\n野村把這批政策歸納成三個面向。第一條是銷售制度：強化現房銷售、提高預售的門檻，也就是動搖過去長期支撐中國房地產的預售制。第二條是信用體系，報告列出被調整執行要求的五類貸款——開發貸款、個人房貸、商業地產貸款、城市更新專案貸款，以及涉及房地產的信託貸款；這一條範圍最廣，等於把開發商從融資到交屋、從自身借款到買方借款的整條資金鏈重新設定一次。第三條是從資本市場端給開發商更多支援，細節放在圖 1 至圖 3。\n\n野村對這三條線的態度並不平均。它明說在所有政策當中，只有兩項會對這個產業有比較深遠的影響：強化現房銷售，以及個人房貸年限一次拉長 10 年。這個取捨本身就是這份報告的主要價值——政策一次公布一大批，分析師的工作是指出哪兩條真的改變了遊戲規則。\n\n## 憑什麼（一）：現房銷售把開發商的現金回收往後推\n\n野村把「強化現房銷售、提高預售要求」直接定位成監理機關對過去主流開發商「三高」模式（高負債、高槓桿、高周轉）的回應——那套模式從 2021 年年中起，引爆了大型民營開發商的信用違約與爛尾樓危機。\n\n政策的後果分成兩層。第一層對開發商不利：房子必須蓋到可交付的程度才能賣，現金回收周期被拉長，現金流的內部報酬率因此下降。這不是一次性的成本，而是商業模式的重設——同一塊地、同樣的售價，錢回來得更晚，資金成本就吃掉更多報酬，過去靠周轉速度撐起來的那套財務結構等於被取消。\n\n第二層是供給面的外溢：市場上的新建案供給會減少，更多的住房需求會被推向中古屋市場。野村由此得出這份報告唯一一個明確的個股結論：全國最大的房仲平台貝殼（BEKE US，買進）會是這個結構變化的受益者。值得注意的是，這條推論不需要房市總量回升，它只需要新屋與中古屋之間的份額移動——這也是它比多數房地產政策推論更禁得起檢驗的地方。\n\n## 憑什麼（二）：房貸延到 40 年，減的是月付，不是不確定性\n\n個人房貸年限的上一次調整是在 1999 年 9 月，這次從 30 年延到 40 年，是二十多年來的第一次。野村的解讀分成三段。\n\n政策意圖是減輕購房者每月的房貸還款負擔，讓貸款人手上留下更多可支配所得；代價報告也寫得很直白——整個貸款生命周期裡付出的利息總額會變高。第二段是比較少被提到的副作用：月付金額下降而租金收入不變，把房子租出去的購屋者，在年限延長後會面對比較有利的淨租金收益率。第三段是政府的期待——購屋者的購買誘因因此提高。\n\n這裡值得把算式的方向講清楚：同一筆本金攤在更多年份上，每個月要還的錢當然變少，但計息的年數變多，一輩子付出去的利息總額因此變高——政策把負擔從現在挪到以後，總量並沒有變小。這對現金流吃緊的家庭是實質幫助，對已經在觀望的家庭則不構成新的買進理由。淨租金收益率那一段也是同樣的結構：租金這個分子沒有變，變的是持有者每個月的現金支出，看起來的持有成本改善並不代表資產本身變好了。\n\n但野村在這裡刻意把政府的話和自己的話分開寫：購買意願提高是「在政府的推估之下」會發生的事；而野村自己的看法是，考量到購房者對房市的情緒疲弱，短期內他們不會轉為看多。整份報告的態度就壓縮在這個對照裡。\n\n## 對消費的外溢：報告自己說「有限」\n\n報告用一整節處理這批政策對消費類股的意涵，結論是影響有限。野村先承認傳導管道存在：房價與房貸支出會透過財富效果改變家庭對自身財富的認知，也會透過排擠效果改變可支配所得的配置、左右儲蓄目標。\n\n但它接著切斷這條鏈：新政策或許能減輕每月房貸負擔，卻不太可能直接而立即地強化購房者對未來房價的預期，更談不上改變他們對工作保障與未來收入的預期。野村點名壓在中國消費情緒上的兩塊石頭——過去五年多數城市房價的持續下跌，以及家庭收入預期的走弱——而這批政策對這兩者都使不上力。對想從房地產政策外推到消費復甦的人，這一節等於是一盆冷水。\n\n## 它自己承認的限制\n\n這份報告最誠實的地方，是它在每一個偏多的環節都自己加了但書：政策能改的是還款的時間分配，不是房價預期；能改的是開發商的銷售制度，不是它們的銷售量。把「政府的推估」與「我們的看法」並排寫，等於明說它不接受政策公布時附帶的需求敘事。\n\n另外值得留意的是這份報告沒有做的事。它沒有給出任何量化的成交量或房價預測，沒有估算 40 年期房貸對每月還款的具體降幅，也沒有推算現金回收周期會被拉長多久、內部報酬率會掉多少。圖 1 至圖 3 是三張政策整理表，來源分別是住建部與自然資源部、人行與金融監理總局、證監會——是政策條文的歸類，不是數據。換句話說，這份報告給的是一個機制框架，想要數字的讀者得另外去找。\n\n## 這份報告有多短，本身也是資訊\n\n全份 9 頁，扣掉附錄與免責頁之後，實質內容只有兩頁：第一頁是政策歸納與兩項關鍵政策的推論，第二頁是對消費的外溢，其餘是三張政策整理表與揭露。它是政策公布隔天出的即時回應，不是深度專題——用途是替客戶在一批條文裡標出哪兩條重要、方向是什麼，而不是提供可以直接套進模型的參數。讀的時候該用這個標準要求它：在「哪兩條重要、為什麼」上它很清楚，在「影響多大」上它完全留白。\n\n## 可驗證的節點\n\n政策發布日是 8 月 28 日，報告發於隔天，所有數據都還沒進場檢驗它。可以拿來裁決的節點有三類。第一是成交結構：如果供給收縮與需求外溢的推論成立，中古屋成交占比應該持續上升，而這正是貝殼投資邏輯的前提。第二是開發商的財務表現：現房銷售若真的拉長現金回收周期，存貨周轉與營運現金流會先變差，之後才可能因為交付風險下降而改善融資條件。第三是購房者情緒本身——40 年房貸上路後成交若沒有起色，等於驗證了野村而不是政府的推估。\n\n貝殼的部分，報告的評等資料顯示 2026 年 8 月 28 日收盤價為 18.32 美元、目標價 23.60 美元，目標價來自加權平均資金成本 10.7%、長期成長率 5.5%、現金流折回 2026 年的折現模型；野村自列的下行風險是長期市占受限、房地產持續疲弱，以及更嚴格的監理措施。",
+   "summary_chars": 2816,
+   "tags": [
+    "中國",
+    "房地產",
+    "房貸",
+    "監理",
+    "消費"
+   ],
+   "stances": [
+    {
+     "theme": "中國",
+     "quote": "we expect this new policy requirement will extend the cash return cycle of property developers and thus reduce the internal rate of return of cash flows",
+     "quote_zh": "我們預期這項新的政策要求會拉長開發商的現金回收周期，因而降低其現金流的內部報酬率。",
+     "label": null,
+     "page": 1
+    },
+    {
+     "theme": "中國",
+     "quote": "given homebuyers’ weak sentiment towards the housing market, they might not turn bullish in the short term",
+     "quote_zh": "考量到購房者對住宅市場的情緒疲弱，他們短期內可能不會轉為看多。",
+     "label": null,
+     "page": 1
+    },
+    {
+     "theme": "金融、併購與企業",
+     "quote": "Beike (BEKE US, Buy) as the leading property agency across the country should benefit from this structural change of the sector",
+     "quote_zh": "貝殼（BEKE US，買進）身為全國領先的房地產仲介，應會受惠於這個產業的結構性變化。",
+     "label": null,
+     "page": 1
+    }
+   ],
+   "charts": []
+  },
+  {
+   "slug": "2026-08-29-nomura-1318100",
+   "broker": "Nomura",
+   "product": "1318100",
+   "title": "JPY Weekly: One step at a time",
+   "title_source": "page_one",
+   "title_confident": true,
+   "date": "2026-08-29",
+   "pages": 13,
+   "issue": null,
+   "tier_target": 4000,
+   "tier_band": [
+    3500,
+    4500
+   ],
+   "summary": "# 日圓要止跌，關鍵不在干預規模，而在日銀願不願意比市場定價更鷹\n\n## 主張是什麼\n\n野村這一期的立場很直接：財務省在 7 至 8 月投入 15.3 兆日圓買日圓，並沒有改變美元兌日圓的方向。Warsh 主席在傑克森霍爾的談話把美元兌日圓推上 160 之後，真正決定日圓走向的是兩股力量的相對速度 —— 一邊是市場對聯準會升息的定價繼續往上加，一邊是日本銀行願不願意給出比市場現有定價更鷹的訊息。副總裁氷見野這週的談話把 9 月會議維持在「活的」狀態，但他刻意迴避對未來升息路徑表態；對野村而言，這正是日圓還撐不起來的原因。\n\n報告標題「One step at a time」就是這個意思：日銀一次只走一步，不預先承諾路徑。而只要不承諾路徑，日圓在外匯市場的利差交易裡就仍然是被借出去的那一邊 —— 干預能製造反彈，卻改變不了誰當融資貨幣。野村自家經濟團隊預期 9 月 17 至 18 日的會議升息 25 個基點到 1.25%，但這份週報的重點是：升息本身不夠，升息之後說什麼才是關鍵。\n\n## 憑什麼（一）：聯準會那一側的推力現在比較大\n\n美元兌日圓本週多數時間在 160 以下交易，Warsh 在傑克森霍爾的演說把它推上 160 之上。野村的讀法是，Warsh 強調通膨目標的重要性，並暗示若去通膨沒有「以速度」實現，可能需要近期的政策行動；這番話讓市場把 9 月 FOMC 的升息定價往上加，目前市場認為該情境發生的機率已超過 60%。\n\n關鍵句在於它把干預的效果放進了從屬子句：即使財務省在 7 至 8 月為買日圓花掉 15.3 兆日圓，市場升息預期若再往上，仍會把美元兌日圓推得更高。這是整份報告最硬的一句話 —— 它等於說，本輪干預的規模不小，但方向的決定權不在東京。下週美元兌日圓的預測區間被設在 157.00 至 162.00，上緣高於現貨，也高於預測表裡的 Q3 數字 158。\n\n值得留意的是這個轉折發生得多快。野村指出，7 月 FOMC 之後美元的跌勢本週暫停，美元兌日圓反而升破 160；換句話說，把美元推上來的不是新的美國基本面數據，而是主席一場演說改變了升息路徑的定價。這也是為什麼野村把下週的匯率走向直接押在數據上 —— 因為數據會左右市場對聯準會升息的定價；而在美元兌日圓已經突破 160 之後，日美兩國當局的動作也同時進入視野。\n\n## 憑什麼（二）：日銀是鷹派，但不夠鷹\n\n氷見野的談話沒有明說 9 月要升息，但整體語氣偏鷹。他強調應該比過去更留意物價的上行風險，這與日銀自 7 月會議以來的焦點轉變一致；他並提到「應在每一次貨幣政策會議上就這些觀點進行深入審議」，等於說每一場會議技術上都是活的會議。野村由此判斷 9 月升息「比不升更有可能」。\n\n但接下來是這份報告真正的轉折。氷見野並未對日銀落後曲線的風險表現出強烈擔憂，也避免對未來升息的步調給出清楚訊息。野村的解讀是：他想保留政策彈性，而不是承諾一條預設的升息路徑，因為他認為日銀並未面臨顯著的通膨上行動能。結論因此是量化的 —— 這場談話並沒有比市場當前的定價更鷹，而市場定價的是到 2027 年 6 月累計升息 75 個基點，也就是未來 10 個月內三次 25 個基點。\n\n這條推論直接接到匯率：如果日銀交付的升息不比市場定價更積極，外匯投資人就會繼續偏好把日圓當作利差交易的融資貨幣。野村舉的證據是澳幣兌日圓 —— 在財務省 7 月底至 8 月初的干預後，它已經從谷底走出 V 型回升。干預打掉的部位，市場又補了回去。\n\n## 憑什麼（三）：財政這條線暫時沒有失控\n\n第二條支線是日本的財政與政治。多家媒體報導各部會 FY2027 的概算要求約在 140 兆日圓；野村日本利率策略團隊逐一彙整後認為總額可能達到約 144 兆日圓，高於前一年度的 122.4 兆日圓。\n\n值得注意的是市場的反應：消息出來後，日本公債市場相當淡定，長端沒有出現強勁賣壓。野村給的理由是市場理解概算要求的金額不必然等於實際執行的金額，而且高市政府的目標是本年度不編補正預算，並計畫抑制年度歲出規模；整體而言，市場可能把約 140 兆日圓視為落在預期範圍之內。\n\n再往下一層，野村把「財政負責」設定成日圓與日本公債轉多的前提。高市首相在 8 月 28 日接受讀賣專訪時表示，本年度新發公債已控制在約 40 兆日圓，等於或低於前一年度水準，政府自然會繼續做類似的努力。野村認為，若她做到這一點，市場可能因為政府以行動證明財政「負責」而鬆一口氣；而內閣支持率近期走低，也給了她照做的強烈誘因。屆時，考慮到日本公債的殖利率水準與曲線的陡峭程度，日本投資人可能會對公債投資轉為積極。\n\n這一段的結構值得拆開來看：野村沒有主張財政擴張會立刻壓垮日圓，反而先承認市場沒被嚇到，再把「政府用行動證明負責」設成日本投資人回頭買公債的觸發條件。也就是說，財政在這份報告裡不是風險敘事，而是一個尚未兌現的利多 —— 概算要求的 144 兆日圓與新發公債的 40 兆日圓，指向的是同一個政府的兩種面貌，而市場暫時選擇相信後者。\n\n## 憑什麼（四）：資金流與部位仍站在日圓的對面\n\n8 月 16 至 22 日的財務省對外及對內證券投資顯示：日本投資人淨賣出 8,690 億日圓（55 億美元）的外國股票，但這是在前兩週強勁淨買超之後，年初至今的累計流量趨勢仍算不錯；同一週淨賣出 2.0 兆日圓（124 億美元）的外國債券，是 3 月第五週以來最大的單週淨賣超，且與去年相比，日本投資人的外債投資明顯疲弱。\n\n外國投資人這一側，淨賣出 7,641 億日圓（48 億美元）的日本股票，野村認為主要是日股修正所致，尤其是 AI 與半導體相關個股及銀行股；同時淨買入 4,352 億日圓（27 億美元）的日本債券，是三週以來首次單週淨買超。野村對此的評語很關鍵：儘管那一週有一連串關於各部會概算要求的報導，外國投資人似乎並未因此更擔心日本的財政狀況。\n\n零售部位也指向同一個方向。東京金融交易所的保證金交易顯示，8 月 25 日美元兌日圓部位為淨空外幣 296.26 億日圓，較 8 月 18 日的 308.18 億日圓略減；但全體合計從 8 月 4 日的 -201.17 億日圓一路擴大到 8 月 25 日的 -255.58 億日圓。換句話說，散戶在美元兌日圓上並沒有追高，但整體外幣多頭並未撤退。\n\n交叉盤的細節更能看出利差交易的黏性。澳幣兌日圓的保證金部位從 8 月 4 日的 13.655 億日圓淨多，逐週降到 8 月 11 日的 12.10 億、8 月 18 日的 11.02 億，再到 8 月 25 日的 8.46 億，確實在縮；但同一時間，土耳其里拉兌日圓維持 59.80 億日圓、墨西哥披索兌日圓維持 92.07 億日圓的淨多部位，幾乎沒有鬆動。高息貨幣對日圓的多頭沒有被干預嚇走 —— 這與野村說利差交易仍是外匯市場主軸，是同一件事的兩種說法。\n\n## 它自己承認的限制\n\n這份報告的自我限定比它的主張還誠實，值得單獨列出。\n\n第一，它不是在說日銀不會升息 —— 野村預期 9 月就會升息 25 個基點到 1.25%，用的字眼卻是「比不升更有可能」，而不是斷言。第二，對氷見野動機的解讀明白標示為「在我們看來」，是推測而非引述。第三，財政那條線整段建立在條件句上：概算要求不必然轉為實際執行，而高市能不能守住 40 兆日圓的新發規模，報告寫的是「若她達成這項計畫」。第四，它承認日本公債市場目前對概算要求是「complacent」（掉以輕心）—— 這是描述而不是背書，暗示這份平靜可能不牢固。\n\n最尖銳的一條自我限定在下週展望裡：日銀審議委員高田將於週三發表演說，但野村直說他的鷹派立場已經很清楚，市場反應可能有限。連已知的鷹派發言都不被期待有用，正好反證了報告的主張 —— 日圓需要的不是又一位鷹派委員的重申，而是委員會層級對路徑的承諾。\n\n還有一條不算限制卻該說清楚：這一期把不少論證掛在別人身上。概算要求可能達到約 144 兆日圓來自野村日本利率策略團隊的逐項彙整，9 月升息 25 個基點到 1.25% 的預期來自野村日本經濟團隊，約 140 兆日圓的數字則來自共同社、每日新聞與日經的報導。外匯團隊自己貢獻的是把這些數字翻成匯率含意的那一層 —— 而這一層的可靠度，取決於它下面那幾層。\n\n## 與市場定價的落差\n\n這份報告的落差不在方向，而在「之後」。市場對 9 月日銀升息的定價約為 80% 的機率，野村自家團隊也預期升息，兩邊同向；真正的差別是市場已經把到 2027 年 6 月的 75 個基點放進價格，因此單一次升息不構成驚喜。野村的意思是：要讓日圓由弱轉強，日銀得超過這條已經不低的門檻。\n\n第二個落差在匯率預測本身。截至 8 月 27 日，美元兌日圓為 159.3，野村的預測路徑是 Q3 2026 的 158、Q4 2026 的 154、Q1 2027 的 150、Q4 2027 的 145，方向是日圓逐季走強；但下週的預測區間上緣被設在 162.00。近月的風險偏向日圓更弱，中期的預測卻是日圓更強 —— 這個張力就是「一次一步」的另一面。\n\n第三個落差比較少被提起，卻藏在同一張預測表裡：野村對歐元兌日圓的預測是從 8 月 27 日的 185.6 走到 182、182、183、181，幾乎是橫盤；歐元兌美元卻從 1.17 一路看到 2027 年第四季的 1.25。把兩者疊在一起，野村真正預期的是美元全面走弱、日圓跟著被動走強，而不是日銀主動把日圓推上去。這與本文的主張互相吻合 —— 日圓自己的動能要靠日銀，而日銀還沒給。\n\n## 可驗證的節點\n\n下週的日程本身就是這個主張的檢驗表：8 月 31 日 G20 財長與央行總裁會議登場，重點在美日財長會談、貝森特與植田總裁是否會面，以及貝森特會不會要求日銀加速升息以矯正日圓貶值；G20 也可能聚焦於矯正全球失衡，抑制美元對亞洲貨幣強勢的討論值得注意。9 月 1 日有 10 年期日本公債標售、美國 ISM 製造業指數與 JOLTS 職缺；9 月 2 日高田演說；9 月 3 日有 30 年期日本公債標售、聯準會理事 Waller 演說與美國 ISM 服務業指數；9 月 4 日美國非農就業。\n\n幾個裁決點很清楚。其一，美元兌日圓會不會測試並站穩 160。其二，長天期與超長天期公債殖利率的漲勢在兩場標售後會不會進一步加速 —— 這是財政那條線由靜轉動的訊號。其三，若非農從上次的疲弱結果中回升，市場對勞動市場仍然穩健的判定會強化聯準會升息定價；反過來，若 Waller 對近期升息表現遲疑，9 月升息的預期就可能降溫。最後是 9 月 17 至 18 日的日銀會議 —— 但依這份報告的邏輯，該看的不是升不升，而是升完之後對路徑說了什麼。",
+   "summary_chars": 4058,
+   "tags": [
+    "日本",
+    "日圓",
+    "日本銀行",
+    "聯準會",
+    "財政政策"
+   ],
+   "stances": [
+    {
+     "theme": "央行、利率與匯率",
+     "quote": "A further increase in the market’s rate hike expectations will likely further push USD/JPY higher, despite the MOF spent JPY15.3trn for its JPY-buying intervention in July-August.",
+     "quote_zh": "市場升息預期若再往上，很可能把美元兌日圓推得更高 —— 儘管財務省在 7 至 8 月為買日圓的干預花掉了 15.3 兆日圓。",
+     "label": null,
+     "page": 1
+    },
+    {
+     "theme": "日本",
+     "quote": "we judge his speech this week was not more hawkish than the market’s current pricing, which is expecting cumulative 75bp in hikes by June 2027 (i.e. three 25bp hikes within the next 10 months).",
+     "quote_zh": "我們判斷他這週的談話並沒有比市場當前的定價更鷹，而市場定價的是到 2027 年 6 月累計升息 75 個基點（即未來 10 個月內三次 25 個基點）。",
+     "label": null,
+     "page": 2
+    },
+    {
+     "theme": "日本",
+     "quote": "the Takaichi government is aiming not to have a supplementary budget in the fiscal year, and has a plan to contain the size of annual government spending.",
+     "quote_zh": "高市政府的目標是本年度不編列補正預算，並且有抑制年度歲出規模的計畫。",
+     "label": null,
+     "page": 3
+    },
+    {
+     "theme": "央行、利率與匯率",
+     "quote": "With the market having priced in roughly an 80% probability of a BOJ rate hike at its September meeting, the key question will be whether Secretary Bessent encourages the BOJ to accelerate rate hikes in order to correct the JPY’s depreciation.",
+     "quote_zh": "市場已為日銀 9 月會議升息定價約 80% 的機率，接下來的關鍵問題是財政部長貝森特會不會敦促日銀加速升息，以矯正日圓的貶值。",
+     "label": null,
+     "page": 4
+    }
+   ],
+   "charts": [
+    {
+     "kind": "timeseries",
+     "title": "野村的日圓預測路徑：美元兌日圓自 159.3 逐季回落至 145",
+     "subtitle": "現貨已站上 160，但預測表仍指向日圓緩步走強；澳幣兌日圓同步走弱，利差交易的融資貨幣角色未變",
+     "series": [
+      {
+       "name": "USD/JPY",
+       "dates": [
+        "2026-08-27",
+        "2026-09-30",
+        "2026-12-31",
+        "2027-03-31",
+        "2027-12-31"
+       ],
+       "values": [
+        159.3,
+        158,
+        154,
+        150,
+        145
+       ]
+      },
+      {
+       "name": "AUD/JPY",
+       "dates": [
+        "2026-08-27",
+        "2026-09-30",
+        "2026-12-31",
+        "2027-03-31",
+        "2027-12-31"
+       ],
+       "values": [
+        114.2,
+        112,
+        112,
+        113,
+        109
+       ]
+      }
+     ],
+     "y_label": "日圓（每一單位外幣）",
+     "source": "Nomura, JPY Weekly: One step at a time, 2026-08-29（第 7 頁 Fig. 14 Yen-cross forecasts，起點為 2026 年 8 月 27 日）",
+     "grounding": [
+      "27-Aug Q3 26 Q4 26 Q1 27 Q4 27",
+      "US Dollar (USD/JPY) 159.3 158 154 150 145",
+      "Australian Dollar (AUD/JPY) 114.2 112 112 113 109",
+      "Note: As of 27 August 2026."
+     ],
+     "png": "2026-08-29-nomura-1318100-1.png",
+     "svg": "2026-08-29-nomura-1318100-1.svg",
+     "bytes": 120066
+    }
+   ]
+  },
+  {
+   "slug": "2026-08-28-nomura-1318109",
+   "broker": "Nomura",
+   "product": "1318109",
+   "title": "US Economic Weekly: Hawk sighting",
+   "title_source": "page_one",
+   "title_confident": true,
+   "date": "2026-08-28",
+   "pages": 14,
+   "issue": null,
+   "tier_target": 4000,
+   "tier_band": [
+    3500,
+    4500
+   ],
+   "summary": "# 華許轉鷹之後，野村的結論不是升息在即，而是降息這個選項已經消失\n\n## 主張：政策不動，但風險整批倒向緊縮\n\n野村這份 2026 年 8 月 28 日的美國經濟週報，把傑克森洞年會上聯準會主席華許（Warsh）的談話讀成一次明確的鷹派轉向，卻沒有因此改動利率預測。結論仍是無限期按兵不動，理由是通膨動能正在退潮、而勞動市場健康到不需要聯準會出手；真正變的是風險方向——野村判斷華許已經站到多數 FOMC 中間派那一邊，也就是「反通膨若停滯，可能得升息」。這份報告的重點因此不在於預測改了，而在於降息這條路被從敘事裡整個拿掉：野村的預測表上，聯邦資金利率目標中值從 2025 年第 4 季的 3.625% 一路平到 2027 年第 4 季都不動，而同期核心 PCE 年增率在 2026 年四個季度分別是 3.1%、3.3%、3.3%、3.3%，全程遠離 2% 目標。野村在展望段落用的字是「無限期按兵不動，風險偏向緊縮」——把兩個看起來互相牴觸的東西塞進同一句話，正是這份報告的形狀：利率路徑是平的，但這條平線只剩下一個往上的出口。\n\n## 憑什麼（一）：華許把每一項鴿派證據都拆掉\n\n野村點出的關鍵不是華許說了什麼新東西，而是他如何處理對他不利的資料。通膨方面，華許改用擴散指標——過去六個月年增率超過 3% 的 PCE 分項占比——並說這個比重雖然遠低於疫後高點，但仍然偏高；他同時明說不認為近期溫和的通膨數據代表趨勢有任何改善。工資方面，他淡化工資增速降溫的意義，理由是工資向來不是判斷底層通膨趨勢的好指標。通膨預期方面他說大致穩定，但補了一句：市場衡量的通膨預期在經濟史上「往往看起來又強又持久，直到它不再是」，因此必須密切留意。活動面他強調私人國內最終需求成長偏高，並認為這比 GDP 更能反映真實狀況；勞動市場的疲弱則被他歸因於疫後復甦的回吐，而不是脆弱的徵兆。野村還注意到兩件被拿掉的東西：華許雖然大談 AI 與生產力，卻沒有再把它連到長期壓低通膨；他也收斂了先前對官方統計的批評，重申聯準會鎖定的是 PCE 通膨。另外他為「不給前瞻指引」重新辯護，承認有限指引並不會產生所謂未經過濾的市場訊號，並刻意把自己的工作小組與當前政策辯論切開，強調那些建議「會晚一點才出來，對我們當下的政策決定沒有影響」。\n\n## 憑什麼（二）：8 月就業報告預計會證明勞動市場沒有問題\n\n野村預估 8 月非農就業新增 60k，從 7 月的意外負值反彈，其中民間就業增加 45k，公部門則因 7 月地方政府教育部門的季節性走弱消退而回升。失業率預計降到 4.0%，是 2025 年 1 月以來最低。平均時薪月增率預計回到 0.4%，主要來自 8 月的曆法效應（該月 12 日落在星期三），但野村同時提醒底層工資增速其實在緩步減速，替代性工資指標近來已經走軟。支撐這個判斷的是：初領失業金人數仍在疫後低點附近、每週 ADP 就業已經止穩、標普服務業 PMI 的就業指數升到 2025 年 1 月以來最高。領先指標方面，經濟諮商理事會的勞動力差值 8 月回升到四個月新高 7.5，野村預期 7 月 JOLTS 職缺從 6 月的 7359 升到 7400k，職缺對失業人數比從 1.04 升到 1.07，職缺率從 4.4% 升到 4.5%。至於基準修正，初估 -79k 雖然是負值且出乎意料，但換算下來是截至 2026 年 3 月的 12 個月每月少 7k，野村認為這種量級遠不足以改變勞動市場的敘事，反而會讓聯準會繼續把注意力放在通膨風險上。\n\n## 憑什麼（三）：資本支出加速，把第 3 季 GDP 追蹤值推高將近一個百分點\n\n7 月核心資本財出貨月增 1.4%，高於野村自己預估的 0.6% 與市場共識的 1.0%；6 月增幅還被上修 40bp 到 2.4%，使三個月平均增速升到 2022 年 1 月以來最快，且動能來源廣泛。商品貿易初值顯示資本財進口出現該數列史上最大的單月增幅，而貿易夥伴的資料顯示科技相關進口未來幾個月還會再往上。加上 7 月個人消費優於預期、批發與零售庫存也高於預估，野村把第 3 季 GDP 追蹤值從一週前的 2.7% 上修到 3.6% 季增年率，民間國內購買者實質最終銷售則從 1.7% 上修到 2.8%。這一段是整份報告裡最直接的鷹派燃料：成長沒有給聯準會任何寬鬆的藉口，而野村也明說企業投資正在從 AI 往外擴散，資本支出帶動的成長會延續。\n\n## 憑什麼（四）：反通膨的來源被點名，但幅度不夠\n\n野村預期核心通膨在今年下半年逐步減速，理由是四項可以點名的力量：關稅壓力消退、原油價格走低、殘餘季節性，以及工資增速放緩。但它同一段就承認核心通膨仍遠高於聯準會 2% 的目標，減速是「逐步」而不是回到目標——這正是「按兵不動」與「風險偏緊」可以並存的地方。消費端，野村把第 2 季的加速拆成一次性成分：退稅金額增加、所得成長強勁，再加上一些暫時因素，因此預期第 3 季會有負向回吐，但那只是動能放緩，不是嚴重惡化；房市則在較高房貸利率下持續疲弱。風險方向講得很直白：通膨風險偏向上行，因為持續中的 AI 投資熱潮有可能施加強勁的價格壓力；而它設想的第二輪商品通膨情境，是 AI 驅動的記憶體晶片短缺，加上伊朗戰事拖長造成的供應鏈中斷。換句話說，這套反通膨敘事建立在一個相當窄的假設上——既有的關稅與油價利多繼續發酵，而新的供給面衝擊不要出現。\n\n## 與市場和聯準會內部的落差\n\n在數據上，野村這一週站在比市場更樂觀的一邊：7 月核心資本財出貨的實際值 1.4%，同時打敗野村自己的 0.6% 與共識的 1.0%，而野村選擇把它讀成趨勢而不是雜訊，直接動手上修追蹤值。成長的結構判斷也和「AI 資本支出獨撐」的市場敘事不同——野村主張企業投資正在從 AI 往外擴散、資本支出帶動的成長會延續；這一點若成立，等於是說即使 AI 投資降溫，總體投資也不會立刻塌下來。在政策解讀上，落差則出現在聯準會內部：野村指出多數官員看來對觀望的做法感到自在，鴿派官員在 7 月甚至毫不含糊地支持按兵不動，並主張未來幾個月會看到反通膨——但華許本人在傑克森洞的談話已經明顯偏離這條線。野村還點出一個少見的機制：7 月 FOMC 之後的市場賣壓，反映的是對聯準會抗通膨信譽的疑慮，而這種疑慮本身就可能逼出升息來重建信譽。也就是說，下一次升息的觸發點未必是通膨數據，而可能是市場對聯準會的不信任。\n\n## 它自己承認的限制\n\n有四處值得注意。第一，華許賴以判斷通膨的擴散指標，8 月數值趕不上 9 月 FOMC 會議——野村特地在括號裡註明這件事，等於承認這個新錨在下一次決策時是空的。第二，同一份報告的〈美國經濟展望〉段落仍寫著「華許的鴿派偏向支持按兵不動」，與首頁「華許轉鷹」的判斷正面衝突；這是制式段落沒有跟上當週事件，讀者要自己分辨哪一段才是本週的新資訊。第三，野村列的風險是雙向的：向上是 AI 投資熱潮可能帶來強勁價格壓力、AI 驅動的記憶體晶片短缺與伊朗戰事拉長造成的供應鏈中斷可能引發第二輪商品通膨；向下是 AI 熱潮破滅將導致資產價格大幅修正與企業投資轉弱。此外，海地籍尋求庇護者的臨時保護身分（TPS）到期會壓抑近期勞動供給——這對失業率的方向反而有利，但也代表 4.0% 這個數字有一部分不是需求強勁的結果，而是供給被政策壓縮。野村自己也承認缺乏前瞻指引、華許語意含糊、以及對 FOMC 成員的政治壓力，本身就可能侵蝕聯準會的抗通膨信譽並觸發劇烈市場反應。第四，預測表與內文並不同步：內文剛把第 3 季 GDP 追蹤值上修到 3.6% 季增年率，同一份報告的預測表上第 3 季卻仍是 2.8%、第 4 季 1.9%，報告沒有解釋這個差距要怎麼調和。這與展望段落對華許的定性還停在鴿派是同一類問題——週報的制式部分和當週判斷是分開維護的，讀者得自己分辨哪一塊是本週真正的新資訊。另外，TPS 到期的規模並不小：光是海地一項就有 348,187 人、到期日 2026 年 7 月 27 日，薩爾瓦多的 170,125 人則在 2026 年 9 月 9 日到期，這股對勞動供給的壓縮會延續到第 4 季，也會讓失業率這個指標愈來愈難單純當成需求的溫度計。\n\n## 可驗證的節點\n\n這個主張會被下週幾個數據依序裁決。週二的 ISM 製造業（野村預估從 7 月的 55.6 降到 54.8）、JOLTS 職缺與車輛銷售（從 16.3mn 降到 16.2mn 年化，靠車廠加碼的購車優惠撐著）先做暖身；製造業那一項要小心讀——野村預期新訂單與生產雙雙走軟但仍在擴張區、就業指數維持在 50 以上，而供應鏈中斷會繼續拉長交貨時間，那反過來會推高指數本身；週三的褐皮書，野村認為整體經濟活動評估可能被小幅下修，因為消費在第 2 季加速後已經放緩、世界盃的臨時提振也已消退；週四的 7 月貿易逆差預估從 $73.3bn 擴大到 $99.0bn，ISM 服務業從 54.1 升到 54.5。真正的裁決點是週五的 8 月就業報告：非農 60k、失業率 4.0%、時薪月增 0.4%，任何一個明顯落空，「勞動市場健康、聯準會可以專心對付通膨」這個前提就會鬆動。再往後，野村預測 2026 年第 4 季核心 PCE 年增 3.3%，但 BEA 計畫中的方法變更可能把它壓低約 20bp 到 3.1%——若統計調整真的發生，通膨看起來會比實際更快回落，而那正是野村擔心聯準會「落後曲線」的地方。最後是失業率本身：野村預期它到 2027 年底緩步降到 3.9%，若反而回升，整套「風險偏向緊縮」的架構就得重寫。還有兩個較慢的變數值得掛在牆上：財政面，野村不預期期中選舉前會再有一個共和黨協調法案帶來實質財政刺激，因此財政不會是這一輪通膨的新來源；利率面，野村把 10 年期公債殖利率放在 2026 年底與 2027 年中的 4.60%，要到 2027 年底才降到 4.50%——若長端在政策利率完全不動的情況下大幅偏離這個水準，那代表市場對「無限期按兵不動」這個前提的信心已經鬆動，會比任何單月數據都更早告訴你這份報告錯在哪裡。",
+   "summary_chars": 3857,
+   "tags": [
+    "美國",
+    "聯準會",
+    "勞動市場",
+    "通膨",
+    "央行溝通",
+    "人工智慧"
+   ],
+   "stances": [
+    {
+     "theme": "央行、利率與匯率",
+     "quote": "Warsh did not go so far as to signal a near-term hike, and in our view, benign inflation data will likely be sufficient to keep policy on hold. However, the sensitivity to pending inflation data appears high, with Warsh now joining most FOMC centrists in the view that hikes may be required if disinflation falters.",
+     "quote_zh": "華許並未走到暗示近期升息的地步，我們認為溫和的通膨數據應該足以讓政策維持不動。不過，對於即將公布的通膨數據，敏感度看來很高，華許現在已加入多數 FOMC 中間派的看法：若反通膨停滯，可能需要升息。",
+     "label": null,
+     "page": 2
+    },
+    {
+     "theme": "AI 與半導體",
+     "quote": "That said, risks are skewed toward the upside, as the ongoing AI investment boom has the potential to exert strong price pressures.",
+     "quote_zh": "話雖如此，風險偏向上行，因為持續中的 AI 投資熱潮有可能帶來強勁的價格壓力。",
+     "label": null,
+     "page": 8
+    },
+    {
+     "theme": "美國政治與政策",
+     "quote": "The expiration of temporary protected status (TPS) for Haitian asylum seekers adds some downside risk to near-term labor supply.",
+     "quote_zh": "海地籍尋求庇護者的臨時保護身分（TPS）到期，替近期勞動供給增添了一些下行風險。",
+     "label": null,
+     "page": 6
+    }
+   ],
+   "charts": [
+    {
+     "kind": "timeseries",
+     "title": "野村的路徑：核心 PCE 停在 3.3%、失業率一路降到 3.9%，而政策利率完全不動",
+     "subtitle": "單位為 %；核心 PCE 為年增率，失業率為季平均，聯邦資金利率為目標區間中值",
+     "y_label": "%",
+     "series": [
+      {
+       "name": "核心 PCE（年增率）",
+       "dates": [
+        "2025-03-31",
+        "2025-06-30",
+        "2025-09-30",
+        "2025-12-31",
+        "2026-03-31",
+        "2026-06-30",
+        "2026-09-30",
+        "2026-12-31",
+        "2027-03-31",
+        "2027-06-30",
+        "2027-09-30",
+        "2027-12-31"
+       ],
+       "values": [
+        2.8,
+        2.7,
+        2.9,
+        2.9,
+        3.1,
+        3.3,
+        3.3,
+        3.3,
+        2.9,
+        2.6,
+        2.5,
+        2.4
+       ]
+      },
+      {
+       "name": "失業率",
+       "dates": [
+        "2025-03-31",
+        "2025-06-30",
+        "2025-09-30",
+        "2025-12-31",
+        "2026-03-31",
+        "2026-06-30",
+        "2026-09-30",
+        "2026-12-31",
+        "2027-03-31",
+        "2027-06-30",
+        "2027-09-30",
+        "2027-12-31"
+       ],
+       "values": [
+        4.1,
+        4.2,
+        4.3,
+        4.5,
+        4.3,
+        4.3,
+        4.2,
+        4.1,
+        4.0,
+        3.9,
+        3.9,
+        3.9
+       ]
+      },
+      {
+       "name": "聯邦資金利率目標中值",
+       "dates": [
+        "2025-03-31",
+        "2025-06-30",
+        "2025-09-30",
+        "2025-12-31",
+        "2026-03-31",
+        "2026-06-30",
+        "2026-09-30",
+        "2026-12-31",
+        "2027-03-31",
+        "2027-06-30",
+        "2027-09-30",
+        "2027-12-31"
+       ],
+       "values": [
+        4.375,
+        4.375,
+        4.125,
+        3.625,
+        3.625,
+        3.625,
+        3.625,
+        3.625,
+        3.625,
+        3.625,
+        3.625,
+        3.625
+       ]
+      }
+     ],
+     "source": "Nomura, US Economic Weekly: Hawk sighting, 2026-08-28（第 8 頁 Fig. 13：United States: Details of the forecast）",
+     "grounding": [
+      "Core PCE (%, y-o-y) 2.8 2.7 2.9 2.9 3.1 3.3 3.3 3.3 2.9 2.6 2.5 2.4 2.8 3.3 2.6",
+      "Unemployment rate (%) 4.1 4.2 4.3 4.5 4.3 4.3 4.2 4.1 4.0 3.9 3.9 3.9 4.3 4.2 3.9",
+      "Fed funds target midpoint (%) 4.375 4.375 4.125 3.625 3.625 3.625 3.625 3.625 3.625 3.625 3.625 3.625 3.625 3.625 3.625",
+      "We think the unemployment rate will gradually decline further toward 3.9% by the end of 2027.",
+      "We forecast Q4 2026 core PCE inflation of 3.3% y-o-y",
+      "We expect the Fed to remain on hold indefinitely , with risks skewed towards tightening."
+     ],
+     "png": "2026-08-28-nomura-1318109-1.png",
+     "svg": "2026-08-28-nomura-1318109-1.svg",
+     "bytes": 150260
+    }
+   ]
+  },
+  {
+   "slug": "2026-08-28-goldman-sachs-oil-analyst",
+   "broker": "Goldman Sachs",
+   "product": "Oil Analyst",
+   "title": "Oil Analyst: Higher Product Margins for Longer on Higher Outages and Lower Stocks",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-08-28",
+   "pages": 18,
+   "issue": null,
+   "tier_target": 4000,
+   "tier_band": [
+    3500,
+    4500
+   ],
+   "summary": "## 柴油價差站上高位不是需求推的，是煉油產能被打掉的——所以它會撐到 2027 年\n\n### 主張是什麼\n\n高盛商品研究團隊在 2026 年 8 月 28 日的《Oil Analyst》裡，把成品油價差的歷史高檔重新定義了一次：它不是戰爭帶來的短期擠壓，而是煉油產能被地緣政治鎖住之後的新水位。團隊 2 月就主張多年新增產能不足會讓價差「高更久」，這一期加碼成「更高、也更久」——中東與俄羅斯的煉油廠接連遭到攻擊，把本來就緊繃的全球煉油產能進一步壓縮，價差必須漲到足以逼沒受限的煉廠拚命開工。全球精煉產品批發均價在美伊戰爭的頭兩個月翻倍，即使 6 月回落，年增仍接近 50 美元；2 月底以來 40 美元/桶的漲幅裡，超過 40% 由柴油貢獻。柴油是這波行情的震央，也是整份報告的重心：結論是把 2027 年美歐柴油相對布蘭特的價差預測，從 2 月的 27 與 19 美元上修到 63 與 49 美元。要注意這句話的重量：這不是把既有預測往上推幾美元，而是把預測值翻了一倍以上，方向還與「戰爭終會結束、價差終會回落」的直覺相反。報告敢這樣做，靠的是一條很具體的因果鏈——攻擊打掉的是煉油產能而不是原油產能，所以緊的是成品而不是原油；成品緊，價差就是唯一的調節閥。\n\n### 憑什麼（一）：掉的是成品，不是原油\n\n價差漲得比原油多，是因為成品的供給掉得比原油凶。全球精煉產品出口年減 600 萬桶/日、幅度 25%，其中波斯灣與俄羅斯合計佔了降幅的 75%。原油與成品的落差很直接：波斯灣近期的原油出口大約是戰前水準的 70% 到 80%，但成品油出口只剩戰前的 40%。差別出在煉廠本身——中東煉廠在數月的攻擊後停機居高不下，荷姆茲與紅海的出口航線同時受阻；俄羅斯煉廠自第二季初開工一路走低，最後導致俄國禁止多數汽油與柴油出口至 2 月。全球煉油廠停機量仍高於季節性常態 60%，加上運往亞洲的原油交付受干擾，煉油端對高價差的供給反應被鎖死。高盛現在估計全球煉油開工年減 700 萬桶/日，而 3 月以來開工與季節常態的平均落差接近 600 萬桶/日。柴油受創又比汽油重：中東與俄羅斯煉廠的中間餾分（柴油與航空燃油）收率相對較高，而全球原油出口的減量主要落在重質原油——那正是煉柴油而非煉汽油的原料。\n\n### 憑什麼（二）：庫存續降，而價差裡有一塊叫「安全溢價」\n\n六個月的低供給把成品庫存推低，即使亞洲出現了一些需求破壞也擋不住；美國即時的柴油與汽油庫存分別年減 9% 與 7%。更值得注意的是價差的組成。高盛估計 8 月的美歐柴油價差比現貨基本面所支持的水準高出將近 40 美元/桶，這一塊是市場為未來的停機風險與地緣不確定性所付的前瞻性安全溢價。報告不把它當成泡沫，而是當成必要的機制：沒有這塊溢價，需求不會自己收斂，沒受限的煉廠也沒有理由拚命開工，庫存會被抽得更乾。這是全篇最關鍵的一個轉折——它讓「價差高於基本面」從一個看空理由變成了看多理由。而在 2027 年的預測裡，高盛只留下 7 到 13 美元/桶的美歐柴油風險溢價，對應「目前的非計畫停機有 50% 機率延續到明年」這個假設；換句話說，明年的預測本身已經假設溢價縮掉了大半。\n\n### 憑什麼（三）：上修了多少，又是從哪裡來的\n\n上修分兩段。2026 年第四季，美歐柴油相對布蘭特的價差一次上修 29 與 34 美元，到 75 與 65 美元；汽油上修到 29 與 21 美元。2027 年全年，美國柴油與汽油平均 63 與 29 美元、歐洲 49 與 22 美元、亞洲 42 與 17 美元，美國 3-2-1 裂解價差平均 40 美元。對照 2025 年的實際均值（美國柴油 28、歐洲 22 美元），2 月那份預測形同說「2027 年會回到 2025 年」，現在這份說的是「回不去」。季度與月度路徑同樣說明問題：美歐柴油價差的季度高點落在 2026 年第三季的 82 與 70 美元，第四季小幅回落到 75 與 65 美元，2027 年的四個季度則分別是美國 64、63、61、63 美元與歐洲 53、50、47、46 美元——整條路徑幾乎是平的，沒有任何一季回到 2025 年的水位。月度的預測高點是 2026 年 8 月的美歐 86 與 74 美元，到 2027 年 12 月仍有 63 與 46 美元。美國 3-2-1 裂解價差的年均值也從 2025 年的 21 美元跳到 2026 年的 43 美元，2027 年只小幅回落到 40 美元。上修的來源報告自己拆過：較低的實際與預期庫存解釋了 2027 年柴油上修幅度的 50% 到 70%，其餘來自運價、利用率與其他成本、以及殘留的風險溢價。另外，有限的閒置油輪運能碰上因地緣不確定而升溫的擴編需求，會把運價撐在高檔；歐洲天然氣價格走高與美國 RIN 成本結構性上升，則讓西方的柴油與汽油價差相對亞洲多一層區域性支撐。\n\n### 復甦要等什麼：不是等價格，是等停火\n\n高盛對「什麼時候結束」的回答很硬：要等地緣政治降溫，而且中東與俄羅斯兩邊都要。證據是 6 月中東停火期間，波斯灣的總油流一度回升，全球煉油開工卻沒有跟著上來——瓶頸不只是原油可得性一項。基準情境假設中東的非計畫停機在 2027 年年中前逐步緩解、俄羅斯的停機延續整年，全球開工會從 8 月的水準到年底前回升 240 萬桶/日，但要到 2027 年下半年才回得到季節性常態。中東與俄羅斯以外的利用率也很難再擠：亞洲要提高開工需要更好的原油可得性與出口限制鬆綁（例如中國的配額制度），美國煉廠則已經逼近操作極限。新增產能同樣補不上缺口——2026 至 2027 年全球每年新增 40 至 50 萬桶/日煉油產能，不足以抵銷可能長期偏高的停機量。附錄的產能表補了細節：第四季預計投產的伊拉克 Baiji North 2 與 Salahudin 3（各 7 萬桶/日）會被荷姆茲的流量中斷牽制；印度的 Numaligarh（12 萬桶/日）與 Panipat（20 萬桶/日）反而從 2027 年第二季提前到 2026 年第四季；而德國 Gelsenkirchen Scholven（7 萬桶/日）的關閉時點從 2026 年第三季延到 2027 年第一季。\n\n### 亞洲是這份報告的暗線\n\n三個地區的價差被拉開了，而拉開的方向值得注意。2027 年亞洲的柴油與汽油價差平均只有 42 與 17 美元，明顯低於美國的 63 與 29 美元；2025 年時三地的差距則小得多（美國柴油 28、歐洲 22、亞洲 18）。亞洲在這份報告裡同時扮演三個角色：它是需求破壞最集中的地方，是原油交付受干擾最直接的受害者，也是出口配額制度（中國）讓開工率無法對高價差做出反應的地方。供給端的新增產能又多半落在這一帶——中國盤錦的 30 萬桶/日預計 2027 年第一季投產，印度 Barauni 的 18 萬桶/日則從 2027 年第三季提前到第一季。換句話說，亞洲既是這波緊俏中受益最少的一端，也是未來鬆動最可能先出現的一端；而歐洲天然氣與美國 RIN 這兩個區域性成本因素，還會繼續把西方與亞洲的價差差距撐開。\n\n### 它自己承認的限制\n\n風險被寫成雙向，而且兩邊都給了數字。上檔：如果煉廠停機維持在 2026 年的高點、運價也停在現在的水準，2027 年全年美國柴油價差會在 80 美元/桶以上。下檔：如果需求因為更大的傷疤效應少掉 100 萬桶/日，加上中東煉油開工在 2026 年底前就更快正常化，美國柴油價差會在 2027 年底掉到 40 美元/桶——但報告立刻補上「仍高於 2025 年的水準」。這句補述是整份報告的底線：連它自己的空頭情境都沒有回到戰前。另外兩個自我限定值得記下：一是今年秋季的檢修季偏輕，反而墊高 2026 年第四季與 2027 年第一季非計畫停機的風險；二是汽油與柴油會分道揚鑣，汽油價差會隨需求季節性轉弱而在今年稍晚回落，撐住整體的是柴油的季節性旺季。第三個限定藏在情境設定裡：基準情境明確假設「俄羅斯的煉廠停機延續整年」，而 2027 年的風險溢價又只給到 50% 的持續機率。這兩個假設並排時看起來一致，但只要俄羅斯的局勢在 2027 年上半年出現明確轉向，開工路徑與風險溢價會同時被打掉，實際的下修會比表面上的雙向風險區間來得更快。\n\n### 與市場的落差\n\n新預測相對遠期曲線的位置很明確：2026 年第四季大致與市場遠期一致，2027 年則略高於遠期。也就是說，這份報告與市場的分歧不在「現在很緊」，而在「明年還會不會這麼緊」——市場已經反映了今年冬天，還沒完全反映明年。分歧只有一個變數，就是停機的持續性，這讓它比多數多頭論述容易證偽。要對照這個判斷時有一個技術細節不能忽略：報告裡的「全球精煉產品批發價」是美國、歐洲、亞洲三地價格指數的需求加權平均，而三地指數本身又是柴油、航空燃油、石腦油與燃料油價格的需求加權平均；價差則一律相對布蘭特計算，原油端用的是實貨現貨的 dated Brent，成品端取美國、歐洲與新加坡的平均。拿單一地區的裂解價差或單一油種去驗證這份報告，會得到對不上的數字。\n\n### 可驗證的節點\n\n幾個節點會直接裁決這個主張。第一，2026 年第四季實際的柴油價差是否落在美歐 75 與 65 美元附近——這一段與遠期一致，偏離就代表基本面判斷本身有問題。第二，全球煉油開工到 2026 年底是否從 8 月的水準回升 240 萬桶/日；沒回升的話，2027 年下半年才回到季節常態的路徑還要再延。第三，全球停機量會不會離開「高於季節常態 60%」的位置，以及那條持續走陡的停機趨勢線有沒有轉向——它是 7 到 13 美元風險溢價假設的唯一支柱。第四，美國柴油與汽油年減 9% 與 7% 的庫存降幅會不會收斂；低庫存解釋了一半以上的上修，庫存一回補，上修的理由就少一半。第五，俄羅斯的汽柴油出口禁令在 2 月到期時是否延長，以及伊拉克那兩座煉廠是否真的在第四季投產。",
+   "summary_chars": 3762,
+   "tags": [
+    "原油",
+    "柴油裂解價差",
+    "煉油產能",
+    "石油庫存",
+    "中東",
+    "俄羅斯"
+   ],
+   "stances": [
+    {
+     "theme": "能源與原物料",
+     "quote": "We now expect 2027 diesel/gasoline margins vs. Brent to average at $63/$29/bbl in the US and $49/$22 in Europe, slightly above market forwards",
+     "quote_zh": "我們現在預期 2027 年相對布蘭特的柴油／汽油價差，美國平均為 63 與 29 美元／桶、歐洲為 49 與 22 美元，略高於市場遠期。",
+     "label": null,
+     "page": 10
+    },
+    {
+     "theme": "地緣政治（中東與戰事）",
+     "quote": "Global refinery runs did not increase even during the June ceasefire in the Middle East despite a temporary recovery in total oil flows from the Persian Gulf, suggesting that a sustainable recovery in runs requires geopolitical deescalation in both the Middle East and Russia",
+     "quote_zh": "即使 6 月中東停火期間波斯灣的總油流一度回升，全球煉油開工率仍未上升，這意味著開工率要持續回復，需要中東與俄羅斯兩邊同時降溫。",
+     "label": null,
+     "page": 8
+    },
+    {
+     "theme": "能源與原物料",
+     "quote": "We assume a $7-13/bbl risk premium for US/EU diesel margins in 2027, in line with a 50% chance that current unplanned refinery outages persist through next year",
+     "quote_zh": "我們假設 2027 年美歐柴油價差含有 7 到 13 美元／桶的風險溢價，對應目前的非計畫煉廠停機有 50% 機率延續到明年。",
+     "label": null,
+     "page": 10
+    }
+   ],
+   "charts": [
+    {
+     "kind": "grouped_bar",
+     "title": "2 月的預測說 2027 年回到 2025 年，8 月的預測說回不去",
+     "subtitle": "柴油相對布蘭特的產品價差，年度平均",
+     "cats": [
+      "美國柴油（NYH 熱燃油）",
+      "歐洲柴油（ICE ARA 汽柴油）"
+     ],
+     "groups": [
+      {
+       "name": "2025 年平均",
+       "values": [
+        28,
+        22
+       ]
+      },
+      {
+       "name": "2026 年 2 月對 2027 年的預測",
+       "values": [
+        27,
+        19
+       ]
+      },
+      {
+       "name": "最新對 2027 年的預測",
+       "values": [
+        63,
+        49
+       ]
+      }
+     ],
+     "y_label": "美元／桶",
+     "source": "Goldman Sachs, Oil Analyst: Higher Product Margins for Longer on Higher Outages and Lower Stocks, 2026-08-28（第 3 頁本文；2025 年數字取自第 14 頁 Exhibit 15）",
+     "grounding": [
+      "now expect US/Europe diesel margins vs. Brent to average $63/49/bbl in 2027 (vs. $27/19 in February)",
+      "2025 28 22 18 18 14 10 21"
+     ],
+     "png": "2026-08-28-goldman-sachs-oil-analyst-1.png",
+     "svg": "2026-08-28-goldman-sachs-oil-analyst-1.svg",
+     "bytes": 113341
+    }
+   ]
+  },
+  {
+   "slug": "2026-08-28-goldman-sachs-global-technology",
+   "broker": "Goldman Sachs",
+   "product": "Global Technology",
+   "title": "Global Technology: Internet: 2026 Global eCommerce Handbook: Assessing the Industry in an Increasingly Agentic World",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-08-28",
+   "pages": 76,
+   "issue": null,
+   "tier_target": 5000,
+   "tier_band": [
+    4400,
+    5600
+   ],
+   "summary": "## 電商的成長已經不在商品交易，而在廣告與生態系的高毛利收入\n\n### 主張：平台已經不是零售商，是消費者生態系\n\n高盛第四版《全球電商手冊》把整個產業的敘事換了一次。過去十年評價電商公司的方式是看商品交易總額與市佔，這份報告主張那條線已經進入低速期——全球電商銷售 2026 到 2031 年的年複合成長率只有 +6%，滲透率的推進也「比以前慢」。真正的成長來自別的地方：廣告、訂閱、支付、物流、金融服務，也就是報告稱之為「Commerce 3.0」的階段。作者寫得很直接：隨著成長成熟，投資人看待領先平台的方式會從零售商轉為消費者生態系，而這些生態系「與底層的零售交易愈來愈脫鉤」。\n\n這句話是整份報告的樞紐。如果成立，這些股票該用生態系的框架估值，而不是用零售的框架；如果不成立，那 +6% 的 CAGR 就是故事的全部。報告同時給了第二個主張，語氣明顯保守得多：代理式（agentic）購物是真的，但還在極早期。這兩者的組合值得注意——標題把 agentic 放在最前面，內文卻用最多的篇幅去論證廣告才是眼前可計算的利潤來源。\n\n### 憑什麼（一）：4.5 兆美元的盤子，但滲透率只剩三個百分點\n\n高盛把 2025 年全球電商銷售規模估在 4.5 兆美元，預期 2026 年年增 8% 到 4.9 兆美元，2026 至 2031 年以 +6% 的複合成長率走到 6.4 兆美元。撐起這條線的主要是零售銷售本身的成長，滲透率只提供溫和的加分：可及零售銷售（總零售扣掉汽車、加油與餐飲）的線上佔比從 2026 年估計的 24% 走到 2031 年的 27%。三個百分點——這是報告對「線上遷移」這個舊引擎所剩空間的量化答案。剔除中國後複合成長率是 +7%。這個拆解本身就是主張的一部分：當成長的來源從「滲透率提升」轉為「零售大盤自己長」，電商股就不再是一個結構性成長的類別，而是一個要靠別的收入來源創造超額報酬的類別。\n\n區域差距才是成長的來源。滲透率最高的中國與韓國分別落在 36% 與 37%，美國 24%、歐洲 19%、拉美 16%、印度只有 10%。順序反過來就是成長率的順序：印度與拉美的 2026–2031 年複合成長率分別是 18% 與 13%，明顯高於全球平均。但要注意的是，成長的絕對金額仍然由中國與美國佔去大部分——高成長率落在小基期上，這是讀這份報告時最容易被跳過的一個限定。\n\n市場結構這一側，報告的判斷是集中度還會再上升。中國以外前五大純電商平台 2025 年合計佔線上銷售 47%，其中亞馬遜 33%、Shopify 7%、eBay 3%、Coupang 2%、MercadoLibre 2%；高盛預期到 2028 年前五大合計市佔會到 54%。這是「規模至上」這個結論的直接數據支撐。\n\n### 從 1.0 到 3.0：這條路徑是怎麼走出來的\n\n報告給的三段式分期不是修辭，它對應的是利潤來源的三次搬家。Commerce 1.0 是把第一方零售搬上網，靠更廣的品項、更低的價格與便利性把消費者從實體店拉過來，勝負取決於誰的品項最齊、誰的履約網最大。Commerce 2.0 是把第三方庫存搬上網，平台從自有庫存轉向市集模式，同時行動裝置改寫了介面與商品發現流程，並催生當日／次日到貨。這一步的關鍵在經濟結構：平台不再持有商品，而是對每一筆交易收費，把庫存風險外包給商家，因此可以在不等比例增加庫存、營運資金與履約資產的情況下處理更多 GMV。Commerce 3.0 則是生態系變現，重心從交易本身移到消費者關係，收入來自廣告、支付、訂閱、物流服務、金融產品，以及愈來愈多的 AI 驅動購物體驗。\n\n報告把各種附加收入的性質也分得很細，這一段比結論更有用。物流服務的毛利通常低於廣告與軟體，因為資產密集，但它的價值在於提高網路使用率、增加包裹密度、填滿多餘運能，並讓賣家愈來愈依賴平台的基礎設施——長期會變成護城河，而不是獨立的成長引擎。支付與金融服務在新興市場特別重要，平台作為支付機構抽取通過生態系的每一筆交易的一定比例，同時改善結帳轉換率。零售媒體的特殊性則在於它是「疊加在一筆已經發生的交易之上」，因此從利潤角度看高度增額。\n\n### 憑什麼（二）：廣告是利潤，商品交易只是流量\n\n報告最紮實的一段是零售媒體的利潤結構。第一方零售業務的利潤率大約只有 2% 到 5%，而零售媒體網路的 EBIT 利潤率落在 60% 到 80%。也就是說，廣告即使只佔營收的一小塊，也能佔走營業利益的一大塊——這正是「營收組合分散、利潤率更有韌性」這句話的算術基礎。廣告形式上，報告區分站內的贊助商品（貼近成交、衝轉換）、站內展示（漏斗中段、爭取被考慮）、非本站品類的贊助內容，以及用第一方資料在開放網路上投放的站外廣告（漏斗上端、觸及新客）。\n\n亞馬遜是這個模型的極端案例。廣告營收從 2022 年的 377.39 億美元走到 2025 年的 686.35 億美元，高盛預估 2026 年 825.28 億美元（年增 20%）、2028 年 1,142.54 億美元。毛利率一路假設在 80%，EBIT 利潤率從 2022 年的 64% 升到 2026 年起的 70%，對應 2028 年廣告 EBIT 805.05 億美元。亞馬遜在全球零售媒體的市佔也從 2020 年的 26% 一路升到 2025 年的 40%——換句話說，這個高利潤池同時在變大與變集中。\n\nMercadoLibre 則是同一個劇本的早期版本。它在拉美零售媒體市場佔約 55%，巴西約 69%、墨西哥 45%，但在拉美整體廣告市場只佔約 6%——這個落差就是高盛看到的空間。報告預期廣告收入從 2026 年約 25 億美元成長到 2028 年約 50 億美元，複合成長率 +40%，佔 GMV 比重從 2.8% 升到 4.0%；假設 65% 的 EBIT 利潤率，光廣告一項在 2028 年就能貢獻 32 億美元 EBIT，約當該年合併 EBIT 的 60%，且大致等於 MELI 2025 年整體的 EBIT。2026 年廣告佔其整體 EBIT 的比重甚至更高，約 65%。這個數字值得停一下：一家被歸類為電商的公司，它的營業利益已經有三分之二來自廣告。\n\n### 代理式購物：方向確定，但消費者只授權到一半\n\n報告把 agentic commerce 拆成兩條路徑：一是大型語言模型作為站外的購物與發現引擎，二是平台站內的 AI 購物工具。作者用行動裝置革命當類比——它不會一夜取代既有通路，而是一個多年期的結構性轉移。\n\n更有價值的是它把 AI 在購物裡的角色排成一條自動化曲線。最前端是亞馬遜的 subscribe & save 或 Chewy 的 autoship 這種程式化便利設定，根本不需要代理人；接著是研究階段，代理人像分析師一樣掃描網站、列出建議，但決策與執行仍在人手上；再來是多商品籃階段，代理人必須處理取捨、給出一個連貫方案；然後才是執行階段，人授權代理人在特定參數內完成購買；最遠端是代理人對代理人的商務。報告點名的分界線是「從 B2C 到 B2AI」——當買方從人變成代理人，傳統的商品詳情頁瀏覽會被消解，代理人接手漏斗中段的比價、評論分析與物流檢核，平台因此必須同時對人與對機器友善：既要有敘事與視覺吸引力，也要有乾淨的資料與透明可預測的政策格式。最先被交出去的，一定是電池、寵物食品這類低研究、日常、重複購買的品項。\n\n數字目前很小但斜率很陡。Adobe 的資料是 2026 年第一季來自 AI 來源的流量年增 393%。MercadoLibre 巴西站的 Gen AI 流量在 2026 年 7 月佔總造訪的 0.9%，一年前是 0.2%——直接流量仍然是絕對主力。平台的因應是所謂 GEO（生成式引擎最佳化）：把商品資料結構化，讓 LLM 讀得懂、比得動。\n\n入口目前還握在平台手上。以巴西為例，MELI 的月活躍用戶約 1.37 億，超過 ChatGPT（6,730 萬）、Gemini（3,030 萬）與 Claude（260 萬）在該國的合計數；高盛估計 MELI 在 2026 年將佔巴西核心零售銷售近 10%，2021 年時只有 4%，是該國最大的單一零售商。它的兩手策略因此是：一方面靠既有的品項、價格、配送與支付優勢自然承接 AI 導流，一方面在自家產品內提供代理體驗。2026 年第一季它在巴西與墨西哥上線 LLM 驅動的搜尋，用意圖驅動取代關鍵字架構，管理層說轉換率與贊助商品點擊率都有可衡量的提升，而且各平台、各地區的測試結果，銷售提升都足以覆蓋跑 LLM 查詢的成本。\n\n真正的瓶頸是信任，而報告給的數字很誠實：Visa 的調查顯示 58% 的美國人願意讓 AI 比價，但只有 27% 願意讓 AI 代替自己自主執行；約 40% 的美國人曾因 AI 推薦而買了原本不會買的東西。企業端更放得開，53% 的美國企業願意讓 AI 代理直接與其他代理議價。高盛因此預期採用路徑是漸進的：先是研究與發現，再到低風險的重複性採購與日用品，最後才擴大到廣泛的交易執行。奢侈品這類情緒與體驗驅動的品項，作者明說會長期停留在「研究階段」，人仍然是決策者。\n\n### 它自己承認的限制\n\n四處自我限定值得記下來。第一，今年版本因為覆蓋範圍變動，把東協與台灣排除在產業模型之外——這對想用這份報告看東南亞電商的人是直接的缺口。第二，模型涵蓋的是平台，「大致排除傳統零售商的線上業務」，因此前五大 47% 的市佔是純電商平台之間的市佔，不是全零售的市佔。第三，估值那一節的歷史區間分析明白註記排除亞馬遜與 Shopify，也就是說「板塊便宜」這個結論本身不含產業裡最大的一家與估值最高的一家。第四，agentic 的採用假設建立在模型準確度改善、個人化加強、商家整合更深、以及委託購物愈來愈便利這幾個條件上，報告自己說這些都還沒發生。\n\n### 估值：折價全部來自成長，不是來自評價\n\n這是最容易被誤讀的一節。全球電商板塊目前在 EV/GMV、EV/毛利、EV/調整後 EBITDA 三個指標上都明顯低於歷史均值，但高盛的結論是：「這個折價完全可歸因於成長放緩，因為成長調整後的倍數與歷史水準相當、甚至更高。」\n\n具體數字：EV/GMV 目前平均 0.6 倍，位於歷史正負一個標準差區間 0.6 到 1.3 倍的下緣，2021 年底高點 1.7 倍、2023 年底低點 0.5 倍；但成長調整後是 0.13 倍，高於 0.05 到 0.09 倍的歷史區間，2022 年低點 0.04 倍。EV/毛利目前 3.0 倍，低於 3.2 到 7.7 倍的歷史區間，2021 年初高點 12.0 倍、2026 年初低點 2.8 倍；成長調整後 0.26 倍，落在 0.20 到 0.30 倍的歷史區間內。換句話說，這個板塊看起來便宜，但按成長率調整後並不便宜——想靠「回到歷史均值」賺錢的人，得先賭成長會加速。\n\n### 可驗證的節點\n\n這份報告的主張有幾個可以被數據裁決的地方。廣告這一側最硬：亞馬遜 2026 年廣告營收要達到 825.28 億美元、年增 20%，以及 70% 的 EBIT 利潤率能不能守住，每一季財報都會給答案；MELI 的廣告收入要在 2028 年到約 50 億美元、GMV 滲透率到 4.0%，中間每一季的廣告佔 GMV 比重就是進度條。代理式購物這一側，最直接的指標是 Gen AI 佔平台流量的比重——MELI 巴西站從 0.2% 到 0.9% 花了一年，下一年的斜率會告訴你這是曲棍球桿還是漸近線。結構面則看前五大平台市佔能否從 2025 年的 47% 走向 2028 年的 54%，以及滲透率是否真的在 2031 年停在 27%。這幾條線同時偏離，才代表「Commerce 3.0」這個框架需要重寫。",
+   "summary_chars": 4477,
+   "tags": [
+    "電子商務",
+    "人工智慧",
+    "美股",
+    "拉丁美洲",
+    "印度"
+   ],
+   "stances": [
+    {
+     "theme": "金融、併購與企業",
+     "quote": "As growth matures, investors view leading platforms less as retailers and more as consumer ecosystems that are increasingly disconnected from the underlying retail transaction.",
+     "quote_zh": "隨著成長成熟，投資人看待領先平台的方式會從零售商轉向消費者生態系，而這些生態系與底層的零售交易愈來愈脫鉤。",
+     "label": null,
+     "page": 11
+    },
+    {
+     "theme": "AI 與半導體",
+     "quote": "The survey also stated that 58% of Americans are comfortable with AI comparing prices but only 27% are comfortable allowing AI to execute autonomously on their behalf",
+     "quote_zh": "該調查也指出，58% 的美國人可以接受由 AI 比價，但只有 27% 的人可以接受讓 AI 代替自己自主執行。",
+     "label": null,
+     "page": 18
+    },
+    {
+     "theme": "美股與財報",
+     "quote": "The global eCommerce sector currently trades well below historical averages across all three metrics. The discount is entirely attributable to slower growth, as growth-adjusted multiples are in line to above their historical levels.",
+     "quote_zh": "全球電商板塊目前在這三個指標上的交易價位都明顯低於歷史均值。這個折價完全可歸因於成長放緩，因為成長調整後的倍數與歷史水準相當、甚至更高。",
+     "label": null,
+     "page": 32
+    }
+   ],
+   "charts": [
+    {
+     "kind": "timeseries",
+     "title": "亞馬遜廣告：營收與 EBIT（2022–2028E）",
+     "subtitle": "高盛估計廣告毛利率維持 80%，EBIT 利潤率自 2026E 起站上 70%",
+     "series": [
+      {
+       "name": "廣告營收",
+       "dates": [
+        "2022-12-31",
+        "2023-12-31",
+        "2024-12-31",
+        "2025-12-31",
+        "2026-12-31",
+        "2027-12-31",
+        "2028-12-31"
+       ],
+       "values": [
+        37739,
+        46906,
+        56214,
+        68635,
+        82528,
+        97653,
+        114254
+       ]
+      },
+      {
+       "name": "廣告 EBIT",
+       "dates": [
+        "2022-12-31",
+        "2023-12-31",
+        "2024-12-31",
+        "2025-12-31",
+        "2026-12-31",
+        "2027-12-31",
+        "2028-12-31"
+       ],
+       "values": [
+        24112,
+        31445,
+        38426,
+        47431,
+        57504,
+        68469,
+        80505
+       ]
+      }
+     ],
+     "y_label": "百萬美元",
+     "source": "Goldman Sachs《2026 Global eCommerce Handbook》2026-08-28，第 30 頁 Exhibit 33",
+     "grounding": [
+      "Amazon Advertising 2022 2023 2024 2025 2026E 2027E 2028E",
+      "Advertising Revenue $ 37,739 $ 46,906 $ 56,214 $ 68,635 $ 82,528 $ 97,653 $ 114,254",
+      "Advertising EBIT $ 24,112 $ 31,445 $ 38,426 $ 47,431 $ 57,504 $ 68,469 $ 80,505"
+     ],
+     "png": "2026-08-28-goldman-sachs-global-technology-1.png",
+     "svg": "2026-08-28-goldman-sachs-global-technology-1.svg",
+     "bytes": 133791
+    }
+   ]
+  },
+  {
+   "slug": "2026-08-28-goldman-sachs-americas-technology",
+   "broker": "Goldman Sachs",
+   "product": "Americas Technology",
+   "title": "Americas Technology: Internet: Q2'26 EPS Review & Communacopia + Tech Conference Preview: Where to from Here: ... San Francisco (of course)",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-08-28",
+   "pages": 50,
+   "issue": null,
+   "tier_target": 5000,
+   "tier_band": [
+    4400,
+    5600
+   ],
+   "summary": "## 資本支出還會再往上加，但市場只肯為「當期就能變現的 AI」出價\n\n高盛美國網路產業團隊在 Q2'26 財報季結束、9 月 8 至 11 日舊金山 Communacopia + Technology 會議之前，把 7 月中到 8 月中的財報與投資人辯論收攏成三條主線：AI 支出的變化速率（含報酬輪廓，焦點已經明顯移到 2027 年以後）、數位消費者與廣告需求的健康度、以及營收成長、成長投資與營業利益率三者之間的平衡。三條線指向同一個結論：支出的方向仍然是往上，但股價已經不再對「支出本身」給分。投資人的反應函數在這一季偏向那些能立刻把 AI 投資轉成收入的公司，對於要求延長投入資本報酬（ROIC）回收期的公司則不再買單。這份報告的價值不在於它看多或看空，而在於它把「支出還會加」與「市場不再為支出付錢」這兩件看似矛盾的事並排放著，並且說明兩者為什麼可以同時成立——供給端的物理限制決定了前者，估值端的耐心耗損決定了後者。\n\n### 憑什麼（一）：雲端的數字撐住了資本支出的上偏方向\n\n支撐「資本支出仍有上偏傾向」的不是敘事，是本季攤開來的三個要素：雲端／AI 營收成長的上修循環、超大規模業者穩定或強勁的增量營業利益率、以及以每 GW 為單位持續強勁的定價。數字上，Google Cloud 營收年增 81%、積壓訂單成長到約 5,140 億美元；AWS 營收年增加速到 37%，積壓訂單年增 154%。兩家合計的積壓訂單超過約 1 兆美元。同時 AWS 在資本支出帶來的折舊壓力加重之下，仍繳出約 39% 的紀錄營業利益率——這一點是報告用來反駁「資本密集度必然吃掉利潤率」的直接證據。\n\n更關鍵的是供給面。兩家都仍在指出產能限制，而且具體指向電力與資料中心的可得性，強勁的 AI 需求因此被留在門外。AWS 管理層說客戶需求持續超過可用產能，2026 年供給受限、很可能延續到 2027 年，而客戶已經在為 2028 年的工作負載做規劃與產能承諾；SpaceX 同樣強調運算部署計畫在加速、需求持續超過供給。團隊據此把運算供給與 AI 服務需求之間的落差，往後推到「well into 2028」——這是整份報告時間軸上最大膽的一筆，它等於說這一輪支出週期至少還有兩年不會因為供給補上而自然結束。\n\n### 憑什麼（二）：數位消費者沒有裂開，但辯論的重心已經前移\n\n最能反映消費者行為的三個次產業——電商、線上旅遊、出行與外送——本季普遍交出營收優於預期的成績。電商方面，團隊的說法是結果「broadly constructive」，並且重新確認消費需求在仍不平均的總經背景下維持韌性；本季的三個主題是規模仍然重要（廣選品、密集履約、龐大客戶生態系）、互動與留存靠個人化與更好的商品發現來拉高頻次、以及廣告、履約與軟體愈來愈成為營收動能。個別來看，W 強調份額加速與 Perigold 等精品與奢侈品牌的動能，ETSY 談買家趨勢改善與個人化，STUB 靠次級票務份額與利潤率擴張，GRPN 仍在營收復原期但推 AI 原生轉型，PTRN 則往加值服務與市集擴張走。\n\n數位廣告端，AI／ML 驅動的自動化讓規模平台繼續拿到增量份額，改善的是投放精準度、素材生成、轉換率與廣告主投資報酬；需求在零售、金融服務、科技等主要垂直領域維持健康，短影音、AI 輔助的發現、創作者內容與個人化推薦則撐住互動。META 強調 Advantage+ 的採用，GOOGL 強調 AI Overviews、AI Mode、Gemini 與 AI 化搜尋體驗的商業化機會。出行與外送方面，UBER 在美國持續加速、LYFT 在北美整體加速，兩者都把自駕車視為擴大可及市場的機會，UBER 重申年底前在 15 個城市上線、LYFT 的 Nashville 車隊基地 10 月啟用；DASH 的單位經濟持續改善，CART 的客戶取得在加速。\n\n但報告自己把警訊寫在旁邊：在更混雜的經濟數據、以及涵蓋範圍以外公司對可選消費的評論之下，關於消費者前瞻健康度的辯論正在升溫——特別是投入成本若維持在高檔、以及依家庭所得分化的消費版圖若出現弱化。換句話說，這一季的消費數據是後照鏡，而爭論已經移到前擋風玻璃。\n\n線上旅遊這一塊，團隊把最大的爭議直接寫出來：AI 對線上旅遊代理商的長期穩態與終值有什麼影響，仍然是投資人的心結；但本季的管理層評論大致強化了另一個看法，也就是具備廣泛供給聚合、品牌力、忠誠計畫與深度夥伴關係的規模化旅遊平台，會參與新興的 AI 工作流，而不是被它取代。團隊的判斷是，能不能爬過這道憂慮之牆，取決於內部 AI 專案的執行、對外的平台夥伴關係，以及持續的產品創新這三件事，而不是取決於論證。\n\n### 憑什麼（三）：投資與利潤率的拉鋸，每個次產業換一種面貌\n\n管理層在打一場多線作戰：一邊是嚴格的人力紀律、自動化客服與高毛利零售媒體收入撐起核心營業利益率，另一邊是把這些結構性效率直接再投入下一代成長計畫——AI 運算叢集、自研晶片、自駕配送研發與國際市場擴張。這個張力在每個次產業都換一種面貌出現：串流的 NFLX 與 SPOT 明顯有營運槓桿，卻把它投回產品與 AI／ML 的個人化與推薦；NFLX 的總時數大致持平到小幅上升、強調「質」的時間，SPOT 的付費訂閱成長強勁但在部分地區提高廣告負載影響了近期 MAU；遊戲的 RBLX 投入創作者工具與 AI 開發能力，TTWO 押在 GTA VI 並重申 FY27 創紀錄 bookings；線上市集的 XMTR、ZIP、ANGI 把 AI 嵌進媒合、報價與工作流自動化，FVRR 與 UPWK 則往高價值專案與企業客戶挪，用來抵銷低價值、交易型需求的壓力。\n\n報告點名一個要在 2026 年之後持續盯著的方向：公司往「AI 原生平台」轉型的過程，讓團隊想起 2008 到 2014 年桌機轉行動運算那一段——投資水準上升、用戶成長的路徑變難、對新流量來源的依賴提高，並且更重視忠誠度驅動與直接流量。這個類比同時是看多與看空的：那一輪最後放大了贏家，但中間的幾年對股東並不好過。團隊也提醒，AI token 的支出水準與變化速率，可能抵銷掉非核心業務與人力精簡省下來的錢。\n\n值得注意的是，團隊把這一切放回自己的十大主題架構裡：雲端運算（同時看營收與增量營業利益率）、AI 作為競爭差異化與數位廣告份額移轉的力量、以及廣義本地商務（橫跨電商與外送）的長期成長順風，被列為投資人能取得「相對歷史趨勢更高的複合成長」的三個曝險位置。這等於把個股層次的財報結果，扣回一組已經公開表態過的長期立場——報告不是在這一季臨時形成觀點，而是在檢查既有觀點有沒有被這一季的數據推翻。\n\n### 會議上真正要問的問題：辯論題本身就是報告的骨架\n\n這份報告的體例是每個次產業先總結財報、再列出二到三個要當面問管理層的辯論題；把這些題目排在一起，就是團隊認為目前定價最不確定的地方。數位廣告問的是廣告主預算的配置與各管道成長的耐久度、AI 如何改變消費者的搜尋與發現行為及其對互動的意涵、以及 AI 投資的報酬時點、規模與利潤率進程。雲端問的是 AI 驅動需求的耐久度、基礎設施產能部署的速度，以及自研晶片如何影響經濟效益與緩解 GPU 限制——同時要把 AI 工作負載的優異經濟效益，拿去對沖高額基礎設施投資帶來的折舊複利效應。電商問的是在不平均的消費環境下靠什麼驅動成長，以及 AI 與代理式商務生態系會怎麼改變流量取得、轉換與市集經濟。出行與外送問的是自駕車生態系裡誰握有客戶關係，以及再投資與利潤率擴張之間該怎麼取捨。串流問營收成長的組成拆解，以及 AI 究竟是機會還是競爭威脅。遊戲問 UGC 平台與 AAA 內容模式的互見消長、GTA VI 對產業支出與玩家時間分配的衝擊、以及平台投資能不能在 2027 年之後轉成利潤率。線上市集則問 AI 是破壞還是賦能，企業與高價值客戶能不能撐住成長並抵銷中小企業與低價值區塊的壓力。\n\n這七組問題有一個共同的形狀：它們全都不是問「AI 有沒有用」，而是問「AI 的支出什麼時候、以什麼形式回到損益表」。這也解釋了為什麼團隊會說投資人偏好立即變現——當所有次產業的關鍵問題都收斂到同一個時間軸上，市場自然會給時間軸短的那一邊溢價。\n\n### 它自己承認的限制\n\n這份報告最誠實的部分在幾處自我限定。第一，投資人進場的預期本來就偏高，本季確實有部分結果不如預期，團隊選擇把股價反應與基本面切開來看，仍認為產業底層是建設性的——這是一個明確的判斷，不是觀察。第二，對於 AI 投資，投資人仍在問三件報告沒有回答的事：回報的時點與規模、折舊費用上升對未來獲利能力的侵蝕、以及當前的 AI 變現趨勢究竟能不能合理化這麼高的資本密集度。第三，線上旅遊的 AI 終局仍被列為投資人的疑慮，團隊的立場是規模化平台憑供給聚合、品牌、忠誠計畫與夥伴關係「參與而非被取代」，但同時承認這道憂慮之牆要靠執行才爬得過去。第四，出行的自駕車辯論懸而未決：共乘業者究竟會是自駕網路的需求聚合者，還是被自駕營運商與車廠拿走客戶關係與單位經濟，牽動的是大規模商業化的時點、定價與抽成率。另外要提醒讀者的是，這份報告的資料期是 8 月 25 日，涵蓋的是 7 月中到 8 月中的財報季，各次產業的表現表與相對強弱指標都以該日為準；會議本身尚未發生，所有「投資人辯論」都是團隊對即將發生的對話的預期，而不是已經拿到的答案。\n\n### 與市場的落差：股價已經反映了多少\n\n估值上，團隊只給了一句明確的話：過去六個月涵蓋範圍中很大一部分個股跑輸大盤（SPX +11% 對涵蓋範圍 +9%），因此他們認為前述投資與利潤率的動態，已經有一部分反映在目前的股價水準裡。這句話是整份報告把會議定位成催化劑而非風險事件的理由，也是它敢在支出還要加碼的同時維持建設性看法的支點。報告最後以大型股（市值 100 億美元以上）與中小型股兩張風險／報酬矩陣收尾，橫軸是距離目標價的上檔或下檔幅度、縱軸是上檔情境相對下檔情境的偏度，目標價為 12 個月期。\n\n### 可驗證的節點\n\n第一個節點就是會議本身：9 月 8 至 11 日，40 家涵蓋範圍內外的上市與未上市公司在舊金山，包含 GOOGL 雲端執行長 Thomas Kurian、OpenAI 財務長 Sarah Friar、SpaceX 財務長 Bret Johnsen、ABNB 的 Brian Chesky、EXPE 的 Ariane Gorin、BKNG 財務長 Ewout Steenbergen 等人。可以拿來裁決這份報告的具體問題有五組：一、超大規模業者對 2027 年資本支出與增量營業利益率的說法，以及自研晶片是否真的在鬆綁 GPU 限制、又如何影響經濟效益；二、電力與資料中心可得性是否仍是硬限制，AWS 是否維持 2027 年供給受限的口徑、2028 年的產能承諾能否延續；三、UBER 年底前 15 個城市與 LYFT 10 月的 Nashville 基地是否如期；四、GTA VI 的上市與 TTWO 的 FY27 bookings 是否真的創紀錄；五、也是最能一次裁決整條主軸的：管理層怎麼在 2027 年財測裡排列營收成長、成長投資（opex 加 capex）與營業利益率的優先順序。如果 2027 年財測的語言仍然是「先投資、報酬以後再說」，那麼報告所描述的市場偏好就會直接把答案打在股價上。\n\n會議的形式本身也值得記一筆：這是爐邊對談加上一對一會議的組合，涵蓋範圍內外都有，未上市公司同場出席——OpenAI 與 SpaceX 的財務長與上市公司在同一份議程上，本身就說明這一輪 AI 支出的定價權有一部分不在公開市場手上，投資人要用來校準 2027 年假設的關鍵資訊，有一部分只能從這種場合取得。這也是為什麼團隊會把一份財報回顧寫成會議前的提問清單：真正能改變估值的不是已經公布的 Q2 數字，而是接下來四天裡管理層對 2027 年的措辭。",
+   "summary_chars": 4617,
+   "tags": [
+    "美國",
+    "美股",
+    "人工智慧",
+    "資料中心",
+    "電子商務",
+    "電力"
+   ],
+   "stances": [
+    {
+     "theme": "AI 與半導體",
+     "quote": "a supply/demand imbalance which we now expect to persist well into 2028",
+     "quote_zh": "這個供需失衡，我們現在預期會持續到 2028 年深處。",
+     "label": null,
+     "page": 2
+    },
+    {
+     "theme": "AI 與半導體",
+     "quote": "continue to cite capacity constraints (specifically relating to power and data center availability)",
+     "quote_zh": "持續指出產能限制（具體與電力及資料中心可得性有關）。",
+     "label": null,
+     "page": 10
+    },
+    {
+     "theme": "美股與財報",
+     "quote": "investor reaction has favored companies demonstrating immediate monetization of their AI investments over those requesting extended timelines for return on invested capital (ROIC)",
+     "quote_zh": "投資人的反應偏好那些立即把 AI 投資變現的公司，而非那些要求延長投入資本報酬（ROIC）回收期的公司。",
+     "label": null,
+     "page": 2
+    },
+    {
+     "theme": "美股與財報",
+     "quote": "results were broadly constructive and generally reinforced the view that consumer demand remains resilient despite a still uneven macro backdrop",
+     "quote_zh": "結果整體上是建設性的，大致強化了「儘管總體背景仍不平均，消費需求依然具韌性」這個看法。",
+     "label": null,
+     "page": 8
+    }
+   ],
+   "charts": [
+    {
+     "kind": "grouped_bar",
+     "title": "Q2'26 雲端：積壓訂單的增速遠高於已認列營收",
+     "subtitle": "Google Cloud 與 AWS，Q2'26 年增率",
+     "cats": [
+      "Google Cloud 營收",
+      "AWS 營收",
+      "AWS 積壓訂單"
+     ],
+     "groups": [
+      {
+       "name": "年增率（%）",
+       "values": [
+        81,
+        37,
+        154
+       ]
+      }
+     ],
+     "y_label": "年增率（%）",
+     "source": "Goldman Sachs, Americas Technology: Internet - Q2'26 EPS Review & Communacopia + Tech Conference Preview, 2026-08-28, 第 10 頁",
+     "grounding": [
+      "Google Cloud revenue growth of +81% YoY",
+      "AWS revenue growth accelerating to +37% YoY",
+      "backlog growth of +154%"
+     ],
+     "png": "2026-08-28-goldman-sachs-americas-technology-1.png",
+     "svg": "2026-08-28-goldman-sachs-americas-technology-1.svg",
+     "bytes": 96683
+    }
+   ]
+  },
+  {
+   "slug": "2026-08-28-citi-us-economics-weekly",
+   "broker": "Citi",
+   "product": "US Economics Weekly",
+   "title": "US Economics Weekly: Softer data to keep September hike unlikely",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-08-28",
+   "pages": 22,
+   "issue": null,
+   "tier_target": 4000,
+   "tier_band": [
+    3500,
+    4500
+   ],
+   "summary": "# Warsh 的鷹派演說沒有預告升息，九月不動的關鍵是核心 PCE 已經是個離群值\n\n## 主張是什麼\n\nCiti 這一週的立場很直接：市場對 Jackson Hole 的反應過頭了。Warsh 的演說確實比 Citi 預期更鷹，兩年期公債殖利率演說後上揚超過 10bp，市場再度把九月升息機率定價在 50% 以上。但 Citi 認為，一位反覆強調前瞻指引「已經賴著不走」的主席，不會用一場演說來預告政策動作；他大概像七月那次一樣，樂於讓市場在會前定價一定程度的政策變動可能，最後仍然按兵不動。真正裁決九月的是接下來三週的數據，而 Citi 押注那些數據會夠軟：八月非農只增 20k、八月核心 CPI 年增放緩到約 2.35%、而九月會議前那個週五公布的八月核心 PCE，因為方法論修訂，年增率會被下修約 30bp。\n\n## Warsh 說了什麼，Citi 怎麼拆\n\n這場演說裡最鷹的部分，Citi 認為不是措辭而是態度：Warsh 淡化了近期偏軟的 CPI 與 PCE 數據。但 Citi 說，聯準會官員對只有一兩個月的數據保持謹慎並不罕見——官員通常要看到三個月才當成趨勢，而 Citi 預期九月會議前還會再出現一個月偏軟的就業與通膨數據。\n\nWarsh 另外兩句鷹派發言，一是金融條件並不具限制性（他過去也說過類似的話），二是重新確認聯準會的 2% 目標指的是 PCE 通膨。至於「如果通膨沒有以足夠的速度放緩，聯準會就有工作要做」這種說法，在過去的主席任內可能是下次會議升息的暗示；但 Warsh 同時重申前瞻指引「已經賴著不走」，Citi 因此不把這場演說讀成升息預告，而是讀成一位主席刻意保留全部選項。\n\n## 憑什麼（一）：核心 PCE 是離群值，不是新的上行趨勢\n\nWarsh 說各項通膨數據「都在說同一個故事」，Citi 直接對這句話開火。七月數據上修後，核心 PCE 六月與七月的年增率都停在 3.34%，確實偏高；但 PCE 自己的衍生指標——達拉斯聯準會修剪平均、克里夫蘭中位數、舊金山聯準會循環性 PCE——七月全部橫向整理，只比 2019 年平均高 10 到 30 個基點。\n\n更關鍵的是七月那 0.25% 的月增怎麼來的：將近一半（11bp）來自投資組合管理費，這一項跟資產價格連動，七月的漲幅異常大、不太可能重演。只計入實際可觀察價格、約佔 PCE 八成五的「市場基礎核心 PCE」，七月只漲 0.15%。再往前看，下個月的方法論修訂會動到專業公會會費、法律服務、投資組合管理與電腦軟體這幾塊，Citi 的最佳猜測是把年增核心 PCE 壓低約 30bp。\n\n即使修訂完成，核心 PCE 仍會停在接近 3%，而撐住它的是金融服務（隨資產價格走）、耐久財（將隨電腦軟體與配件的價格處理方式一起修訂）與醫療服務。醫療這一塊 Citi 認為上行空間有限：醫療業生產／非管理職時薪落後兩年的走勢顯示，已經放緩的薪資成長會慢慢傳導過去。另外，第二次估計的 GDP 同時顯示企業獲利明顯回升，但國民所得中的受僱人員報酬今年一路放緩——Citi 由此推論，走弱的消費端會限制企業漲價的能力。\n\n## 憑什麼（二）：勞動市場是慢慢冷，不是重新加速\n\n下週是勞動數據週，Citi 的預估幾乎每一項都比市場低。非農 20k（市場中位數 55k、前值 -23k），民間非農 5k（中位數 50k、前值 30k），失業率回升到 4.2%（中位數 4.1%、前值 4.1%）。\n\n理由分三層。第一，低招聘環境下的夏末初秋季節性疲弱；NFIB 招聘計畫落後五個月與非農的對照顯示，未來幾個月的就業數據還會軟。第二，七月底部分移工臨時工作許可到期，可能壓抑八月就業，但 Citi 明說不會把疲弱全部歸給這個一次性因素。第三，七月地方教育就業掉 50k 異常大，可能是季節調整問題、之後會回補，Citi 因此預估政府就業反彈 15k。\n\n薪資端，Citi 預估八月平均時薪月增回到 0.3%（中位數 0.2%），但基期效應會讓年增率降到 3.1%，低於疫前平均，而且基期效應到秋天都還有利於年增率繼續走低。JOLTS 職缺預估 7410k，Citi 卻說職缺水準向來不是勞動需求的好指標，它真正在看的是招聘減離職——修訂前這條已經比非農變動更弱。至於 2026 年基準修訂只下修 79k，遠小於往年，Citi 把它讀成好消息的反面：現在的月頻數據更準確了，而它說的是就業成長本來就慢。\n\n## 憑什麼（三）：失業率下降不代表勞動市場在收緊\n\n過去一年勞動參與率大幅下滑，但失業率只是溫和下降。Citi 的解讀是：在人口老化與移民放緩把整體勞動力規模縮小的同時，離開職位的人並沒有被失業者的再就業填補——真正的訊息是「對新員工的需求依然疲弱」。\n\n它把初領失業金的水準當成觀察這股結構性力量何時穩定的訊號；今年比去年低的申請水準，大致與勞動參與率的下滑同步。Citi 預估 8 月 29 日當週初領升到 207k（前值 203k）、續領 1787k（前值 1778k），四週移動平均持續緩升。另一方面，Citi 認為六月部分黃金年齡勞工、七月年輕勞工的退出屬於熟悉的季節性，暑假結束與新學年開始會讓參與率與失業率在夏末初秋回升——八月可能看得到一點，但九月才會最清楚。\n\n## 憑什麼（四）：成長看起來強，但強的是進口\n\n第二次估計的 Q2 GDP 顯示最終民間國內需求從 3.9% 上修到 4.2%，消費更強。但整體 GDP 維持 1.5% 不變，而且已經連續三季低於聯準會 2% 的長期估計——Warsh 說經濟「表現似乎轉強」，Citi 認為總量數字並不支持。\n\nCiti 的 Q3 GDP 追蹤是 1.8%：消費貢獻 1.2、企業設備 0.3、企業建物 0.1、智財投資 0.2、住宅 0.2，最終民間國內需求 2.0，存貨 0.0、政府 0.1、淨出口 -0.1。七月商品出口下滑 2.9%、進口上升 3.7%，貿易逆差預估擴大到 903 億美元（中位數 716 億、前值 733 億）。AI 建置相關投資是近幾季成長的主要驅動，但因為大部分是進口品，國內生產並沒有那麼強。\n\n製造業是另一個「強但有前提」的部分。Citi 預估八月 ISM 製造業從 55.6 回落到 54.9，但強調今年的製造業調查一路偏強，靠的是 AI 投資需求與企業投資的稅務誘因；財政面的支持年底前可能消退，製造業本身也仍屬利率敏感的產業，只有 AI 投資這一塊會延續。七月資本財進口大增，意味著 Q3 企業設備投資會再度偏強。\n\n利率敏感的部分則明顯在退。購屋房貸申請與待完成成屋銷售都低於一年前，房價年增只有 1-3%；七月營建支出預估月減 0.3%，主因獨棟住宅營建續弱，而資料中心等非住宅專案的增加，被製造業廠房營建的下滑抵掉——後者跟 CHIPS 法案支持消退有關。\n\n## 聯準會內部：主席鷹，但票不只在他手上\n\nCiti 的 Fed Monitor 把 FOMC 從鷹排到鴿：最鷹的一端是 Hammack、Logan、Schmid、Musalem，最鴿的一端是 Williams、Bowman、Daly、Cook，Warsh 本人排在偏鴿的後半段。六月點陣圖的還原更值得看：2026 年 Schmid 一個人在 4.375%，Hammack、Logan、Musalem、Barkin、Kashkari 在 4.125%，而 Daly、Paulson、Waller、Powell、Jefferson、Barr、Cook、Williams 這八個人擠在 3.625%，Bowman 更低、在 3.375%。委員會的重心落在偏鴿的一側，而且亞特蘭大聯準會目前由 Venable 代理出席、新主席尚未選出。這是 Citi 認為「主席一個人的鷹派措辭不等於九月會升息」的組織面理由。\n\n## 它自己承認的限制\n\n這份報告的自我限定比它的主張還密集，值得逐條記下來。\n\n- 30bp 的修訂幅度只是「目前的最佳猜測」，Citi 直說不確定性很大。\n- 就算修訂完成，核心 PCE 仍會接近 3%，Citi 用的字是「令人不安地高」。它沒有主張通膨問題解決了，只主張之前的僵固是離群值。\n- 平均時薪是雙向風險：七月太軟可能讓八月反彈更大；但近兩個月的就業由只佔民間就業約兩成的管理職帶動、生產工人就業反而下滑，組成效應可能讓時薪更低。\n- 失業率的最大不確定來自勞動參與率。Citi 承認人口老化與移民放緩這類結構性力量正在壓低失業率，而且不會逆轉、可能持續整年。\n- 八月非農有上行風險：休閒住宿業過去連兩個月下滑後往往反彈。Citi 的處理是假設它被健護業的疲弱抵掉——JOLTS 細節顯示健護業已經軟了好幾個月。\n- JOLTS 職缺本身可能不升反降：Indeed 的高頻職缺數據指向未來幾個月 JOLTS 職缺回落到 700 萬附近。\n\n## 與市場、與其他機構的落差\n\n落差有三處值得記。勞動數據上，Citi 的 20k 對市場中位數 55k，差距超過一倍。成長上，Citi 8 月 28 日的 Q3 追蹤是 1.8%，亞特蘭大聯準會 8 月 26 日是 4.6%，差距幾乎全落在存貨（1.7 對 0.0）與消費（2.1 對 1.2）這兩項。通膨上，Citi 的 CPI 年增預測在 2027 年幾乎全程低於市場定價，2027 年 5 月是 1.2% 對市場的 1.7%。\n\n政策路徑因此完全反向。市場此刻定價九月升息機率超過五成，Citi 的預測是 9 月 16 日不動，然後 10 月 28 日、12 月 9 日、2027 年 1 月 27 日各降一碼，把政策區間帶到 2.75-3.0% 之後一路不動到 2027 年底。\n\n## 可驗證的節點\n\n- **下週五的八月非農**：Citi 20k、民間 5k、失業率 4.2%、時薪月增 0.3%／年增 3.1%。若非農接近中位數 55k 而失業率沒有回升，這份報告的核心前提就先破了一角。\n- **ISM**：製造業 Citi 54.9（前值 55.6）、服務業 53.8（前值 54.1）。Citi 特別點名服務業裡「增加雇員的企業占比」這一項，因為近幾年它與失業率相關。\n- **七月 JOLTS**：Citi 7410k，但它自己說要看的是招聘、離職、分手的細節，不是職缺總數。\n- **貿易帳與營建支出**：-903 億美元、-0.3%，兩者都是 Q3 GDP 的直接輸入。\n- **九月會議前那個週五的八月核心 PCE**：這是整份報告押注最重的一天。年增率如果沒有因為方法論修訂掉約 30bp，Citi 對九月的判斷會失去最主要的支撐。\n- **9 月 16 日 FOMC**：裁決日。",
+   "summary_chars": 3986,
+   "tags": [
+    "美國",
+    "聯準會",
+    "通膨",
+    "勞動市場",
+    "美國公債",
+    "人工智慧"
+   ],
+   "stances": [
+    {
+     "theme": "央行、利率與匯率",
+     "quote": "We continue to think data before September will be soft enough for officials to keep policy rates unchanged.",
+     "quote_zh": "我們仍然認為九月會議之前的數據會夠軟，足以讓官員維持政策利率不變。",
+     "label": null,
+     "page": 1
+    },
+    {
+     "theme": "央行、利率與匯率",
+     "quote": "we think it is becoming increasingly hard to ignore how core PCE is the clear outlier among many other underlying inflation measures",
+     "quote_zh": "我們認為，核心 PCE 在眾多其他底層通膨指標之中是個明顯的離群值，這件事越來越難以忽視。",
+     "label": null,
+     "page": 2
+    },
+    {
+     "theme": "AI 與半導體",
+     "quote": "Strong investment related to the AI-buildout has been the primary driver of growth the last few quarters. But as much of this investment is imported goods, overall domestic production has not been as strong.",
+     "quote_zh": "與 AI 建置相關的強勁投資，是近幾季成長的主要驅動力。但因為這些投資有相當部分是進口商品，整體國內生產並沒有那麼強。",
+     "label": null,
+     "page": 10
+    }
+   ],
+   "charts": [
+    {
+     "kind": "timeseries",
+     "title": "Citi 的 CPI 路徑幾乎全程低於市場定價",
+     "subtitle": "美國 CPI 年增率：市場定價 vs Citi 預測，2026 年 8 月至 2027 年 8 月",
+     "series": [
+      {
+       "name": "市場定價 CPI 年增率",
+       "dates": [
+        "2026-08-01",
+        "2026-09-01",
+        "2026-10-01",
+        "2026-11-01",
+        "2026-12-01",
+        "2027-01-01",
+        "2027-02-01",
+        "2027-03-01",
+        "2027-04-01",
+        "2027-05-01",
+        "2027-06-01",
+        "2027-07-01",
+        "2027-08-01"
+       ],
+       "values": [
+        3.4,
+        3.4,
+        3.1,
+        3.4,
+        3.4,
+        3.4,
+        3.3,
+        2.6,
+        2.0,
+        1.7,
+        2.3,
+        2.5,
+        2.3
+       ]
+      },
+      {
+       "name": "Citi 預測 CPI 年增率",
+       "dates": [
+        "2026-08-01",
+        "2026-09-01",
+        "2026-11-01",
+        "2026-12-01",
+        "2027-01-01",
+        "2027-02-01",
+        "2027-03-01",
+        "2027-04-01",
+        "2027-05-01",
+        "2027-06-01",
+        "2027-07-01",
+        "2027-08-01"
+       ],
+       "values": [
+        3.4,
+        3.3,
+        3.3,
+        3.2,
+        3.1,
+        2.9,
+        2.1,
+        1.6,
+        1.2,
+        1.7,
+        1.8,
+        1.6
+       ]
+      }
+     ],
+     "y_label": "% 年增",
+     "source": "Citi Research, Bloomberg／US Economics Weekly: Softer data to keep September hike unlikely／2026-08-28（第 15 頁 Figure 26；2026 年 10 月 Citi 預測值為 #N/A，該點略去）",
+     "grounding": [
+      "Aug-26 335.000 3.4 0.24 334.846 3.4 2.3 0.165 3.3 0.164",
+      "Sep-26 335.920 3.4 0.36 335.504 3.3 2.2 0.148 3.3 0.179",
+      "Oct-26 335.700 3.1 0.04 335.348 #N/A #N/A 0.131 3.2 0.152",
+      "Nov-26 335.180 3.4 0.20 334.739 3.3 2.3 0.159 3.2 0.173",
+      "Dec-26 335.080 3.4 0.25 334.407 3.2 2.3 0.165 3.0 0.186",
+      "Jan-27 336.290 3.4 0.29 335.334 3.1 2.2 0.209 2.9 0.260",
+      "Feb-27 337.440 3.3 0.22 336.349 2.9 2.2 0.210 2.7 0.243",
+      "Mar-27 338.860 2.6 0.32 337.292 2.1 2.2 0.161 2.6 0.181",
+      "Apr-27 339.840 2.0 0.20 338.239 1.6 1.9 0.155 2.5 0.175",
+      "May-27 340.850 1.7 0.24 339.211 1.2 1.9 0.172 2.3 0.158",
+      "Jun-27 341.733 2.3 0.24 339.760 1.7 2.1 0.172 2.3 0.158",
+      "Jul-27 342.184 2.5 0.21 339.910 1.8 2.0 0.179 2.2 0.164",
+      "Aug-27 342.784 2.3 0.24 340.333 1.6 2.0 0.179 2.2 0.164"
+     ],
+     "png": "2026-08-28-citi-us-economics-weekly-1.png",
+     "svg": "2026-08-28-citi-us-economics-weekly-1.svg",
+     "bytes": 144081
+    }
+   ]
+  },
+  {
+   "slug": "2026-08-27-citi-global-macro-strategy-views-and-trade-ideas",
+   "broker": "Citi",
+   "product": "Global Macro Strategy - Views and Trade Ideas",
+   "title": "Global Macro Strategy - Views and Trade Ideas: Mythbusting UST Concerns Amid the Global Bond Glut",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-08-27",
+   "pages": 23,
+   "issue": null,
+   "tier_target": 4000,
+   "tier_band": [
+    3500,
+    4500
+   ],
+   "summary": "## 長端殖利率的兇手是實質利率與油價，不是美國的財政赤字\n\nCiti 全球總經策略團隊這一份的立場很直白：市場把美國長天期公債的賣壓算在財政與供給頭上，對象找錯了。把 30 年期公債殖利率拆成幾個部分來看，推升它的幾乎全是實質利率；通膨補償只是溫和上行，而用來衡量財政風險溢酬的資產交換利差（ASW）近期反而在壓縮。真正跟長端同步移動的是能源價格，其次才是股市 —— 用他們自己的話說，這是伊朗問題與成長問題，不是赤字問題。由此推出的結論是：財政部長 Bessent 想要的長端回穩多半拿得到，但不是靠他自己的操作拿到的，而是靠油價與美國勞動市場照 Citi 的預期轉弱。在部位上，他們維持透過歐元、黃金與高息新興市場貨幣做空美元，並透過納斯達克 100 上檔選擇權與標普等權重現貨做多風險資產。\n\n### 賣壓其實不夠大，所以出手不是理所當然\n\n這份報告少見地先替被自己看好的政策踩了一次煞車。美國財政部宣布公債買回之後外界批評不少，Citi 的美國利率策略團隊與總經策略團隊都比多數人更願意相信這招有效，但同意一件事：這次長端賣壓的幅度與波動度，都遠比 2023 年 10 月那次買方罷買來得收斂，還沒有大到讓介入變成不需要思考的選擇。用前端斜率去回歸長端、把期限溢酬的殘差抓出來看，殘差雖然落在近期區間的上緣、回到 2016 年的水準，但放在更長的歷史裡並不算被拉伸。他們的判斷是：介入嚴格說起來未必必要 —— 而這件事重要，因為市場恐慌時政策出手買債比較好做，市場相對平靜時政策照樣跳進來，交易的性質就不一樣。即便如此，他們仍認為這次介入可以讓市場穩住幾個月。\n\n### 把 30 年期拆開：漲的是實質利率\n\n拆解的方法是把 30 年期公債殖利率拆成 30 年期 SOFR 實質利率、30 年期通膨交換，再加上 30 年期 ASW 的反向值（此處是公債減 SOFR 殖利率）當作財政風險溢酬的溫度計。結果是：今年迄今、尤其 7 月以來的變動主要由實質利率帶動；通膨損益兩平的漲勢溫和；財政風險溢酬近期還往回壓。這給出三個推論 —— 財政不像是主要顧慮，因為 ASW 沒有反映財政恐懼；殖利率裡的結構性通膨疑慮有限，大致侷限在伊朗風險；而美國人工智慧擴張帶動的正向成長動能可能正在推高自然利率（R\\*），這是對利率走勢更好的解釋。\n\n生產力那一段是他們用來支撐 R\\* 論點的證據：他們拿標普 1000 的每員工銷售額（刻意不用標普 500，因為要一組較廣、較不被全球超大規模業者主導的美國企業）與實質單位工時產出的三年複合成長率（引用 KKR），兩者都與五年後五年期實質利率同步走高；而歷史上生產力較高的階段對應到的是較高、不是較低的殖利率。也就是說，生產力改善帶來的成長效果壓過了它的抑制物價效果。這條線同時也是他們對 AI 行情的保留：他們明說對這波 AI 榮景最後會怎麼收場保持開放態度。\n\n### 讓長端回穩的三條路，兩條要等到 11 月\n\n報告給了三個讓公債殖利率轉冷的管道，彼此不互斥。第一條是聯準會主席 Warsh 在 2026 年避免升息，並對反應函數給一點暗示，這會移除再一次出現 7 月會議式反應的風險，讓長端跟著前端走低；他們預期傑克森洞給不了太多，因為個人消費支出物價方法論修訂與工作小組結論都還沒出來，這比較像慢火燒到年底。第二條是 Bessent 對財政給出「不增加票息標售」的指引，靠溫和的金融壓抑降低供給疑慮，可能得等到 11 月 2 日的季度再融資公告。第三條是真正的財政整頓，政治上棘手，可能要等 11 月 3 日期中選舉之後。前兩條對美元偏空、對風險資產偏多，第三條反過來對美元偏多。他們在利率上維持收 10 月 FOMC 的部位。\n\n### 全球同步賣壓也不是財政問題，只有法國是例外\n\n同一套拆解搬到其他核心市場。日本（因資料問題改用 10 年期）看到的是通膨與實質利率各半、ASW 變動有限；英國的通膨風險溢酬是 30 年期賣壓的正貢獻，但實質利率仍占主導；德國的 ASW 在第一季曾是主要驅動，之後就換成實質利率的變動主導公債走勢。唯一明確由 ASW 帶動賣壓的是法國，而他們把這歸因於財政疑慮加上選舉前升高的政治風險溢酬。整體結論是：這場全球同步賣壓由實質利率主導，通膨風險其次，財政的角色被高估了。\n\n### 「債券洪水」不是單向票，它改變的是曲線波動\n\n這份報告的另一個靶子是「全球債券供給洪水必然把殖利率一路推高、曲線一路變陡」。Citi 用他們 2025 年 5 月的安全資產淨供給框架（引用 Crowe 2019 模型，靈感來自歐洲央行 2025 年 2 月談「儲蓄過剩」轉向「債券過剩」的演說）更新結果，得到兩個觀察。結構上，政府融資需求（國防軍事、科技支出等）不斷增加而需求下降（主要來自量化緊縮），對存續期確實愈來愈不友善。但短期而言，期限溢酬大致就落在全球淨供給的基本面該有的位置：自該報告發表以來，ACM 期限溢酬指數持平、5 年對 30 年利差走平，2 年期公債反而高了 30 個基點。他們真正主張的是：債券洪水提高的是期限溢酬跳升的「頻率」—— 2021 與 2025 年出現的跳升頻率，過去只在衰退式牛陡行情裡看得到。體制確實變了，但變的是曲線波動，不是方向；財政恐懼是陣發性的，會在某些時候變成主導行情的力量，然後在問題沒被解決的情況下自己消失。\n\n### 鷹派升息救不了長端，日本已經演過一次\n\n對於「聯準會需要一次立信升息來穩住長端」的說法，他們不同意。曲線持續扭轉趨平的體制本來就罕見；把 30 年期與 2 年期的月變動按前一個月油價漲跌分組來看，兩者關係明顯是正向的，而且在油價同步走高時更明顯 —— 也就是說鷹派前端不會自動換來長端下行。日本提供了現成的對照：一年多來日圓曲線因為市場認定日銀落後而熊陡；美日聯合匯市干預之後，市場改為定價更鷹派的日銀，曲線確實走平了，但長端依然繼續賣壓。他們的結論是很難相信鷹派聯準會會讓公債需求回來。\n\n### 超大規模業者發債很大，但不是長端的元凶\n\n這是全篇數字最硬的一節。美國投資級今年迄今發行約 6,000 億美元，規模約等於 2025 年全年；淨發行年增約 8%，這個成長率只是從新冠遺留的極低水準回到正常。以美元金額看，去年供給增加 7,000 億美元確實重要，尤其對照財政部本季至少 140 億美元、後續各季 160 億美元的額外買回；同時銀行放款也在加速。但兩個證據把「排擠效果」推翻了：其一，這些供給連投資級市場自己都沒壓出多少反應 —— 在 2 年對 30 年利差走陡 40 個基點的那段期間（6 月底到 8 月中），信用違約交換利差只上升 8 個基點，而 8 個基點應該已經是供給能對公債產生影響的上限，畢竟投資級供給對投資級市場的意義遠大於對公債市場。其二，把 10 年期以上的投資級發行量拿來對 5 年對 30 年利差看，兩者沒有相關性。他們給的替代解釋是遺漏變數：成長強勁同時推高了發行與利率。回到那句核心話 —— 如果真有問題，Bessent 面對的是成長「問題」，不是發行問題。\n\n### 資料會轉弱：8 月非農與 CPI 的季節性\n\n支撐「油與勞動市場會軟」的是季節性。8 月非農在 10 年與 3 年回溯期裡平均都比市場預期少 2.3 萬個工作，2024 與 2025 連兩次都低於預期；7 月非農則連四年（2023 至 2026）不如預期，今年這次是負向意外 10.3 萬個工作的重挫。初領失業金人數雖然絕對水準偏低，但仍照往年的季節型態走，顯示勞動市場正以相當典型的季節方式轉弱，之後在 9 月那次數據回升。通膨也有順風：7 月細項全面溫和、沒有再加速的證據，Citi 的美國經濟學家預估 8 月 CPI 進一步放緩到約 2.3% 年增；2025 年 7、8 月因關稅提前轉嫁而偏高的月增幅將退出年增計算，即使月增中性也會機械式把核心 CPI 年增拉低，夏末機票價格的季節性也偏向下跌。匯率與利率的季節性同樣站在他們那邊：以 5 月為起點（刻意避開去年的關稅波動與今年的伊朗跳升），2024 與 2025 年美元與前端聯準會定價都在 7 月就業報告後下跌，美元則在這兩年的 10 月初落底。他們自 7 月 FOMC 前就維持做空美元、做多新興市場利差交易與歐元。\n\n### 它自己承認的限制：TGA 這張牌其實沒有子彈\n\n最誠實的一段在 TGA。媒體報導財政部可能動用一般帳戶去支應買回，市場為之騷動，但 Citi 自己的利率策略團隊的基本情境是 TGA 目標餘額（相當於政府五天營運支出）不會改變 —— 而目標餘額不變，TGA 就幾乎沒有可動用的火力。他們仍然假設一個 5,000 億美元的 TGA 融資買回情境當上限來推演：這相當於 1:1 的銀行準備增加，比 9,500 億美元的目標低了超過五成。歷史上這種規模的準備金增加很罕見，通常聚集在量化寬鬆期間，對 10 年期殖利率在其後 100 個交易日的中位數影響接近零。若進一步限縮到「12 週內 TGA 下降 5,000 億美元」，只找得到兩次：2021 年 3 月的疫後刺激支出，以及同年秋天與債務上限有關的下降。兩次股市都上漲，但 10 年期殖利率一次在 100 個交易日後跌 17 個基點、一次漲 31 個基點 —— 他們自己說，導不出強結論。比較有把握的只有兩件事：TGA 下降對美元不利，而比特幣目前與 TGA 呈現很強的負相關，會是受益者。另一個他們主動說出來的限制是：溫和的金融壓抑或許能安撫長端，但壓力不會消失，洩壓閥會移到匯率上。\n\n### 可驗證的節點\n\n這份主張的裁決時點寫得很清楚。9 月初的 8 月非農，以及隨後的 8 月 CPI，直接檢驗「資料會轉弱」；油價要看第三季 80 美元、第四季 75 美元的布蘭特預測是否兌現（他們的庫存模型認為以目前去化速度，要到 2027 年底才會降到 1970、80 年代的庫存覆蓋水準）。政策端則是 11 月 2 日的季度再融資公告與 11 月 3 日的期中選舉，前者決定票息標售指引，後者決定財政整頓有沒有機會。若在這些節點之前長端在 ASW 明顯走闊的情況下再次賣壓，那就是他們這套「不是財政問題」的說法被推翻的樣子。順帶一提，報告揭露了自家一筆組合避險的結果：8 月到期的標普與原油雙數位選擇權以價外到期，損失 15 萬美元，占該組合 0.15%。",
+   "summary_chars": 3923,
+   "tags": [
+    "美國公債",
+    "期限溢酬",
+    "美國財政部",
+    "聯準會",
+    "投資級信用",
+    "美元"
+   ],
+   "stances": [
+    {
+     "theme": "央行、利率與匯率",
+     "quote": "The move has been all real yields and has co-moved mainly with energy and slightly with equities.",
+     "quote_zh": "這波變動全是實質利率造成的，而且主要與能源同步移動，與股市的連動則較輕微。",
+     "label": null,
+     "page": 1
+    },
+    {
+     "theme": "信用債",
+     "quote": "The spread widening in US IG has been contained, and any supply pressures should have shown up there more clearly than in US rates.",
+     "quote_zh": "美國投資級的利差走闊是受控的，而供給壓力若存在，本來就該在那裡比在美國利率上表現得更清楚。",
+     "label": null,
+     "page": 1
+    },
+    {
+     "theme": "美國政治與政策",
+     "quote": "Bad news is that real action on issuance twists and fiscal must wait for the November QRA (Nov 2nd) and midterm elections (Nov 3rd).",
+     "quote_zh": "壞消息是，發行結構調整與財政上的實質動作，得等到 11 月 2 日的季度再融資公告與 11 月 3 日的期中選舉。",
+     "label": null,
+     "page": 1
+    },
+    {
+     "theme": "歐洲",
+     "quote": "France is the only clear candidate for an asset swap-driven selloff, but this is likely as fiscal concerns were reinforced by a rising political risk premium ahead of elections.",
+     "quote_zh": "法國是唯一明確由資產交換利差帶動賣壓的候選者，但這很可能是因為選舉前升高的政治風險溢酬強化了財政疑慮。",
+     "label": null,
+     "page": 1
+    }
+   ],
+   "charts": [
+    {
+     "kind": "grouped_bar",
+     "title": "民間供給的量體與財政部工具的量體不在同一個級距",
+     "subtitle": "美國投資級發行規模與國債買回規模對比，單位十億美元；各項期間定義不同，依報告原文並列",
+     "cats": [
+      "美國投資級今年迄今發行",
+      "去年投資級供給增量",
+      "財政部本季額外買回",
+      "財政部後續各季額外買回"
+     ],
+     "groups": [
+      {
+       "name": "金額",
+       "values": [
+        600,
+        700,
+        14,
+        16
+       ]
+      }
+     ],
+     "y_label": "十億美元",
+     "source": "Citi Research, Global Macro Strategy - Views and Trade Ideas: Mythbusting UST Concerns Amid the Global Bond Glut, 2026-08-27, 第 7 頁",
+     "grounding": [
+      "US IG issuance has come in at around 600bn YTD",
+      "an increase in supply last year by 700bn is quite relevant",
+      "the additional Treasury buybacks of at least 14bn this quarter and 16bn for subsequent quarters"
+     ],
+     "png": "2026-08-27-citi-global-macro-strategy-views-and-trade-ideas-1.png",
+     "svg": "2026-08-27-citi-global-macro-strategy-views-and-trade-ideas-1.svg",
+     "bytes": 117971
+    }
+   ]
+  },
   {
    "slug": "2026-08-25-goldman-sachs-japan-economics-analyst",
    "broker": "Goldman Sachs",
@@ -1386,7 +2826,7 @@
    ]
   }
  ],
- "crosscut": "**這一期真正的分歧只有一組，而且要連它的限定一起讀：中國八月的動能，野村由上往下看是更冷，高盛由下往上看是回溫。** 野村（8/24）盯的是財政帳 —— 七月財政收入年增加快到 11.7%、支出年增放緩到 0.5%，收縮在加深，因此判定上週那批地產與貼息措施「提振有限」，維持低於市場共識的第三季 4.3% GDP 成長預測。高盛的 China Basic Materials Monitor（同一天）盯的是產業通路 —— 終端月度前瞻訂單回升，42% 的受訪者預期 2026 年 8 月訂單較 7 月改善，而 7 月這個數字是 27%。**同一個八月、相反的方向**，兩邊的答案都寫得出來、也都掛著數字。\n\n**但要說清楚它薄在哪裡：兩家量的不是同一層。** 一個是財政流量，一個是廠商對下個月訂單的預期；財政收縮與訂單邊際改善在原理上可以同時成立。所以這一組要當成張力讀，不是誰對誰錯。它值得留下來的理由是**十月中的第三季 GDP 會把兩邊同時記分**。\n\n**歐洲那一組看起來像分歧，其實不是。** 花旗（歐元區，8/25）把 HICP 高峰上修到 3.7–3.8%，主因是天然氣與原油，並估 TTF 每上漲 10% 通常替 HICP 總指數加 7–10 個基點、影響持續約 18 個月；高盛（英國，8/25）同樣說躉售能源價格上漲讓通膨回不到目標，年底 headline 會彈到 3.3%。**兩家對「能源正在推高通膨」沒有意見不合，而且兩家都說下游傳導很弱** —— 花旗寫「能源傳導效應非常溫和，反映將成本上升轉嫁到最終售價的訂價能力有限」，高盛的結論是這個高度還不足以讓英格蘭銀行轉向升息。方向一致、地區不同，依 BRIEF 第三節不收進這一格。\n\n**本期最大的一個落差不在兩家券商之間，而在一家與官方之間。** 高盛替能源對 headline 通膨的貢獻算出 2027 年第 4 季是 −0.5 個百分點；改用期貨價格推算只有 −0.2 個百分點；而英格蘭銀行自己的假設是 −0.1 個百分點的拖累。**同一個變數、三個來源，差到五倍。** 這一格只收兩家券商對同一件事的不同答案，所以它記在這裡當註腳，不寫成 crosscut 條目。\n\n**最後要記一句結構上的事：這一期十一份裡高盛佔八份、花旗二份、野村一份。** 分歧要成立，得有兩家在講同一件事；而這一批的題目分布本來就不利 —— 央行這條線上高盛一家講了美國、英國、日本三個地區，沒有第二家可以對照。**crosscut 這一格薄，來源是這一批的組成，不是這一週沒有事情發生。**\n\n---\n\n**（2026-08-31 補收第 12 份之後）**\n\n高盛《Global Semis: CHIPS IV》（8/24，34 頁）晚了一輪才進來 —— 原因不在報告，在抽取器（見下面的 notes）。\n\n**它沒有帶來新的跨券商分歧**，但它把上面那句結構觀察講得更硬：這一期十二份裡高盛佔九份、花旗二份、野村一份。**半導體自給率這條線上只有高盛一家在講**，沒有第二家可以對照。\n\n**它與同一期的高盛《China Basic Materials Monitor》放在一起讀，是同一家內部的一組張力，記在這裡當觀察、不算 crosscut：** 半導體那份說中國先進製程的**量**正在快速收斂（7 奈米以下供需缺口從 2025 年的 92% 收斂到 2035 年的 34%），原物料那份說下游**需求**疲弱、鋼鐵與水泥毛利已轉負。一個講的是產能追上來，一個講的是需求沒跟上 —— **兩者可以同時為真，而它們指向的投資結論相反。**",
+ "crosscut": "**這一期真正的分歧只有一組，而且要連它的限定一起讀：中國八月的動能，野村由上往下看是更冷，高盛由下往上看是回溫。** 野村（8/24）盯的是財政帳 —— 七月財政收入年增加快到 11.7%、支出年增放緩到 0.5%，收縮在加深，因此判定上週那批地產與貼息措施「提振有限」，維持低於市場共識的第三季 4.3% GDP 成長預測。高盛的 China Basic Materials Monitor（同一天）盯的是產業通路 —— 終端月度前瞻訂單回升，42% 的受訪者預期 2026 年 8 月訂單較 7 月改善，而 7 月這個數字是 27%。**同一個八月、相反的方向**，兩邊的答案都寫得出來、也都掛著數字。\n\n**但要說清楚它薄在哪裡：兩家量的不是同一層。** 一個是財政流量，一個是廠商對下個月訂單的預期；財政收縮與訂單邊際改善在原理上可以同時成立。所以這一組要當成張力讀，不是誰對誰錯。它值得留下來的理由是**十月中的第三季 GDP 會把兩邊同時記分**。\n\n**歐洲那一組看起來像分歧，其實不是。** 花旗（歐元區，8/25）把 HICP 高峰上修到 3.7–3.8%，主因是天然氣與原油，並估 TTF 每上漲 10% 通常替 HICP 總指數加 7–10 個基點、影響持續約 18 個月；高盛（英國，8/25）同樣說躉售能源價格上漲讓通膨回不到目標，年底 headline 會彈到 3.3%。**兩家對「能源正在推高通膨」沒有意見不合，而且兩家都說下游傳導很弱** —— 花旗寫「能源傳導效應非常溫和，反映將成本上升轉嫁到最終售價的訂價能力有限」，高盛的結論是這個高度還不足以讓英格蘭銀行轉向升息。方向一致、地區不同，依 BRIEF 第三節不收進這一格。\n\n**本期最大的一個落差不在兩家券商之間，而在一家與官方之間。** 高盛替能源對 headline 通膨的貢獻算出 2027 年第 4 季是 −0.5 個百分點；改用期貨價格推算只有 −0.2 個百分點；而英格蘭銀行自己的假設是 −0.1 個百分點的拖累。**同一個變數、三個來源，差到五倍。** 這一格只收兩家券商對同一件事的不同答案，所以它記在這裡當註腳，不寫成 crosscut 條目。\n\n**最後要記一句結構上的事：這一期十一份裡高盛佔八份、花旗二份、野村一份。** 分歧要成立，得有兩家在講同一件事；而這一批的題目分布本來就不利 —— 央行這條線上高盛一家講了美國、英國、日本三個地區，沒有第二家可以對照。**crosscut 這一格薄，來源是這一批的組成，不是這一週沒有事情發生。**\n\n---\n\n**（2026-08-31 補收第 12 份之後）**\n\n高盛《Global Semis: CHIPS IV》（8/24，34 頁）晚了一輪才進來 —— 原因不在報告，在抽取器（見下面的 notes）。\n\n**它沒有帶來新的跨券商分歧**，但它把上面那句結構觀察講得更硬：這一期十二份裡高盛佔九份、花旗二份、野村一份。**半導體自給率這條線上只有高盛一家在講**，沒有第二家可以對照。\n\n**它與同一期的高盛《China Basic Materials Monitor》放在一起讀，是同一家內部的一組張力，記在這裡當觀察、不算 crosscut：** 半導體那份說中國先進製程的**量**正在快速收斂（7 奈米以下供需缺口從 2025 年的 92% 收斂到 2035 年的 34%），原物料那份說下游**需求**疲弱、鋼鐵與水泥毛利已轉負。一個講的是產能追上來，一個講的是需求沒跟上 —— **兩者可以同時為真，而它們指向的投資結論相反。**\n\n---\n\n**（2026-09-06 補收第 13 至 25 份之後）**\n\n**這一輪補進來的十三份帶來一組真正的分歧，而且兩邊都寫得出數字：華許在傑克森洞轉鷹之後，聯準會接下來會往哪一邊動。**\n\n花旗（8/28）的答案是「不會升，而且還會降」—— 它把撐住鷹派敘事的核心 PCE 判為眾多底層通膨指標裡的離群值，並在預測表裡排出 10/28、12/9、2027/1/27 三次降息、終點 2.75–3.0%。野村（8/28）的答案是「不動，而且降息這條路已經不在敘事裡」—— 它沒有改利率預測、仍喊無限期按兵不動，但把降息從路徑上拿掉，於是這條平線只剩下一個往上的出口。**同一場演說、同一個委員會、相反的偏斜方向**：一邊有三次降息的日期，一邊一次也沒有。\n\n裁決點是明確的：九月會議，以及會前的就業與通膨數據。花旗押的是資料會軟到讓鷹派敘事撐不住；野村押的是「反通膨停滯一旦成立就得升息」。**兩邊都把自己的條件寫了出來，所以這一組三個月內會被記分。**\n\n**中國那一組多了第三條腿。** 野村的中國房地產（8/29）說這批新政會改寫開發商的現金流結構 —— 現房銷售拉長現金回收周期、壓低內部報酬率 —— 但拉長房貸年限這類需求端措施改不動購房者對房價與收入的預期，**對消費的外溢有限**。那跟野村 8/24 從財政帳讀出來的冷，是同一個方向；高盛通路調查的八月訂單回升仍在對面。**這一組從「兩家兩個答案」變成「兩家三份證據」，張力的形狀沒有變，十月中的第三季 GDP 仍是同一個記分點。**\n\n**有一組看起來像分歧，我判定它不是，理由寫在這裡：AI 與通膨。** 花旗全球總經（8/27）說長端殖利率上行的主因是實質利率，而 AI 擴張把 R* 推高了；高盛美國經濟（8/30）說總體看不到過熱，就算往產業層級鑽，瓶頸也只集中在電機設備、機械與專業服務，替核心服務通膨只加了約 10 個基點。**兩者量的不是同一個變數** —— 一個是實質利率，一個是通膨，而「AI 推高實質中性利率」與「AI 沒有推高通膨」可以同時成立。依 BRIEF 第三節不收進這一格，記在這裡當註腳。\n\n**結構上的事要再記一次，因為這一批把它放大了：這一期二十五份裡高盛佔十七份、花旗四份、野村四份。** 分歧要成立，得有兩家在講同一件事；而高盛那十七份橫跨美國經濟、亞股、電商、娛樂、油品、實體 AI、印度，大多數題目上沒有第二家可以對照。**上面那一組聯準會分歧之所以立得起來，是因為它剛好落在花旗與野村都固定出週報的那條線上。**",
  "watch": [
   "洛杉磯港 Port Optimizer 的 8/28（152,388 TEU）與 9/4（133,355 TEU）兩週是**前瞻計畫值不是實績**；實際到港量就是「年增仍為正」這個主張的裁決點。",
   "西岸卡車運價與貨載：高盛說七、八月已有「有意義的下滑」，並讀成五、六月拉貨前置在退潮。九月是否延續，決定這是退潮還是轉弱。",
@@ -1400,7 +2840,16 @@
   "歐元區 HICP 高峰是否落在花旗押的 3.7–3.8%。傳導係數是 TTF 每漲 10% → 7–10 個基點、延遲約 18 個月，**所以要盯的是 TTF 而不是當月 HICP** —— 後者要一年半才走得完。",
   "中國第三季 GDP（十月中）：野村的 4.3%（低於共識）與高盛通路調查的八月訂單回升（42% 對前月 27%），會在這一天同時被記分。",
   "東協資料中心：高盛把瓶頸從「簽了多少購電協議」移到「電力能不能真的交付」，並預期已投產容量 2025 年約 3GW → 2030 年 13GW。**要追的是併網與共同出資的個案，不是新簽約容量的新聞稿。**",
-  "券商與加密貨幣股：高盛說看多的理由是九月起的季節性反轉、不是加密市值反彈，並自承五月出現過假訊號（市值急升卻未帶動交易量）。九月的交易量數據會直接把這兩個理由分開。"
+  "券商與加密貨幣股：高盛說看多的理由是九月起的季節性反轉、不是加密市值反彈，並自承五月出現過假訊號（市值急升卻未帶動交易量）。九月的交易量數據會直接把這兩個理由分開。",
+  "九月 FOMC：花旗排出的 10/28、12/9、2027/1/27 三次降息，對上野村的無限期按兵不動。會前的就業與通膨數據是第一個裁決點，會後聲明把理由掛在哪裡是第二個。",
+  "核心 PCE 是不是離群值：花旗整條立場建在這個判斷上。接下來幾個月其他底層通膨指標是否向核心 PCE 收斂，會直接把它記分。",
+  "日銀路徑訊號：市場已定價 2027 年 6 月前累計 75bp。野村說日圓要止跌得靠比這更鷹的路徑承諾，而不是財務省 7–8 月投入的 15.3 兆日圓干預 —— **要盯的是路徑指引的措辭，不是干預的金額。**",
+  "柴油裂解價差：高盛把 2027 年美歐相對布蘭特的價差從 2 月的 27／19 美元上修到 63／49 美元，且略高於市場遠期。中東與俄羅斯煉廠停機的恢復進度是這條的裁決點。",
+  "亞股的集中度：高盛十二個月的多頭部位，扣掉韓國與台灣的 AI 硬體獲利只剩 8% 價格報酬。**要追的是那兩地的硬體獲利修正，不是指數本身。**",
+  "人形機器人：高盛把出貨預測一次上修四倍，撐住它的是倉儲物流那本帳（亞馬遜到 2030 年約省 720 億美元、約 240 個基點的利益率順風）。**要追的是 BOM 成本曲線走不走得到，不是新的示範影片。**",
+  "電商：全球商品交易成長已降到 +6%，代理式購物停在「消費者願意讓 AI 比價、不願讓 AI 下單」。**要追的是下單轉換率，不是流量。**",
+  "印度：財政減稅補貼與前置降息這兩股推力的高峰都已經過去。接力的是誰 —— 民間資本支出還是出口 —— 是這條的裁決點。",
+  "私募信貸與公開聯貸的定價落差（見 W36）：公開市場的軟體貸款已從 95.2 掉到 87.6，私募帳面才走到一半。"
  ],
  "notes": [
   "本期立場的 `label` 全部為 null —— 立場受控詞表尚未訂定（BRIEF 第五節），先累積分析師原句。",
@@ -1417,7 +2866,13 @@
   "**這一期是第三次寫入**（3 → 11 → 12 份），全部走 `append_only`。前十一份的內容一字未動。",
   "**《Global Semis: CHIPS IV》是這一批唯一用 `pdfplumber` 抽的**，其餘 42 份是 `pdftotext`，所以 `research.one_engine` 出 WARN —— **那是預期的，不是要去消掉的**。原因：`pdftotext` 對它的第一頁只吐出 113 個字元（全部是浮水印），剃完剩 0；`pdfplumber` 對同一頁吐出 3,103 字元，報告日期就印在第一行（`EQUITY RESEARCH | August 24, 2026 | 12:06 AM HKT`）。2026-08-31 起 `extract.py` 有逐檔退路：主抽取器把第一頁抽成空的時，**只有那一份**換下一支，並把 `engine_fallback` 記進抽取結果。",
   "**8/30 那一輪把它判成「第一頁是圖檔」，那個判斷是錯的。** 當時看到浮水印以外沒有東西就下了推論，**沒有換一支抽取器試過**，而那句話被寫進了 `RUN-PROMPT` 正本當成事實。8/31 實測推翻並已訂正。留這一筆在這裡，是因為它示範的正是那份文件自己記著的形狀：**「抽不到」與「不存在」在輸出上長得一模一樣。**",
-  "混軌的代價是真的：兩軌對旋轉文字、欄位與空白的處理不同，所以**這一份的剃除佔比（1.1%）不要拿去跟其餘十一份比**。份內的原句與 grounding 不受影響 —— 每一份只跟自己那份的抽取文字逐字比對。"
+  "混軌的代價是真的：兩軌對旋轉文字、欄位與空白的處理不同，所以**這一份的剃除佔比（1.1%）不要拿去跟其餘十一份比**。份內的原句與 grounding 不受影響 —— 每一份只跟自己那份的抽取文字逐字比對。",
+  "**這一期是第四次寫入**（3 → 11 → 12 → 25 份），全部走 `append_only`。既有十二份的內容一字未動，被改寫的只有 `crosscut`／`watch`／`notes`。",
+  "**這一輪補進的十三份全部由 `pdftotext` 抽取，沒有任何一份換軌。** `research.one_engine` 仍出 WARN，來源是 W35 既有的《Global Semis: CHIPS IV》那一份是 `pdfplumber` —— 那是 2026-08-31 就記過的預期行為，**不去消掉它**。",
+  "**圖：這一期 24 張裡沿用 12 張、重畫 12 張**（重畫的都是這一輪新進的報告）。2026-08-31 加的「規格沒變就不重畫」在這一輪第一次對已發布的期別生效 —— 既有十二份的圖連渲染都沒有跑。",
+  "**有六份沒有進任何一期：摩根大通（J.P. Morgan）那一批。** 它是第四家券商，而 `extract.py` 的 `BROKERS` 對照表只有野村、高盛、花旗三家，`title.py` 也只有這三家的取法，於是六份全部 `broker=None`、`title_source=filename`，`build_index` 對「辨識不全」的反應是拒絕替整批建索引。**另外還有一層**：`product` 取自檔名底線前的第一段，六份的檔名都以 `JPM_` 開頭，於是同一天的四份全部撞成同一個 slug（`2026-08-28-unknown-jpm`），其中三份根本沒有被寫出來。已把寫出來的三份抽取結果移到 `broker-research/_pending/`（在所有 repo 之外），**原始 PDF 留在 inbox 未動**。要收它們得先做 RUN-PROMPT 寫的順序：先把期望標題人工讀進 `title_fixture.json`，再改 `title.py` 的對照表，而 slug 消歧要另外規劃 —— 那會動到身分，所以留給使用者裁決，沒有自己改。",
+  "**摩根大通那六份的日期辨識也對不上檔名**：`JPM_Recoupling…2026-08-27` 抽出 2026-08-26、`JPM_Savior…2026-07-29` 抽出 2026-07-09、`JPM_U_S__Fixed_Income…2026-08-29` 抽出 2026-08-28。哪一個是報告自己的日期、哪一個是下載日，**這一輪判斷不了，所以沒有動它**。",
+  "**撰稿子代理有九份的初稿低於下界、做了一次收斂補寫**（多數落在 2,300–3,500 之間補到區間內）。preamble 要求的「一次收斂」這一輪大致守住了 —— 只有兩份做了第二輪，記在這裡是因為那是回合成本最貴的一段。"
  ],
  "date": "2026-08-30"
 }

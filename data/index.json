@@ -7,37 +7,56 @@
     "2026-08-24",
     "2026-08-30"
    ],
-   "reports": 12,
+   "reports": 25,
    "brokers": {
-    "Citi": 2,
-    "Goldman Sachs": 9,
-    "Nomura": 1
+    "Citi": 4,
+    "Goldman Sachs": 17,
+    "Nomura": 4
    },
    "tags": [
     "中國",
     "中小企業融資",
     "中東",
+    "亞股",
     "人工智慧",
+    "人形機器人",
     "供應鏈",
+    "俄羅斯",
     "加密貨幣",
     "勞動市場",
     "半導體",
     "印尼",
+    "印度",
+    "印度央行",
     "原油",
+    "台灣",
     "墨西哥",
     "天然氣",
     "央行溝通",
     "巴西",
     "建材",
+    "房地產",
+    "房貸",
+    "投資級信用",
     "拉丁美洲",
     "日圓",
     "日本",
     "日本銀行",
+    "期中選舉",
+    "期限溢酬",
+    "柴油裂解價差",
     "歐洲",
     "歐洲央行",
     "殖利率曲線",
+    "消費",
+    "煉油產能",
     "監理",
+    "石油庫存",
+    "美元",
     "美國",
+    "美國公債",
+    "美國財政部",
+    "美股",
     "聖嬰現象",
     "聯準會",
     "英國",
@@ -55,10 +74,253 @@
     "電力",
     "電動車",
     "電子商務",
+    "韓國",
     "預測市場",
     "馬來西亞"
    ],
    "items": [
+    {
+     "slug": "2026-08-30-goldman-sachs-us-economics-analyst",
+     "broker": "Goldman Sachs",
+     "title": "US Economics Analyst: Looking for Pockets of Overheating",
+     "date": "2026-08-30",
+     "pages": 15,
+     "tags": [
+      "美國",
+      "通膨",
+      "勞動市場",
+      "聯準會",
+      "人工智慧"
+     ],
+     "chars": 3664,
+     "headline": "經濟沒有過熱，AI 造成的產能瓶頸只集中在電機設備、機械與專業服務三處",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-08-30-goldman-sachs-india-views",
+     "broker": "Goldman Sachs",
+     "title": "India Views: What Is Driving the Growth Resilience?",
+     "date": "2026-08-30",
+     "pages": 8,
+     "tags": [
+      "印度",
+      "印度央行",
+      "財政政策",
+      "關稅",
+      "消費",
+      "原油"
+     ],
+     "chars": 2835,
+     "headline": "印度的成長韌性來自財政與貨幣的雙重補貼，而這兩股推力的高峰都已經過去",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-08-30-goldman-sachs-global-physical-ai",
+     "broker": "Goldman Sachs",
+     "title": "Global Physical AI: Framing the Forward Progress of Humanoids (with a Studied Focus on the Logistics Landscape)",
+     "date": "2026-08-30",
+     "pages": 80,
+     "tags": [
+      "人形機器人",
+      "人工智慧",
+      "半導體",
+      "電子商務",
+      "勞動市場",
+      "美股"
+     ],
+     "chars": 4481,
+     "headline": "人形機器人出貨預測一次上修四倍，撐住這個數字的不是技術突破，而是倉儲物流那本算得出來的帳",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-08-30-goldman-sachs-asian-equity-perspectives",
+     "broker": "Goldman Sachs",
+     "title": "Asian Equity Perspectives: Into the home stretch",
+     "date": "2026-08-30",
+     "pages": 17,
+     "tags": [
+      "亞股",
+      "韓國",
+      "台灣",
+      "半導體",
+      "期中選舉",
+      "美國公債"
+     ],
+     "chars": 3773,
+     "headline": "亞股續多的理由高度集中：扣掉韓國與台灣，十二個月只剩 8% 的價格報酬",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-08-30-goldman-sachs-americas-entertainment",
+     "broker": "Goldman Sachs",
+     "title": "Americas Entertainment: Key Themes & Debates heading into Communacopia + Technology 2026 for US Entertainment",
+     "date": "2026-08-30",
+     "pages": 28,
+     "tags": [
+      "美國",
+      "美股",
+      "消費",
+      "人工智慧",
+      "監理"
+     ],
+     "chars": 3649,
+     "headline": "現場活動的可見度是真的，但把 2026 的動能直接外推到 2027，是這個族群最大的風險",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-08-29-nomura-1318120",
+     "broker": "Nomura",
+     "title": "China property development: Structural policy changes amid sector downcycle",
+     "date": "2026-08-29",
+     "pages": 9,
+     "tags": [
+      "中國",
+      "房地產",
+      "房貸",
+      "監理",
+      "消費"
+     ],
+     "chars": 2816,
+     "headline": "政策改寫了開發商的現金流節奏，卻改不動購房者的預期",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-08-29-nomura-1318100",
+     "broker": "Nomura",
+     "title": "JPY Weekly: One step at a time",
+     "date": "2026-08-29",
+     "pages": 13,
+     "tags": [
+      "日本",
+      "日圓",
+      "日本銀行",
+      "聯準會",
+      "財政政策"
+     ],
+     "chars": 4058,
+     "headline": "日圓要止跌，關鍵不在干預規模，而在日銀願不願意比市場定價更鷹",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-08-28-nomura-1318109",
+     "broker": "Nomura",
+     "title": "US Economic Weekly: Hawk sighting",
+     "date": "2026-08-28",
+     "pages": 14,
+     "tags": [
+      "美國",
+      "聯準會",
+      "勞動市場",
+      "通膨",
+      "央行溝通",
+      "人工智慧"
+     ],
+     "chars": 3857,
+     "headline": "華許轉鷹之後，野村的結論不是升息在即，而是降息這個選項已經消失",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-08-28-goldman-sachs-oil-analyst",
+     "broker": "Goldman Sachs",
+     "title": "Oil Analyst: Higher Product Margins for Longer on Higher Outages and Lower Stocks",
+     "date": "2026-08-28",
+     "pages": 18,
+     "tags": [
+      "原油",
+      "柴油裂解價差",
+      "煉油產能",
+      "石油庫存",
+      "中東",
+      "俄羅斯"
+     ],
+     "chars": 3762,
+     "headline": "柴油價差站上高位不是需求推的，是煉油產能被打掉的——所以它會撐到 2027 年",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-08-28-goldman-sachs-global-technology",
+     "broker": "Goldman Sachs",
+     "title": "Global Technology: Internet: 2026 Global eCommerce Handbook: Assessing the Industry in an Increasingly Agentic World",
+     "date": "2026-08-28",
+     "pages": 76,
+     "tags": [
+      "電子商務",
+      "人工智慧",
+      "美股",
+      "拉丁美洲",
+      "印度"
+     ],
+     "chars": 4477,
+     "headline": "電商的成長已經不在商品交易，而在廣告與生態系的高毛利收入",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-08-28-goldman-sachs-americas-technology",
+     "broker": "Goldman Sachs",
+     "title": "Americas Technology: Internet: Q2'26 EPS Review & Communacopia + Tech Conference Preview: Where to from Here: ... San Francisco (of course)",
+     "date": "2026-08-28",
+     "pages": 50,
+     "tags": [
+      "美國",
+      "美股",
+      "人工智慧",
+      "資料中心",
+      "電子商務",
+      "電力"
+     ],
+     "chars": 4617,
+     "headline": "資本支出還會再往上加，但市場只肯為「當期就能變現的 AI」出價",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-08-28-citi-us-economics-weekly",
+     "broker": "Citi",
+     "title": "US Economics Weekly: Softer data to keep September hike unlikely",
+     "date": "2026-08-28",
+     "pages": 22,
+     "tags": [
+      "美國",
+      "聯準會",
+      "通膨",
+      "勞動市場",
+      "美國公債",
+      "人工智慧"
+     ],
+     "chars": 3986,
+     "headline": "Warsh 的鷹派演說沒有預告升息，九月不動的關鍵是核心 PCE 已經是個離群值",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-08-27-citi-global-macro-strategy-views-and-trade-ideas",
+     "broker": "Citi",
+     "title": "Global Macro Strategy - Views and Trade Ideas: Mythbusting UST Concerns Amid the Global Bond Glut",
+     "date": "2026-08-27",
+     "pages": 23,
+     "tags": [
+      "美國公債",
+      "期限溢酬",
+      "美國財政部",
+      "聯準會",
+      "投資級信用",
+      "美元"
+     ],
+     "chars": 3923,
+     "headline": "長端殖利率的兇手是實質利率與油價，不是美國的財政赤字",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
     {
      "slug": "2026-08-25-goldman-sachs-japan-economics-analyst",
      "broker": "Goldman Sachs",
@@ -1047,7 +1309,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-08-31T01:03:19+00:00",
- "updatedLabel": "8/31 09:03",
+ "updated": "2026-09-06T15:43:04+00:00",
+ "updatedLabel": "9/6 23:43",
  "count": 6
 }
