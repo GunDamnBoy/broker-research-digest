@@ -1,6 +1,138 @@
 {
  "days": [
   {
+   "date": "2026-09-06",
+   "week": "2026-W36",
+   "range": [
+    "2026-08-31",
+    "2026-09-06"
+   ],
+   "reports": 5,
+   "brokers": {
+    "Goldman Sachs": 4,
+    "Nomura": 1
+   },
+   "tags": [
+    "中國",
+    "人工智慧",
+    "人形機器人",
+    "供應鏈",
+    "勞動市場",
+    "原物料",
+    "天然氣",
+    "日圓",
+    "日本",
+    "日本銀行",
+    "槓桿貸款",
+    "消費",
+    "私募債",
+    "美國",
+    "財政政策",
+    "資料中心",
+    "軟體",
+    "電力",
+    "電動車",
+    "電子商務",
+    "食品飲料"
+   ],
+   "items": [
+    {
+     "slug": "2026-09-01-nomura-1318392",
+     "broker": "Nomura",
+     "title": "Japan Economic Weekly: Total FY27 budget requests could approach ¥144trn",
+     "date": "2026-09-01",
+     "pages": 23,
+     "tags": [
+      "日本",
+      "日本銀行",
+      "財政政策",
+      "中國",
+      "消費",
+      "日圓"
+     ],
+     "chars": 3685,
+     "headline": "FY27 概算要求逼近 ¥144trn 算得出來，但真正決定發債量的是財務省談判與個人投資人的胃口",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-08-31-goldman-sachs-japan-automobiles",
+     "broker": "Goldman Sachs",
+     "title": "Japan Automobiles: Humanoids & Auto: Building Physical AI Together",
+     "date": "2026-08-31",
+     "pages": 34,
+     "tags": [
+      "日本",
+      "人形機器人",
+      "人工智慧",
+      "電動車",
+      "供應鏈",
+      "勞動市場"
+     ],
+     "chars": 4493,
+     "headline": "人形機器人的關卡在量產不在 AI，所以落後一輪的日本車廠反而站在有利的位置",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-08-31-goldman-sachs-china-consumer-staples",
+     "broker": "Goldman Sachs",
+     "title": "China Consumer Staples: Prepared Foods 2Q26 wrap-up: Muted small-B demand but growth from major B & new channels; rising competition in packaged meat and key factors to monitor in 2H - raw materials/logistics",
+     "date": "2026-08-31",
+     "pages": 16,
+     "tags": [
+      "中國",
+      "消費",
+      "食品飲料",
+      "電子商務",
+      "原物料"
+     ],
+     "chars": 3759,
+     "headline": "四家預製食品公司的營收全數優於高盛預期，卻沒有一家把它變成獲利",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-08-31-goldman-sachs-americas-utilities",
+     "broker": "Goldman Sachs",
+     "title": "Americas Utilities: US Power Pipeline: Solar and storage continue to drive July capacity adds, coal retirements remain muted",
+     "date": "2026-08-31",
+     "pages": 21,
+     "tags": [
+      "美國",
+      "電力",
+      "資料中心",
+      "人工智慧",
+      "天然氣",
+      "勞動市場"
+     ],
+     "chars": 3784,
+     "headline": "七月新增容量由太陽能與儲能撐起，天然氣進度落後，真正卡住美國電力供給的已經是人力",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-08-31-goldman-sachs-alternatives-analyst",
+     "broker": "Goldman Sachs",
+     "title": "Alternatives Analyst: Private Credit: Redemption Concerns Fade, While Software Moves Into Focus",
+     "date": "2026-08-31",
+     "pages": 16,
+     "tags": [
+      "私募債",
+      "軟體",
+      "人工智慧",
+      "美國",
+      "槓桿貸款"
+     ],
+     "chars": 3895,
+     "headline": "贖回擠兌不是私募信貸的問題，軟體資產的重新定價才是",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    }
+   ],
+   "file": "data/2026-09-06.json"
+  },
+  {
    "date": "2026-08-30",
    "week": "2026-W35",
    "range": [
@@ -1309,7 +1441,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-09-06T15:43:04+00:00",
+ "updated": "2026-09-06T15:43:12+00:00",
  "updatedLabel": "9/6 23:43",
- "count": 6
+ "count": 7
 }
