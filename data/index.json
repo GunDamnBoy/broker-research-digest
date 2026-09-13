@@ -1,6 +1,291 @@
 {
  "days": [
   {
+   "date": "2026-09-13",
+   "week": "2026-W37",
+   "range": [
+    "2026-09-07",
+    "2026-09-13"
+   ],
+   "reports": 12,
+   "brokers": {
+    "Citi": 3,
+    "Goldman Sachs": 6,
+    "JPM": 2,
+    "Nomura": 1
+   },
+   "tags": [
+    "中國",
+    "中東",
+    "亞股",
+    "人工智慧",
+    "人形機器人",
+    "供應鏈",
+    "俄羅斯",
+    "保險",
+    "出口配額",
+    "原油",
+    "原物料",
+    "國防",
+    "地方選舉",
+    "央行溝通",
+    "德國",
+    "戰略石油儲備",
+    "房地產",
+    "房貸",
+    "指數納入資格",
+    "日圓",
+    "日本",
+    "日本銀行",
+    "期中選舉",
+    "歐元",
+    "歐洲",
+    "歐洲央行",
+    "監理",
+    "石油庫存",
+    "移民",
+    "美國",
+    "美國公債",
+    "美股",
+    "聖嬰現象",
+    "聯合政府",
+    "聯準會",
+    "英格蘭銀行",
+    "財政政策",
+    "資料中心",
+    "通膨",
+    "金融股",
+    "電力",
+    "韓國",
+    "黃金"
+   ],
+   "items": [
+    {
+     "slug": "2026-09-08-jpm-5437525",
+     "broker": "JPM",
+     "title": "Asia Pacific Equity Derivatives Strategy: BoJ in Focus: Low Event Premium, Reduced Dealer Short Gamma; TPX Upside as Japan Equities Absorb Higher Rates",
+     "date": "2026-09-08",
+     "pages": 20,
+     "tags": [
+      "日本",
+      "日本銀行",
+      "日圓",
+      "央行溝通",
+      "中國",
+      "亞股"
+     ],
+     "chars": 3636,
+     "headline": "日銀升息本身不是風險，股票選擇權把事件保費全讓給了匯市與利率市場",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-08-goldman-sachs-china-property",
+     "broker": "Goldman Sachs",
+     "title": "China Property: Expert expects resilient 4Q volume and Shanghai to continue to lead price recovery",
+     "date": "2026-09-08",
+     "pages": 9,
+     "tags": [
+      "中國",
+      "房地產",
+      "房貸",
+      "監理"
+     ],
+     "chars": 2677,
+     "headline": "量能已經回來了，價格的轉折卻要等上海在 2027 年春天先發生",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-08-citi-cets-a-syllabus-for-the-final-third-of-2026",
+     "broker": "Citi",
+     "title": "CETS: a syllabus for the final third of 2026",
+     "date": "2026-09-08",
+     "pages": 27,
+     "tags": [
+      "美國",
+      "美股",
+      "人工智慧",
+      "聯準會",
+      "期中選舉",
+      "美國公債"
+     ],
+     "chars": 3590,
+     "headline": "AI 支出滴漏出來的獲利撐住了今年的美股，所以九月的風險在事件排程而不在基本面",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-07-nomura-1319320",
+     "broker": "Nomura",
+     "title": "First Insights: Germany: The long road to Merz's replacement",
+     "date": "2026-09-07",
+     "pages": 8,
+     "tags": [
+      "德國",
+      "歐洲",
+      "歐元",
+      "移民",
+      "財政政策",
+      "歐洲央行"
+     ],
+     "chars": 3005,
+     "headline": "AfD 的勝選不是重點，CDU 的失血才是——梅爾茨在 2027 年底前下台的風險已被實質推高",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-07-jpm-5435811",
+     "broker": "JPM",
+     "title": "European Equity Futures Rollover Outlook: September 2026- December 2026",
+     "date": "2026-09-07",
+     "pages": 22,
+     "tags": [
+      "歐洲",
+      "歐洲央行",
+      "英格蘭銀行",
+      "指數納入資格",
+      "金融股",
+      "韓國"
+     ],
+     "chars": 3512,
+     "headline": "六月那根融資尖峰是三個具名的異常需求撐起來的，不是結構性緊縮，所以這次轉倉會很平淡",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-07-goldman-sachs-south-korea-industrials",
+     "broker": "Goldman Sachs",
+     "title": "South Korea Industrials: Actuators, Missiles, and Electricity",
+     "date": "2026-09-07",
+     "pages": 9,
+     "tags": [
+      "韓國",
+      "人形機器人",
+      "國防",
+      "電力",
+      "人工智慧",
+      "資料中心"
+     ],
+     "chars": 3058,
+     "headline": "機器人的拐點已經到了，但第一筆錢落在致動器，不在整機",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-07-goldman-sachs-oil-analyst",
+     "broker": "Goldman Sachs",
+     "title": "Oil Analyst: Ongoing Disruptions, More Adaptation: Nudging Up Our Price Forecast",
+     "date": "2026-09-07",
+     "pages": 20,
+     "tags": [
+      "原油",
+      "中東",
+      "中國",
+      "石油庫存",
+      "戰略石油儲備"
+     ],
+     "chars": 3605,
+     "headline": "即使把中東航運中斷延續到 2027 寫進基準，油價預測也只調高 5 美元",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-07-goldman-sachs-goal-kickstart",
+     "broker": "Goldman Sachs",
+     "title": "GOAL Kickstart: Summer rotation moderation with higher yields and commodities",
+     "date": "2026-09-07",
+     "pages": 31,
+     "tags": [
+      "美國",
+      "美股",
+      "美國公債",
+      "黃金",
+      "原物料",
+      "聯準會"
+     ],
+     "chars": 4475,
+     "headline": "夏季的順週期輪動還在走，但引擎換成了原物料與殖利率，股票接下來三個月幾乎沒有報酬",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-07-goldman-sachs-china-insurance",
+     "broker": "Goldman Sachs",
+     "title": "China Insurance: Implications of announced capital supports for insurance industry",
+     "date": "2026-09-07",
+     "pages": 8,
+     "tags": [
+      "中國",
+      "保險",
+      "金融股",
+      "財政政策",
+      "監理"
+     ],
+     "chars": 2626,
+     "headline": "財政部七百億元注資是中央對保險業的背書，規模卻只有先前傳聞的三分之一出頭",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-07-goldman-sachs-agriculture-analyst",
+     "broker": "Goldman Sachs",
+     "title": "Agriculture Analyst Higher Barriers to Trade, Lower Barriers to Shocks Hormuz, Black Sea and a Super El Niño",
+     "date": "2026-09-07",
+     "pages": 14,
+     "tags": [
+      "原物料",
+      "聖嬰現象",
+      "中東",
+      "俄羅斯",
+      "出口配額",
+      "供應鏈"
+     ],
+     "chars": 3642,
+     "headline": "真正的風險不是這三個衝擊本身，而是它們同時撞上一個正在關門的農產市場",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-07-citi-maximilian-layton-ac",
+     "broker": "Citi",
+     "title": "Global Commodities: SoH and El Nino present upside risks to commodities & inflation; structurally bullish metals themes expected to shine through",
+     "date": "2026-09-07",
+     "pages": 48,
+     "tags": [
+      "原油",
+      "黃金",
+      "原物料",
+      "中東",
+      "資料中心",
+      "通膨"
+     ],
+     "chars": 4613,
+     "headline": "海峽關閉撐起來的能源漲勢會在第四季掉下去，撐起金屬的那幾條結構需求不會",
+     "title_source": "pdf_meta",
+     "title_confident": false
+    },
+    {
+     "slug": "2026-09-07-citi-afd-wins-saxony-anhalt-state-election-falls-short-of-outrigh",
+     "broker": "Citi",
+     "title": "European Economics: AfD wins Saxony-Anhalt state election, falls short of outright majority",
+     "date": "2026-09-07",
+     "pages": 8,
+     "tags": [
+      "德國",
+      "歐洲",
+      "地方選舉",
+      "聯合政府"
+     ],
+     "chars": 2603,
+     "headline": "AfD 贏下薩克森-安哈特，但真正的風險不是聯邦政府垮台，而是政策交付繼續停擺",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    }
+   ],
+   "file": "data/2026-09-13.json"
+  },
+  {
    "date": "2026-09-06",
    "week": "2026-W36",
    "range": [
@@ -1441,7 +1726,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-09-06T15:43:12+00:00",
- "updatedLabel": "9/6 23:43",
- "count": 7
+ "updated": "2026-09-13T16:50:26+00:00",
+ "updatedLabel": "9/14 00:50",
+ "count": 8
 }
