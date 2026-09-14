@@ -292,9 +292,11 @@
     "2026-08-31",
     "2026-09-06"
    ],
-   "reports": 5,
+   "reports": 18,
    "brokers": {
-    "Goldman Sachs": 4,
+    "Citi": 3,
+    "Goldman Sachs": 11,
+    "JPM": 3,
     "Nomura": 1
    },
    "tags": [
@@ -303,24 +305,289 @@
     "人形機器人",
     "供應鏈",
     "勞動市場",
+    "半導體",
     "原物料",
     "天然氣",
+    "央行溝通",
+    "德國",
+    "投資級信用",
     "日圓",
     "日本",
     "日本銀行",
+    "期中選舉",
     "槓桿貸款",
+    "歐元",
+    "歐洲",
+    "歐洲央行",
+    "殖利率曲線",
+    "法國",
     "消費",
+    "液化天然氣",
+    "生技製藥",
+    "監理",
     "私募債",
+    "美元",
     "美國",
+    "美國公債",
+    "美股",
+    "聯準會",
+    "臨床試驗",
     "財政政策",
     "資料中心",
     "軟體",
+    "通膨",
+    "銀行股",
     "電力",
     "電動車",
     "電子商務",
-    "食品飲料"
+    "食品飲料",
+    "黃金"
    ],
    "items": [
+    {
+     "slug": "2026-09-06-goldman-sachs-global-healthcare",
+     "broker": "Goldman Sachs",
+     "title": "Global Healthcare: Pharmaceuticals: Back-to-School Kickstart: 10 High-Level Themes; Selectively Constructive",
+     "date": "2026-09-06",
+     "pages": 13,
+     "tags": [
+      "美國",
+      "歐洲",
+      "中國",
+      "生技製藥",
+      "臨床試驗",
+      "期中選舉"
+     ],
+     "chars": 4474,
+     "headline": "製藥股的重估是真的，但接下來的報酬要從個別臨床事件裡賺，不是從整個類股",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-04-jpm-5437550",
+     "broker": "JPM",
+     "title": "US Weekly Prospects",
+     "date": "2026-09-04",
+     "pages": 19,
+     "tags": [
+      "美國",
+      "聯準會",
+      "通膨",
+      "勞動市場",
+      "日本銀行",
+      "歐洲央行"
+     ],
+     "chars": 3892,
+     "headline": "通膨的三個月數字確實在降，但降下來的可能是雜訊而不是趨勢",
+     "title_source": "page_one",
+     "title_confident": false
+    },
+    {
+     "slug": "2026-09-04-jpm-5436537",
+     "broker": "JPM",
+     "title": "The J.P. Morgan View: Tighter Policy Meets AI Capex: Risk Resilient For Now",
+     "date": "2026-09-04",
+     "pages": 14,
+     "tags": [
+      "美國",
+      "聯準會",
+      "人工智慧",
+      "美股",
+      "美國公債",
+      "期中選舉"
+     ],
+     "chars": 3848,
+     "headline": "升息重訂價沒有打倒風險資產，真正在改變規則的是 AI 資本支出抽走了股市的邊際買盤",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-04-jpm-5432337",
+     "broker": "JPM",
+     "title": "FX Markets Weekly: Leaning into bullish USD trades (again)",
+     "date": "2026-09-04",
+     "pages": 49,
+     "tags": [
+      "美元",
+      "日圓",
+      "聯準會",
+      "日本銀行",
+      "日本",
+      "美國"
+     ],
+     "chars": 4842,
+     "headline": "美元被低估的那 3–4% 才是這筆交易，弱勢美元敘事沒有立論基礎",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-04-goldman-sachs-global-rates-trader",
+     "broker": "Goldman Sachs",
+     "title": "Global Rates Trader: Eyes on the Price",
+     "date": "2026-09-04",
+     "pages": 19,
+     "tags": [
+      "美國公債",
+      "殖利率曲線",
+      "聯準會",
+      "天然氣",
+      "日本銀行",
+      "歐洲"
+     ],
+     "chars": 3875,
+     "headline": "全球殖利率卡在高檔不是市場失靈，而是基本面還沒給出鬆手的理由",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-04-goldman-sachs-global-fx-trader",
+     "broker": "Goldman Sachs",
+     "title": "Global FX Trader: Is This For Real?",
+     "date": "2026-09-04",
+     "pages": 11,
+     "tags": [
+      "日圓",
+      "美元",
+      "歐元",
+      "日本銀行",
+      "聯準會",
+      "中國"
+     ],
+     "chars": 4051,
+     "headline": "日圓的轉折可能真的開始了，但高盛自己的預測表還押在日圓更弱",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-04-goldman-sachs-european-economics-analyst",
+     "broker": "Goldman Sachs",
+     "title": "European Economics Analyst: ECB Preview—Another Hike Without Guidance",
+     "date": "2026-09-04",
+     "pages": 12,
+     "tags": [
+      "歐洲央行",
+      "歐洲",
+      "通膨",
+      "天然氣",
+      "央行溝通"
+     ],
+     "chars": 3563,
+     "headline": "九月這一碼沒有懸念，被改寫的是十二月 —— 高盛把第三次升息的門檻從「不太可能」下修為「很低」",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-04-goldman-sachs-europe-weekly-kickstart",
+     "broker": "Goldman Sachs",
+     "title": "Europe Weekly Kickstart: Back to School: Constructive, but Selective",
+     "date": "2026-09-04",
+     "pages": 27,
+     "tags": [
+      "歐洲",
+      "法國",
+      "德國",
+      "天然氣",
+      "財政政策",
+      "銀行股"
+     ],
+     "chars": 3742,
+     "headline": "歐股的便宜是真的，但接下來的報酬得靠獲利賺，不能再指望估值往上",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-04-citi-stable-labor-market-means-later-rate-cuts",
+     "broker": "Citi",
+     "title": "US Economics: \"Stable\" labor market means later rate cuts",
+     "date": "2026-09-04",
+     "pages": 10,
+     "tags": [
+      "美國",
+      "勞動市場",
+      "聯準會",
+      "通膨",
+      "央行溝通"
+     ],
+     "chars": 2761,
+     "headline": "勞動市場「穩定」不是降息的理由，它把降息推到 2027 年 6 月",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-03-goldman-sachs-natural-gas-analyst",
+     "broker": "Goldman Sachs",
+     "title": "Natural Gas Analyst: US Softening in 2027, Until Demand Growth Large Enough From 2029",
+     "date": "2026-09-03",
+     "pages": 14,
+     "tags": [
+      "美國",
+      "天然氣",
+      "液化天然氣",
+      "電力",
+      "原物料"
+     ],
+     "chars": 3777,
+     "headline": "供給與需求都在變大，但不在同一年變大，這個時間錯配才是未來十年美國天然氣的價格機制",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-03-goldman-sachs-global-credit-trader",
+     "broker": "Goldman Sachs",
+     "title": "Global Credit Trader: An Elusive Summer Slowdown",
+     "date": "2026-09-03",
+     "pages": 58,
+     "tags": [
+      "投資級信用",
+      "人工智慧",
+      "歐洲",
+      "美國公債",
+      "財政政策",
+      "美國"
+     ],
+     "chars": 4537,
+     "headline": "暑假的供給淡季沒有出現，而今年信用債的報酬握在公債殖利率手上，不在利差手上",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-03-citi-the-warsh-shadow-rate",
+     "broker": "Citi",
+     "title": "Global Macro Strategy - Views and Trade Ideas: The Warsh Shadow Rate",
+     "date": "2026-09-03",
+     "pages": 26,
+     "tags": [
+      "聯準會",
+      "美國",
+      "通膨",
+      "美國公債",
+      "黃金",
+      "央行溝通"
+     ],
+     "chars": 4303,
+     "headline": "渥許拒絕給反應函數，卻點名了一整排發燙的指標——八月 CPI 成了擋下九月升息的唯一一道關卡",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-03-citi-born-to-run-still-early-in-the-multi-year-ai-investment-cycl",
+     "broker": "Citi",
+     "title": "Multi-Asset: Data Center GAINs (Gen AI Names): Born to Run: Still Early in the Multi-Year AI Investment Cycle",
+     "date": "2026-09-03",
+     "pages": 76,
+     "tags": [
+      "資料中心",
+      "人工智慧",
+      "電力",
+      "半導體",
+      "美國",
+      "監理"
+     ],
+     "chars": 4983,
+     "headline": "AI 投資週期的瓶頸已經不在需求，而在電力與地方政治",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
     {
      "slug": "2026-09-01-nomura-1318392",
      "broker": "Nomura",
@@ -1908,7 +2175,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-09-14T00:37:55+00:00",
- "updatedLabel": "9/14 08:37",
+ "updated": "2026-09-14T00:38:04+00:00",
+ "updatedLabel": "9/14 08:38",
  "count": 10
 }
