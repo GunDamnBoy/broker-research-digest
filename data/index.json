@@ -424,10 +424,11 @@
     "2026-08-24",
     "2026-08-30"
    ],
-   "reports": 25,
+   "reports": 30,
    "brokers": {
     "Citi": 4,
     "Goldman Sachs": 17,
+    "JPM": 5,
     "Nomura": 4
    },
    "tags": [
@@ -439,6 +440,7 @@
     "人形機器人",
     "供應鏈",
     "俄羅斯",
+    "共同基金",
     "加密貨幣",
     "勞動市場",
     "半導體",
@@ -467,6 +469,7 @@
     "殖利率曲線",
     "消費",
     "煉油產能",
+    "生產力",
     "監理",
     "石油庫存",
     "美元",
@@ -645,6 +648,82 @@
      "title_confident": true
     },
     {
+     "slug": "2026-08-28-jpm-5429113",
+     "broker": "JPM",
+     "title": "U.S. Fixed Income Markets Weekly",
+     "date": "2026-08-28",
+     "pages": 137,
+     "tags": [
+      "美國",
+      "聯準會",
+      "美國公債",
+      "殖利率曲線",
+      "期限溢酬",
+      "投資級信用"
+     ],
+     "chars": 4624,
+     "headline": "曲線該變陡的理由，這週被 Warsh 一場演說講掉了：JPM 認賠平倉 2s/10s 陡峭化",
+     "title_source": "page_one",
+     "title_confident": false
+    },
+    {
+     "slug": "2026-08-28-jpm-5428894",
+     "broker": "JPM",
+     "title": "Credit Market Outlook & Strategy: Familiar formula with familiar results: High yields + light supply = tighter spreads",
+     "date": "2026-08-28",
+     "pages": 17,
+     "tags": [
+      "美國",
+      "投資級信用",
+      "聯準會",
+      "資料中心",
+      "共同基金",
+      "台灣"
+     ],
+     "chars": 3966,
+     "headline": "利差又往窄走，但推著它走的不是基本面，是稀薄到反常的新債供給",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-08-28-jpm-5422036",
+     "broker": "JPM",
+     "title": "US: Little room for improvement",
+     "date": "2026-08-28",
+     "pages": 7,
+     "tags": [
+      "美國",
+      "房地產",
+      "房貸",
+      "關稅",
+      "建材",
+      "消費"
+     ],
+     "chars": 2779,
+     "headline": "住宅改建支出的萎縮不是房市的局部問題，而是美國耐久財需求退潮的縮影",
+     "title_source": "page_one",
+     "title_confident": false
+    },
+    {
+     "slug": "2026-08-28-jpm-5392984",
+     "broker": "JPM",
+     "title": "US Weekly Prospects",
+     "date": "2026-08-28",
+     "pages": 25,
+     "tags": [
+      "美國",
+      "聯準會",
+      "勞動市場",
+      "房地產",
+      "關稅",
+      "消費"
+     ],
+     "chars": 3732,
+     "headline": "利潤暴衝還沒傳導到就業，而聯準會已經把下一步設定成升息",
+     "title_source": "page_one",
+     "title_confident": false
+    },
+    {
      "slug": "2026-08-28-goldman-sachs-oil-analyst",
      "broker": "Goldman Sachs",
      "title": "Oil Analyst: Higher Product Margins for Longer on Higher Outages and Lower Stocks",
@@ -737,6 +816,25 @@
      "headline": "長端殖利率的兇手是實質利率與油價，不是美國的財政赤字",
      "title_source": "pdf_meta",
      "title_confident": true
+    },
+    {
+     "slug": "2026-08-26-jpm-5423658",
+     "broker": "JPM",
+     "title": "Recoupling remains reasonable",
+     "date": "2026-08-26",
+     "pages": 8,
+     "tags": [
+      "美國",
+      "勞動市場",
+      "生產力",
+      "人工智慧",
+      "通膨",
+      "聯準會"
+     ],
+     "chars": 2697,
+     "headline": "去年近乎停滯的全球招聘會回來，但回來的力道比過去十年少半個百分點，代價是更高的利率",
+     "title_source": "page_one",
+     "title_confident": false
     },
     {
      "slug": "2026-08-25-goldman-sachs-japan-economics-analyst",
@@ -1810,7 +1908,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-09-14T00:37:46+00:00",
+ "updated": "2026-09-14T00:37:55+00:00",
  "updatedLabel": "9/14 08:37",
  "count": 10
 }
