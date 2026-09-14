@@ -1,7 +1,7 @@
 {
- "updated": "2026-09-14T00:50:10+08:00",
+ "updated": "2026-09-14T08:37:06+08:00",
  "note": "原句是分析師說的，精華與圖是我們做的。到期日 = 報告日期 + 3 個月。",
- "count": 247,
+ "count": 312,
  "items": [
   {
    "id": "2026-09-08-jpm-5437525-1",
@@ -13,6 +13,7 @@
    "title_confident": true,
    "date": "2026-09-08",
    "due": "2026-12-07",
+   "filed": "2026-09-14",
    "theme": "日本",
    "tags": [
     "日本",
@@ -39,6 +40,7 @@
    "title_confident": true,
    "date": "2026-09-08",
    "due": "2026-12-07",
+   "filed": "2026-09-14",
    "theme": "央行、利率與匯率",
    "tags": [
     "日本",
@@ -65,6 +67,7 @@
    "title_confident": true,
    "date": "2026-09-08",
    "due": "2026-12-07",
+   "filed": "2026-09-14",
    "theme": "中國",
    "tags": [
     "日本",
@@ -91,6 +94,7 @@
    "title_confident": true,
    "date": "2026-09-08",
    "due": "2026-12-07",
+   "filed": "2026-09-13",
    "theme": "中國",
    "tags": [
     "中國",
@@ -115,6 +119,7 @@
    "title_confident": true,
    "date": "2026-09-08",
    "due": "2026-12-07",
+   "filed": "2026-09-13",
    "theme": "中國",
    "tags": [
     "中國",
@@ -139,6 +144,7 @@
    "title_confident": true,
    "date": "2026-09-08",
    "due": "2026-12-07",
+   "filed": "2026-09-13",
    "theme": "中國",
    "tags": [
     "中國",
@@ -163,6 +169,7 @@
    "title_confident": true,
    "date": "2026-09-08",
    "due": "2026-12-07",
+   "filed": "2026-09-14",
    "theme": "美股與財報",
    "tags": [
     "美國",
@@ -189,6 +196,7 @@
    "title_confident": true,
    "date": "2026-09-08",
    "due": "2026-12-07",
+   "filed": "2026-09-14",
    "theme": "AI 與半導體",
    "tags": [
     "美國",
@@ -215,6 +223,7 @@
    "title_confident": true,
    "date": "2026-09-08",
    "due": "2026-12-07",
+   "filed": "2026-09-14",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -241,6 +250,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "歐洲",
    "tags": [
     "德國",
@@ -267,6 +277,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "歐洲",
    "tags": [
     "德國",
@@ -293,6 +304,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "央行、利率與匯率",
    "tags": [
     "德國",
@@ -319,6 +331,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-14",
    "theme": "歐洲",
    "tags": [
     "歐洲",
@@ -345,6 +358,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-14",
    "theme": "金融、併購與企業",
    "tags": [
     "歐洲",
@@ -371,6 +385,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-14",
    "theme": "央行、利率與匯率",
    "tags": [
     "歐洲",
@@ -397,6 +412,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "AI 與半導體",
    "tags": [
     "韓國",
@@ -423,6 +439,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "地緣政治（中東與戰事）",
    "tags": [
     "韓國",
@@ -449,6 +466,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "亞太（韓國、印度、東南亞）",
    "tags": [
     "韓國",
@@ -475,6 +493,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "能源與原物料",
    "tags": [
     "原油",
@@ -500,6 +519,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "地緣政治（中東與戰事）",
    "tags": [
     "原油",
@@ -525,6 +545,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "中國",
    "tags": [
     "原油",
@@ -550,6 +571,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "美股與財報",
    "tags": [
     "美國",
@@ -576,6 +598,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -602,6 +625,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "AI 與半導體",
    "tags": [
     "美國",
@@ -628,6 +652,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "黃金",
    "tags": [
     "美國",
@@ -654,6 +679,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "中國",
    "tags": [
     "中國",
@@ -679,6 +705,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "金融、併購與企業",
    "tags": [
     "中國",
@@ -704,6 +731,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "央行、利率與匯率",
    "tags": [
     "中國",
@@ -729,6 +757,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "能源與原物料",
    "tags": [
     "原物料",
@@ -755,6 +784,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "地緣政治（中東與戰事）",
    "tags": [
     "原物料",
@@ -781,6 +811,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "亞太（韓國、印度、東南亞）",
    "tags": [
     "原物料",
@@ -807,6 +838,7 @@
    "title_confident": false,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "能源與原物料",
    "tags": [
     "原油",
@@ -833,6 +865,7 @@
    "title_confident": false,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "黃金",
    "tags": [
     "原油",
@@ -859,6 +892,7 @@
    "title_confident": false,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "AI 與半導體",
    "tags": [
     "原油",
@@ -885,6 +919,7 @@
    "title_confident": false,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "中國",
    "tags": [
     "原油",
@@ -911,6 +946,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "歐洲",
    "tags": [
     "德國",
@@ -935,6 +971,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "歐洲",
    "tags": [
     "德國",
@@ -959,6 +996,7 @@
    "title_confident": true,
    "date": "2026-09-07",
    "due": "2026-12-06",
+   "filed": "2026-09-13",
    "theme": "歐洲",
    "tags": [
     "德國",
@@ -974,6 +1012,1185 @@
    "verdictDate": ""
   },
   {
+   "id": "2026-09-06-goldman-sachs-global-healthcare-1",
+   "week": "2026-W36",
+   "slug": "2026-09-06-goldman-sachs-global-healthcare",
+   "broker": "Goldman Sachs",
+   "title": "Global Healthcare: Pharmaceuticals: Back-to-School Kickstart: 10 High-Level Themes; Selectively Constructive",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-06",
+   "due": "2026-12-05",
+   "filed": "2026-09-13",
+   "theme": "生技健護",
+   "tags": [
+    "美國",
+    "歐洲",
+    "中國",
+    "生技製藥",
+    "臨床試驗",
+    "期中選舉"
+   ],
+   "quote": "Price action as this year has progressed underscores a broad and potentially sustainable re-rating in sector-wide valuations for large-cap biopharma stocks",
+   "quote_zh": "今年以來的價格行為，凸顯出大型生技製藥類股出現了廣泛、而且可能可以持續的類股級估值重評。",
+   "page": 2,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-06-goldman-sachs-global-healthcare-2",
+   "week": "2026-W36",
+   "slug": "2026-09-06-goldman-sachs-global-healthcare",
+   "broker": "Goldman Sachs",
+   "title": "Global Healthcare: Pharmaceuticals: Back-to-School Kickstart: 10 High-Level Themes; Selectively Constructive",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-06",
+   "due": "2026-12-05",
+   "filed": "2026-09-13",
+   "theme": "美股與財報",
+   "tags": [
+    "美國",
+    "歐洲",
+    "中國",
+    "生技製藥",
+    "臨床試驗",
+    "期中選舉"
+   ],
+   "quote": "our conversations continue to suggest that many investors are not positioned for a broad-based biopharma rally to continue which could lead to higher pain trades",
+   "quote_zh": "我們與客戶的對話持續顯示，許多投資人並沒有為生技製藥全面性的續漲做好部位準備，這可能導致更高強度的痛苦交易。",
+   "page": 3,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-06-goldman-sachs-global-healthcare-3",
+   "week": "2026-W36",
+   "slug": "2026-09-06-goldman-sachs-global-healthcare",
+   "broker": "Goldman Sachs",
+   "title": "Global Healthcare: Pharmaceuticals: Back-to-School Kickstart: 10 High-Level Themes; Selectively Constructive",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-06",
+   "due": "2026-12-05",
+   "filed": "2026-09-13",
+   "theme": "中國",
+   "tags": [
+    "美國",
+    "歐洲",
+    "中國",
+    "生技製藥",
+    "臨床試驗",
+    "期中選舉"
+   ],
+   "quote": "China has contributed to (i) half of NMEs (new molecular entities) globally that entered into clinical stage YTD in 2026; (ii) half of all clinical trial registered YTD, and (iii) 22% of global business development deals in biopharma YTD, and 39% of total deal size, including milestones",
+   "quote_zh": "中國貢獻了 2026 年以來全球進入臨床階段新分子實體的一半、今年以來全部臨床試驗登記的一半，以及今年以來全球生技製藥商業開發交易件數的 22%、交易總金額（含里程碑）的 39%。",
+   "page": 5,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-jpm-5437550-1",
+   "week": "2026-W36",
+   "slug": "2026-09-04-jpm-5437550",
+   "broker": "JPM",
+   "title": "US Weekly Prospects",
+   "title_source": "page_one",
+   "title_confident": false,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-14",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "美國",
+    "聯準會",
+    "通膨",
+    "勞動市場",
+    "日本銀行",
+    "歐洲央行"
+   ],
+   "quote": "some of the recent slowdown may be more noise than news.",
+   "quote_zh": "最近這一波（通膨）放緩，有一部分可能是雜訊多於新聞。",
+   "page": 4,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-jpm-5437550-2",
+   "week": "2026-W36",
+   "slug": "2026-09-04-jpm-5437550",
+   "broker": "JPM",
+   "title": "US Weekly Prospects",
+   "title_source": "page_one",
+   "title_confident": false,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-14",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "美國",
+    "聯準會",
+    "通膨",
+    "勞動市場",
+    "日本銀行",
+    "歐洲央行"
+   ],
+   "quote": "Setting up DM rate hikes; Fed still a close call for this month",
+   "quote_zh": "這為成熟市場的升息鋪好了路；聯準會本月仍是一次勢均力敵的決定。",
+   "page": 5,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-jpm-5437550-3",
+   "week": "2026-W36",
+   "slug": "2026-09-04-jpm-5437550",
+   "broker": "JPM",
+   "title": "US Weekly Prospects",
+   "title_source": "page_one",
+   "title_confident": false,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-14",
+   "theme": "能源與原物料",
+   "tags": [
+    "美國",
+    "聯準會",
+    "通膨",
+    "勞動市場",
+    "日本銀行",
+    "歐洲央行"
+   ],
+   "quote": "With the Middle East conflict not likely to be resolved soon and crude oil prices nearing $100/bbl again, last quarter's energy shock is not unwinding.",
+   "quote_zh": "中東衝突短期內不太可能解決，原油價格又逼近每桶 100 美元，上一季的能源衝擊並沒有在退場。",
+   "page": 5,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-jpm-5437550-4",
+   "week": "2026-W36",
+   "slug": "2026-09-04-jpm-5437550",
+   "broker": "JPM",
+   "title": "US Weekly Prospects",
+   "title_source": "page_one",
+   "title_confident": false,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-14",
+   "theme": "亞太（韓國、印度、東南亞）",
+   "tags": [
+    "美國",
+    "聯準會",
+    "通膨",
+    "勞動市場",
+    "日本銀行",
+    "歐洲央行"
+   ],
+   "quote": "Together, these developments reinforce our call for above-trend 4% EMAX growth in 2H, with risks still skewed to the upside.",
+   "quote_zh": "這些發展合起來強化了我們對下半年 EMAX（新興亞洲不含中國）成長高於趨勢、達到 4% 的看法，而風險仍偏向上行。",
+   "page": 7,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-jpm-5436537-1",
+   "week": "2026-W36",
+   "slug": "2026-09-04-jpm-5436537",
+   "broker": "JPM",
+   "title": "The J.P. Morgan View: Tighter Policy Meets AI Capex: Risk Resilient For Now",
+   "title_source": "page_one",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-14",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "美國",
+    "聯準會",
+    "人工智慧",
+    "美股",
+    "美國公債",
+    "期中選舉"
+   ],
+   "quote": "While the scale of the repricing has overshot our central bank call, we do not think it is sufficient to fade as the risk distribution is skewed towards more tightening, not less.",
+   "quote_zh": "雖然這波重訂價的幅度已經超過我們的央行預測，我們不認為那足以構成反做的理由，因為風險的分布偏向更多的緊縮，而不是更少。",
+   "page": 3,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-jpm-5436537-2",
+   "week": "2026-W36",
+   "slug": "2026-09-04-jpm-5436537",
+   "broker": "JPM",
+   "title": "The J.P. Morgan View: Tighter Policy Meets AI Capex: Risk Resilient For Now",
+   "title_source": "page_one",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-14",
+   "theme": "AI 與半導體",
+   "tags": [
+    "美國",
+    "聯準會",
+    "人工智慧",
+    "美股",
+    "美國公債",
+    "期中選舉"
+   ],
+   "quote": "AI capex is not just pulling forward spend, it is changing the earnings to cash conversion of the hyperscaler cohort. LTM net income is roughly ~$600bn versus ~$170bn of free cash flow, a $430bn gap that was close to zero at the end of 2023.",
+   "quote_zh": "AI 資本支出不只是把支出提前，它正在改變超大型雲端業者這一群人的盈餘對現金的轉換。過去十二個月的淨利約 6,000 億美元，自由現金流約 1,700 億美元，中間 4,300 億美元的缺口在 2023 年底時還接近零。",
+   "page": 5,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-jpm-5436537-3",
+   "week": "2026-W36",
+   "slug": "2026-09-04-jpm-5436537",
+   "broker": "JPM",
+   "title": "The J.P. Morgan View: Tighter Policy Meets AI Capex: Risk Resilient For Now",
+   "title_source": "page_one",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-14",
+   "theme": "美股與財報",
+   "tags": [
+    "美國",
+    "聯準會",
+    "人工智慧",
+    "美股",
+    "美國公債",
+    "期中選舉"
+   ],
+   "quote": "It is worth noting that the market is not short risk, it is short clarity.",
+   "quote_zh": "值得一提的是，市場缺的不是風險胃納，而是清晰度。",
+   "page": 4,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-jpm-5432337-1",
+   "week": "2026-W36",
+   "slug": "2026-09-04-jpm-5432337",
+   "broker": "JPM",
+   "title": "FX Markets Weekly: Leaning into bullish USD trades (again)",
+   "title_source": "page_one",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-14",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "美元",
+    "日圓",
+    "聯準會",
+    "日本銀行",
+    "日本",
+    "美國"
+   ],
+   "quote": "Cheap USD valuations and US resiliency prompts us to lean more aggressively into the dollar bullish view we have maintained since mid-May; we re-initiate USD longs vs. low yielders (SEK, CAD).",
+   "quote_zh": "便宜的美元估值與美國經濟韌性促使我們更積極地押注自五月中以來一直維持的美元看多觀點；我們重新建立美元對低收益貨幣（瑞典克朗、加幣）的多單。",
+   "page": 2,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-jpm-5432337-2",
+   "week": "2026-W36",
+   "slug": "2026-09-04-jpm-5432337",
+   "broker": "JPM",
+   "title": "FX Markets Weekly: Leaning into bullish USD trades (again)",
+   "title_source": "page_one",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-14",
+   "theme": "日本",
+   "tags": [
+    "美元",
+    "日圓",
+    "聯準會",
+    "日本銀行",
+    "日本",
+    "美國"
+   ],
+   "quote": "While expectations toward the GPIF and the BOJ feel somewhat overdone, we stick with the tactical yen long for now (vs other low-yielders like SEK) as Japan policy is still in play in the near-term. But without any substantive policy delivery, the base case is for USD/JPY to stay in 155–165 range (see note).",
+   "quote_zh": "雖然市場對 GPIF 與日本銀行的預期感覺有些過頭，我們目前仍維持戰術性的日圓多單（對其他低收益貨幣如瑞典克朗），因為日本政策在近期仍在發酵。但若沒有實質的政策兌現，基準情境是美元兌日圓停留在 155–165 區間。",
+   "page": 5,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-jpm-5432337-3",
+   "week": "2026-W36",
+   "slug": "2026-09-04-jpm-5432337",
+   "broker": "JPM",
+   "title": "FX Markets Weekly: Leaning into bullish USD trades (again)",
+   "title_source": "page_one",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-14",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "美元",
+    "日圓",
+    "聯準會",
+    "日本銀行",
+    "日本",
+    "美國"
+   ],
+   "quote": "FX vol remains suppressed, and rate vol has not lifted appreciably despite the heavy focus on long-end yields. But, September seasonality and an unusually dense event calendar create upside risk for realized vol, in the context of event O/Ns sitting below normal ranges.",
+   "quote_zh": "外匯波動率仍受壓抑，儘管市場高度關注長天期殖利率，利率波動率也沒有明顯上升。但九月的季節性因素與異常密集的事件行事曆，在事件隔夜波動率低於正常區間的情況下，構成已實現波動率的上行風險。",
+   "page": 27,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-goldman-sachs-global-rates-trader-1",
+   "week": "2026-W36",
+   "slug": "2026-09-04-goldman-sachs-global-rates-trader",
+   "broker": "Goldman Sachs",
+   "title": "Global Rates Trader: Eyes on the Price",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-13",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "美國公債",
+    "殖利率曲線",
+    "聯準會",
+    "天然氣",
+    "日本銀行",
+    "歐洲"
+   ],
+   "quote": "With about 2.5 hikes priced cumulatively and still little making a particularly urgent case for hikes, we think that the 5y point would be best positioned to benefit from either a clearer Fed approach or benign inflation news.",
+   "quote_zh": "在累計已定價約 2.5 次升息、又沒有什麼特別急迫的升息理由之下，我們認為五年期是最能受惠於聯準會路徑轉趨明確、或通膨數據溫和的位置。",
+   "page": 2,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-goldman-sachs-global-rates-trader-2",
+   "week": "2026-W36",
+   "slug": "2026-09-04-goldman-sachs-global-rates-trader",
+   "broker": "Goldman Sachs",
+   "title": "Global Rates Trader: Eyes on the Price",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-13",
+   "theme": "能源與原物料",
+   "tags": [
+    "美國公債",
+    "殖利率曲線",
+    "聯準會",
+    "天然氣",
+    "日本銀行",
+    "歐洲"
+   ],
+   "quote": "Our commodities strategists continue to see risks to gas prices to the upside, highlighting 100 EUR/MWh as a plausible landing zone for the end of the year absent a resumption of gas flows through the Strait of Hormuz.",
+   "quote_zh": "我們的商品策略師仍認為天然氣價格風險偏上行，並指出若荷姆茲海峽的氣源沒有恢復，年底 100 歐元／百萬瓦時是合理的落點。",
+   "page": 4,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-goldman-sachs-global-rates-trader-3",
+   "week": "2026-W36",
+   "slug": "2026-09-04-goldman-sachs-global-rates-trader",
+   "broker": "Goldman Sachs",
+   "title": "Global Rates Trader: Eyes on the Price",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-13",
+   "theme": "歐洲",
+   "tags": [
+    "美國公債",
+    "殖利率曲線",
+    "聯準會",
+    "天然氣",
+    "日本銀行",
+    "歐洲"
+   ],
+   "quote": "Risk reward is also improving for Bunds, currently trading about 35bps above our year-end 3.0% forecast.",
+   "quote_zh": "德國公債的風險報酬也在改善，目前殖利率約高出我們年底 3.0% 預測 35 個基點。",
+   "page": 4,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-goldman-sachs-global-rates-trader-4",
+   "week": "2026-W36",
+   "slug": "2026-09-04-goldman-sachs-global-rates-trader",
+   "broker": "Goldman Sachs",
+   "title": "Global Rates Trader: Eyes on the Price",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-13",
+   "theme": "日本",
+   "tags": [
+    "美國公債",
+    "殖利率曲線",
+    "聯準會",
+    "天然氣",
+    "日本銀行",
+    "歐洲"
+   ],
+   "quote": "At nearly 50bp priced through year-end and another 70bp through the end of 2027, the market has continued to push pricing more hawkish than our economists’ baseline for three more hikes (Sep26/Jan27/Jul27)",
+   "quote_zh": "年底前已定價將近 50 個基點、到 2027 年底再 70 個基點，市場持續把定價推得比我們經濟學家「再升息三次（2026 年 9 月／2027 年 1 月／2027 年 7 月）」的基準更鷹派。",
+   "page": 5,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-goldman-sachs-global-fx-trader-1",
+   "week": "2026-W36",
+   "slug": "2026-09-04-goldman-sachs-global-fx-trader",
+   "broker": "Goldman Sachs",
+   "title": "Global FX Trader: Is This For Real?",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-13",
+   "theme": "日本",
+   "tags": [
+    "日圓",
+    "美元",
+    "歐元",
+    "日本銀行",
+    "聯準會",
+    "中國"
+   ],
+   "quote": "That leaves us open-minded to the possibility that the right conditions could gradually align for the Yen’s significant undervaluation to erode over time, because this is how it would start.",
+   "quote_zh": "這讓我們對一種可能性保持開放態度：適當的條件可能逐步對齊，使日圓的顯著低估隨時間被侵蝕 —— 因為事情真的開始時，看起來就是這樣。",
+   "page": 2,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-goldman-sachs-global-fx-trader-2",
+   "week": "2026-W36",
+   "slug": "2026-09-04-goldman-sachs-global-fx-trader",
+   "broker": "Goldman Sachs",
+   "title": "Global FX Trader: Is This For Real?",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-13",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "日圓",
+    "美元",
+    "歐元",
+    "日本銀行",
+    "聯準會",
+    "中國"
+   ],
+   "quote": "This loads a lot of weight on the upcoming August inflation data—more than any individual monthly inflation print should bear—and on a “good family fight” at September’s FOMC meeting.",
+   "quote_zh": "這把很重的份量壓到了即將公布的八月通膨數據上 —— 比任何單月通膨數字該承受的都重 —— 也壓到了九月 FOMC 會議上一場「良性的家族內鬨」。",
+   "page": 2,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-goldman-sachs-global-fx-trader-3",
+   "week": "2026-W36",
+   "slug": "2026-09-04-goldman-sachs-global-fx-trader",
+   "broker": "Goldman Sachs",
+   "title": "Global FX Trader: Is This For Real?",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-13",
+   "theme": "歐洲",
+   "tags": [
+    "日圓",
+    "美元",
+    "歐元",
+    "日本銀行",
+    "聯準會",
+    "中國"
+   ],
+   "quote": "On net, we see moderate risks of energy-driven EUR underperformance ahead, which, in combination with limited idiosyncratic noise on the domestic front, keeps it as an attractive funder for the likes of NOK, AUD (see AUD & NZD bullet) and EM carry longs.",
+   "quote_zh": "整體而言，我們認為未來由能源驅動的歐元表現落後有中等程度的風險；這一點加上國內面特殊雜訊有限，使歐元仍是挪威克朗、澳幣（見澳紐段落）與新興市場利差多頭具吸引力的融資貨幣。",
+   "page": 3,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-goldman-sachs-global-fx-trader-4",
+   "week": "2026-W36",
+   "slug": "2026-09-04-goldman-sachs-global-fx-trader",
+   "broker": "Goldman Sachs",
+   "title": "Global FX Trader: Is This For Real?",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-13",
+   "theme": "中國",
+   "tags": [
+    "日圓",
+    "美元",
+    "歐元",
+    "日本銀行",
+    "聯準會",
+    "中國"
+   ],
+   "quote": "We expect a gradual CNY appreciation of around 3-5% per year against the USD, supported by China’s large and growing trade surplus, meaningful currency undervaluation, and policy objectives related to RMB internationalization.",
+   "quote_zh": "我們預期人民幣兌美元每年漸進升值約 3–5%，支撐來自中國龐大且持續擴大的貿易順差、實質的匯率低估，以及與人民幣國際化相關的政策目標。",
+   "page": 6,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-goldman-sachs-european-economics-analyst-1",
+   "week": "2026-W36",
+   "slug": "2026-09-04-goldman-sachs-european-economics-analyst",
+   "broker": "Goldman Sachs",
+   "title": "European Economics Analyst: ECB Preview—Another Hike Without Guidance",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-13",
+   "theme": "歐洲",
+   "tags": [
+    "歐洲央行",
+    "歐洲",
+    "通膨",
+    "天然氣",
+    "央行溝通"
+   ],
+   "quote": "We therefore look for another 25bp hike—as widely expected and fully priced—but very little guidance on the policy outlook",
+   "quote_zh": "因此我們預期再升息 1 碼 —— 一如市場廣泛預期且已充分定價 —— 但對政策前景幾乎不會給出指引。",
+   "page": 5,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-goldman-sachs-european-economics-analyst-2",
+   "week": "2026-W36",
+   "slug": "2026-09-04-goldman-sachs-european-economics-analyst",
+   "broker": "Goldman Sachs",
+   "title": "European Economics Analyst: ECB Preview—Another Hike Without Guidance",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-13",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "歐洲央行",
+    "歐洲",
+    "通膨",
+    "天然氣",
+    "央行溝通"
+   ],
+   "quote": "we now see a low hurdle for a third hike in December if energy prices do not fall from here or inflation rises more notably in coming months, especially if the Fed hikes.",
+   "quote_zh": "我們現在認為，若能源價格未從目前水位回落、或通膨在未來幾個月更明顯地上升，十二月再升一碼的門檻很低，聯準會若升息則更是如此。",
+   "page": 7,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-goldman-sachs-european-economics-analyst-3",
+   "week": "2026-W36",
+   "slug": "2026-09-04-goldman-sachs-european-economics-analyst",
+   "broker": "Goldman Sachs",
+   "title": "European Economics Analyst: ECB Preview—Another Hike Without Guidance",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-13",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "歐洲央行",
+    "歐洲",
+    "通膨",
+    "天然氣",
+    "央行溝通"
+   ],
+   "quote": "But even with these adjustments our forecast remains notably below market pricing on a probability-weighted basis.",
+   "quote_zh": "但即使做了這些調整，我們機率加權後的預測仍明顯低於市場定價。",
+   "page": 8,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-goldman-sachs-europe-weekly-kickstart-1",
+   "week": "2026-W36",
+   "slug": "2026-09-04-goldman-sachs-europe-weekly-kickstart",
+   "broker": "Goldman Sachs",
+   "title": "Europe Weekly Kickstart: Back to School: Constructive, but Selective",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-13",
+   "theme": "歐洲",
+   "tags": [
+    "歐洲",
+    "法國",
+    "德國",
+    "天然氣",
+    "財政政策",
+    "銀行股"
+   ],
+   "quote": "The STOXX 600 also offers healthier cash generation vs the S&P 500, with a FCF yield of 5.3% vs 3.6%",
+   "quote_zh": "STOXX 600 相對 S&P 500 也提供更健康的現金產生能力，自由現金流殖利率為 5.3%，對比 3.6%。",
+   "page": 1,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-goldman-sachs-europe-weekly-kickstart-2",
+   "week": "2026-W36",
+   "slug": "2026-09-04-goldman-sachs-europe-weekly-kickstart",
+   "broker": "Goldman Sachs",
+   "title": "Europe Weekly Kickstart: Back to School: Constructive, but Selective",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-13",
+   "theme": "歐洲",
+   "tags": [
+    "歐洲",
+    "法國",
+    "德國",
+    "天然氣",
+    "財政政策",
+    "銀行股"
+   ],
+   "quote": "We therefore remain cautious on France and prefer German equities, which should benefit from fiscal stimulus and improving economic activity.",
+   "quote_zh": "因此我們對法國維持謹慎，偏好德國股票，德國應可受惠於財政刺激與改善中的經濟活動。",
+   "page": 2,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-goldman-sachs-europe-weekly-kickstart-3",
+   "week": "2026-W36",
+   "slug": "2026-09-04-goldman-sachs-europe-weekly-kickstart",
+   "broker": "Goldman Sachs",
+   "title": "Europe Weekly Kickstart: Back to School: Constructive, but Selective",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-13",
+   "theme": "歐洲",
+   "tags": [
+    "歐洲",
+    "法國",
+    "德國",
+    "天然氣",
+    "財政政策",
+    "銀行股"
+   ],
+   "quote": "We continue to favour a balanced mix of Cyclicals and Defensives. Our preferred exposures remain Technology, Banks,",
+   "quote_zh": "我們持續偏好景氣循環股與防禦股的平衡配置。偏好的曝險仍是科技、銀行……",
+   "page": 2,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-goldman-sachs-europe-weekly-kickstart-4",
+   "week": "2026-W36",
+   "slug": "2026-09-04-goldman-sachs-europe-weekly-kickstart",
+   "broker": "Goldman Sachs",
+   "title": "Europe Weekly Kickstart: Back to School: Constructive, but Selective",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-13",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "歐洲",
+    "法國",
+    "德國",
+    "天然氣",
+    "財政政策",
+    "銀行股"
+   ],
+   "quote": "Higher bond yields remain a headwind",
+   "quote_zh": "較高的債券殖利率仍是逆風。",
+   "page": 1,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-citi-stable-labor-market-means-later-rate-cuts-1",
+   "week": "2026-W36",
+   "slug": "2026-09-04-citi-stable-labor-market-means-later-rate-cuts",
+   "broker": "Citi",
+   "title": "US Economics: \"Stable\" labor market means later rate cuts",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-13",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "美國",
+    "勞動市場",
+    "聯準會",
+    "通膨",
+    "央行溝通"
+   ],
+   "quote": "Fed officials will likely read this morning’s jobs report as showing a labor market that is “stable” but not creating inflationary pressure.",
+   "quote_zh": "聯準會官員很可能會把今早這份就業報告讀成：一個「穩定」、但沒有製造通膨壓力的勞動市場。",
+   "page": 2,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-citi-stable-labor-market-means-later-rate-cuts-2",
+   "week": "2026-W36",
+   "slug": "2026-09-04-citi-stable-labor-market-means-later-rate-cuts",
+   "broker": "Citi",
+   "title": "US Economics: \"Stable\" labor market means later rate cuts",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-13",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "美國",
+    "勞動市場",
+    "聯準會",
+    "通膨",
+    "央行溝通"
+   ],
+   "quote": "It’s a closer call on a 0.3% MoM CPI reading, and anything rounding to 0.4% MoM would likely provoke a hike.",
+   "quote_zh": "若 CPI 月增讀數是 0.3%，那會是個比較接近的判斷題；而任何四捨五入到 0.4% 月增的讀數，很可能會引發一次升息。",
+   "page": 2,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-04-citi-stable-labor-market-means-later-rate-cuts-3",
+   "week": "2026-W36",
+   "slug": "2026-09-04-citi-stable-labor-market-means-later-rate-cuts",
+   "broker": "Citi",
+   "title": "US Economics: \"Stable\" labor market means later rate cuts",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-04",
+   "due": "2026-12-03",
+   "filed": "2026-09-13",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "美國",
+    "勞動市場",
+    "聯準會",
+    "通膨",
+    "央行溝通"
+   ],
+   "quote": "Risks are balanced toward earlier cuts should labor markets weaken or AI-sentiment become less bullish and equity prices decline.",
+   "quote_zh": "風險偏向比預期更早降息——條件是勞動市場轉弱，或是 AI 的樂觀情緒退燒、股價下跌。",
+   "page": 2,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-03-goldman-sachs-natural-gas-analyst-1",
+   "week": "2026-W36",
+   "slug": "2026-09-03-goldman-sachs-natural-gas-analyst",
+   "broker": "Goldman Sachs",
+   "title": "Natural Gas Analyst: US Softening in 2027, Until Demand Growth Large Enough From 2029",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-03",
+   "due": "2026-12-02",
+   "filed": "2026-09-13",
+   "theme": "能源與原物料",
+   "tags": [
+    "美國",
+    "天然氣",
+    "液化天然氣",
+    "電力",
+    "原物料"
+   ],
+   "quote": "we believe a tightening or loosening of the balance going forward will be largely driven by the mismatched timing of US supply and demand growth, creating a “push and pull” on prices, likely in a $2.50-$5.00/mmBtu range.",
+   "quote_zh": "我們認為，未來平衡的收緊或放鬆，將主要由美國供給與需求成長的時間錯配決定，對價格形成「來回拉扯」，區間大致在每百萬英熱單位 2.50 至 5.00 美元。",
+   "page": 1,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-03-goldman-sachs-natural-gas-analyst-2",
+   "week": "2026-W36",
+   "slug": "2026-09-03-goldman-sachs-natural-gas-analyst",
+   "broker": "Goldman Sachs",
+   "title": "Natural Gas Analyst: US Softening in 2027, Until Demand Growth Large Enough From 2029",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-03",
+   "due": "2026-12-02",
+   "filed": "2026-09-13",
+   "theme": "能源與原物料",
+   "tags": [
+    "美國",
+    "天然氣",
+    "液化天然氣",
+    "電力",
+    "原物料"
+   ],
+   "quote": "we recommend that US gas producers hedge their 2027 exposure, including the 2027-28 winter, which looks significantly softer than this year’s upcoming winter, while still pricing almost $0.60/mmBtu higher.",
+   "quote_zh": "我們建議美國天然氣生產商對 2027 年的曝險進行避險，包含 2027 至 2028 年冬季——該冬季看起來明顯比今年即將到來的冬季更軟，價格卻仍高出近每百萬英熱單位 0.60 美元。",
+   "page": 7,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-03-goldman-sachs-natural-gas-analyst-3",
+   "week": "2026-W36",
+   "slug": "2026-09-03-goldman-sachs-natural-gas-analyst",
+   "broker": "Goldman Sachs",
+   "title": "Natural Gas Analyst: US Softening in 2027, Until Demand Growth Large Enough From 2029",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-03",
+   "due": "2026-12-02",
+   "filed": "2026-09-13",
+   "theme": "能源與原物料",
+   "tags": [
+    "美國",
+    "天然氣",
+    "液化天然氣",
+    "電力",
+    "原物料"
+   ],
+   "quote": "we maintain our view that Henry Hub prices will move above $4/mmBtu in 2031 to incentivize new dry gas production growth.",
+   "quote_zh": "我們維持看法：亨利港價格將在 2031 年站上每百萬英熱單位 4 美元以上，以誘發新的乾氣產量成長。",
+   "page": 8,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-03-goldman-sachs-global-credit-trader-1",
+   "week": "2026-W36",
+   "slug": "2026-09-03-goldman-sachs-global-credit-trader",
+   "broker": "Goldman Sachs",
+   "title": "Global Credit Trader: An Elusive Summer Slowdown",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-03",
+   "due": "2026-12-02",
+   "filed": "2026-09-13",
+   "theme": "信用債",
+   "tags": [
+    "投資級信用",
+    "人工智慧",
+    "歐洲",
+    "美國公債",
+    "財政政策",
+    "美國"
+   ],
+   "quote": "we have decided to raise our full-year gross issuance forecast to $2.3 trillion and also raise our net supply forecast to $1.0 trillion (from $850 billion).",
+   "quote_zh": "我們已決定把全年總發行預測上修到 2.3 兆美元，並把淨供給預測從 8,500 億美元上修到 1.0 兆美元。",
+   "page": 3,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-03-goldman-sachs-global-credit-trader-2",
+   "week": "2026-W36",
+   "slug": "2026-09-03-goldman-sachs-global-credit-trader",
+   "broker": "Goldman Sachs",
+   "title": "Global Credit Trader: An Elusive Summer Slowdown",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-03",
+   "due": "2026-12-02",
+   "filed": "2026-09-13",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "投資級信用",
+    "人工智慧",
+    "歐洲",
+    "美國公債",
+    "財政政策",
+    "美國"
+   ],
+   "quote": "The risk is that rates remain around current levels. In that case, full-year total returns would be significantly lower for USD IG and EUR IG, at 1.0%, and 0.8% respectively.",
+   "quote_zh": "風險在於利率就停在現在的水準附近。若是如此，美元投資級與歐元投資級的全年總報酬會顯著下降，分別只有 1.0% 與 0.8%。",
+   "page": 4,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-03-goldman-sachs-global-credit-trader-3",
+   "week": "2026-W36",
+   "slug": "2026-09-03-goldman-sachs-global-credit-trader",
+   "broker": "Goldman Sachs",
+   "title": "Global Credit Trader: An Elusive Summer Slowdown",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-03",
+   "due": "2026-12-02",
+   "filed": "2026-09-13",
+   "theme": "AI 與半導體",
+   "tags": [
+    "投資級信用",
+    "人工智慧",
+    "歐洲",
+    "美國公債",
+    "財政政策",
+    "美國"
+   ],
+   "quote": "In other words, the recent divergence is less a broad-based USD credit underperformance story and more a concentrated AI supply story.",
+   "quote_zh": "換句話說，近期的分化與其說是美元信用全面表現落後的故事，不如說是一個集中在 AI 供給上的故事。",
+   "page": 6,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-03-goldman-sachs-global-credit-trader-4",
+   "week": "2026-W36",
+   "slug": "2026-09-03-goldman-sachs-global-credit-trader",
+   "broker": "Goldman Sachs",
+   "title": "Global Credit Trader: An Elusive Summer Slowdown",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-03",
+   "due": "2026-12-02",
+   "filed": "2026-09-13",
+   "theme": "歐洲",
+   "tags": [
+    "投資級信用",
+    "人工智慧",
+    "歐洲",
+    "美國公債",
+    "財政政策",
+    "美國"
+   ],
+   "quote": "We think fiscal uncertainty in one of Europe's largest economies will remain an important constraint on further EUR IG outperformance.",
+   "quote_zh": "我們認為，歐洲最大經濟體之一的財政不確定性，將持續是歐元投資級進一步跑贏的重要制約。",
+   "page": 10,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-03-citi-the-warsh-shadow-rate-1",
+   "week": "2026-W36",
+   "slug": "2026-09-03-citi-the-warsh-shadow-rate",
+   "broker": "Citi",
+   "title": "Global Macro Strategy - Views and Trade Ideas: The Warsh Shadow Rate",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-03",
+   "due": "2026-12-02",
+   "filed": "2026-09-13",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "聯準會",
+    "美國",
+    "通膨",
+    "美國公債",
+    "黃金",
+    "央行溝通"
+   ],
+   "quote": "It is noteworthy that most inputs are hot, while\nthe indicators he downplayed are running softer. We construct a “Warsh\nshadow rate” from these inputs and find it very extended.",
+   "quote_zh": "值得注意的是，大多數輸入項都是熱的，而他淡化的那些指標則走得較軟。我們用這些輸入項做出一條「渥許影子利率」，發現它已經拉得非常長。",
+   "page": 1,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-03-citi-the-warsh-shadow-rate-2",
+   "week": "2026-W36",
+   "slug": "2026-09-03-citi-the-warsh-shadow-rate",
+   "broker": "Citi",
+   "title": "Global Macro Strategy - Views and Trade Ideas: The Warsh Shadow Rate",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-03",
+   "due": "2026-12-02",
+   "filed": "2026-09-13",
+   "theme": "黃金",
+   "tags": [
+    "聯準會",
+    "美國",
+    "通膨",
+    "美國公債",
+    "黃金",
+    "央行溝通"
+   ],
+   "quote": "Even though risks have risen, we stay\nlong gold. If a more hawkish Fed pushes the 30yr again above the Bessent level of\n5.3%, more measures by the US Treasury to stabilize yields would be gold bullish in\nour view.",
+   "quote_zh": "即使風險已經上升，我們仍維持做多黃金。若更鷹派的聯準會把三十年期再度推上貝森特的 5.3% 水準，我們認為美國財政部為穩定殖利率而採取的更多措施，會對黃金有利。",
+   "page": 1,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-03-citi-the-warsh-shadow-rate-3",
+   "week": "2026-W36",
+   "slug": "2026-09-03-citi-the-warsh-shadow-rate",
+   "broker": "Citi",
+   "title": "Global Macro Strategy - Views and Trade Ideas: The Warsh Shadow Rate",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-03",
+   "due": "2026-12-02",
+   "filed": "2026-09-13",
+   "theme": "美股與財報",
+   "tags": [
+    "聯準會",
+    "美國",
+    "通膨",
+    "美國公債",
+    "黃金",
+    "央行溝通"
+   ],
+   "quote": "We find that US equities typically weaken\nafter the first hike for around 50 trading days before recovering. However, this is\nhappening in the context of a positive skew",
+   "quote_zh": "我們發現美股在首次升息之後通常會走弱約 50 個交易日，然後才回升。不過，這是在正偏態的脈絡下發生的。",
+   "page": 8,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-03-citi-born-to-run-still-early-in-the-multi-year-ai-investment-cycl-1",
+   "week": "2026-W36",
+   "slug": "2026-09-03-citi-born-to-run-still-early-in-the-multi-year-ai-investment-cycl",
+   "broker": "Citi",
+   "title": "Multi-Asset: Data Center GAINs (Gen AI Names): Born to Run: Still Early in the Multi-Year AI Investment Cycle",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-03",
+   "due": "2026-12-02",
+   "filed": "2026-09-13",
+   "theme": "AI 與半導體",
+   "tags": [
+    "資料中心",
+    "人工智慧",
+    "電力",
+    "半導體",
+    "美國",
+    "監理"
+   ],
+   "quote": "We forecast an IT Load CAGR of 25% from 121 GW in 2026 to 370 GW in 2031.",
+   "quote_zh": "我們預測 IT 負載複合成長率為 25%，從 2026 年的 121GW 成長到 2031 年的 370GW。",
+   "page": 1,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-03-citi-born-to-run-still-early-in-the-multi-year-ai-investment-cycl-2",
+   "week": "2026-W36",
+   "slug": "2026-09-03-citi-born-to-run-still-early-in-the-multi-year-ai-investment-cycl",
+   "broker": "Citi",
+   "title": "Multi-Asset: Data Center GAINs (Gen AI Names): Born to Run: Still Early in the Multi-Year AI Investment Cycle",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-03",
+   "due": "2026-12-02",
+   "filed": "2026-09-13",
+   "theme": "美國政治與政策",
+   "tags": [
+    "資料中心",
+    "人工智慧",
+    "電力",
+    "半導體",
+    "美國",
+    "監理"
+   ],
+   "quote": "The most significant obstacle we see is political (with an emphasis on local communities and states).",
+   "quote_zh": "我們看到最重大的障礙是政治性的（重點在地方社區與各州）。",
+   "page": 36,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-09-03-citi-born-to-run-still-early-in-the-multi-year-ai-investment-cycl-3",
+   "week": "2026-W36",
+   "slug": "2026-09-03-citi-born-to-run-still-early-in-the-multi-year-ai-investment-cycl",
+   "broker": "Citi",
+   "title": "Multi-Asset: Data Center GAINs (Gen AI Names): Born to Run: Still Early in the Multi-Year AI Investment Cycle",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-09-03",
+   "due": "2026-12-02",
+   "filed": "2026-09-13",
+   "theme": "歐洲",
+   "tags": [
+    "資料中心",
+    "人工智慧",
+    "電力",
+    "半導體",
+    "美國",
+    "監理"
+   ],
+   "quote": "In our view, the next phase of the AI trade will require tangible evidence of earnings delivery, and value crystallization.",
+   "quote_zh": "我們認為，AI 交易的下一階段會需要獲利實際交付與價值兌現的具體證據。",
+   "page": 59,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
    "id": "2026-09-01-nomura-1318392-1",
    "week": "2026-W36",
    "slug": "2026-09-01-nomura-1318392",
@@ -983,6 +2200,7 @@
    "title_confident": true,
    "date": "2026-09-01",
    "due": "2026-11-30",
+   "filed": "2026-09-06",
    "theme": "日本",
    "tags": [
     "日本",
@@ -1009,6 +2227,7 @@
    "title_confident": true,
    "date": "2026-09-01",
    "due": "2026-11-30",
+   "filed": "2026-09-06",
    "theme": "央行、利率與匯率",
    "tags": [
     "日本",
@@ -1035,6 +2254,7 @@
    "title_confident": true,
    "date": "2026-09-01",
    "due": "2026-11-30",
+   "filed": "2026-09-06",
    "theme": "中國",
    "tags": [
     "日本",
@@ -1061,6 +2281,7 @@
    "title_confident": true,
    "date": "2026-08-31",
    "due": "2026-11-29",
+   "filed": "2026-09-06",
    "theme": "日本",
    "tags": [
     "日本",
@@ -1087,6 +2308,7 @@
    "title_confident": true,
    "date": "2026-08-31",
    "due": "2026-11-29",
+   "filed": "2026-09-06",
    "theme": "金融、併購與企業",
    "tags": [
     "日本",
@@ -1113,6 +2335,7 @@
    "title_confident": true,
    "date": "2026-08-31",
    "due": "2026-11-29",
+   "filed": "2026-09-06",
    "theme": "AI 與半導體",
    "tags": [
     "日本",
@@ -1139,6 +2362,7 @@
    "title_confident": true,
    "date": "2026-08-31",
    "due": "2026-11-29",
+   "filed": "2026-09-06",
    "theme": "中國",
    "tags": [
     "中國",
@@ -1164,6 +2388,7 @@
    "title_confident": true,
    "date": "2026-08-31",
    "due": "2026-11-29",
+   "filed": "2026-09-06",
    "theme": "中國",
    "tags": [
     "中國",
@@ -1189,6 +2414,7 @@
    "title_confident": true,
    "date": "2026-08-31",
    "due": "2026-11-29",
+   "filed": "2026-09-06",
    "theme": "中國",
    "tags": [
     "中國",
@@ -1214,6 +2440,7 @@
    "title_confident": true,
    "date": "2026-08-31",
    "due": "2026-11-29",
+   "filed": "2026-09-06",
    "theme": "能源與原物料",
    "tags": [
     "美國",
@@ -1240,6 +2467,7 @@
    "title_confident": true,
    "date": "2026-08-31",
    "due": "2026-11-29",
+   "filed": "2026-09-06",
    "theme": "AI 與半導體",
    "tags": [
     "美國",
@@ -1266,6 +2494,7 @@
    "title_confident": true,
    "date": "2026-08-31",
    "due": "2026-11-29",
+   "filed": "2026-09-06",
    "theme": "美國政治與政策",
    "tags": [
     "美國",
@@ -1292,6 +2521,7 @@
    "title_confident": true,
    "date": "2026-08-31",
    "due": "2026-11-29",
+   "filed": "2026-09-06",
    "theme": "信用債",
    "tags": [
     "私募債",
@@ -1317,6 +2547,7 @@
    "title_confident": true,
    "date": "2026-08-31",
    "due": "2026-11-29",
+   "filed": "2026-09-06",
    "theme": "AI 與半導體",
    "tags": [
     "私募債",
@@ -1342,6 +2573,7 @@
    "title_confident": true,
    "date": "2026-08-31",
    "due": "2026-11-29",
+   "filed": "2026-09-06",
    "theme": "信用債",
    "tags": [
     "私募債",
@@ -1367,6 +2599,7 @@
    "title_confident": true,
    "date": "2026-08-30",
    "due": "2026-11-28",
+   "filed": "2026-09-06",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -1392,6 +2625,7 @@
    "title_confident": true,
    "date": "2026-08-30",
    "due": "2026-11-28",
+   "filed": "2026-09-06",
    "theme": "AI 與半導體",
    "tags": [
     "美國",
@@ -1417,6 +2651,7 @@
    "title_confident": true,
    "date": "2026-08-30",
    "due": "2026-11-28",
+   "filed": "2026-09-06",
    "theme": "AI 與半導體",
    "tags": [
     "美國",
@@ -1442,6 +2677,7 @@
    "title_confident": true,
    "date": "2026-08-30",
    "due": "2026-11-28",
+   "filed": "2026-09-06",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -1467,6 +2703,7 @@
    "title_confident": true,
    "date": "2026-08-30",
    "due": "2026-11-28",
+   "filed": "2026-09-06",
    "theme": "亞太（韓國、印度、東南亞）",
    "tags": [
     "印度",
@@ -1493,6 +2730,7 @@
    "title_confident": true,
    "date": "2026-08-30",
    "due": "2026-11-28",
+   "filed": "2026-09-06",
    "theme": "央行、利率與匯率",
    "tags": [
     "印度",
@@ -1519,6 +2757,7 @@
    "title_confident": true,
    "date": "2026-08-30",
    "due": "2026-11-28",
+   "filed": "2026-09-06",
    "theme": "美國政治與政策",
    "tags": [
     "印度",
@@ -1545,6 +2784,7 @@
    "title_confident": true,
    "date": "2026-08-30",
    "due": "2026-11-28",
+   "filed": "2026-09-06",
    "theme": "AI 與半導體",
    "tags": [
     "人形機器人",
@@ -1571,6 +2811,7 @@
    "title_confident": true,
    "date": "2026-08-30",
    "due": "2026-11-28",
+   "filed": "2026-09-06",
    "theme": "美股與財報",
    "tags": [
     "人形機器人",
@@ -1597,6 +2838,7 @@
    "title_confident": true,
    "date": "2026-08-30",
    "due": "2026-11-28",
+   "filed": "2026-09-06",
    "theme": "金融、併購與企業",
    "tags": [
     "人形機器人",
@@ -1623,6 +2865,7 @@
    "title_confident": true,
    "date": "2026-08-30",
    "due": "2026-11-28",
+   "filed": "2026-09-06",
    "theme": "AI 與半導體",
    "tags": [
     "人形機器人",
@@ -1649,6 +2892,7 @@
    "title_confident": true,
    "date": "2026-08-30",
    "due": "2026-11-28",
+   "filed": "2026-09-06",
    "theme": "亞太（韓國、印度、東南亞）",
    "tags": [
     "亞股",
@@ -1675,6 +2919,7 @@
    "title_confident": true,
    "date": "2026-08-30",
    "due": "2026-11-28",
+   "filed": "2026-09-06",
    "theme": "AI 與半導體",
    "tags": [
     "亞股",
@@ -1701,6 +2946,7 @@
    "title_confident": true,
    "date": "2026-08-30",
    "due": "2026-11-28",
+   "filed": "2026-09-06",
    "theme": "央行、利率與匯率",
    "tags": [
     "亞股",
@@ -1727,6 +2973,7 @@
    "title_confident": true,
    "date": "2026-08-30",
    "due": "2026-11-28",
+   "filed": "2026-09-06",
    "theme": "中國",
    "tags": [
     "亞股",
@@ -1753,6 +3000,7 @@
    "title_confident": true,
    "date": "2026-08-30",
    "due": "2026-11-28",
+   "filed": "2026-09-06",
    "theme": "美股與財報",
    "tags": [
     "美國",
@@ -1778,6 +3026,7 @@
    "title_confident": true,
    "date": "2026-08-30",
    "due": "2026-11-28",
+   "filed": "2026-09-06",
    "theme": "AI 與半導體",
    "tags": [
     "美國",
@@ -1803,6 +3052,7 @@
    "title_confident": true,
    "date": "2026-08-30",
    "due": "2026-11-28",
+   "filed": "2026-09-06",
    "theme": "美國政治與政策",
    "tags": [
     "美國",
@@ -1828,6 +3078,7 @@
    "title_confident": true,
    "date": "2026-08-29",
    "due": "2026-11-27",
+   "filed": "2026-09-06",
    "theme": "中國",
    "tags": [
     "中國",
@@ -1853,6 +3104,7 @@
    "title_confident": true,
    "date": "2026-08-29",
    "due": "2026-11-27",
+   "filed": "2026-09-06",
    "theme": "中國",
    "tags": [
     "中國",
@@ -1878,6 +3130,7 @@
    "title_confident": true,
    "date": "2026-08-29",
    "due": "2026-11-27",
+   "filed": "2026-09-06",
    "theme": "金融、併購與企業",
    "tags": [
     "中國",
@@ -1903,6 +3156,7 @@
    "title_confident": true,
    "date": "2026-08-29",
    "due": "2026-11-27",
+   "filed": "2026-09-06",
    "theme": "央行、利率與匯率",
    "tags": [
     "日本",
@@ -1928,6 +3182,7 @@
    "title_confident": true,
    "date": "2026-08-29",
    "due": "2026-11-27",
+   "filed": "2026-09-06",
    "theme": "日本",
    "tags": [
     "日本",
@@ -1953,6 +3208,7 @@
    "title_confident": true,
    "date": "2026-08-29",
    "due": "2026-11-27",
+   "filed": "2026-09-06",
    "theme": "日本",
    "tags": [
     "日本",
@@ -1978,6 +3234,7 @@
    "title_confident": true,
    "date": "2026-08-29",
    "due": "2026-11-27",
+   "filed": "2026-09-06",
    "theme": "央行、利率與匯率",
    "tags": [
     "日本",
@@ -2003,6 +3260,7 @@
    "title_confident": true,
    "date": "2026-08-28",
    "due": "2026-11-26",
+   "filed": "2026-09-06",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -2029,6 +3287,7 @@
    "title_confident": true,
    "date": "2026-08-28",
    "due": "2026-11-26",
+   "filed": "2026-09-06",
    "theme": "AI 與半導體",
    "tags": [
     "美國",
@@ -2055,6 +3314,7 @@
    "title_confident": true,
    "date": "2026-08-28",
    "due": "2026-11-26",
+   "filed": "2026-09-06",
    "theme": "美國政治與政策",
    "tags": [
     "美國",
@@ -2072,6 +3332,330 @@
    "verdictDate": ""
   },
   {
+   "id": "2026-08-28-jpm-5429113-1",
+   "week": "2026-W35",
+   "slug": "2026-08-28-jpm-5429113",
+   "broker": "JPM",
+   "title": "U.S. Fixed Income Markets Weekly",
+   "title_source": "page_one",
+   "title_confident": false,
+   "date": "2026-08-28",
+   "due": "2026-11-26",
+   "filed": "2026-09-14",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "美國",
+    "聯準會",
+    "美國公債",
+    "殖利率曲線",
+    "期限溢酬",
+    "投資級信用"
+   ],
+   "quote": "However, we think the case for a steeper curve has weakened substantially this week, as our economists think Warsh’s pivot raised the risks of hiking sooner, and think current market pricing is not out of line with fundamentals",
+   "quote_zh": "不過我們認為，曲線走陡的理由在本週已大幅削弱：我們的經濟學家認為 Warsh 的轉向提高了提前升息的風險，而目前的市場定價與基本面並無明顯背離。",
+   "page": 5,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-28-jpm-5429113-2",
+   "week": "2026-W35",
+   "slug": "2026-08-28-jpm-5429113",
+   "broker": "JPM",
+   "title": "U.S. Fixed Income Markets Weekly",
+   "title_source": "page_one",
+   "title_confident": false,
+   "date": "2026-08-28",
+   "due": "2026-11-26",
+   "filed": "2026-09-14",
+   "theme": "美國政治與政策",
+   "tags": [
+    "美國",
+    "聯準會",
+    "美國公債",
+    "殖利率曲線",
+    "期限溢酬",
+    "投資級信用"
+   ],
+   "quote": "while Secretary Bessent’s actions last week raise questions over Treasury’s commitment to being a regular and predictable issuer, and we do not expect increased buybacks to have a meaningful impact on yield levels unless accompanied by structural fiscal reform, we do not see a catalyst for materially higher term premium over the near term",
+   "quote_zh": "雖然 Bessent 部長上週的動作讓人質疑財政部是否仍堅守「規律且可預測的發行者」原則，而且除非伴隨結構性財政改革，我們並不預期增加買回會對殖利率水準造成實質影響，我們仍看不到近期期限溢酬明顯走高的觸媒。",
+   "page": 5,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-28-jpm-5429113-3",
+   "week": "2026-W35",
+   "slug": "2026-08-28-jpm-5429113",
+   "broker": "JPM",
+   "title": "U.S. Fixed Income Markets Weekly",
+   "title_source": "page_one",
+   "title_confident": false,
+   "date": "2026-08-28",
+   "due": "2026-11-26",
+   "filed": "2026-09-14",
+   "theme": "信用債",
+   "tags": [
+    "美國",
+    "聯準會",
+    "美國公債",
+    "殖利率曲線",
+    "期限溢酬",
+    "投資級信用"
+   ],
+   "quote": "This factor, alongside lower dealer inventories and steady inflows, should likely curtail any material weakness in spreads",
+   "quote_zh": "這個因素加上交易商庫存偏低與資金穩定流入，應該會抑制利差出現任何實質性的走弱。",
+   "page": 7,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-28-jpm-5428894-1",
+   "week": "2026-W35",
+   "slug": "2026-08-28-jpm-5428894",
+   "broker": "JPM",
+   "title": "Credit Market Outlook & Strategy: Familiar formula with familiar results: High yields + light supply = tighter spreads",
+   "title_source": "page_one",
+   "title_confident": true,
+   "date": "2026-08-28",
+   "due": "2026-11-26",
+   "filed": "2026-09-14",
+   "theme": "信用債",
+   "tags": [
+    "美國",
+    "投資級信用",
+    "聯準會",
+    "資料中心",
+    "共同基金",
+    "台灣"
+   ],
+   "quote": "spreads have tightened in September for 8 of the past 10 years, a reminder of the key adage in HG markets in our view that supply tends to follow demand and not the other way around, though 2026 has felt like an exception to this rule at times",
+   "quote_zh": "9 月利差在過去十年裡有八年是收窄的，這提醒我們高評級市場的一條關鍵老規矩：供給是跟隨需求走的，而不是反過來——儘管 2026 年有些時候感覺像是這條規矩的例外。",
+   "page": 3,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-28-jpm-5428894-2",
+   "week": "2026-W35",
+   "slug": "2026-08-28-jpm-5428894",
+   "broker": "JPM",
+   "title": "Credit Market Outlook & Strategy: Familiar formula with familiar results: High yields + light supply = tighter spreads",
+   "title_source": "page_one",
+   "title_confident": true,
+   "date": "2026-08-28",
+   "due": "2026-11-26",
+   "filed": "2026-09-14",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "美國",
+    "投資級信用",
+    "聯準會",
+    "資料中心",
+    "共同基金",
+    "台灣"
+   ],
+   "quote": "The highly anticipated first Warsh Jackson Hole speech leaned hawkish and led to front-end UST yields spiking 11bp higher and flattening the 2y30y UST curve by 10bp. As such, markets are now pricing a ~60% chance of a hike in September",
+   "quote_zh": "備受矚目的華許首場傑克森霍爾演說偏鷹，使短天期美債殖利率飆升 11 個基點，並把 2 年／30 年美債曲線壓平 10 個基點。因此市場目前定價 9 月升息的機率約 60%。",
+   "page": 2,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-28-jpm-5428894-3",
+   "week": "2026-W35",
+   "slug": "2026-08-28-jpm-5428894",
+   "broker": "JPM",
+   "title": "Credit Market Outlook & Strategy: Familiar formula with familiar results: High yields + light supply = tighter spreads",
+   "title_source": "page_one",
+   "title_confident": true,
+   "date": "2026-08-28",
+   "due": "2026-11-26",
+   "filed": "2026-09-14",
+   "theme": "AI 與半導體",
+   "tags": [
+    "美國",
+    "投資級信用",
+    "聯準會",
+    "資料中心",
+    "共同基金",
+    "台灣"
+   ],
+   "quote": "Hyperscalers account for 4.6% of JULI by par and currently add approximately 2.1bp to the overall index spread",
+   "quote_zh": "超大規模雲端業者按面額計算佔 JULI 指數的 4.6%，目前為整體指數利差增加約 2.1 個基點。",
+   "page": 2,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-28-jpm-5422036-1",
+   "week": "2026-W35",
+   "slug": "2026-08-28-jpm-5422036",
+   "broker": "JPM",
+   "title": "US: Little room for improvement",
+   "title_source": "page_one",
+   "title_confident": false,
+   "date": "2026-08-28",
+   "due": "2026-11-26",
+   "filed": "2026-09-14",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "美國",
+    "房地產",
+    "房貸",
+    "關稅",
+    "建材",
+    "消費"
+   ],
+   "quote": "High mortgage rates have weakened improvement spending",
+   "quote_zh": "高房貸利率已經壓抑了改建支出。",
+   "page": 2,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-28-jpm-5422036-2",
+   "week": "2026-W35",
+   "slug": "2026-08-28-jpm-5422036",
+   "broker": "JPM",
+   "title": "US: Little room for improvement",
+   "title_source": "page_one",
+   "title_confident": false,
+   "date": "2026-08-28",
+   "due": "2026-11-26",
+   "filed": "2026-09-14",
+   "theme": "美國政治與政策",
+   "tags": [
+    "美國",
+    "房地產",
+    "房貸",
+    "關稅",
+    "建材",
+    "消費"
+   ],
+   "quote": "reached 15.4% in June, more than double the 6.8% rate",
+   "quote_zh": "（進口家居改造商品籃的實現關稅率）六月達到 15.4%，是 6.8% 那個稅率的兩倍多。",
+   "page": 2,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-28-jpm-5422036-3",
+   "week": "2026-W35",
+   "slug": "2026-08-28-jpm-5422036",
+   "broker": "JPM",
+   "title": "US: Little room for improvement",
+   "title_source": "page_one",
+   "title_confident": false,
+   "date": "2026-08-28",
+   "due": "2026-11-26",
+   "filed": "2026-09-14",
+   "theme": "美國政治與政策",
+   "tags": [
+    "美國",
+    "房地產",
+    "房貸",
+    "關稅",
+    "建材",
+    "消費"
+   ],
+   "quote": "spending on services and nondurable goods remains above trend. The weakness in remodeling therefore reflects more than just a stagnant housing market.",
+   "quote_zh": "服務與非耐久財支出仍在趨勢之上。因此，改建的疲弱所反映的不只是一個停滯的房市。",
+   "page": 3,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-28-jpm-5392984-1",
+   "week": "2026-W35",
+   "slug": "2026-08-28-jpm-5392984",
+   "broker": "JPM",
+   "title": "US Weekly Prospects",
+   "title_source": "page_one",
+   "title_confident": false,
+   "date": "2026-08-28",
+   "due": "2026-11-26",
+   "filed": "2026-09-14",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "美國",
+    "聯準會",
+    "勞動市場",
+    "房地產",
+    "關稅",
+    "消費"
+   ],
+   "quote": "Warsh suggests he will advocate hiking absent a core inflation moderation",
+   "quote_zh": "若核心通膨沒有放緩，Warsh 暗示他會主張升息。",
+   "page": 8,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-28-jpm-5392984-2",
+   "week": "2026-W35",
+   "slug": "2026-08-28-jpm-5392984",
+   "broker": "JPM",
+   "title": "US Weekly Prospects",
+   "title_source": "page_one",
+   "title_confident": false,
+   "date": "2026-08-28",
+   "due": "2026-11-26",
+   "filed": "2026-09-14",
+   "theme": "美股與財報",
+   "tags": [
+    "美國",
+    "聯準會",
+    "勞動市場",
+    "房地產",
+    "關稅",
+    "消費"
+   ],
+   "quote": "Global profits surged 35%oya in the second quarter, with MSCI-reported profit growth accelerating in 24 of the 28 tracked economies",
+   "quote_zh": "第二季全球獲利年增 35%，在追蹤的 28 個經濟體中，有 24 個的 MSCI 口徑獲利成長正在加速。",
+   "page": 8,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-28-jpm-5392984-3",
+   "week": "2026-W35",
+   "slug": "2026-08-28-jpm-5392984",
+   "broker": "JPM",
+   "title": "US Weekly Prospects",
+   "title_source": "page_one",
+   "title_confident": false,
+   "date": "2026-08-28",
+   "due": "2026-11-26",
+   "filed": "2026-09-14",
+   "theme": "日本",
+   "tags": [
+    "美國",
+    "聯準會",
+    "勞動市場",
+    "房地產",
+    "關稅",
+    "消費"
+   ],
+   "quote": "The case for a BoJ hike in September is strengthening.",
+   "quote_zh": "日本銀行在 9 月升息的理由正在增強。",
+   "page": 9,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
    "id": "2026-08-28-goldman-sachs-oil-analyst-1",
    "week": "2026-W35",
    "slug": "2026-08-28-goldman-sachs-oil-analyst",
@@ -2081,6 +3665,7 @@
    "title_confident": true,
    "date": "2026-08-28",
    "due": "2026-11-26",
+   "filed": "2026-09-06",
    "theme": "能源與原物料",
    "tags": [
     "原油",
@@ -2107,6 +3692,7 @@
    "title_confident": true,
    "date": "2026-08-28",
    "due": "2026-11-26",
+   "filed": "2026-09-06",
    "theme": "地緣政治（中東與戰事）",
    "tags": [
     "原油",
@@ -2133,6 +3719,7 @@
    "title_confident": true,
    "date": "2026-08-28",
    "due": "2026-11-26",
+   "filed": "2026-09-06",
    "theme": "能源與原物料",
    "tags": [
     "原油",
@@ -2159,6 +3746,7 @@
    "title_confident": true,
    "date": "2026-08-28",
    "due": "2026-11-26",
+   "filed": "2026-09-06",
    "theme": "金融、併購與企業",
    "tags": [
     "電子商務",
@@ -2184,6 +3772,7 @@
    "title_confident": true,
    "date": "2026-08-28",
    "due": "2026-11-26",
+   "filed": "2026-09-06",
    "theme": "AI 與半導體",
    "tags": [
     "電子商務",
@@ -2209,6 +3798,7 @@
    "title_confident": true,
    "date": "2026-08-28",
    "due": "2026-11-26",
+   "filed": "2026-09-06",
    "theme": "美股與財報",
    "tags": [
     "電子商務",
@@ -2234,6 +3824,7 @@
    "title_confident": true,
    "date": "2026-08-28",
    "due": "2026-11-26",
+   "filed": "2026-09-06",
    "theme": "AI 與半導體",
    "tags": [
     "美國",
@@ -2260,6 +3851,7 @@
    "title_confident": true,
    "date": "2026-08-28",
    "due": "2026-11-26",
+   "filed": "2026-09-06",
    "theme": "AI 與半導體",
    "tags": [
     "美國",
@@ -2286,6 +3878,7 @@
    "title_confident": true,
    "date": "2026-08-28",
    "due": "2026-11-26",
+   "filed": "2026-09-06",
    "theme": "美股與財報",
    "tags": [
     "美國",
@@ -2312,6 +3905,7 @@
    "title_confident": true,
    "date": "2026-08-28",
    "due": "2026-11-26",
+   "filed": "2026-09-06",
    "theme": "美股與財報",
    "tags": [
     "美國",
@@ -2338,6 +3932,7 @@
    "title_confident": true,
    "date": "2026-08-28",
    "due": "2026-11-26",
+   "filed": "2026-09-06",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -2364,6 +3959,7 @@
    "title_confident": true,
    "date": "2026-08-28",
    "due": "2026-11-26",
+   "filed": "2026-09-06",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -2390,6 +3986,7 @@
    "title_confident": true,
    "date": "2026-08-28",
    "due": "2026-11-26",
+   "filed": "2026-09-06",
    "theme": "AI 與半導體",
    "tags": [
     "美國",
@@ -2416,6 +4013,7 @@
    "title_confident": true,
    "date": "2026-08-27",
    "due": "2026-11-25",
+   "filed": "2026-09-06",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國公債",
@@ -2442,6 +4040,7 @@
    "title_confident": true,
    "date": "2026-08-27",
    "due": "2026-11-25",
+   "filed": "2026-09-06",
    "theme": "信用債",
    "tags": [
     "美國公債",
@@ -2468,6 +4067,7 @@
    "title_confident": true,
    "date": "2026-08-27",
    "due": "2026-11-25",
+   "filed": "2026-09-06",
    "theme": "美國政治與政策",
    "tags": [
     "美國公債",
@@ -2494,6 +4094,7 @@
    "title_confident": true,
    "date": "2026-08-27",
    "due": "2026-11-25",
+   "filed": "2026-09-06",
    "theme": "歐洲",
    "tags": [
     "美國公債",
@@ -2511,6 +4112,87 @@
    "verdictDate": ""
   },
   {
+   "id": "2026-08-26-jpm-5423658-1",
+   "week": "2026-W35",
+   "slug": "2026-08-26-jpm-5423658",
+   "broker": "JPM",
+   "title": "Recoupling remains reasonable",
+   "title_source": "page_one",
+   "title_confident": false,
+   "date": "2026-08-26",
+   "due": "2026-11-24",
+   "filed": "2026-09-14",
+   "theme": "央行、利率與匯率",
+   "tags": [
+    "美國",
+    "勞動市場",
+    "生產力",
+    "人工智慧",
+    "通膨",
+    "聯準會"
+   ],
+   "quote": "recoupling is thus a higher interest rate environment",
+   "quote_zh": "再耦合因此帶來的是一個更高的利率環境",
+   "page": 1,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-26-jpm-5423658-2",
+   "week": "2026-W35",
+   "slug": "2026-08-26-jpm-5423658",
+   "broker": "JPM",
+   "title": "Recoupling remains reasonable",
+   "title_source": "page_one",
+   "title_confident": false,
+   "date": "2026-08-26",
+   "due": "2026-11-24",
+   "filed": "2026-09-14",
+   "theme": "AI 與半導體",
+   "tags": [
+    "美國",
+    "勞動市場",
+    "生產力",
+    "人工智慧",
+    "通膨",
+    "聯準會"
+   ],
+   "quote": "not materially diverged from the broader trend toward softening demand, supporting the notion that broader macroeconomic forces have played a dominant role in the US job stall",
+   "quote_zh": "並沒有明顯偏離需求走弱的大趨勢，這支持了一個看法：在美國就業停滯這件事上，更廣泛的總體經濟力量才是主導。",
+   "page": 4,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-08-26-jpm-5423658-3",
+   "week": "2026-W35",
+   "slug": "2026-08-26-jpm-5423658",
+   "broker": "JPM",
+   "title": "Recoupling remains reasonable",
+   "title_source": "page_one",
+   "title_confident": false,
+   "date": "2026-08-26",
+   "due": "2026-11-24",
+   "filed": "2026-09-14",
+   "theme": "美股與財報",
+   "tags": [
+    "美國",
+    "勞動市場",
+    "生產力",
+    "人工智慧",
+    "通膨",
+    "聯準會"
+   ],
+   "quote": "Technological waves that boost investment spending have normally generated significant positive feedback to growth through profit gains, wealth effects",
+   "quote_zh": "推升投資支出的科技浪潮，歷來都會透過獲利增長與財富效果，對成長產生顯著的正回饋。",
+   "page": 4,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
    "id": "2026-08-25-goldman-sachs-japan-economics-analyst-1",
    "week": "2026-W35",
    "slug": "2026-08-25-goldman-sachs-japan-economics-analyst",
@@ -2520,6 +4202,7 @@
    "title_confident": true,
    "date": "2026-08-25",
    "due": "2026-11-23",
+   "filed": "2026-08-30",
    "theme": "央行、利率與匯率",
    "tags": [
     "日本",
@@ -2545,6 +4228,7 @@
    "title_confident": true,
    "date": "2026-08-25",
    "due": "2026-11-23",
+   "filed": "2026-08-30",
    "theme": "日本",
    "tags": [
     "日本",
@@ -2570,6 +4254,7 @@
    "title_confident": true,
    "date": "2026-08-25",
    "due": "2026-11-23",
+   "filed": "2026-08-30",
    "theme": "央行、利率與匯率",
    "tags": [
     "日本",
@@ -2595,6 +4280,7 @@
    "title_confident": true,
    "date": "2026-08-25",
    "due": "2026-11-23",
+   "filed": "2026-08-30",
    "theme": "央行、利率與匯率",
    "tags": [
     "英國",
@@ -2621,6 +4307,7 @@
    "title_confident": true,
    "date": "2026-08-25",
    "due": "2026-11-23",
+   "filed": "2026-08-30",
    "theme": "地緣政治（中東與戰事）",
    "tags": [
     "英國",
@@ -2647,6 +4334,7 @@
    "title_confident": true,
    "date": "2026-08-25",
    "due": "2026-11-23",
+   "filed": "2026-08-30",
    "theme": "能源與原物料",
    "tags": [
     "英國",
@@ -2673,6 +4361,7 @@
    "title_confident": true,
    "date": "2026-08-25",
    "due": "2026-11-23",
+   "filed": "2026-08-30",
    "theme": "歐洲",
    "tags": [
     "英國",
@@ -2699,6 +4388,7 @@
    "title_confident": true,
    "date": "2026-08-25",
    "due": "2026-11-23",
+   "filed": "2026-08-30",
    "theme": "亞太（韓國、印度、東南亞）",
    "tags": [
     "資料中心",
@@ -2725,6 +4415,7 @@
    "title_confident": true,
    "date": "2026-08-25",
    "due": "2026-11-23",
+   "filed": "2026-08-30",
    "theme": "能源與原物料",
    "tags": [
     "資料中心",
@@ -2751,6 +4442,7 @@
    "title_confident": true,
    "date": "2026-08-25",
    "due": "2026-11-23",
+   "filed": "2026-08-30",
    "theme": "AI 與半導體",
    "tags": [
     "資料中心",
@@ -2777,6 +4469,7 @@
    "title_confident": true,
    "date": "2026-08-25",
    "due": "2026-11-23",
+   "filed": "2026-08-30",
    "theme": "能源與原物料",
    "tags": [
     "歐洲",
@@ -2803,6 +4496,7 @@
    "title_confident": true,
    "date": "2026-08-25",
    "due": "2026-11-23",
+   "filed": "2026-08-30",
    "theme": "歐洲",
    "tags": [
     "歐洲",
@@ -2829,6 +4523,7 @@
    "title_confident": true,
    "date": "2026-08-25",
    "due": "2026-11-23",
+   "filed": "2026-08-30",
    "theme": "AI 與半導體",
    "tags": [
     "歐洲",
@@ -2855,6 +4550,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-30",
    "theme": "中國",
    "tags": [
     "中國",
@@ -2880,6 +4576,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-30",
    "theme": "中國",
    "tags": [
     "中國",
@@ -2905,6 +4602,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-30",
    "theme": "AI 與半導體",
    "tags": [
     "中國",
@@ -2930,6 +4628,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-24",
    "theme": "美國政治與政策",
    "tags": [
     "關稅",
@@ -2956,6 +4655,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-24",
    "theme": "美股與財報",
    "tags": [
     "關稅",
@@ -2982,6 +4682,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-24",
    "theme": "中國",
    "tags": [
     "關稅",
@@ -3008,6 +4709,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-30",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -3032,6 +4734,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-30",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -3056,6 +4759,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-30",
    "theme": "美國政治與政策",
    "tags": [
     "美國",
@@ -3080,6 +4784,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-31",
    "theme": "中國",
    "tags": [
     "中國",
@@ -3105,6 +4810,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-31",
    "theme": "AI 與半導體",
    "tags": [
     "中國",
@@ -3130,6 +4836,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-31",
    "theme": "金融、併購與企業",
    "tags": [
     "中國",
@@ -3155,6 +4862,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-31",
    "theme": "美國政治與政策",
    "tags": [
     "中國",
@@ -3180,6 +4888,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-30",
    "theme": "中國",
    "tags": [
     "中國",
@@ -3205,6 +4914,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-30",
    "theme": "能源與原物料",
    "tags": [
     "中國",
@@ -3230,6 +4940,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-30",
    "theme": "能源與原物料",
    "tags": [
     "中國",
@@ -3255,6 +4966,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-24",
    "theme": "美股與財報",
    "tags": [
     "美國",
@@ -3280,6 +4992,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-24",
    "theme": "美國政治與政策",
    "tags": [
     "美國",
@@ -3305,6 +5018,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-24",
    "theme": "美股與財報",
    "tags": [
     "美國",
@@ -3330,6 +5044,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-30",
    "theme": "美股與財報",
    "tags": [
     "美國",
@@ -3355,6 +5070,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-30",
    "theme": "美國政治與政策",
    "tags": [
     "美國",
@@ -3380,6 +5096,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-30",
    "theme": "金融、併購與企業",
    "tags": [
     "美國",
@@ -3405,6 +5122,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-24",
    "theme": "央行、利率與匯率",
    "tags": [
     "拉丁美洲",
@@ -3431,6 +5149,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-24",
    "theme": "央行、利率與匯率",
    "tags": [
     "拉丁美洲",
@@ -3457,6 +5176,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-24",
    "theme": "信用債",
    "tags": [
     "拉丁美洲",
@@ -3483,6 +5203,7 @@
    "title_confident": true,
    "date": "2026-08-24",
    "due": "2026-11-22",
+   "filed": "2026-08-24",
    "theme": "能源與原物料",
    "tags": [
     "拉丁美洲",
@@ -3509,6 +5230,7 @@
    "title_confident": true,
    "date": "2026-08-23",
    "due": "2026-11-21",
+   "filed": "2026-08-24",
    "theme": "央行、利率與匯率",
    "tags": [
     "巴西",
@@ -3535,6 +5257,7 @@
    "title_confident": true,
    "date": "2026-08-23",
    "due": "2026-11-21",
+   "filed": "2026-08-24",
    "theme": "金融、併購與企業",
    "tags": [
     "巴西",
@@ -3561,6 +5284,7 @@
    "title_confident": true,
    "date": "2026-08-23",
    "due": "2026-11-21",
+   "filed": "2026-08-24",
    "theme": "金融、併購與企業",
    "tags": [
     "巴西",
@@ -3587,6 +5311,7 @@
    "title_confident": true,
    "date": "2026-08-23",
    "due": "2026-11-21",
+   "filed": "2026-08-24",
    "theme": "中國",
    "tags": [
     "中國",
@@ -3613,6 +5338,7 @@
    "title_confident": true,
    "date": "2026-08-23",
    "due": "2026-11-21",
+   "filed": "2026-08-24",
    "theme": "AI 與半導體",
    "tags": [
     "中國",
@@ -3639,6 +5365,7 @@
    "title_confident": true,
    "date": "2026-08-23",
    "due": "2026-11-21",
+   "filed": "2026-08-24",
    "theme": "歐洲",
    "tags": [
     "中國",
@@ -3665,6 +5392,7 @@
    "title_confident": true,
    "date": "2026-08-23",
    "due": "2026-11-21",
+   "filed": "2026-08-24",
    "theme": "黃金",
    "tags": [
     "中國",
@@ -3691,6 +5419,7 @@
    "title_confident": true,
    "date": "2026-08-23",
    "due": "2026-11-21",
+   "filed": "2026-08-30",
    "theme": "金融、併購與企業",
    "tags": [
     "美國",
@@ -3717,6 +5446,7 @@
    "title_confident": true,
    "date": "2026-08-23",
    "due": "2026-11-21",
+   "filed": "2026-08-30",
    "theme": "金融、併購與企業",
    "tags": [
     "美國",
@@ -3743,6 +5473,7 @@
    "title_confident": true,
    "date": "2026-08-23",
    "due": "2026-11-21",
+   "filed": "2026-08-30",
    "theme": "金融、併購與企業",
    "tags": [
     "美國",
@@ -3769,6 +5500,7 @@
    "title_confident": true,
    "date": "2026-08-23",
    "due": "2026-11-21",
+   "filed": "2026-08-30",
    "theme": "美股與財報",
    "tags": [
     "美國",
@@ -3795,6 +5527,7 @@
    "title_confident": true,
    "date": "2026-08-22",
    "due": "2026-11-20",
+   "filed": "2026-08-23",
    "theme": "亞太（韓國、印度、東南亞）",
    "tags": [
     "韓國",
@@ -3821,6 +5554,7 @@
    "title_confident": true,
    "date": "2026-08-22",
    "due": "2026-11-20",
+   "filed": "2026-08-23",
    "theme": "中國",
    "tags": [
     "韓國",
@@ -3847,6 +5581,7 @@
    "title_confident": true,
    "date": "2026-08-22",
    "due": "2026-11-20",
+   "filed": "2026-08-23",
    "theme": "台灣",
    "tags": [
     "韓國",
@@ -3873,6 +5608,7 @@
    "title_confident": true,
    "date": "2026-08-22",
    "due": "2026-11-20",
+   "filed": "2026-08-23",
    "theme": "亞太（韓國、印度、東南亞）",
    "tags": [
     "韓國",
@@ -3899,6 +5635,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "日本",
@@ -3925,6 +5662,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "日本",
    "tags": [
     "日本",
@@ -3951,6 +5689,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "能源與原物料",
    "tags": [
     "日本",
@@ -3977,6 +5716,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "日本",
@@ -4003,6 +5743,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "日本",
    "tags": [
     "日本",
@@ -4029,6 +5770,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "AI 與半導體",
    "tags": [
     "日本",
@@ -4055,6 +5797,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "美股與財報",
    "tags": [
     "美股",
@@ -4081,6 +5824,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "AI 與半導體",
    "tags": [
     "美股",
@@ -4107,6 +5851,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "金融、併購與企業",
    "tags": [
     "美股",
@@ -4133,6 +5878,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-30",
    "theme": "中國",
    "tags": [
     "中國",
@@ -4158,6 +5904,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-30",
    "theme": "中國",
    "tags": [
     "中國",
@@ -4183,6 +5930,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-30",
    "theme": "中國",
    "tags": [
     "中國",
@@ -4208,6 +5956,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "AI 與半導體",
    "tags": [
     "美股",
@@ -4234,6 +5983,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "AI 與半導體",
    "tags": [
     "美股",
@@ -4260,6 +6010,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "美股與財報",
    "tags": [
     "美股",
@@ -4286,6 +6037,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "AI 與半導體",
    "tags": [
     "美國",
@@ -4312,6 +6064,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "AI 與半導體",
    "tags": [
     "美國",
@@ -4338,6 +6091,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "AI 與半導體",
    "tags": [
     "美國",
@@ -4364,6 +6118,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "美國政治與政策",
    "tags": [
     "美國",
@@ -4390,6 +6145,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "美股與財報",
    "tags": [
     "美國",
@@ -4416,6 +6172,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "美股與財報",
    "tags": [
     "美國",
@@ -4442,6 +6199,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "AI 與半導體",
    "tags": [
     "美國",
@@ -4468,6 +6226,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "美股與財報",
    "tags": [
     "美國",
@@ -4494,6 +6253,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "美國政治與政策",
    "tags": [
     "美國",
@@ -4520,6 +6280,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -4546,6 +6307,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -4572,6 +6334,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -4598,6 +6361,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "美國政治與政策",
    "tags": [
     "美國",
@@ -4624,6 +6388,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -4650,6 +6415,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "AI 與半導體",
    "tags": [
     "美國",
@@ -4676,6 +6442,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -4702,6 +6469,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "信用債",
    "tags": [
     "美國",
@@ -4728,6 +6496,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "美股與財報",
    "tags": [
     "美國",
@@ -4754,6 +6523,7 @@
    "title_confident": true,
    "date": "2026-08-21",
    "due": "2026-11-19",
+   "filed": "2026-08-23",
    "theme": "黃金",
    "tags": [
     "美國",
@@ -4780,6 +6550,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "亞太（韓國、印度、東南亞）",
    "tags": [
     "泰國",
@@ -4806,6 +6577,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "AI 與半導體",
    "tags": [
     "泰國",
@@ -4832,6 +6604,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "中國",
    "tags": [
     "泰國",
@@ -4858,6 +6631,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "能源與原物料",
    "tags": [
     "中東",
@@ -4884,6 +6658,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "地緣政治（中東與戰事）",
    "tags": [
     "中東",
@@ -4910,6 +6685,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "能源與原物料",
    "tags": [
     "中東",
@@ -4936,6 +6712,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "亞太（韓國、印度、東南亞）",
    "tags": [
     "印度",
@@ -4962,6 +6739,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "金融、併購與企業",
    "tags": [
     "印度",
@@ -4988,6 +6766,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "亞太（韓國、印度、東南亞）",
    "tags": [
     "印度",
@@ -5014,6 +6793,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "信用債",
    "tags": [
     "美國",
@@ -5039,6 +6819,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "AI 與半導體",
    "tags": [
     "美國",
@@ -5064,6 +6845,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "信用債",
    "tags": [
     "美國",
@@ -5089,6 +6871,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "信用債",
    "tags": [
     "美國",
@@ -5114,6 +6897,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -5140,6 +6924,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -5166,6 +6951,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "日本",
    "tags": [
     "美國",
@@ -5192,6 +6978,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "能源與原物料",
    "tags": [
     "美國",
@@ -5218,6 +7005,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "美股與財報",
    "tags": [
     "美國",
@@ -5244,6 +7032,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "美元",
@@ -5270,6 +7059,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "AI 與半導體",
    "tags": [
     "美元",
@@ -5296,6 +7086,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "日本",
    "tags": [
     "美元",
@@ -5322,6 +7113,7 @@
    "title_confident": true,
    "date": "2026-08-20",
    "due": "2026-11-18",
+   "filed": "2026-08-23",
    "theme": "能源與原物料",
    "tags": [
     "美元",
@@ -5348,6 +7140,7 @@
    "title_confident": true,
    "date": "2026-08-19",
    "due": "2026-11-17",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -5373,6 +7166,7 @@
    "title_confident": true,
    "date": "2026-08-19",
    "due": "2026-11-17",
+   "filed": "2026-08-23",
    "theme": "美國政治與政策",
    "tags": [
     "美國",
@@ -5398,6 +7192,7 @@
    "title_confident": true,
    "date": "2026-08-19",
    "due": "2026-11-17",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -5423,6 +7218,7 @@
    "title_confident": true,
    "date": "2026-08-19",
    "due": "2026-11-17",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -5448,6 +7244,7 @@
    "title_confident": true,
    "date": "2026-08-19",
    "due": "2026-11-17",
+   "filed": "2026-08-23",
    "theme": "亞太（韓國、印度、東南亞）",
    "tags": [
     "印尼",
@@ -5474,6 +7271,7 @@
    "title_confident": true,
    "date": "2026-08-19",
    "due": "2026-11-17",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "印尼",
@@ -5500,6 +7298,7 @@
    "title_confident": true,
    "date": "2026-08-19",
    "due": "2026-11-17",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "印尼",
@@ -5526,6 +7325,7 @@
    "title_confident": true,
    "date": "2026-08-19",
    "due": "2026-11-17",
+   "filed": "2026-08-23",
    "theme": "AI 與半導體",
    "tags": [
     "韓國",
@@ -5551,6 +7351,7 @@
    "title_confident": true,
    "date": "2026-08-19",
    "due": "2026-11-17",
+   "filed": "2026-08-23",
    "theme": "亞太（韓國、印度、東南亞）",
    "tags": [
     "韓國",
@@ -5576,6 +7377,7 @@
    "title_confident": true,
    "date": "2026-08-19",
    "due": "2026-11-17",
+   "filed": "2026-08-23",
    "theme": "AI 與半導體",
    "tags": [
     "韓國",
@@ -5601,6 +7403,7 @@
    "title_confident": true,
    "date": "2026-08-19",
    "due": "2026-11-17",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -5627,6 +7430,7 @@
    "title_confident": true,
    "date": "2026-08-19",
    "due": "2026-11-17",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -5653,6 +7457,7 @@
    "title_confident": true,
    "date": "2026-08-19",
    "due": "2026-11-17",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -5679,6 +7484,7 @@
    "title_confident": true,
    "date": "2026-08-19",
    "due": "2026-11-17",
+   "filed": "2026-08-23",
    "theme": "能源與原物料",
    "tags": [
     "中東",
@@ -5705,6 +7511,7 @@
    "title_confident": true,
    "date": "2026-08-19",
    "due": "2026-11-17",
+   "filed": "2026-08-23",
    "theme": "能源與原物料",
    "tags": [
     "中東",
@@ -5731,6 +7538,7 @@
    "title_confident": true,
    "date": "2026-08-19",
    "due": "2026-11-17",
+   "filed": "2026-08-23",
    "theme": "能源與原物料",
    "tags": [
     "中東",
@@ -5757,6 +7565,7 @@
    "title_confident": true,
    "date": "2026-08-19",
    "due": "2026-11-17",
+   "filed": "2026-08-23",
    "theme": "地緣政治（中東與戰事）",
    "tags": [
     "中東",
@@ -5783,6 +7592,7 @@
    "title_confident": true,
    "date": "2026-08-18",
    "due": "2026-11-16",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "聯準會",
@@ -5809,6 +7619,7 @@
    "title_confident": true,
    "date": "2026-08-18",
    "due": "2026-11-16",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "聯準會",
@@ -5835,6 +7646,7 @@
    "title_confident": true,
    "date": "2026-08-18",
    "due": "2026-11-16",
+   "filed": "2026-08-23",
    "theme": "AI 與半導體",
    "tags": [
     "聯準會",
@@ -5861,6 +7673,7 @@
    "title_confident": true,
    "date": "2026-08-18",
    "due": "2026-11-16",
+   "filed": "2026-08-23",
    "theme": "日本",
    "tags": [
     "聯準會",
@@ -5887,6 +7700,7 @@
    "title_confident": true,
    "date": "2026-08-18",
    "due": "2026-11-16",
+   "filed": "2026-08-23",
    "theme": "歐洲",
    "tags": [
     "德國",
@@ -5912,6 +7726,7 @@
    "title_confident": true,
    "date": "2026-08-18",
    "due": "2026-11-16",
+   "filed": "2026-08-23",
    "theme": "歐洲",
    "tags": [
     "德國",
@@ -5937,6 +7752,7 @@
    "title_confident": true,
    "date": "2026-08-18",
    "due": "2026-11-16",
+   "filed": "2026-08-23",
    "theme": "歐洲",
    "tags": [
     "德國",
@@ -5962,6 +7778,7 @@
    "title_confident": true,
    "date": "2026-08-14",
    "due": "2026-11-12",
+   "filed": "2026-08-23",
    "theme": "美國政治與政策",
    "tags": [
     "美國",
@@ -5987,6 +7804,7 @@
    "title_confident": true,
    "date": "2026-08-14",
    "due": "2026-11-12",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -6012,6 +7830,7 @@
    "title_confident": true,
    "date": "2026-08-14",
    "due": "2026-11-12",
+   "filed": "2026-08-23",
    "theme": "央行、利率與匯率",
    "tags": [
     "美國",
@@ -6037,6 +7856,7 @@
    "title_confident": true,
    "date": "2026-07-29",
    "due": "2026-10-27",
+   "filed": "2026-08-23",
    "theme": "能源與原物料",
    "tags": [
     "美國",
@@ -6063,6 +7883,7 @@
    "title_confident": true,
    "date": "2026-07-29",
    "due": "2026-10-27",
+   "filed": "2026-08-23",
    "theme": "能源與原物料",
    "tags": [
     "美國",
@@ -6089,6 +7910,7 @@
    "title_confident": true,
    "date": "2026-07-29",
    "due": "2026-10-27",
+   "filed": "2026-08-23",
    "theme": "AI 與半導體",
    "tags": [
     "美國",
@@ -6115,6 +7937,7 @@
    "title_confident": true,
    "date": "2026-07-29",
    "due": "2026-10-27",
+   "filed": "2026-08-23",
    "theme": "美國政治與政策",
    "tags": [
     "美國",
@@ -6141,6 +7964,7 @@
    "title_confident": true,
    "date": "2026-07-22",
    "due": "2026-10-20",
+   "filed": "2026-08-23",
    "theme": "美股與財報",
    "tags": [
     "美國",
@@ -6167,6 +7991,7 @@
    "title_confident": true,
    "date": "2026-07-22",
    "due": "2026-10-20",
+   "filed": "2026-08-23",
    "theme": "美股與財報",
    "tags": [
     "美國",
@@ -6193,6 +8018,7 @@
    "title_confident": true,
    "date": "2026-07-22",
    "due": "2026-10-20",
+   "filed": "2026-08-23",
    "theme": "信用債",
    "tags": [
     "美國",
@@ -6219,6 +8045,7 @@
    "title_confident": true,
    "date": "2026-07-22",
    "due": "2026-10-20",
+   "filed": "2026-08-23",
    "theme": "中國",
    "tags": [
     "美國",
@@ -6236,6 +8063,87 @@
    "verdictDate": ""
   },
   {
+   "id": "2026-07-09-jpm-5325097-1",
+   "week": "2026-W28",
+   "slug": "2026-07-09-jpm-5325097",
+   "broker": "JPM",
+   "title": "Savior or snake oil?: The brave \"new\" old world of industrial policy",
+   "title_source": "page_one",
+   "title_confident": true,
+   "date": "2026-07-09",
+   "due": "2026-10-07",
+   "filed": "2026-09-14",
+   "theme": "美國政治與政策",
+   "tags": [
+    "美國",
+    "產業政策",
+    "財政政策",
+    "供應鏈",
+    "中國",
+    "日本"
+   ],
+   "quote": "The question, then, is not whether to do industrial policy, but whether the country can do it with enough focus—and enough humility—to intervene where it must and stop when it should.",
+   "quote_zh": "所以問題不是要不要做產業政策，而是這個國家能不能做得夠聚焦、也夠謙抑——該介入時介入，該停時停得下來。",
+   "page": 11,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-07-09-jpm-5325097-2",
+   "week": "2026-W28",
+   "slug": "2026-07-09-jpm-5325097",
+   "broker": "JPM",
+   "title": "Savior or snake oil?: The brave \"new\" old world of industrial policy",
+   "title_source": "page_one",
+   "title_confident": true,
+   "date": "2026-07-09",
+   "due": "2026-10-07",
+   "filed": "2026-09-14",
+   "theme": "日本",
+   "tags": [
+    "美國",
+    "產業政策",
+    "財政政策",
+    "供應鏈",
+    "中國",
+    "日本"
+   ],
+   "quote": "Japan is the cautionary tale: industrial policy that appeared highly effective before the 1985 Plaza Accord proved far weaker once the supportive macro-financial environment gave way.",
+   "quote_zh": "日本是那個警世故事：在 1985 年廣場協議之前看起來極為有效的產業政策，一旦支撐它的總體金融環境讓位，效果就弱了許多。",
+   "page": 10,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-07-09-jpm-5325097-3",
+   "week": "2026-W28",
+   "slug": "2026-07-09-jpm-5325097",
+   "broker": "JPM",
+   "title": "Savior or snake oil?: The brave \"new\" old world of industrial policy",
+   "title_source": "page_one",
+   "title_confident": true,
+   "date": "2026-07-09",
+   "due": "2026-10-07",
+   "filed": "2026-09-14",
+   "theme": "中國",
+   "tags": [
+    "美國",
+    "產業政策",
+    "財政政策",
+    "供應鏈",
+    "中國",
+    "日本"
+   ],
+   "quote": "China, for instance, capped deposit rates until roughly a decade ago, keeping real returns negative and implicitly forcing households to subsidize corporates.",
+   "quote_zh": "以中國為例，存款利率一直到大約十年前都設有上限，使實質報酬為負，等於隱含地強迫家戶補貼企業。",
+   "page": 6,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
    "id": "2026-06-25-goldman-sachs-top-of-mind-1",
    "week": "2026-W26",
    "slug": "2026-06-25-goldman-sachs-top-of-mind",
@@ -6245,6 +8153,7 @@
    "title_confident": true,
    "date": "2026-06-25",
    "due": "2026-09-23",
+   "filed": "2026-08-23",
    "theme": "AI 與半導體",
    "tags": [
     "美國",
@@ -6270,6 +8179,7 @@
    "title_confident": true,
    "date": "2026-06-25",
    "due": "2026-09-23",
+   "filed": "2026-08-23",
    "theme": "AI 與半導體",
    "tags": [
     "美國",
@@ -6295,6 +8205,7 @@
    "title_confident": true,
    "date": "2026-06-25",
    "due": "2026-09-23",
+   "filed": "2026-08-23",
    "theme": "AI 與半導體",
    "tags": [
     "美國",
@@ -6320,6 +8231,7 @@
    "title_confident": true,
    "date": "2026-06-25",
    "due": "2026-09-23",
+   "filed": "2026-08-23",
    "theme": "美股與財報",
    "tags": [
     "美國",
@@ -6331,6 +8243,87 @@
    "quote": "investors are not yet confident that AI-driven productivity gains",
    "quote_zh": "投資人還不相信 AI 驅動的生產力增益",
    "page": 17,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-04-17-goldman-sachs-optical-networking-the-next-mega-trend-in-ai-infrastructure-1",
+   "week": "2026-W16",
+   "slug": "2026-04-17-goldman-sachs-optical-networking-the-next-mega-trend-in-ai-infrastructure",
+   "broker": "Goldman Sachs",
+   "title": "Global Tech Optical Networking The next mega trend in AI infrastructure",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-04-17",
+   "due": "2026-07-16",
+   "filed": "2026-09-13",
+   "theme": "AI 與半導體",
+   "tags": [
+    "人工智慧",
+    "資料中心",
+    "光通訊",
+    "半導體",
+    "供應鏈",
+    "美國"
+   ],
+   "quote": "CPO appears costly considering 3D packaging, high integration, and the need to upgrade devices to semiconductor processing levels; however, the total cost of ownership (TCO) is attractive especially in high bandwidth requirement (e.g. 6.4T, 12.8T)",
+   "quote_zh": "考量 3D 封裝、高整合度、以及元件必須升級到半導體製程等級，CPO 看起來成本高昂；然而在高頻寬需求（例如 6.4T、12.8T）下，總持有成本是有吸引力的。",
+   "page": 8,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-04-17-goldman-sachs-optical-networking-the-next-mega-trend-in-ai-infrastructure-2",
+   "week": "2026-W16",
+   "slug": "2026-04-17-goldman-sachs-optical-networking-the-next-mega-trend-in-ai-infrastructure",
+   "broker": "Goldman Sachs",
+   "title": "Global Tech Optical Networking The next mega trend in AI infrastructure",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-04-17",
+   "due": "2026-07-16",
+   "filed": "2026-09-13",
+   "theme": "AI 與半導體",
+   "tags": [
+    "人工智慧",
+    "資料中心",
+    "光通訊",
+    "半導體",
+    "供應鏈",
+    "美國"
+   ],
+   "quote": "we expect (1) pluggable optical module would co-exist with NPO / CPO, and on continuous speed migration toward 3.2T",
+   "quote_zh": "我們預期（1）可插拔光模組將與 NPO／CPO 共存，並持續朝 3.2T 升速。",
+   "page": 16,
+   "status": "觀察中",
+   "verdict": "",
+   "verdictDate": ""
+  },
+  {
+   "id": "2026-04-17-goldman-sachs-optical-networking-the-next-mega-trend-in-ai-infrastructure-3",
+   "week": "2026-W16",
+   "slug": "2026-04-17-goldman-sachs-optical-networking-the-next-mega-trend-in-ai-infrastructure",
+   "broker": "Goldman Sachs",
+   "title": "Global Tech Optical Networking The next mega trend in AI infrastructure",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-04-17",
+   "due": "2026-07-16",
+   "filed": "2026-09-13",
+   "theme": "AI 與半導體",
+   "tags": [
+    "人工智慧",
+    "資料中心",
+    "光通訊",
+    "半導體",
+    "供應鏈",
+    "美國"
+   ],
+   "quote": "While the networking technology migration is a certain trend, the pace of adoption varies",
+   "quote_zh": "網路技術移轉雖是確定的趨勢，採用的速度卻各有不同。",
+   "page": 24,
    "status": "觀察中",
    "verdict": "",
    "verdictDate": ""

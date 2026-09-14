@@ -1,0 +1,142 @@
+{
+ "week": "2026-W16",
+ "range": [
+  "2026-04-13",
+  "2026-04-19"
+ ],
+ "reports_count": 1,
+ "brokers": {
+  "Goldman Sachs": 1
+ },
+ "tags": {
+  "人工智慧": [
+   "2026-04-17-goldman-sachs-optical-networking-the-next-mega-trend-in-ai-infrastructure"
+  ],
+  "供應鏈": [
+   "2026-04-17-goldman-sachs-optical-networking-the-next-mega-trend-in-ai-infrastructure"
+  ],
+  "光通訊": [
+   "2026-04-17-goldman-sachs-optical-networking-the-next-mega-trend-in-ai-infrastructure"
+  ],
+  "半導體": [
+   "2026-04-17-goldman-sachs-optical-networking-the-next-mega-trend-in-ai-infrastructure"
+  ],
+  "美國": [
+   "2026-04-17-goldman-sachs-optical-networking-the-next-mega-trend-in-ai-infrastructure"
+  ],
+  "資料中心": [
+   "2026-04-17-goldman-sachs-optical-networking-the-next-mega-trend-in-ai-infrastructure"
+  ]
+ },
+ "reports": [
+  {
+   "slug": "2026-04-17-goldman-sachs-optical-networking-the-next-mega-trend-in-ai-infrastructure",
+   "broker": "Goldman Sachs",
+   "product": "Optical Networking- The Next Mega Trend in AI Infrastructure",
+   "title": "Global Tech Optical Networking The next mega trend in AI infrastructure",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-04-17",
+   "pages": 31,
+   "issue": null,
+   "tier_target": 5000,
+   "tier_band": [
+    4400,
+    5600
+   ],
+   "summary": "# 連線才是 AI 基礎建設的下一筆大錢：同一個運算單元的網路成本三年內要漲 29 倍\n\n## 主張是什麼\n\n高盛這份報告把「網路互連」推成 AI 基礎建設的下一個大主題，並刻意回答一個它認為投資人問錯的問題。市場擔心的是哪一種連線方式會取代哪一種——銅纜會不會被光纖取代、可插拔光模組會不會被 CPO（共同封裝光學）吃掉。高盛的答案是不會，所有配置都會強勁成長。理由不在技術偏好而在算術：從 GB300 NVL72 到 Rubin Ultra NVL576，同一個運算單元所需的頻寬、以及達成該頻寬所需的連線零件數量，增加幅度遠大於任何單一技術被替換掉的幅度。於是 scale out（跨機櫃擴充）的單位美元含量增加 16 倍、scale up（同一運算單元內擴充）增加 45 倍；光模組與光引擎從 scale out 延伸進 scale up，可及市場放大 13 倍；即使假設 CPO 在 scale out 已有 29% 滲透率，可插拔光模組在 scale out 的價值市場仍放大 10 倍。這是一份用規格表推市場規模的報告，不是一份講技術路線的報告。\n\n## 憑什麼（一）：先重新定義「運算單元」，數字才跟著跳\n\n整份推算的地基是 Exhibit 5 的規格表，四種可能的機櫃架構：Vera Rubin Spec A（NVL72，scale up 走銅纜匣即 Oberon 機櫃、scale out 走 1.6T 可插拔光模組）、Vera Rubin Spec B（同上，但 scale out 假設 25% CPO 滲透率）、Rubin Ultra Spec A（NVL144，scale up 改走 PCB 中板即 Kyber 機櫃，scale out 假設 29% CPO）、Rubin Ultra Spec B（NVL576，每櫃 72 顆 GPU、八櫃合成一個運算單元，櫃內第一層用銅纜、櫃間第二層用 CPO，scale out 同樣 29% CPO）。關鍵在最後一種：scale up 的邊界從「一個機櫃」被拉成「八個機櫃」，原本屬於機櫃之間、只能用光的連線，就被重新歸類進 scale up。高盛據此推出每運算單元的 1.6T 等效可插拔光模組數量從 GB300 NVL72 的 216 顆增至 Rubin Ultra NVL576 的 2,500 顆；scale out 的光模組對 GPU 掛載比則從 GB300 的 3.0 升到 VR200 的 6.0，再因 CPO 分食而回落到 2.1（加計光引擎後合計仍是 3.0）。\n\n## 憑什麼（二）：錢從 150 億怎麼變成 1,540 億\n\nExhibit 6 把每櫃連線成本拆開：GB300 NVL72 每櫃 31.5 萬美元（scale up 14.0 萬、scale out 17.5 萬），Vera Rubin Spec A 48.9 萬、Spec B 50.4 萬，Rubin Ultra Spec A 111.3 萬，Spec B 116.9 萬（scale up 80.3 萬、scale out 36.6 萬）。Rubin Ultra Spec B 的 scale out 反而比 Spec A 低，因為一個運算單元是八個機櫃，攤到每櫃的 scale out 成本被稀釋掉。乘上出貨量（GB300 全生命週期 4.8 萬櫃、Vera Rubin 5.8 萬櫃、Rubin Ultra 13.2 萬櫃即 1.65 萬個 NVL576 運算單元）得到 Exhibit 8 的 TAM：150.70 億 → 282.91 億 → 291.58 億 → 734.58 億 → 1,543.13 億美元。結構變化比總額更值得看：GB300 時代 scale out 佔 83.67 億、scale up 只有 67.02 億；到 Rubin Ultra NVL576，scale up 暴增到 1,059.70 億（佔 69%），scale out 停在 483.44 億。九倍的增量幾乎全部來自 scale up，而 scale up 的增量又幾乎全部來自光——光引擎與 FAU 一項就從零長到 427.68 億美元，CPO 相關零件合計貢獻 910 億美元，佔 1,540 億的 59%。對供應鏈的意涵高盛寫得很直白：多數供應商光是單一配置帶來的 EPS 貢獻，就會高於它們 2025 年的全年 EPS。（報告另稱每運算單元的總美元含量從 31.5 萬美元增至 94 億美元、幅度 29 倍；依其自身每櫃 116.9 萬美元乘以八櫃推算，這個絕對值與 29 倍的倍數在報告內部並不相符。）\n\n## 憑什麼（三）：CPO 與可插拔光模組不是誰取代誰\n\n高盛明說 CPO 貴：3D 封裝、高整合度、元件得升級到半導體製程等級。但它主張總持有成本在高頻寬需求（例如 6.4T、12.8T）下仍具吸引力，因為可插拔光模組有物理限制，而 CPO 省下的功耗、DSP 與 retimer 是實在的。代價寫得同樣清楚：可插拔光模組壞了換模組、交換機系統不受影響；NPO 壞了要換交換機 PCB；CPO 與交換機共封裝，故障波及交換 ASIC；CPO 與 XPU 共封裝，故障波及 GPU 本身。加上 PIC 與 EIC 壽命不同、PIC 更脆弱，高盛的結論是兩者共存：可插拔光模組會沿 3.2T 繼續升速，CPO 只在可插拔做不到的短距高頻寬場景勝出，而原本的光模組廠商在 CPO 裡照樣有光引擎、FAU、ELS 模組的生意。這一節是整份報告最不像賣方推銷的部分。進度上，輝達 2025 年 3 月發表 Quantum-X InfiniBand 與 Spectrum-X Ethernet 兩款 CPO 交換機、2026 年初商用，採用微環調變器；博通走較成熟的馬赫－曾德調變器，51.2T 的 Bailly 在 2024 年 3 月交付客戶、102.4T 的 Davisson 在 2025 年 10 月交付；邁威爾則在 2026 年 2 月併購專攻 XPU 用 CPO 的 Celestial AI，2027 年送樣 204T 乙太網路交換機。\n\n## 憑什麼（三之二）：銅、PCB、光各有各的物理界線\n\n高盛把選擇權還原成距離與速率的函數。PCB 走線適用 0.5 公尺以內、速率上限 224G，成本最低但訊號完整性最難處理（介電損耗、導體損耗、集膚效應）；銅纜適用 5 到 10 公尺、可到 448G，成本低於光但同樣受導體損耗與集膚效應限制；光纖適用 50 公尺以上、1.6T 與 3.2T，訊號穩定且免疫電磁干擾，代價是電光轉換的額外功耗與收發器成本。再細分下去：DAC 銅纜 0.5 至 3 公尺、ACC 7 至 15 公尺、加了 retimer 的 AEC 可達 5 至 30 公尺、AOC 30 至 100 公尺、DR 光收發器 30 至 500 公尺、FR 則是 500 公尺到 2 公里。三條同時在動的趨勢是：銅纜從 DAC 走向 ACC 再走向 AEC、往更長距離延伸；PCB 從機盤內延伸到機櫃內（Rubin Ultra NVL144 的中板據稱會用 M9 級 CCL 材料、78 層以上）；而光從 scale out 往回擠進 scale up，靠的是 AOC 與 CPO 交換機。這三條趨勢互相重疊，也正是「誰都不會被取代」這個主張的物理依據。\n\n## 一台 CPO 交換機的成本長什麼樣\n\n高盛把輝達 Quantum-X Photonics 的物料清單攤開：交換 ASIC 4 顆、單價 3,000 美元合計 12,000 美元；1.6T 光引擎 72 顆、單價 450 美元合計 32,400 美元；FAU 72 顆合計 3,600 美元；ELS 18 顆、單價 400 美元合計 7,200 美元（其中 300 毫瓦 CW 雷射 144 顆）；洗牌盒 1 個 2,500 美元；MPO 連接器與線材 144 組合計 5,760 美元；單模光纖 1,152 條合計 12,343 美元。BoM 共 75,803 美元，加價 62,220 美元，售價 130,000 美元。按比重看，光引擎佔 43%，交換 ASIC 與單模光纖各佔 16%，ELS 9%、MPO 8%、FAU 5%、洗牌盒 3%。這是整份報告裡唯一把「光的錢流到誰口袋」講到零件層級的地方——交換晶片商拿走的不到六分之一，光元件廠拿走大半。\n\n## 憑什麼（四）：供給端的三個瓶頸\n\n第一是光源。EML 與 CW 雷射在 2026 年都吃緊，原因是 AI 伺服器放量、速率升級、光連接擴張三重需求，加上 InP 基板供給受限，且處在地緣政治與中國出口管制之下。高盛點名的擴產包括：VPEC 的 InP MOCVD 從 60 台增到 2H26 的 64 台，Lumentum 從 CY3Q25 到 CY2Q26 擴產 40%，Coherent 承諾產能加倍。第二是矽光子取代 EML 的節奏——datacom 滲透率從 1Q24 的 6% 升到 4Q28 的 45%（內文寫 45%、圖表標題寫 46%）；800G 上矽光子有 26% 的 BoM 成本優勢與 15% 的售價優勢，1.6T 上是 32% 與 20%；高盛預期光模組廠毛利率因產品組合升級而升到 48% 至 55%。第三是光路交換器（OCS）：全光路徑讓資料中心升速時不必換交換機，同一台 OCS 可同時支援不同速率，Lumentum 在 2026 年 2 月的 OCS 在手訂單超過 4 億美元，Coherent 同期已接觸超過 10 家客戶，出貨與在手訂單含 64x64 與 320x320 系統。不過 OCS 的技術路線尚未收斂：MEMS 微鏡已量產且是目前主流，切換時間低於 100 毫秒、插入損耗約 3dB；液晶與 LCoS 方案沒有機械件、可靠度高但切換慢於 100 毫秒；Piezo 直接光束轉向插入損耗最低（約 2.5dB）卻難以支援極大埠數；矽光子切換快到奈秒級、量產後成本有機會最低，但插入損耗約 6dB，目前與 Piezo 同樣還在驗證階段。價格上，OCS 交換機每台 5 萬至 20 萬美元，傳統交換機是 1 萬至 10 萬美元。\n\n## 誰在用、用到哪裡\n\n掛載比的差異顯示這不是單一路線。輝達 GB200 與 GB300 都是 1:2~3（分別搭 800G 與 1.6T），VR200 翻倍到 1:4~6，原因是運算盤的埠速從每顆 GPU 800G 升到 1.6T，而網路側速率不變。Google 的 V6、V7 與亞馬遜的 Trainium 2、Trainium 3 都在 1:4，因為它們在 scale up 與 scale out 用銅纜加 OCS。Meta 的 MITA-T V1 因為 DSF 分散式排程網路設計而拉到 1:8 到 1:12；華為 Cloud Matrix 384 走全光連接，掛載比高達 1:18。技術採用進度上，800G 已是全體雲端業者的既成事實；1.6T 輝達與 Google 已導入，微軟、亞馬遜、甲骨文排在 2027、Meta 排在 2026；3.2T 只有輝達與 Google 標在 2028。CPO 方面，輝達 scale up 與 scale out 都在推進，Google 只推 scale out，Meta 兩者都在看；OCS 至今只有 Google 一家標為已採用。\n\n## 它自己承認的限制\n\n限制寫得比多數賣方報告誠實。其一，CPO 滲透率是假設不是觀測：25% 與 29% 都出自產業訪查加上作者自陳的「樂觀觀點」，而高盛自己說 CPO 的採用速度會顯著左右整個連線 TAM。這一條可以量化——同一套模型的高低情境差距極大：高端（Spec B）的 CPO TAM 是 2026E 10.24 億、2027E 248.40 億、2028E 708.81 億美元，三年合計 970 億；低端（Spec A）是 2026E 零、2027E 35.57 億、2028E 120.93 億。同一份報告裡，CPO 三年可以是 970 億，也可以是 157 億。其二，規格表本身標明是基於輝達技術藍圖、供應鏈查核與作者的推論，不是已確定的產品規格。其三，報告專章說明技術移轉雖是確定趨勢，但採用速度因客戶而異，並列出四個拖慢因素：舊設施尚未折舊完、新基礎設施（建物、電網、散熱）的建置時間、等待成本下降、以及技術方向未定時提前重押的風險。\n\n## 可驗證的節點\n\n這份報告把自己綁在幾個可查的日期上。2026 年內：輝達 CPO 交換機是否如期商用（Quantum-X InfiniBand 與 Spectrum-X Ethernet 於 2025 年 3 月發表、2026 年初商用），以及 VR200 的光模組掛載比是否真的從 GB300 的 1:2~3 翻倍到 1:4~6。2027 年：Marvell 的 CPO 乙太網路交換機是否如期送樣、Rubin Ultra 是否落在 2H27-2028 的出貨窗口、以及 scale out 的 CPO 滲透率會落在高端情境的 25% 還是低端的 11%。2028 年：整個 1,540 億美元的主張要在這一年兌現，檢核點是輝達 AI 機櫃出貨量（高盛假設 2026 年 5.0 萬櫃、2027 年 7.7 萬櫃、2028 年 12.1 萬櫃）與 scale out CPO 交換機出貨（高端 11.0 萬台、低端 8.9 萬台）。光源供給則被指為 2027 年前持續緊俏、2H28 之後才可能轉為平衡——如果提前寬鬆，要不是擴產超前，就是 AI 伺服器規格升級因產業從訓練轉向推論而放緩，後者對這份報告的主張是最直接的反證。",
+   "summary_chars": 4910,
+   "tags": [
+    "人工智慧",
+    "資料中心",
+    "光通訊",
+    "半導體",
+    "供應鏈",
+    "美國"
+   ],
+   "stances": [
+    {
+     "theme": "AI 與半導體",
+     "quote": "CPO appears costly considering 3D packaging, high integration, and the need to upgrade devices to semiconductor processing levels; however, the total cost of ownership (TCO) is attractive especially in high bandwidth requirement (e.g. 6.4T, 12.8T)",
+     "quote_zh": "考量 3D 封裝、高整合度、以及元件必須升級到半導體製程等級，CPO 看起來成本高昂；然而在高頻寬需求（例如 6.4T、12.8T）下，總持有成本是有吸引力的。",
+     "label": null,
+     "page": 8
+    },
+    {
+     "theme": "AI 與半導體",
+     "quote": "we expect (1) pluggable optical module would co-exist with NPO / CPO, and on continuous speed migration toward 3.2T",
+     "quote_zh": "我們預期（1）可插拔光模組將與 NPO／CPO 共存，並持續朝 3.2T 升速。",
+     "label": null,
+     "page": 16
+    },
+    {
+     "theme": "AI 與半導體",
+     "quote": "While the networking technology migration is a certain trend, the pace of adoption varies",
+     "quote_zh": "網路技術移轉雖是確定的趨勢，採用的速度卻各有不同。",
+     "label": null,
+     "page": 24
+    }
+   ],
+   "charts": [
+    {
+     "kind": "stacked_bar",
+     "title": "連線 TAM 的九倍增量，幾乎全部來自 scale up",
+     "subtitle": "五種機櫃配置的全生命週期連線市場規模，scale up 與 scale out 分拆",
+     "cats": [
+      "GB300 NVL72",
+      "Vera Rubin NVL72 Spec A",
+      "Vera Rubin NVL72 Spec B",
+      "Rubin Ultra NVL144 Spec A",
+      "Rubin Ultra NVL576 Spec B"
+     ],
+     "groups": [
+      {
+       "name": "Scale up",
+       "values": [
+        6702,
+        8090,
+        8090,
+        25114,
+        105970
+       ]
+      },
+      {
+       "name": "Scale out",
+       "values": [
+        8367,
+        20200,
+        21067,
+        48344,
+        48344
+       ]
+      }
+     ],
+     "y_label": "百萬美元",
+     "source": "Goldman Sachs《Global Tech: Optical Networking — The next mega trend in AI infrastructure》2026-04-17，Exhibit 8（第 10 頁）",
+     "grounding": [
+      "Scale up + Scale out TAM (US$m) 15,070 28,291 29,158 73,458 154,313",
+      "Scale up TAM (US$ m) 6,702 8,090 8,090 25,114 105,970",
+      "Scale out TAM (US$ m) 8,367 20,200 21,067 48,344 48,344"
+     ],
+     "png": "2026-04-17-goldman-sachs-optical-networking-the-next-mega-trend-in-ai-infrastructure-1.png",
+     "svg": "2026-04-17-goldman-sachs-optical-networking-the-next-mega-trend-in-ai-infrastructure-1.svg",
+     "bytes": 118088
+    }
+   ]
+  }
+ ],
+ "crosscut": "**本週無 —— 這一期只有一份報告。**\n\n分歧的成立條件是兩家對同一件事給了不同答案，一份報告結構上就辦不到。\n\n**要說清楚它為什麼只有一份**：這一期是 2026-09-14 補登的，來源是一份 2026-04-17 的高盛報告，\n它遲了近五個月才進 inbox。報告依它自己的日期分期，所以它開了 W16 這一期，而不是併進當週。\n**這一格薄的來源是補登的性質，不是那一週沒有事情發生。**",
+ "watch": [
+  "**Rubin Ultra NVL576 的出貨時程。** 整份報告的支點是 scale up 的邊界從一個機櫃被拉成八個機櫃 —— 這個規格若延後或縮水，連線 TAM 三年放大九倍（到 1,543.13 億美元）的推算就要重算。",
+  "**scale up 佔連線 TAM 的 69% 這個比例守不守得住。** 報告把錢的重心押在機櫃內，而不是機櫃之間。要追的是實際採購結構，不是 TAM 總量。",
+  "**CPO（共同封裝光學）交換機的採用率與成本曲線。** 這是報告列出的關鍵替代路徑；它若比預期早普及，光模組那一段的價值會被壓縮。",
+  "**矽光子滲透率 4Q28 是否達到 45%。**（報告內文寫 45%、Exhibit 26 標題寫 46%，撰稿子代理已具名這處不一致。）"
+ ],
+ "notes": [
+  "本期立場的 `label` 全部為 null —— 立場受控詞表尚未訂定（BRIEF 第五節），先累積分析師原句。",
+  "**這一期是 2026-09-14 補登的，1 份。** 圖 1 張為新畫。",
+  "**這份報告的日期（2026-04-17）比本站其他期別早很多**，補登時已明確要求撰稿者照報告當時寫的寫，**不要用後見之明替它更新或辯護**。讀它的時候要記得它是四月的判斷。",
+  "撰稿子代理具名回報了報告自身的兩處內部不一致：每運算單元總美元含量的絕對值與「29 倍」對不起來；矽光子滲透率內文寫 45%、Exhibit 26 標題寫 46%。**兩處都照原文寫進精華、未代為更正。**"
+ ],
+ "date": "2026-04-19"
+}

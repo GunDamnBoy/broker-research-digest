@@ -1723,10 +1723,52 @@
     }
    ],
    "file": "data/2026-06-28.json"
+  },
+  {
+   "date": "2026-04-19",
+   "week": "2026-W16",
+   "range": [
+    "2026-04-13",
+    "2026-04-19"
+   ],
+   "reports": 1,
+   "brokers": {
+    "Goldman Sachs": 1
+   },
+   "tags": [
+    "人工智慧",
+    "供應鏈",
+    "光通訊",
+    "半導體",
+    "美國",
+    "資料中心"
+   ],
+   "items": [
+    {
+     "slug": "2026-04-17-goldman-sachs-optical-networking-the-next-mega-trend-in-ai-infrastructure",
+     "broker": "Goldman Sachs",
+     "title": "Global Tech Optical Networking The next mega trend in AI infrastructure",
+     "date": "2026-04-17",
+     "pages": 31,
+     "tags": [
+      "人工智慧",
+      "資料中心",
+      "光通訊",
+      "半導體",
+      "供應鏈",
+      "美國"
+     ],
+     "chars": 4910,
+     "headline": "連線才是 AI 基礎建設的下一筆大錢：同一個運算單元的網路成本三年內要漲 29 倍",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    }
+   ],
+   "file": "data/2026-04-19.json"
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-09-13T16:50:26+00:00",
- "updatedLabel": "9/14 00:50",
- "count": 8
+ "updated": "2026-09-14T00:37:37+00:00",
+ "updatedLabel": "9/14 08:37",
+ "count": 9
 }
