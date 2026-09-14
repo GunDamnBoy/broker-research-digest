@@ -1685,6 +1685,48 @@
    "file": "data/2026-07-26.json"
   },
   {
+   "date": "2026-07-12",
+   "week": "2026-W28",
+   "range": [
+    "2026-07-06",
+    "2026-07-12"
+   ],
+   "reports": 1,
+   "brokers": {
+    "JPM": 1
+   },
+   "tags": [
+    "中國",
+    "供應鏈",
+    "日本",
+    "產業政策",
+    "美國",
+    "財政政策"
+   ],
+   "items": [
+    {
+     "slug": "2026-07-09-jpm-5325097",
+     "broker": "JPM",
+     "title": "Savior or snake oil?: The brave \"new\" old world of industrial policy",
+     "date": "2026-07-09",
+     "pages": 55,
+     "tags": [
+      "美國",
+      "產業政策",
+      "財政政策",
+      "供應鏈",
+      "中國",
+      "日本"
+     ],
+     "chars": 4624,
+     "headline": "美國轉向產業政策是回歸不是斷裂，真正的風險不在政府出手，而在它停不下來",
+     "title_source": "page_one",
+     "title_confident": true
+    }
+   ],
+   "file": "data/2026-07-12.json"
+  },
+  {
    "date": "2026-06-28",
    "week": "2026-W26",
    "range": [
@@ -1768,7 +1810,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-09-14T00:37:37+00:00",
+ "updated": "2026-09-14T00:37:46+00:00",
  "updatedLabel": "9/14 08:37",
- "count": 9
+ "count": 10
 }
