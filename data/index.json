@@ -1,6 +1,967 @@
 {
  "days": [
   {
+   "date": "2026-09-20",
+   "week": "2026-W38",
+   "range": [
+    "2026-09-14",
+    "2026-09-20"
+   ],
+   "reports": 47,
+   "brokers": {
+    "Citi": 8,
+    "Goldman Sachs": 13,
+    "Nomura": 26
+   },
+   "tags": [
+    "中國",
+    "中國人民銀行",
+    "中東",
+    "亞股",
+    "人口老化",
+    "人工智慧",
+    "人形機器人",
+    "人民幣",
+    "供應鏈",
+    "俄羅斯",
+    "光通訊",
+    "公司治理",
+    "前瞻指引",
+    "勞動市場",
+    "半導體",
+    "印尼",
+    "印度",
+    "原油",
+    "原物料",
+    "台灣",
+    "國防",
+    "墨西哥",
+    "外匯選擇權",
+    "央行溝通",
+    "巴西",
+    "戰略石油儲備",
+    "房地產",
+    "投資級信用",
+    "投資銀行",
+    "拉丁美洲",
+    "指數納入資格",
+    "新加坡",
+    "日圓",
+    "日本",
+    "日本銀行",
+    "期中選舉",
+    "歐元",
+    "歐洲",
+    "歐洲央行",
+    "泰國",
+    "消費",
+    "澳幣",
+    "澳洲",
+    "生技製藥",
+    "生產力",
+    "產業政策",
+    "監理",
+    "石油庫存",
+    "移民",
+    "紐幣",
+    "紐西蘭",
+    "美元",
+    "美國",
+    "美國公債",
+    "美國財政部",
+    "美股",
+    "聯準會",
+    "財政政策",
+    "資料中心",
+    "資產管理",
+    "軟體",
+    "通膨",
+    "運動博弈",
+    "醫療器材",
+    "金融科技",
+    "銀行股",
+    "關稅",
+    "零售股",
+    "電力",
+    "電動車",
+    "電子商務",
+    "非住宅營建",
+    "韓國",
+    "預測市場",
+    "食品飲料",
+    "馬來西亞",
+    "黃金",
+    "點陣圖"
+   ],
+   "items": [
+    {
+     "slug": "2026-09-18-nomura-1320789",
+     "broker": "Nomura",
+     "title": "USD/CNY fix model: Projection: 6.7258",
+     "date": "2026-09-18",
+     "pages": 6,
+     "tags": [
+      "中國",
+      "人民幣",
+      "中國人民銀行",
+      "美元",
+      "央行溝通"
+     ],
+     "chars": 2655,
+     "headline": "模型說隔夜訊號要求中間價走強 322 點，逆週期因子只會放行 108 點",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-18-nomura-1320782",
+     "broker": "Nomura",
+     "title": "Tenaga Nasional: Earnings-neutral impact of government directive",
+     "date": "2026-09-18",
+     "pages": 6,
+     "tags": [
+      "馬來西亞",
+      "電力",
+      "監理",
+      "財政政策",
+      "亞股"
+     ],
+     "chars": 2669,
+     "headline": "政府把電費豁免門檻從 600kWh 拉高到 800kWh，但 TNB 的獲利一毛都不會少",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-18-nomura-1320773",
+     "broker": "Nomura",
+     "title": "Japan Research Pack: A Summary of Select Global Markets Research",
+     "date": "2026-09-18",
+     "pages": 10,
+     "tags": [
+      "日本",
+      "日本銀行",
+      "日圓",
+      "財政政策",
+      "半導體"
+     ],
+     "chars": 2635,
+     "headline": "日美第七度同步升息，野村判斷日股是先橫盤三個月再漲，壓抑來自監理與評價而非利率",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-18-nomura-1320772",
+     "broker": "Nomura",
+     "title": "Morning News & Views - Asia: A Summary of Select Global Markets Research",
+     "date": "2026-09-18",
+     "pages": 12,
+     "tags": [
+      "聯準會",
+      "美國",
+      "台灣",
+      "日本銀行",
+      "新加坡",
+      "人形機器人"
+     ],
+     "chars": 3612,
+     "headline": "聯準會這次升息不是句點：市場把速度押得太快、把終點押得太低",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-17-nomura-1320774",
+     "broker": "Nomura",
+     "title": "For more detailson trades overnight and over the past week, upcoming expiries and in-depth analysis of individual currencies, please click on the link below.",
+     "date": "2026-09-17",
+     "pages": 39,
+     "tags": [
+      "外匯選擇權",
+      "人民幣",
+      "美元",
+      "中國",
+      "台灣",
+      "韓國"
+     ],
+     "chars": 4679,
+     "headline": "亞洲外匯選擇權的成交集中在人民幣與港幣，但名目金額最大的那幾筆幾乎都不在押方向",
+     "title_source": "page_one",
+     "title_confident": false
+    },
+    {
+     "slug": "2026-09-17-nomura-1320769",
+     "broker": "Nomura",
+     "title": "Japan equity weekly (17 September 2026): Would mark seventh time Japan and the US hike rates at the same time; we look at past trends",
+     "date": "2026-09-17",
+     "pages": 27,
+     "tags": [
+      "日本",
+      "日本銀行",
+      "人工智慧",
+      "半導體",
+      "銀行股",
+      "期中選舉"
+     ],
+     "chars": 3861,
+     "headline": "同步升息本身不是賣點，真正沒有上檔的是已經預支四到五碼的銀行股",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-17-nomura-1320768",
+     "broker": "Nomura",
+     "title": "AUD/USD: NZD/USD",
+     "date": "2026-09-17",
+     "pages": 67,
+     "tags": [
+      "外匯選擇權",
+      "澳幣",
+      "紐幣",
+      "澳洲",
+      "紐西蘭",
+      "美元"
+     ],
+     "chars": 4430,
+     "headline": "澳紐沒有被當成同一個交易：選擇權流量把澳幣押在遠價外上檔、把紐幣押在近價平下檔",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-17-nomura-1320763",
+     "broker": "Nomura",
+     "title": "Sumitomo Metal Mining: Recent metal prices already priced in",
+     "date": "2026-09-17",
+     "pages": 23,
+     "tags": [
+      "日本",
+      "原物料",
+      "黃金",
+      "資料中心",
+      "電動車"
+     ],
+     "chars": 4204,
+     "headline": "銅價與金價的上修是真的，但股價已經先把這一段走完了",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-17-nomura-1320762",
+     "broker": "Nomura",
+     "title": "Mitsui Kinzoku: We see limited impact on HVLP copper foil from shift to co-packaged optics",
+     "date": "2026-09-17",
+     "pages": 10,
+     "tags": [
+      "日本",
+      "台灣",
+      "半導體",
+      "光通訊",
+      "資料中心"
+     ],
+     "chars": 2656,
+     "headline": "CPO 換掉的是銅箔的等級，不是三井金屬的出貨量",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-17-nomura-1320761",
+     "broker": "Nomura",
+     "title": "Unicharm: We forecast sustained profit growth despite higher input costs",
+     "date": "2026-09-17",
+     "pages": 14,
+     "tags": [
+      "日本",
+      "印度",
+      "中東",
+      "消費",
+      "原物料"
+     ],
+     "chars": 3599,
+     "headline": "下修的是原料成本假設，不是嬌聯的獲利成長路徑",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-17-nomura-1320611",
+     "broker": "Nomura",
+     "title": "USD/CNY fix model: Projection: 6.7238",
+     "date": "2026-09-17",
+     "pages": 6,
+     "tags": [
+      "中國",
+      "人民幣",
+      "中國人民銀行",
+      "美元",
+      "央行溝通"
+     ],
+     "chars": 2629,
+     "headline": "逆週期因子把模型算出的 390 點人民幣升值，只放行了 139 點",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-17-nomura-1320597",
+     "broker": "Nomura",
+     "title": "Japan Research Pack: A Summary of Select Global Markets Research",
+     "date": "2026-09-17",
+     "pages": 10,
+     "tags": [
+      "日本",
+      "日本銀行",
+      "財政政策",
+      "國防",
+      "美國公債",
+      "日圓"
+     ],
+     "chars": 2612,
+     "headline": "日本防衛費上看 GDP 3.5% 的標題數字自帶但書：那是十年期、對標南韓的其中一個情境",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-17-nomura-1320596",
+     "broker": "Nomura",
+     "title": "Morning News & Views - Asia: A Summary of Select Global Markets Research",
+     "date": "2026-09-17",
+     "pages": 12,
+     "tags": [
+      "中國",
+      "印度",
+      "印尼",
+      "日本銀行",
+      "美國公債",
+      "電子商務"
+     ],
+     "chars": 3937,
+     "headline": "中國的內需與企業間信用同時在轉弱，印度與印尼的體質卻在變好",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-17-goldman-sachs-navigating-china-internet-ai-models",
+     "broker": "Goldman Sachs",
+     "title": "Navigating China Internet & AI models: What to do from here; key themes & refreshed ideas into year-end",
+     "date": "2026-09-17",
+     "pages": 63,
+     "tags": [
+      "中國",
+      "人工智慧",
+      "電子商務",
+      "資料中心",
+      "監理"
+     ],
+     "chars": 4522,
+     "headline": "AI 敘事沒有變壞，變的是排序：高盛把看得見現金流的排第一、把最純的 AI 模型排到最後",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-17-citi-stubhub",
+     "broker": "Citi",
+     "title": "StubHub (STUB.N): 3Q26 Trends Look Robust. Upgrade to Buy.",
+     "date": "2026-09-17",
+     "pages": 26,
+     "tags": [
+      "美國",
+      "美股",
+      "電子商務",
+      "消費",
+      "監理",
+      "人工智慧"
+     ],
+     "chars": 3565,
+     "headline": "下載量已經替 3Q26 的獲利表態：調升至買進，目標價卻從 9 美元砍到 7 美元",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-17-citi-rea",
+     "broker": "Citi",
+     "title": "REA Group Ltd (REA.AX): August listings decline in line with our expectations as geo-mix headwind increases",
+     "date": "2026-09-17",
+     "pages": 12,
+     "tags": [
+      "澳洲",
+      "房地產",
+      "人工智慧",
+      "電子商務"
+     ],
+     "chars": 3545,
+     "headline": "掛牌量沒有變壞，變壞的是地區組合 —— 而 REA 的全年指引還沒把這件事算進去",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-17-citi-banco",
+     "broker": "Citi",
+     "title": "Banco BTG Pactual SA (BPAC11.SA): Growth Without a Macro Bet – Reiterating Buy",
+     "date": "2026-09-17",
+     "pages": 22,
+     "tags": [
+      "巴西",
+      "拉丁美洲",
+      "銀行股",
+      "資產管理",
+      "投資銀行"
+     ],
+     "chars": 3655,
+     "headline": "BTG 的獲利成長不押任何一種總經情境，而它對 ITUB 的評價溢價已被壓到說不過去的位置",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-17-citi-alpek",
+     "broker": "Citi",
+     "title": "Alpek (ALPEKA.MX): Another strong quarter ahead driven by Polyester",
+     "date": "2026-09-17",
+     "pages": 14,
+     "tags": [
+      "墨西哥",
+      "原油",
+      "供應鏈",
+      "原物料",
+      "指數納入資格",
+      "中國"
+     ],
+     "chars": 3659,
+     "headline": "這輪盈餘動能不是 Alpek 自己做出來的，而 Citi 認為市場還沒把油價與運費這筆帳算進去",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-17-citi-20260917",
+     "broker": "Citi",
+     "title": "The Point for Asia Pacific: Thursday, 17 September 2026",
+     "date": "2026-09-17",
+     "pages": 10,
+     "tags": [
+      "印度",
+      "金融科技",
+      "監理",
+      "銀行股",
+      "房地產",
+      "台灣"
+     ],
+     "chars": 3041,
+     "headline": "亞太這一輪的獲利上修來自監理與資本支出，不是來自消費者",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-16-nomura-1320604",
+     "broker": "Nomura",
+     "title": "US Daily Commentary: Review & Preview",
+     "date": "2026-09-16",
+     "pages": 6,
+     "tags": [
+      "美國",
+      "聯準會",
+      "通膨",
+      "消費",
+      "房地產"
+     ],
+     "chars": 2788,
+     "headline": "聯準會已經重啟升息，而美國經濟同時在加速——這正是諾村認為十二月還要再升一碼的理由",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-16-nomura-1320602",
+     "broker": "Nomura",
+     "title": "Policy Watch: September FOMC Recap",
+     "date": "2026-09-16",
+     "pages": 8,
+     "tags": [
+      "美國",
+      "聯準會",
+      "點陣圖",
+      "通膨",
+      "美國公債",
+      "期中選舉"
+     ],
+     "chars": 2605,
+     "headline": "這次升息一碼不是緊縮的起點，而是聯準會承認政策本來就太鬆",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-16-nomura-1320590",
+     "broker": "Nomura",
+     "title": "For more detailson trades overnight and over the past week, upcoming expiries and in-depth analysis of individual currencies, please click on the link below.",
+     "date": "2026-09-16",
+     "pages": 39,
+     "tags": [
+      "外匯選擇權",
+      "美元",
+      "人民幣",
+      "台灣",
+      "韓國",
+      "中國"
+     ],
+     "chars": 4411,
+     "headline": "這份報告不給你觀點，只給你部位：一週的申報流量把風險壓在港元與人民幣，而貶值溢價付在印尼盾與韓元身上",
+     "title_source": "page_one",
+     "title_confident": false
+    },
+    {
+     "slug": "2026-09-16-nomura-1320589",
+     "broker": "Nomura",
+     "title": "AUD/USD: NZD/USD",
+     "date": "2026-09-16",
+     "pages": 67,
+     "tags": [
+      "澳幣",
+      "紐幣",
+      "美元",
+      "外匯選擇權",
+      "日圓",
+      "歐元"
+     ],
+     "chars": 4422,
+     "headline": "澳幣的錢押在現貨上方的買權，紐幣押在賣權，而兩者的風險逆轉一週動都沒動",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-16-nomura-1320583",
+     "broker": "Nomura",
+     "title": "Fujitsu: Company holds IR Day 2026",
+     "date": "2026-09-16",
+     "pages": 9,
+     "tags": [
+      "日本",
+      "人工智慧",
+      "軟體",
+      "半導體",
+      "產業政策"
+     ],
+     "chars": 2779,
+     "headline": "富士通的長期願景可信，但撐起未來三年獲利的是 Uvance 與交付毛利，不是主權 AI",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-16-nomura-1320582",
+     "broker": "Nomura",
+     "title": "Lintec: Meeting with senior management: Demand for MLCC materials expected to be met",
+     "date": "2026-09-16",
+     "pages": 8,
+     "tags": [
+      "日本",
+      "半導體",
+      "供應鏈",
+      "公司治理",
+      "原物料"
+     ],
+     "chars": 2626,
+     "headline": "MLCC 材料的缺料風險已經解除，這份紀要真正的新資訊是 Mactac 被設了停損期限",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-16-nomura-1320581",
+     "broker": "Nomura",
+     "title": "Kajima: Company holds briefing on domestic real estate development business",
+     "date": "2026-09-16",
+     "pages": 8,
+     "tags": [
+      "日本",
+      "房地產",
+      "非住宅營建",
+      "通膨"
+     ],
+     "chars": 2732,
+     "headline": "鹿島的地產開發賭的不是房市行情，而是自己蓋得動、地段扛得住通膨",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-16-nomura-1320484",
+     "broker": "Nomura",
+     "title": "USD/CNY fix model: Projection: 6.722",
+     "date": "2026-09-16",
+     "pages": 6,
+     "tags": [
+      "中國",
+      "人民幣",
+      "美元",
+      "中國人民銀行",
+      "央行溝通"
+     ],
+     "chars": 3165,
+     "headline": "模型說中間價該一次走強 450 點，逆週期因子會把這個訊號砍掉一半",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-16-nomura-1320478",
+     "broker": "Nomura",
+     "title": "Fiscal Insight: Japan reportedly considers raising defense spending target to 3.5% of GDP",
+     "date": "2026-09-16",
+     "pages": 7,
+     "tags": [
+      "日本",
+      "國防",
+      "財政政策",
+      "韓國"
+     ],
+     "chars": 2626,
+     "headline": "防衛費 3.5% 的財政份量，取決於分母、期程與支出定義，而這三件事都還沒定",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-16-nomura-1320470",
+     "broker": "Nomura",
+     "title": "Morning News & Views - Asia: A Summary of Select Global Markets Research",
+     "date": "2026-09-16",
+     "pages": 14,
+     "tags": [
+      "聯準會",
+      "日本銀行",
+      "中國",
+      "泰國",
+      "消費",
+      "美國公債"
+     ],
+     "chars": 3570,
+     "headline": "市場把升息的速度排得太快，卻把終點排得太低",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-16-nomura-1320469",
+     "broker": "Nomura",
+     "title": "Japan Research Pack: A Summary of Select Global Markets Research",
+     "date": "2026-09-16",
+     "pages": 10,
+     "tags": [
+      "日本",
+      "日本銀行",
+      "聯準會",
+      "日圓",
+      "中國",
+      "消費"
+     ],
+     "chars": 2725,
+     "headline": "央行還會再升息，但那是重新校準，不是長升息循環的起點",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-16-goldman-sachs-usa",
+     "broker": "Goldman Sachs",
+     "title": "USA: Core Retail Sales Well Above Expectations; Boosting Q3 GDP Tracking Estimate to +3.0%; Core Import Prices Well Above Expectations; Esti",
+     "date": "2026-09-16",
+     "pages": 6,
+     "tags": [
+      "美國",
+      "消費",
+      "通膨",
+      "聯準會",
+      "電子商務",
+      "半導體"
+     ],
+     "chars": 2612,
+     "headline": "八月零售強到讓高盛把 Q3 GDP 上修到 +3.0%，但同一份報告說第四季消費會放緩",
+     "title_source": "pdf_meta",
+     "title_confident": false
+    },
+    {
+     "slug": "2026-09-16-goldman-sachs-gs-sustain",
+     "broker": "Goldman Sachs",
+     "title": "GS SUSTAIN: Demographics to Demand: Key Debates on Aging and Declining Populations and Impacts on Demand",
+     "date": "2026-09-16",
+     "pages": 19,
+     "tags": [
+      "人口老化",
+      "消費",
+      "中國",
+      "日本",
+      "勞動市場",
+      "移民"
+     ],
+     "chars": 3571,
+     "headline": "老化的帳要記在需求端：核心消費人口見頂，正在逐項改寫產品的成長曲線",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-16-goldman-sachs-global-retail",
+     "broker": "Goldman Sachs",
+     "title": "Global Retail: Global Consumer and Retail Conference 2026 — Day 2 Takeaways",
+     "date": "2026-09-16",
+     "pages": 57,
+     "tags": [
+      "美國",
+      "消費",
+      "零售股",
+      "關稅",
+      "人工智慧",
+      "通膨"
+     ],
+     "chars": 4651,
+     "headline": "美國消費者沒有轉弱，轉弱的是企業對 2027 年的能見度",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-16-goldman-sachs-china-musings",
+     "broker": "Goldman Sachs",
+     "title": "China Musings: Policy and macro back to school",
+     "date": "2026-09-16",
+     "pages": 12,
+     "tags": [
+      "中國",
+      "人工智慧",
+      "人民幣",
+      "財政政策",
+      "房地產",
+      "美國公債"
+     ],
+     "chars": 3834,
+     "headline": "中國股市的外部壓力測試已經通過，但這一次不會再有政策點火的大行情",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-16-goldman-sachs-2026-09-16",
+     "broker": "Goldman Sachs",
+     "title": "USA FOMC Hikes by 25bp; Median Dot Shows One Additional Hike in 2026 and No Policy Changes in 2027; SEP Raises Core Inflation Slightly",
+     "date": "2026-09-16",
+     "pages": 4,
+     "tags": [
+      "美國",
+      "聯準會",
+      "通膨",
+      "點陣圖",
+      "前瞻指引",
+      "勞動市場"
+     ],
+     "chars": 2734,
+     "headline": "點陣圖比高盛自己預期的更鷹：十二位委員看 2026 年兩次升息，而高盛會前押的是只升這一碼",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-16-citi-20260916",
+     "broker": "Citi",
+     "title": "Ciena (CIEN.K): Investor Event Takeaways - Positive",
+     "date": "2026-09-16",
+     "pages": 12,
+     "tags": [
+      "美股",
+      "光通訊",
+      "資料中心",
+      "供應鏈",
+      "人工智慧"
+     ],
+     "chars": 3524,
+     "headline": "至少 30% 的 FY27 成長是供給鎖定的地板，不是預測 —— 變數已經從需求轉到產能",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-15-nomura-1320479",
+     "broker": "Nomura",
+     "title": "ESG: Detailed analysis of voting records: Focus on protection of minority shareholders, appointment and dismissal of directors",
+     "date": "2026-09-15",
+     "pages": 15,
+     "tags": [
+      "日本",
+      "資產管理",
+      "監理",
+      "公司治理"
+     ],
+     "chars": 3978,
+     "headline": "反對票的總量沒有變，變的是反對的方向：日本資產管理公司的投票重心正從董事選任移向報酬與反收購措施",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-15-nomura-1320375",
+     "broker": "Nomura",
+     "title": "Global Economic Outlook Monthly: Recalibrating monetary policies",
+     "date": "2026-09-15",
+     "pages": 27,
+     "tags": [
+      "美國",
+      "聯準會",
+      "歐洲央行",
+      "日本銀行",
+      "通膨",
+      "原油"
+     ],
+     "chars": 3940,
+     "headline": "央行還會再升息，但那是校準，不是新一輪緊縮循環的開始",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-15-goldman-sachs-usa",
+     "broker": "Goldman Sachs",
+     "title": "USA: Empire Manufacturing Below Expectations",
+     "date": "2026-09-15",
+     "pages": 6,
+     "tags": [
+      "美國",
+      "通膨",
+      "聯準會",
+      "勞動市場"
+     ],
+     "chars": 2610,
+     "headline": "九月 Empire 調查的問題不在指數掉下來，而在活動面與價格面同時往相反方向走",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-15-goldman-sachs-us-morning-call",
+     "broker": "Goldman Sachs",
+     "title": "US Morning Call: September 15, 2026",
+     "date": "2026-09-15",
+     "pages": 6,
+     "tags": [
+      "美國",
+      "美股",
+      "消費",
+      "零售股",
+      "食品飲料"
+     ],
+     "chars": 2762,
+     "headline": "利率上行不是賣出美股的理由，但消費端的需求正在變薄",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-15-goldman-sachs-us-daily",
+     "broker": "Goldman Sachs",
+     "title": "US Daily: What Explains the Decline in the Labor Share of Income?",
+     "date": "2026-09-15",
+     "pages": 9,
+     "tags": [
+      "美國",
+      "勞動市場",
+      "人工智慧",
+      "生產力",
+      "財政政策"
+     ],
+     "chars": 2781,
+     "headline": "勞動所得份額掉的 7.5 個百分點，有四成只是帳面問題，真正流向資本的是 4.5 個百分點",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-15-goldman-sachs-rates-vol-monitor",
+     "broker": "Goldman Sachs",
+     "title": "Rates Vol Monitor: Dispersion of Risks",
+     "date": "2026-09-15",
+     "pages": 19,
+     "tags": [
+      "美國",
+      "聯準會",
+      "美國公債",
+      "央行溝通",
+      "美國財政部",
+      "歐洲央行"
+     ],
+     "chars": 3794,
+     "headline": "隱含波動率偏低不是市場安定，而是政策預期整體平移、分布還沒被撐開",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-15-goldman-sachs-global-markets-daily",
+     "broker": "Goldman Sachs",
+     "title": "Global Markets Daily: A Floor Under Foreign Flows Into US Credit",
+     "date": "2026-09-15",
+     "pages": 9,
+     "tags": [
+      "投資級信用",
+      "美國",
+      "日本",
+      "日本銀行",
+      "美元",
+      "歐洲"
+     ],
+     "chars": 2907,
+     "headline": "外資對美國信用債的需求有底，日本減碼的量級撐不起「資金回流」這個故事",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-15-goldman-sachs-china",
+     "broker": "Goldman Sachs",
+     "title": "China: Better industrial production, sluggish investment, slower retail sales growth; lowering Q3 GDP forecast",
+     "date": "2026-09-15",
+     "pages": 11,
+     "tags": [
+      "中國",
+      "房地產",
+      "勞動市場",
+      "消費",
+      "財政政策"
+     ],
+     "chars": 3831,
+     "headline": "強供給救不了弱需求：工業生產超預期，高盛仍下修中國第三季 GDP",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-15-citi-20260915",
+     "broker": "Citi",
+     "title": "Australia Healthcare: What are we hearing in ANZ healthcare? – September 2026",
+     "date": "2026-09-15",
+     "pages": 21,
+     "tags": [
+      "澳洲",
+      "紐西蘭",
+      "生技製藥",
+      "醫療器材",
+      "監理"
+     ],
+     "chars": 3518,
+     "headline": "ANZ 健護的爭論已經不在貴或便宜，而在誰還拿得出成長",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-14-goldman-sachs-oil-tracker",
+     "broker": "Goldman Sachs",
+     "title": "Oil Tracker: Mideast Exports: Resilient, But Increasingly at Risk",
+     "date": "2026-09-14",
+     "pages": 11,
+     "tags": [
+      "原油",
+      "中東",
+      "中國",
+      "石油庫存",
+      "戰略石油儲備",
+      "俄羅斯"
+     ],
+     "chars": 3862,
+     "headline": "中東出口回到六月水準，是靠把風險從紅海集中到荷姆茲換來的",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-14-citi-20260914",
+     "broker": "Citi",
+     "title": "North America Gaming: SCOTUS Path Becoming Clearer; OSB Bull Case Emerging",
+     "date": "2026-09-14",
+     "pages": 20,
+     "tags": [
+      "美國",
+      "美股",
+      "監理",
+      "預測市場",
+      "運動博弈"
+     ],
+     "chars": 3910,
+     "headline": "州政府在最高法院贏，對 DraftKings 反而是最好的結果",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    }
+   ],
+   "file": "data/2026-09-20.json"
+  },
+  {
    "date": "2026-09-13",
    "week": "2026-W37",
    "range": [
@@ -2175,7 +3136,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-09-14T00:38:14+00:00",
- "updatedLabel": "9/14 08:38",
- "count": 10
+ "updated": "2026-09-20T16:11:13+00:00",
+ "updatedLabel": "9/21 00:11",
+ "count": 11
 }
