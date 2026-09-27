@@ -1652,10 +1652,10 @@
     "2026-08-24",
     "2026-08-30"
    ],
-   "reports": 30,
+   "reports": 31,
    "brokers": {
     "Citi": 4,
-    "Goldman Sachs": 17,
+    "Goldman Sachs": 18,
     "JPM": 5,
     "Nomura": 4
    },
@@ -1707,6 +1707,7 @@
     "美股",
     "聖嬰現象",
     "聯準會",
+    "航太",
     "英國",
     "英格蘭銀行",
     "記憶體",
@@ -1724,6 +1725,7 @@
     "電子商務",
     "韓國",
     "預測市場",
+    "領先指標",
     "馬來西亞"
    ],
    "items": [
@@ -1817,6 +1819,24 @@
      ],
      "chars": 3649,
      "headline": "現場活動的可見度是真的，但把 2026 的動能直接外推到 2027，是這個族群最大的風險",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-08-30-goldman-sachs-aerospace-defense",
+     "broker": "Goldman Sachs",
+     "title": "Aerospace & Defense: Aerospace in Pictures: August 2026",
+     "date": "2026-08-30",
+     "pages": 16,
+     "tags": [
+      "航太",
+      "美國",
+      "美股",
+      "供應鏈",
+      "領先指標"
+     ],
+     "chars": 3560,
+     "headline": "商用航太終端市場依然強勁：國際客運小幅收縮，但訂單、售後、貨運與美國公務機撐住基本面",
      "title_source": "pdf_meta",
      "title_confident": true
     },
@@ -3136,7 +3156,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-09-20T16:11:13+00:00",
- "updatedLabel": "9/21 00:11",
+ "updated": "2026-09-27T15:22:50+00:00",
+ "updatedLabel": "9/27 23:22",
  "count": 11
 }

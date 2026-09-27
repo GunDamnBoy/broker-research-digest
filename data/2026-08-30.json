@@ -4,10 +4,10 @@
   "2026-08-24",
   "2026-08-30"
  ],
- "reports_count": 30,
+ "reports_count": 31,
  "brokers": {
   "Citi": 4,
-  "Goldman Sachs": 17,
+  "Goldman Sachs": 18,
   "JPM": 5,
   "Nomura": 4
  },
@@ -25,6 +25,7 @@
    "2026-08-28-jpm-5428894",
    "2026-08-28-jpm-5429113",
    "2026-08-28-nomura-1318109",
+   "2026-08-30-goldman-sachs-aerospace-defense",
    "2026-08-30-goldman-sachs-americas-entertainment",
    "2026-08-30-goldman-sachs-us-economics-analyst"
   ],
@@ -96,6 +97,19 @@
    "2026-08-30-goldman-sachs-americas-entertainment",
    "2026-08-30-goldman-sachs-india-views"
   ],
+  "美股": [
+   "2026-08-28-goldman-sachs-americas-technology",
+   "2026-08-28-goldman-sachs-global-technology",
+   "2026-08-30-goldman-sachs-aerospace-defense",
+   "2026-08-30-goldman-sachs-americas-entertainment",
+   "2026-08-30-goldman-sachs-global-physical-ai"
+  ],
+  "供應鏈": [
+   "2026-08-24-goldman-sachs-china-basic-materials-monitor",
+   "2026-08-24-goldman-sachs-global-semis",
+   "2026-08-24-goldman-sachs-us-tariff-impact-tracker",
+   "2026-08-30-goldman-sachs-aerospace-defense"
+  ],
   "原油": [
    "2026-08-25-citi-european-economics",
    "2026-08-25-goldman-sachs-european-economics-analyst",
@@ -114,12 +128,6 @@
    "2026-08-28-jpm-5429113",
    "2026-08-30-goldman-sachs-asian-equity-perspectives"
   ],
-  "美股": [
-   "2026-08-28-goldman-sachs-americas-technology",
-   "2026-08-28-goldman-sachs-global-technology",
-   "2026-08-30-goldman-sachs-americas-entertainment",
-   "2026-08-30-goldman-sachs-global-physical-ai"
-  ],
   "資料中心": [
    "2026-08-24-nomura-1317262",
    "2026-08-25-goldman-sachs-asean-data-center-primer",
@@ -131,11 +139,6 @@
    "2026-08-28-goldman-sachs-americas-technology",
    "2026-08-28-goldman-sachs-global-technology",
    "2026-08-30-goldman-sachs-global-physical-ai"
-  ],
-  "供應鏈": [
-   "2026-08-24-goldman-sachs-china-basic-materials-monitor",
-   "2026-08-24-goldman-sachs-global-semis",
-   "2026-08-24-goldman-sachs-us-tariff-impact-tracker"
   ],
   "半導體": [
    "2026-08-24-goldman-sachs-global-semis",
@@ -273,6 +276,9 @@
   "聖嬰現象": [
    "2026-08-24-citi-latin-america-economics-strategy-daily"
   ],
+  "航太": [
+   "2026-08-30-goldman-sachs-aerospace-defense"
+  ],
   "英國": [
    "2026-08-25-goldman-sachs-european-economics-analyst"
   ],
@@ -305,6 +311,9 @@
   ],
   "預測市場": [
    "2026-08-24-goldman-sachs-americas-brokers-crypto"
+  ],
+  "領先指標": [
+   "2026-08-30-goldman-sachs-aerospace-defense"
   ],
   "馬來西亞": [
    "2026-08-25-goldman-sachs-asean-data-center-primer"
@@ -792,6 +801,95 @@
      "png": "2026-08-30-goldman-sachs-americas-entertainment-1.png",
      "svg": "2026-08-30-goldman-sachs-americas-entertainment-1.svg",
      "bytes": 99039
+    }
+   ]
+  },
+  {
+   "slug": "2026-08-30-goldman-sachs-aerospace-defense",
+   "broker": "Goldman Sachs",
+   "product": "Aerospace & Defense",
+   "title": "Aerospace & Defense: Aerospace in Pictures: August 2026",
+   "title_source": "pdf_meta",
+   "title_confident": true,
+   "date": "2026-08-30",
+   "pages": 16,
+   "issue": null,
+   "tier_target": 4000,
+   "tier_band": [
+    3500,
+    4500
+   ],
+   "summary": "# 商用航太終端市場依然強勁：國際客運小幅收縮，但訂單、售後、貨運與美國公務機撐住基本面\n\n## 主張是什麼\n\n這份是 Goldman Sachs 航太團隊的月度圖表集（Aerospace in Pictures，2026 年 8 月號），自我定位是「把追蹤這個產業所需的每一個數據點都給航太投資人」，涵蓋商用、公務機、貨運、機場、航空公司、融資與總體經濟。它不是一份單一論點的深度報告，但總覽頁明確下了結論：**整體商用航太市場的基本面仍然強勁。**\n\n論證的結構是「局部轉弱不改大勢」。作者承認中東航線在收縮、國際客運量暫時疲弱、油價偏高，但認為領先指標仍指向持續強勁的航空旅行需求；過去十二個月的新機訂單活動依然熱絡；Boeing 與 Airbus 持續提高交機節奏，只是供應鏈仍是瓶頸，兩家公司距離追上需求都還有好幾年的成長空間。售後市場在供需吃緊與機隊老化下，維持高成長與高於通膨的漲價，作者認為即使油價暫時偏高也會延續。公務機的飛行時數與二手庫存仍優於疫情前，領先指標指向持續成長，但已離高峰，且各公司表現不一。\n\n據此，作者列出產業首選：買進評等的 LOAR（同時在 Conviction List 上）、Woodward（WWD）、Boeing（BA）、TransDigm（TDG）、GE Aerospace（GE）、HEICO（HEI）、Howmet（HWM）、Arxis（ARXS）、Ducommun（DCO）、CAE（CAE.TO）與 Embraer（EMBJ）。\n\n## 憑什麼：客運——總量仍在長，國際線在縮\n\n- **7 月全球客運預測成長 2.4%**：依個別航空公司月報與美國 TSA 旅客人數建模，作者預測 IATA 將公布 7 月航空客運量年增 2.4%，7 月全球載客率估計 85%。\n- **國際客運連兩個月負成長**：國際客運量（RPK）6 月年減 1%，5 月年減 2%；國際客運運能（ASK）6 月與 5 月都年減 2%。國內客運量 6 月年減 3%，國內運能年減 2%。\n- **載客率略低於去年**：6 月全球航空公司載客率 84%，去年同期為 85%。\n- **前瞻航班表仍在擴張**：全球航空公司 8、9、10 月的排定運能年增率分別為 2%、3%、3%。作者解讀為「有紀律的運能擴張」，並在油價偏高造成一段短暫放緩之後出現溫和的穩定。\n\n這一節是全篇最需要細讀的地方：「市場強勁」的判斷並不是建立在客運量本身的高成長上，而是建立在「疫情後已大幅回升、仍在上升軌道」以及前瞻航班表不退縮上。\n\n## 憑什麼：貨運——量價齊揚\n\n- 國際貨運量（FTK）6 月年增 10%，5 月年增 7%；國際貨運運能（ATK）6 月年增 5%，5 月年增 3%。貨運量成長明顯跑贏運能。\n- 美國進口空運費率 7 月年增 17%。\n- 整合型業者分歧：最新一期 FedEx 空運量成長 6%，UPS 為年減 2%。\n- 美國運輸服務指數（TSI）最新一期貨運指數年減 2%，客運指數年增 2%。\n\n## 憑什麼：個別機場\n\n- 丹佛：7 月旅客年減 1%，貨運年減 5%。\n- 亞特蘭大：6 月旅客年減 1%，貨運年增 4%。\n- 法蘭克福：7 月旅客與貨運皆年增 1%。\n- 香港：6 月旅客年增 8%，貨運年增 7%。\n\n美國兩座樞紐機場的旅客量都小幅衰退，亞洲的香港則是最強的一站。\n\n## 憑什麼：航空公司基本面\n\n- 美國航空公司平均收益率（yield）1Q26 年增 6.7%，票價端仍有支撐。\n- 但作者也標出：**全球航空業營業利益預期在 2026 年下滑**（引用 IATA 與公司資料）。\n- 航空公司的庫存成長仍低於售後市場成長，作者據此判斷目前幾乎沒有囤貨——換句話說，售後市場的成長是真實消耗，不是備貨灌出來的。這是支撐「售後高成長可延續」的關鍵旁證。\n\n## 憑什麼：大型商用機——訂單與停飛機隊\n\n- 7 月 Boeing 新訂單 38 架、取消 8 架；Airbus 新訂單 204 架、取消 1 架。作者認為新機訂單的洽談活動依然熱絡，成長型與替換型需求都有。\n- Boeing 與 Airbus 的淨訂單目前與過往的循環中期相當；取消量佔未交訂單的比例低於歷史平均。\n- 停飛機佔總機隊比例 11.1%，較上月下降 40 個基點，正逼近疫情前水準。\n- 布蘭特原油與航空燃油價格已從近期高點回落。\n\n## 憑什麼：公務機與區域機\n\n- **美國強、歐洲弱**：美國公務機起降 7 月年增 7%，6 月年增 5%，5 月年增 2%；歐洲 7 月年減 1%，6 月持平，5 月年增 1%。\n- **二手庫存**：7 月待售二手公務機佔在役機隊 6.6%，與上月持平。這個比例已經上升，但仍低於 2000 至 2019 年間的每一個時點；機齡 0 至 10 年的待售庫存低於歷史水準，但正從疫情低谷反彈。\n- **價格正常化**：4Q25 中型與大型公務機成交價持續正常化，輕型機價格則上漲。二手市場成交量已從高峰回落。\n- **製造商端**：1Q26 公務機 TTM 營收年增 10%，訂單出貨比約 1.4 倍；區域機訂單平淡，營收年增 45%。\n\n## 憑什麼：信用、融資與總體領先指標\n\n- AA 評等公司債平均殖利率走高，但已離高點。\n- 飛機售後回租佔 2025 年總交機量約 31%。\n- 美國 ISM 採購經理人指數（作者視為飛機訂單的領先指標）7 月略高於歷史平均；中國 PMI 略低於長期平均。\n- 未來四季的實質 GDP 年增率預期：歐洲平均約 0.9%，美國平均約 2.0%。\n\n## 讀法：這些指標各自在回答什麼問題\n\n這份圖表集的價值在於把航太供應鏈的上下游串在一起看，以下是我們替讀者整理的對應關係（屬本站解讀，非報告原文）：\n\n- **客運量（RPK）與運能（ASK）**：RPK 是實際載客里程，ASK 是可售座位里程。兩者的差距決定載客率；RPK 長得比 ASK 快，代表航空公司有定價能力，也代表機隊在被更密集地使用。本期國際線兩者同步收縮，載客率比去年低 1 個百分點，是客運端最明確的弱訊號。\n- **停飛機比例**：停在地面的飛機越少，在役機隊越吃緊，對新機交付與售後維修零件的需求就越直接。11.1% 月減 40 個基點，是作者「售後供需吃緊」判斷的量化底座之一。\n- **取消量佔未交訂單比例**：這是訂單循環最敏感的轉折指標。景氣反轉時，航空公司往往先取消或延後訂單，新訂單才跟著掉；目前低於歷史平均，代表未交訂單的品質仍穩。\n- **航空公司庫存成長對照售後成長**：若航空公司大量囤零件，售後營收會被一次性墊高、之後回吐；本期庫存成長低於售後成長，意味售後營收較接近真實消耗。\n- **公務機二手庫存佔在役機隊比例**：這是公務機新機定價與交機的領先指標，庫存越低，製造商越能維持價格；6.6% 持平且低於 2000 至 2019 年每一個時點，是公務機「離高峰但仍健康」的核心依據。\n- **ISM 採購經理人指數**：作者把它當作飛機訂單的領先指標，邏輯是企業景氣帶動商務旅行與貨運，再傳導到航空公司的機隊規劃。7 月略高於歷史平均，與「訂單熱絡」的判斷方向一致。\n\n把這幾條放在一起，本期的圖像是：**需求端（客運量）在降溫，供給端（停飛、取消、庫存）仍然吃緊。** 作者的「強勁」主要落在後者——對 Boeing、Airbus 與售後零件商而言，只要可用的飛機仍不夠，客運量成長放緩並不會立刻反映到訂單與零件需求上。這也是為什麼首選名單集中在原廠與售後供應鏈，而不是航空公司本身。\n\n## 它自己承認的限制\n\n作者在總覽裡的自我限定很具體：供應鏈仍是 Boeing 與 Airbus 的挑戰；中東航線收縮與國際客運疲弱被界定為「暫時」；油價偏高也被界定為「暫時」；公務機的領先指標已不在高峰，且因公司而異。這幾個「暫時」就是這份主張最主要的押注。\n\n此外，細讀圖表還有幾處讀者應自行保留：\n\n- **全年獲利與「強勁」並存**：同一份報告預期 2026 年全球航空業營業利益下滑，但沒有在總覽中討論這與「終端市場強勁」的張力。\n- **信用章節資料陳舊**：航空公司美元債發行（資料至 2022 年 9 月，副標仍寫 3Q22）與高收益航空債利差（資料至 2022 年 10 月）兩張圖並未更新，「高收益航空債與整體高收益市場大致同步」這個判斷不能當作當前狀態讀。\n- **內文數字不一致**：6 月國際客運運能，總覽條列寫年減 2%，Exhibit 1 副標寫年減 1%。\n- **時間落差**：公務機成交價只到 4Q25、二手成交量只到 1Q26，與其他 7 月數據混在同一期裡。\n\n本報告沒有與市場共識或其他機構比較的段落，這裡不另外補。\n\n## 可驗證的節點\n\n- **IATA 7 月數據**：作者預測客運年增 2.4%、載客率 85%。公布值是這套預測方法的直接檢驗。\n- **國際客運何時轉正**：國際 RPK 已連兩個月負成長，若 7、8 月仍在收縮，「暫時疲弱」的說法就要打折。\n- **8 至 10 月實際運能**：對照排定的 2%、3%、3%，看航空公司是否因油價再度削減班表。\n- **停飛比例**：11.1% 能否續降回疫情前水準。\n- **Boeing 與 Airbus 月度訂單與取消**：取消佔未交訂單比例若回升，是循環轉向的第一個訊號。\n- **油價**：布蘭特原油與航空燃油目前已離近期高點。若重新走高，最先受壓的會是航空公司前瞻班表與 2026 年營業利益，其次才是新機訂單；作者把油價定性為「暫時」，這是最直接能被市場價格否證的一項。\n- **ISM 與中國 PMI**：前者略高於歷史平均、後者略低於長期平均。若 ISM 跌破平均，作者自己採用的訂單領先指標就會轉向。\n- **歐洲公務機起降**：已連兩個月持平到負成長，觀察是否擴散到美國。\n",
+   "summary_chars": 3560,
+   "tags": [
+    "航太",
+    "美國",
+    "美股",
+    "供應鏈",
+    "領先指標"
+   ],
+   "stances": [
+    {
+     "theme": "美股與財報",
+     "quote": "The overall commercial aerospace market remains fundamentally strong.",
+     "quote_zh": "整體商用航太市場的基本面依然強勁。",
+     "label": null,
+     "page": 3
+    },
+    {
+     "theme": "地緣政治（中東與戰事）",
+     "quote": "global air traffic has recovered substantially from the pandemic-era lows and remains on an upward trajectory despite contraction in the Middle East and temporary weakness in international passenger volumes.",
+     "quote_zh": "全球航空客運量已從疫情低點大幅回升，儘管中東航線收縮、國際客運量暫時疲弱，仍處於上升軌道。",
+     "label": null,
+     "page": 3
+    },
+    {
+     "theme": "能源與原物料",
+     "quote": "In the Aftermarket, high rates of growth and above-inflation price increases persist due to tight supply/demand and an aging fleet, which is likely to continue even with temporarily higher fuel prices.",
+     "quote_zh": "售後市場在供需吃緊與機隊老化下，高成長與高於通膨的漲價持續，即使燃油價格暫時偏高，這個態勢也可能延續。",
+     "label": null,
+     "page": 3
+    }
+   ],
+   "charts": [
+    {
+     "kind": "grouped_bar",
+     "title": "客運國際線收縮，貨運與美國公務機領漲",
+     "subtitle": "各項航空需求指標最新一期年增率（%）",
+     "cats": [
+      "國際客運量（6月）",
+      "全球客運量預測（7月）",
+      "國際貨運量（6月）",
+      "美國進口空運費率（7月）",
+      "美國公務機起降（7月）",
+      "歐洲公務機起降（7月）"
+     ],
+     "groups": [
+      {
+       "name": "年增率",
+       "values": [
+        -1,
+        2.4,
+        10,
+        17,
+        7,
+        -1
+       ]
+      }
+     ],
+     "y_label": "年增率（%）",
+     "source": "Goldman Sachs, Aerospace in Pictures: August 2026, 2026-08-30（第 3、5 頁）",
+     "grounding": [
+      "International air traffic decreased 1% yoy in June",
+      "traffic growth of 2.4% yoy in the month of July",
+      "International freight traffic was up 10% yoy in June",
+      "Air freight rates increased 17% yoy in July",
+      "US business jet operations were up 7% yoy in July",
+      "EU business jet operations were down 1% yoy in July"
+     ],
+     "png": "2026-08-30-goldman-sachs-aerospace-defense-1.png",
+     "svg": "2026-08-30-goldman-sachs-aerospace-defense-1.svg",
+     "bytes": 104293
     }
    ]
   },
