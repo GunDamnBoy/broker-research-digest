@@ -7,11 +7,11 @@
     "2026-09-14",
     "2026-09-20"
    ],
-   "reports": 47,
+   "reports": 50,
    "brokers": {
     "Citi": 8,
     "Goldman Sachs": 13,
-    "Nomura": 26
+    "Nomura": 29
    },
    "tags": [
     "中國",
@@ -71,6 +71,7 @@
     "美國財政部",
     "美股",
     "聯準會",
+    "英格蘭銀行",
     "財政政策",
     "資料中心",
     "資產管理",
@@ -94,6 +95,62 @@
     "點陣圖"
    ],
    "items": [
+    {
+     "slug": "2026-09-18-nomura-1320939",
+     "broker": "Nomura",
+     "title": "Key focus and themes: Not the time to fade the USD gains yet – our key trades",
+     "date": "2026-09-18",
+     "pages": 16,
+     "tags": [
+      "美元",
+      "聯準會",
+      "台灣",
+      "韓國",
+      "印尼",
+      "英格蘭銀行"
+     ],
+     "chars": 3818,
+     "headline": "美元短線還不到放空的時候，野村最有把握的押注是做多新台幣兌韓元",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-18-nomura-1320928",
+     "broker": "Nomura",
+     "title": "BOJ Watch: Outcome of the BOJ's September Monetary Policy Meeting",
+     "date": "2026-09-18",
+     "pages": 11,
+     "tags": [
+      "日本銀行",
+      "日本",
+      "通膨",
+      "原油",
+      "日圓",
+      "聯準會"
+     ],
+     "chars": 3536,
+     "headline": "日銀沒有變得更鷹，野村仍把下兩次升息各提前一次會議——推手是油價與聯準會，不是日銀",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-18-nomura-1320878",
+     "broker": "Nomura",
+     "title": "ANCHOR REPORT: Indonesia data center: in the early innings of growth",
+     "date": "2026-09-18",
+     "pages": 50,
+     "tags": [
+      "印尼",
+      "資料中心",
+      "電力",
+      "人工智慧",
+      "非住宅營建"
+     ],
+     "chars": 4659,
+     "headline": "印尼資料中心 2030 年前放大數倍，但最穩的錢在電力與機房，不在 GPU",
+     "title_source": "page_one",
+     "title_confident": true
+    },
     {
      "slug": "2026-09-18-nomura-1320789",
      "broker": "Nomura",
@@ -3218,7 +3275,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-09-27T15:23:00+00:00",
+ "updated": "2026-09-27T15:23:11+00:00",
  "updatedLabel": "9/27 23:23",
  "count": 11
 }
