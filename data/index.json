@@ -1,6 +1,403 @@
 {
  "days": [
   {
+   "date": "2026-09-27",
+   "week": "2026-W39",
+   "range": [
+    "2026-09-21",
+    "2026-09-27"
+   ],
+   "reports": 18,
+   "brokers": {
+    "Citi": 4,
+    "Goldman Sachs": 11,
+    "Nomura": 3
+   },
+   "tags": [
+    "中國",
+    "人口老化",
+    "人工智慧",
+    "保險",
+    "儲能",
+    "共同基金",
+    "勞動市場",
+    "半導體",
+    "印尼盾",
+    "印度",
+    "印度央行",
+    "印度盧比",
+    "原油",
+    "台灣",
+    "天然氣",
+    "太陽能",
+    "央行溝通",
+    "寬頻",
+    "年金改革",
+    "建材",
+    "德國",
+    "德州",
+    "房地產",
+    "日圓",
+    "期中選舉",
+    "歐洲",
+    "歐洲央行",
+    "殖利率曲線",
+    "液化天然氣",
+    "港股",
+    "監理",
+    "經常帳",
+    "美元",
+    "美國",
+    "美國公債",
+    "美國財政部",
+    "美股",
+    "聯準會",
+    "資料中心",
+    "軟體",
+    "通膨",
+    "醫療費用",
+    "鐵路",
+    "關稅",
+    "電信",
+    "電力",
+    "非住宅營建",
+    "領先指標",
+    "頻譜拍賣"
+   ],
+   "items": [
+    {
+     "slug": "2026-09-26-goldman-sachs-china-weekly-kickstart",
+     "broker": "Goldman Sachs",
+     "title": "China Weekly Kickstart: Markets lost around 1%; President Xi conducted a US state visit",
+     "date": "2026-09-26",
+     "pages": 27,
+     "tags": [
+      "中國",
+      "港股",
+      "關稅",
+      "共同基金",
+      "房地產"
+     ],
+     "chars": 3533,
+     "headline": "高盛仍看中國股市有上行空間，但押的是估值修復，不是共識那樣高的獲利成長",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-25-nomura-1321458",
+     "broker": "Nomura",
+     "title": "Key focus and themes: Risk remains towards a bid in the USD",
+     "date": "2026-09-25",
+     "pages": 16,
+     "tags": [
+      "美元",
+      "美國公債",
+      "聯準會",
+      "印尼盾",
+      "台灣",
+      "日圓"
+     ],
+     "chars": 3714,
+     "headline": "美元近期仍有買盤撐腰，野村把籌碼押在印尼盾轉弱與新加坡利率走高",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-25-nomura-1321419",
+     "broker": "Nomura",
+     "title": "Special Report: India: This RBI cycle is different",
+     "date": "2026-09-25",
+     "pages": 28,
+     "tags": [
+      "印度",
+      "印度央行",
+      "通膨",
+      "印度盧比",
+      "經常帳"
+     ],
+     "chars": 3977,
+     "headline": "印度央行這輪只需預防性升息兩碼，市場押的 125 個基點太多了",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-25-goldman-sachs-us-weekly-kickstart",
+     "broker": "Goldman Sachs",
+     "title": "US Weekly Kickstart: What equity investors are paying for today",
+     "date": "2026-09-25",
+     "pages": 25,
+     "tags": [
+      "美國",
+      "美股",
+      "人工智慧",
+      "美國公債",
+      "資料中心"
+     ],
+     "chars": 3724,
+     "headline": "美股本益比跌回十年均值，是市場在替 AI 墊高的獲利打折，不是悲觀過頭",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-25-goldman-sachs-europe-multi-industry",
+     "broker": "Goldman Sachs",
+     "title": "Europe Multi-Industry: Rail read-across from InnoTrans Fair",
+     "date": "2026-09-25",
+     "pages": 12,
+     "tags": [
+      "歐洲",
+      "中國",
+      "鐵路",
+      "人工智慧",
+      "軟體"
+     ],
+     "chars": 3858,
+     "headline": "鐵路設備的需求正在分岔：客運穩、貨運看地區，而決勝點已從硬體移到軟體與能耗",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-25-goldman-sachs-europe-insurance",
+     "broker": "Goldman Sachs",
+     "title": "Europe Insurance: German Pension Reform - We see limited impact for the Insurers",
+     "date": "2026-09-25",
+     "pages": 31,
+     "tags": [
+      "德國",
+      "歐洲",
+      "保險",
+      "人口老化",
+      "年金改革"
+     ],
+     "chars": 4524,
+     "headline": "德國退休金改革對歐洲保險股是雜音，不是盈餘催化劑",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-25-citi-us-rates-weekly-neutrals-are-back-in-style-for-fall",
+     "broker": "Citi",
+     "title": "US Rates Weekly: Neutrals are back in style for fall",
+     "date": "2026-09-25",
+     "pages": 37,
+     "tags": [
+      "美國",
+      "美國公債",
+      "聯準會",
+      "美國財政部",
+      "殖利率曲線",
+      "通膨"
+     ],
+     "chars": 4495,
+     "headline": "聯準會打開升息上檔、現在不該加碼存續期間，但10年期美債要衝破5.5%並不容易",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-25-citi-us-economics-weekly",
+     "broker": "Citi",
+     "title": "US Economics Weekly: A more hawkish reaction function",
+     "date": "2026-09-25",
+     "pages": 23,
+     "tags": [
+      "美國",
+      "聯準會",
+      "通膨",
+      "美國公債",
+      "勞動市場",
+      "原油"
+     ],
+     "chars": 3592,
+     "headline": "聯準會已把能源價格寫進反應函數，短線偏鷹難解；但花旗認為市場多定價了升息",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-25-citi-north-america-alternative-renewable-energy",
+     "broker": "Citi",
+     "title": "North America Alternative & Renewable Energy: Week with Vik: Hope Springs Eternal, but Rates Keep Going Higher",
+     "date": "2026-09-25",
+     "pages": 14,
+     "tags": [
+      "美國",
+      "太陽能",
+      "儲能",
+      "資料中心",
+      "電力",
+      "德州"
+     ],
+     "chars": 3503,
+     "headline": "First Solar 的賣壓已經超出基本面，資料中心供電的卡點則正從電網移到許可",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-24-goldman-sachs-us-telecom-cable",
+     "broker": "Goldman Sachs",
+     "title": "US Telecom & Cable: 3Q26 preview",
+     "date": "2026-09-24",
+     "pages": 18,
+     "tags": [
+      "美國",
+      "美股",
+      "電信",
+      "寬頻",
+      "頻譜拍賣"
+     ],
+     "chars": 3515,
+     "headline": "美國電信三雄穩健成長，有線寬頻仍在把用戶輸給光纖與固網無線",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-24-goldman-sachs-us-equity-views",
+     "broker": "Goldman Sachs",
+     "title": "US Equity Views: AI capex, required revenues, and what's priced in the AI trade",
+     "date": "2026-09-24",
+     "pages": 16,
+     "tags": [
+      "美國",
+      "美股",
+      "人工智慧",
+      "資料中心",
+      "半導體",
+      "軟體"
+     ],
+     "chars": 3516,
+     "headline": "AI 資本支出還會再漲但增速將放緩，而市場已先替基礎建設股的獲利打了折",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-24-goldman-sachs-us-daily",
+     "broker": "Goldman Sachs",
+     "title": "US Daily: Do the PMI Surveys Signal That Growth Is Surging?",
+     "date": "2026-09-24",
+     "pages": 10,
+     "tags": [
+      "美國",
+      "美國公債",
+      "領先指標",
+      "勞動市場",
+      "人工智慧"
+     ],
+     "chars": 2661,
+     "headline": "PMI 飆到四年高點不代表經濟過熱，債市的反應是過度解讀",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-24-goldman-sachs-healthcare-services",
+     "broker": "Goldman Sachs",
+     "title": "Healthcare Services: Medical Costs Still Hyper-Scaling from NSA's IDR Process; D.C. Policy Fix in Very Early Stages",
+     "date": "2026-09-24",
+     "pages": 12,
+     "tags": [
+      "美國",
+      "保險",
+      "監理",
+      "期中選舉",
+      "醫療費用"
+     ],
+     "chars": 3774,
+     "headline": "無意外帳單法的仲裁程序仍在指數式推高商業保險醫療成本，華府的修法才剛起步",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-24-goldman-sachs-americas-technology",
+     "broker": "Goldman Sachs",
+     "title": "Americas Technology: Sizing the AI Economy Needed to Justify ROIC on Hyperscaler AI Capex",
+     "date": "2026-09-24",
+     "pages": 29,
+     "tags": [
+      "美國",
+      "美股",
+      "人工智慧",
+      "資料中心",
+      "半導體"
+     ],
+     "chars": 3819,
+     "headline": "美國六大雲端業者 2026–27 年的 AI 資本支出，只要 2028–30 年累計做出約 1.42 兆美元營收就能賺到 15% 報酬，而現有雲端積壓訂單已先蓋掉近六成",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-24-goldman-sachs-americas-construction",
+     "broker": "Goldman Sachs",
+     "title": "Americas Construction: Building Products: Non-Residential Construction: Moderation in Data Centers Weighs on Planning While Billings Improve Sequentially",
+     "date": "2026-09-24",
+     "pages": 11,
+     "tags": [
+      "美國",
+      "非住宅營建",
+      "建材",
+      "資料中心",
+      "領先指標"
+     ],
+     "chars": 3708,
+     "headline": "資料中心規劃退燒拖平了 Dodge 指數，但其餘非住宅需求仍在擴張，高盛因此續挺 Armstrong 與 Carlisle",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-23-citi-us-oil-gas-exploration-and-production",
+     "broker": "Citi",
+     "title": "US Oil & Gas Exploration and Production: Gas Biweekly: What Is Driving the Regional Bifurcation in US Natural Gas?",
+     "date": "2026-09-23",
+     "pages": 19,
+     "tags": [
+      "美國",
+      "天然氣",
+      "液化天然氣",
+      "電力",
+      "美股"
+     ],
+     "chars": 3565,
+     "headline": "美國天然氣是南緊北鬆，不是全面疲弱——賣點分散的 EQT 反而受惠",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-22-nomura-1321070",
+     "broker": "Nomura",
+     "title": "Economic Insights: US – Warsh's Diffusion Test",
+     "date": "2026-09-22",
+     "pages": 9,
+     "tags": [
+      "美國",
+      "聯準會",
+      "通膨",
+      "央行溝通"
+     ],
+     "chars": 2624,
+     "headline": "華許看重的通膨擴散指標只適合當交叉檢查，拿來取代核心 PCE 反而容易被雜訊牽著走",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-22-goldman-sachs-global-views",
+     "broker": "Goldman Sachs",
+     "title": "Global Views: Lower Inflation, Limited Hikes",
+     "date": "2026-09-22",
+     "pages": 10,
+     "tags": [
+      "美國",
+      "聯準會",
+      "通膨",
+      "原油",
+      "歐洲央行",
+      "中國"
+     ],
+     "chars": 2863,
+     "headline": "聯準會十月再升一碼就停手，通膨降溫會讓全球升息比市場定價少",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    }
+   ],
+   "file": "data/2026-09-27.json"
+  },
+  {
    "date": "2026-09-20",
    "week": "2026-W38",
    "range": [
@@ -3275,7 +3672,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-09-27T15:23:11+00:00",
+ "updated": "2026-09-27T15:23:22+00:00",
  "updatedLabel": "9/27 23:23",
- "count": 11
+ "count": 12
 }
