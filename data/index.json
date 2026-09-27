@@ -968,12 +968,12 @@
     "2026-09-07",
     "2026-09-13"
    ],
-   "reports": 12,
+   "reports": 15,
    "brokers": {
     "Citi": 3,
-    "Goldman Sachs": 6,
+    "Goldman Sachs": 7,
     "JPM": 2,
-    "Nomura": 1
+    "Nomura": 3
    },
    "tags": [
     "中國",
@@ -985,8 +985,10 @@
     "俄羅斯",
     "保險",
     "出口配額",
+    "前瞻指引",
     "原油",
     "原物料",
+    "台灣",
     "國防",
     "地方選舉",
     "央行溝通",
@@ -1005,6 +1007,7 @@
     "監理",
     "石油庫存",
     "移民",
+    "美元",
     "美國",
     "美國公債",
     "美股",
@@ -1016,11 +1019,70 @@
     "資料中心",
     "通膨",
     "金融股",
+    "關稅",
     "電力",
     "韓國",
-    "黃金"
+    "黃金",
+    "點陣圖"
    ],
    "items": [
+    {
+     "slug": "2026-09-13-goldman-sachs-us-economics-analyst",
+     "broker": "Goldman Sachs",
+     "title": "US Economics Analyst: A Hike Without a Signal?",
+     "date": "2026-09-13",
+     "pages": 13,
+     "tags": [
+      "美國",
+      "聯準會",
+      "通膨",
+      "點陣圖",
+      "央行溝通",
+      "關稅"
+     ],
+     "chars": 3697,
+     "headline": "聯準會會升這一碼，但會刻意不告訴市場還有下一碼",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-11-nomura-1320043",
+     "broker": "Nomura",
+     "title": "Policy Watch: September FOMC Preview – We now expect the Fed to hike",
+     "date": "2026-09-11",
+     "pages": 8,
+     "tags": [
+      "美國",
+      "聯準會",
+      "通膨",
+      "點陣圖",
+      "原油",
+      "前瞻指引"
+     ],
+     "chars": 2657,
+     "headline": "野村改口：聯準會九月升息一碼、十二月再升一碼，然後整個 2027 年按兵不動",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-09-11-nomura-1320031",
+     "broker": "Nomura",
+     "title": "Key focus and themes: Stronger US CPI and our strategies",
+     "date": "2026-09-11",
+     "pages": 16,
+     "tags": [
+      "聯準會",
+      "通膨",
+      "美元",
+      "台灣",
+      "韓國",
+      "中國"
+     ],
+     "chars": 3723,
+     "headline": "美國核心CPI轉強，野村收回部分弱美元押注，但亞幣中期升值的判斷沒變",
+     "title_source": "page_one",
+     "title_confident": true
+    },
     {
      "slug": "2026-09-08-jpm-5437525",
      "broker": "JPM",
@@ -3156,7 +3218,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-09-27T15:22:50+00:00",
- "updatedLabel": "9/27 23:22",
+ "updated": "2026-09-27T15:23:00+00:00",
+ "updatedLabel": "9/27 23:23",
  "count": 11
 }
