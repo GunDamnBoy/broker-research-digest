@@ -1,8 +1,8 @@
-# 哨兵回報 · 2026-09-29T09:37:48+00:00
+# 哨兵回報 · 2026-10-06T09:57:02+00:00
 
 - ✅ `sentinel.data_fresh`
 - ✅ `sentinel.no_future_date`
-- ✅ `sentinel.updated_fresh`
+- ❌ `sentinel.updated_fresh` index.updated 是 2026-09-27T15:23:22+00:00，已經 211 小時 （上限 210，節奏 168 小時）—— 沒有人在跑
 - ✅ `sentinel.no_data_loss`
 - ⏭️ `sentinel.ledger_overdue` 這個系統還沒有訊號帳本，該項未執行
 
