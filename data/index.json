@@ -1,6 +1,381 @@
 {
  "days": [
   {
+   "date": "2026-10-11",
+   "week": "2026-W41",
+   "range": [
+    "2026-10-05",
+    "2026-10-11"
+   ],
+   "reports": 16,
+   "brokers": {
+    "Citi": 3,
+    "Goldman Sachs": 9,
+    "Nomura": 4
+   },
+   "tags": [
+    "中國",
+    "中國人民銀行",
+    "中東",
+    "亞股",
+    "人工智慧",
+    "供應鏈",
+    "保險",
+    "勞動市場",
+    "半導體",
+    "印度",
+    "印度央行",
+    "印度盧比",
+    "原油",
+    "台灣",
+    "地方政府債",
+    "天然氣",
+    "寬頻",
+    "巴西",
+    "庫藏股",
+    "德國",
+    "房地產",
+    "房貸",
+    "新加坡",
+    "期中選舉",
+    "東南亞",
+    "槓桿貸款",
+    "歐元",
+    "歐洲",
+    "歐洲央行",
+    "殖利率曲線",
+    "法國",
+    "法國公債",
+    "消費",
+    "液化天然氣",
+    "港股",
+    "產業政策",
+    "監理",
+    "石油庫存",
+    "經常帳",
+    "美國",
+    "美國公債",
+    "美股",
+    "聯準會",
+    "英格蘭銀行",
+    "記憶體",
+    "財政政策",
+    "資料中心",
+    "資產管理",
+    "軟體",
+    "通膨",
+    "銀行股",
+    "電信",
+    "電力",
+    "韓國",
+    "頻譜拍賣",
+    "首次公開發行",
+    "馬來西亞",
+    "高收益債"
+   ],
+   "items": [
+    {
+     "slug": "2026-10-11-goldman-sachs-singapore-banks",
+     "broker": "Goldman Sachs",
+     "title": "Singapore Banks: Key debates after the recent sell-off: Are concerns overdone?",
+     "date": "2026-10-11",
+     "pages": 16,
+     "tags": [
+      "新加坡",
+      "銀行股",
+      "房貸",
+      "資產管理",
+      "東南亞"
+     ],
+     "chars": 3553,
+     "headline": "新加坡三大銀行的五大疑慮多屬短期與週期性壓力，熊市情境下僅剩0%至4%下檔",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-10-11-goldman-sachs-oil-analyst",
+     "broker": "Goldman Sachs",
+     "title": "Oil Analyst: Supply Adaptation Meets Global Restocking Demand",
+     "date": "2026-10-11",
+     "pages": 21,
+     "tags": [
+      "原油",
+      "中東",
+      "石油庫存",
+      "美國公債",
+      "中國"
+     ],
+     "chars": 3805,
+     "headline": "波斯灣供給適應終將壓低油價，但全球補庫存需求讓風險溢價退得比市場預期慢",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-10-11-goldman-sachs-china-strategy",
+     "broker": "Goldman Sachs",
+     "title": "China Strategy: AI Changes The Game: China is coming",
+     "date": "2026-10-11",
+     "pages": 26,
+     "tags": [
+      "中國",
+      "人工智慧",
+      "港股",
+      "半導體",
+      "供應鏈",
+      "產業政策"
+     ],
+     "chars": 3530,
+     "headline": "中國已長出第二套 AI 生態系，投資要拆成「出口」與「內需」兩條線分開下注",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-10-11-goldman-sachs-china",
+     "broker": "Goldman Sachs",
+     "title": "China: MOF approves an additional RMB550bn bond issuance quota to ensure full-year growth target is reached",
+     "date": "2026-10-11",
+     "pages": 6,
+     "tags": [
+      "中國",
+      "財政政策",
+      "地方政府債",
+      "中國人民銀行",
+      "產業政策"
+     ],
+     "chars": 2633,
+     "headline": "追加 5,500 億地方債額度是在扳回前兩季的財政緊縮，不是開啟寬鬆循環",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-10-10-nomura-1323393",
+     "broker": "Nomura",
+     "title": "Malaysia equity strategy: Budget 2027: wage reforms in focus",
+     "date": "2026-10-10",
+     "pages": 20,
+     "tags": [
+      "馬來西亞",
+      "財政政策",
+      "勞動市場",
+      "消費",
+      "房地產",
+      "東南亞"
+     ],
+     "chars": 3887,
+     "headline": "馬來西亞 2027 預算的主軸是加薪：消費者是最大贏家，手套與消費型電子代工的獲利被吃得最重",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-10-10-nomura-1323391",
+     "broker": "Nomura",
+     "title": "Asia Insights: India: RBI activates second line of currency defense",
+     "date": "2026-10-10",
+     "pages": 7,
+     "tags": [
+      "印度",
+      "印度央行",
+      "印度盧比",
+      "經常帳",
+      "原油"
+     ],
+     "chars": 2625,
+     "headline": "印度央行把匯率防線從賣美元推進到管制避險，但守住盧比終究要看全球環境",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-10-09-nomura-1323373",
+     "broker": "Nomura",
+     "title": "US Economic Weekly: Cooling inflation to seal the October pause",
+     "date": "2026-10-09",
+     "pages": 13,
+     "tags": [
+      "美國",
+      "聯準會",
+      "通膨",
+      "人工智慧",
+      "期中選舉",
+      "消費"
+     ],
+     "chars": 3865,
+     "headline": "九月通膨降溫只換來十月暫停，野村仍押十二月再升一碼",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-10-09-nomura-1323372",
+     "broker": "Nomura",
+     "title": "Europe Economic Weekly: Changing of the guard",
+     "date": "2026-10-09",
+     "pages": 13,
+     "tags": [
+      "歐洲",
+      "歐洲央行",
+      "英格蘭銀行",
+      "消費",
+      "財政政策",
+      "法國公債"
+     ],
+     "chars": 3630,
+     "headline": "能源衝擊還沒打垮歐元區消費，野村押注2027年加速，且明顯比共識樂觀",
+     "title_source": "page_one",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-10-09-goldman-sachs-us-weekly-kickstart",
+     "broker": "Goldman Sachs",
+     "title": "US Weekly Kickstart: The outlook for corporate equity supply and demand in 2027",
+     "date": "2026-10-09",
+     "pages": 25,
+     "tags": [
+      "美國",
+      "美股",
+      "首次公開發行",
+      "庫藏股",
+      "人工智慧",
+      "美國公債"
+     ],
+     "chars": 3545,
+     "headline": "2027 年美股淨供給將創 2000 年來最大增幅，但需求夠強，不足以終結多頭",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-10-09-goldman-sachs-global-rates-trader",
+     "broker": "Goldman Sachs",
+     "title": "Global Rates Trader: Establishing a Foothold",
+     "date": "2026-10-09",
+     "pages": 18,
+     "tags": [
+      "美國公債",
+      "殖利率曲線",
+      "歐洲",
+      "法國公債",
+      "英格蘭銀行",
+      "原油"
+     ],
+     "chars": 3503,
+     "headline": "美債與 Bund 的技術性賣壓已經出清，長端殖利率往下的路比往上多",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-10-09-goldman-sachs-global-credit-trader",
+     "broker": "Goldman Sachs",
+     "title": "Global Credit Trader: 2027 Default Rates: Higher Risk Within The Left Tail",
+     "date": "2026-10-09",
+     "pages": 31,
+     "tags": [
+      "美國",
+      "歐洲",
+      "高收益債",
+      "槓桿貸款",
+      "軟體"
+     ],
+     "chars": 4404,
+     "headline": "2027 年違約風險不看利率水準，看再融資、弱資本結構與產業壓力重疊的左尾：高收益債偏好美元，槓桿貸款偏好歐元",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-10-09-citi-north-america-telecommunications-operators-and-telecommunica",
+     "broker": "Citi",
+     "title": "North America Telecommunications Operators and Telecommunications Infrastructure: SpaceX Begins to Assemble Spectrum Layer Cake with Low-Band Purchase from Grain",
+     "date": "2026-10-09",
+     "pages": 18,
+     "tags": [
+      "美國",
+      "電信",
+      "頻譜拍賣",
+      "監理",
+      "寬頻"
+     ],
+     "chars": 3709,
+     "headline": "SpaceX 買下 800 MHz 低頻，讓「自建網路」進軍美國行動市場變得更可信：鐵塔是贏家，電信與有線股的風險大半已在股價裡",
+     "title_source": "pdf_meta",
+     "title_confident": false
+    },
+    {
+     "slug": "2026-10-09-citi-global-macro-strategy-views-and-trade-ideas-a-french-problem",
+     "broker": "Citi",
+     "title": "Global Macro Strategy - Views and Trade Ideas: A French problem, not a European one",
+     "date": "2026-10-09",
+     "pages": 27,
+     "tags": [
+      "法國",
+      "歐洲央行",
+      "歐元",
+      "法國公債",
+      "巴西",
+      "勞動市場"
+     ],
+     "chars": 3890,
+     "headline": "法國的財政壓力是法國自己的問題，不是歐債危機重演，但已足以讓歐洲央行升不完市場定價的息",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-10-08-goldman-sachs-global-strategy-paper",
+     "broker": "Goldman Sachs",
+     "title": "Global Strategy Paper: Investing in a differentiated Asia",
+     "date": "2026-10-08",
+     "pages": 27,
+     "tags": [
+      "亞股",
+      "半導體",
+      "記憶體",
+      "人工智慧",
+      "台灣",
+      "韓國"
+     ],
+     "chars": 3872,
+     "headline": "亞洲不能再當成一個市場來配置：科技獲利撐起 26% 目標報酬，賭注集中在北亞的記憶體循環",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-10-08-goldman-sachs-americas-energy",
+     "broker": "Goldman Sachs",
+     "title": "Americas Energy: Ten Stock Ideas We Are Constructive on Across Energy & Power Heading into the Fourth Quarter",
+     "date": "2026-10-08",
+     "pages": 19,
+     "tags": [
+      "美國",
+      "原油",
+      "天然氣",
+      "液化天然氣",
+      "電力",
+      "資料中心"
+     ],
+     "chars": 3849,
+     "headline": "高盛押注能源股的現金流拐點：十檔平均總報酬潛力 27%，驅動力多是公司自身改善而非油氣價格",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-10-08-citi-european-rates-weekly-assessing-supply-demand-trends-for-oat",
+     "broker": "Citi",
+     "title": "European Rates Weekly: Assessing supply / demand trends for OATs and QT prospects",
+     "date": "2026-10-08",
+     "pages": 25,
+     "tags": [
+      "法國",
+      "法國公債",
+      "歐洲央行",
+      "財政政策",
+      "保險",
+      "德國"
+     ],
+     "chars": 3589,
+     "headline": "法國公債的麻煩在於誰來接，而不在評等：2027 年前四個月要吸收全年七成淨供給，本國銀行與保險的買盤卻都已到頂",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    }
+   ],
+   "file": "data/2026-10-11.json"
+  },
+  {
    "date": "2026-10-04",
    "week": "2026-W40",
    "range": [
@@ -3738,7 +4113,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-10-11T15:24:04+00:00",
+ "updated": "2026-10-11T15:24:14+00:00",
  "updatedLabel": "10/11 23:24",
- "count": 13
+ "count": 14
 }
