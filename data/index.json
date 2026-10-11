@@ -1,6 +1,72 @@
 {
  "days": [
   {
+   "date": "2026-10-04",
+   "week": "2026-W40",
+   "range": [
+    "2026-09-28",
+    "2026-10-04"
+   ],
+   "reports": 2,
+   "brokers": {
+    "Citi": 2
+   },
+   "tags": [
+    "太陽能",
+    "投資級信用",
+    "期中選舉",
+    "燃料電池",
+    "監理",
+    "美元",
+    "美國",
+    "美國公債",
+    "財政政策",
+    "資料中心",
+    "電力"
+   ],
+   "items": [
+    {
+     "slug": "2026-10-02-citi-north-america-alternative-renewable-energy-week-with-vik-doo",
+     "broker": "Citi",
+     "title": "North America Alternative & Renewable Energy: Week with Vik: Doom in Jobs Drives Bloom in Renewables",
+     "date": "2026-10-02",
+     "pages": 11,
+     "tags": [
+      "美國",
+      "燃料電池",
+      "太陽能",
+      "電力",
+      "資料中心",
+      "監理"
+     ],
+     "chars": 3630,
+     "headline": "政策與許可正在替再生能源與新型發電鬆綁，但太陽能面板報價沒有跟上",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    },
+    {
+     "slug": "2026-10-02-citi-multi-asset-strategy-us-midterms-on-the-mind-implications-ac",
+     "broker": "Citi",
+     "title": "Multi-Asset Strategy: US midterms on the mind: implications across assets",
+     "date": "2026-10-02",
+     "pages": 26,
+     "tags": [
+      "美國",
+      "期中選舉",
+      "財政政策",
+      "美國公債",
+      "美元",
+      "投資級信用"
+     ],
+     "chars": 3949,
+     "headline": "這次期中選舉會是典型的一次：選前股弱、殖利率與美元油價偏強，選後反轉",
+     "title_source": "pdf_meta",
+     "title_confident": true
+    }
+   ],
+   "file": "data/2026-10-04.json"
+  },
+  {
    "date": "2026-09-27",
    "week": "2026-W39",
    "range": [
@@ -3672,7 +3738,7 @@
   }
  ],
  "title": "外資報告週摘",
- "updated": "2026-09-27T15:23:22+00:00",
- "updatedLabel": "9/27 23:23",
- "count": 12
+ "updated": "2026-10-11T15:24:04+00:00",
+ "updatedLabel": "10/11 23:24",
+ "count": 13
 }
